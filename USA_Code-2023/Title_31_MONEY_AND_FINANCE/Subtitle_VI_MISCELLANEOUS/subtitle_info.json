@@ -1,0 +1,30 @@
+{
+  "subtitle_number": "VI",
+  "subtitle_name": "MISCELLANEOUS",
+  "title_number": 31,
+  "title_name": "MONEY_AND_FINANCE",
+  "chapters_count": 4,
+  "chapters": [
+    {
+      "number": "91",
+      "name": "GOVERNMENT CORPORATIONS"
+    },
+    {
+      "number": "93",
+      "name": "SURETIES AND SURETY BONDS"
+    },
+    {
+      "number": "95",
+      "name": "GOVERNMENT PENSION PLAN PROTECTION"
+    },
+    {
+      "number": "97",
+      "name": "MISCELLANEOUS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-subtitleVI.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleVI.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-subtitleVI/"
+  }
+}

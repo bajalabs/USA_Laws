@@ -1,0 +1,38 @@
+{
+  "subtitle_number": "III",
+  "subtitle_name": "FINANCIAL MANAGEMENT",
+  "title_number": 31,
+  "title_name": "MONEY_AND_FINANCE",
+  "chapters_count": 6,
+  "chapters": [
+    {
+      "number": "31",
+      "name": "PUBLIC DEBT"
+    },
+    {
+      "number": "33",
+      "name": "DEPOSITING, KEEPING, AND PAYING MONEY"
+    },
+    {
+      "number": "35",
+      "name": "ACCOUNTING AND COLLECTION"
+    },
+    {
+      "number": "37",
+      "name": "CLAIMS"
+    },
+    {
+      "number": "38",
+      "name": "ADMINISTRATIVE REMEDIES FOR FALSE CLAIMS AND STATEMENTS"
+    },
+    {
+      "number": "39",
+      "name": "PROMPT PAYMENT"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-subtitleIII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleIII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-subtitleIII/"
+  }
+}

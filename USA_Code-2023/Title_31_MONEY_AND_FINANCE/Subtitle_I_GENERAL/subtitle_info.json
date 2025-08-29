@@ -1,0 +1,34 @@
+{
+  "subtitle_number": "I",
+  "subtitle_name": "GENERAL",
+  "title_number": 31,
+  "title_name": "MONEY_AND_FINANCE",
+  "chapters_count": 5,
+  "chapters": [
+    {
+      "number": "1",
+      "name": "DEFINITIONS"
+    },
+    {
+      "number": "3",
+      "name": "DEPARTMENT OF THE TREASURY"
+    },
+    {
+      "number": "5",
+      "name": "OFFICE OF MANAGEMENT AND BUDGET"
+    },
+    {
+      "number": "7",
+      "name": "GOVERNMENT ACCOUNTABILITY OFFICE"
+    },
+    {
+      "number": "9",
+      "name": "AGENCY CHIEF FINANCIAL OFFICERS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-subtitleI.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleI.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-subtitleI/"
+  }
+}

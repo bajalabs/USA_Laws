@@ -1,0 +1,58 @@
+{
+  "subtitle_number": "V",
+  "subtitle_name": "GENERAL ASSISTANCE ADMINISTRATION",
+  "title_number": 31,
+  "title_name": "MONEY_AND_FINANCE",
+  "chapters_count": 11,
+  "chapters": [
+    {
+      "number": "61",
+      "name": "PROGRAM INFORMATION"
+    },
+    {
+      "number": "62",
+      "name": "CONSOLIDATED FEDERAL FUNDS REPORT"
+    },
+    {
+      "number": "63",
+      "name": "USING PROCUREMENT CONTRACTS AND GRANT AND COOPERATIVE AGREEMENTS"
+    },
+    {
+      "number": "64",
+      "name": "DATA STANDARDS FOR GRANT REPORTING"
+    },
+    {
+      "number": "65",
+      "name": "INTERGOVERNMENTAL COOPERATION"
+    },
+    {
+      "number": "67",
+      "name": "FEDERAL PAYMENTS"
+    },
+    {
+      "number": "69",
+      "name": "PAYMENT FOR ENTITLEMENT LAND"
+    },
+    {
+      "number": "71",
+      "name": "JOINT FUNDING SIMPLIFICATION"
+    },
+    {
+      "number": "73",
+      "name": "ADMINISTERING BLOCK GRANTS"
+    },
+    {
+      "number": "75",
+      "name": "REQUIREMENTS FOR SINGLE AUDITS"
+    },
+    {
+      "number": "77",
+      "name": "ACCESS TO INFORMATION FOR DEBT COLLECTION"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-subtitleV.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleV.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-subtitleV/"
+  }
+}

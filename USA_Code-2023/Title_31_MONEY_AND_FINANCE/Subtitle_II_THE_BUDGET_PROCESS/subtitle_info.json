@@ -1,0 +1,26 @@
+{
+  "subtitle_number": "II",
+  "subtitle_name": "THE BUDGET PROCESS",
+  "title_number": 31,
+  "title_name": "MONEY_AND_FINANCE",
+  "chapters_count": 3,
+  "chapters": [
+    {
+      "number": "11",
+      "name": "THE BUDGET AND FISCAL, BUDGET, AND PROGRAM INFORMATION"
+    },
+    {
+      "number": "13",
+      "name": "APPROPRIATIONS"
+    },
+    {
+      "number": "15",
+      "name": "APPROPRIATION ACCOUNTING"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-subtitleII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-subtitleII/"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "subtitle_number": "IV",
+  "subtitle_name": "MONEY",
+  "title_number": 31,
+  "title_name": "MONEY_AND_FINANCE",
+  "chapters_count": 2,
+  "chapters": [
+    {
+      "number": "51",
+      "name": "COINS AND CURRENCY"
+    },
+    {
+      "number": "53",
+      "name": "MONETARY TRANSACTIONS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-subtitleIV.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-subtitleIV.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-subtitleIV/"
+  }
+}
