@@ -1,0 +1,1238 @@
+{
+  "structure": {
+    "title_num": 46,
+    "title_name": "TITLE 46\u2014SHIPPING",
+    "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+    "section_range": "Sections 101 - 80501",
+    "elements": {
+      "subtitles": [
+        "Subtitle I\u2014General",
+        "Subtitle II\u2014Vessels and Seamen",
+        "Subtitle III\u2014Maritime Liability",
+        "Subtitle IV\u2014Regulation of Ocean Shipping",
+        "Subtitle V\u2014Merchant Marine",
+        "Subtitle VI\u2014Clearance, Tonnage Taxes, and Duties",
+        "Subtitle VII\u2014Security and Drug Enforcement",
+        "Subtitle VIII\u2014Miscellaneous"
+      ],
+      "parts": [
+        "Part A\u2014General Provisions",
+        "Part B\u2014Inspection and Regulation of Vessels",
+        "Part C\u2014Load Lines of Vessels",
+        "Part D\u2014Marine Casualties",
+        "Part E\u2014Merchant Seamen Licenses, Certificates, and Documents",
+        "Part F\u2014Manning of Vessels",
+        "Part G\u2014Merchant Seamen Protection and Relief",
+        "Part H\u2014Identification of Vessels",
+        "Part I\u2014State Boating Safety Programs",
+        "Part J\u2014Measurement of Vessels",
+        "Part K\u2014National Maritime Transportation Advisory Committees",
+        "Part A\u2014Ocean Shipping",
+        "Part B\u2014Actions To Address Foreign Practices",
+        "Part C\u2014Miscellaneous",
+        "Part D\u2014Federal Maritime Commission",
+        "Part A\u2014General",
+        "Part B\u2014Merchant Marine Service",
+        "Part C\u2014Financial Assistance Programs",
+        "Part D\u2014Promotional Programs",
+        "Part E\u2014Control of Merchant Marine Capabilities",
+        "Part F\u2014Government-Owned Merchant Vessels",
+        "Part G\u2014Restrictions and Penalties"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014DEFINITIONS",
+        "[CHAPTER 3\u2014TRANSFERRED]",
+        "CHAPTER 5\u2014OTHER GENERAL PROVISIONS",
+        "CHAPTER 21\u2014GENERAL",
+        "CHAPTER 23\u2014OPERATION OF VESSELS GENERALLY",
+        "CHAPTER 31\u2014GENERAL",
+        "CHAPTER 32\u2014MANAGEMENT OF VESSELS",
+        "CHAPTER 33\u2014INSPECTION GENERALLY",
+        "CHAPTER 35\u2014CARRIAGE OF PASSENGERS",
+        "CHAPTER 37\u2014CARRIAGE OF LIQUID BULK DANGEROUS CARGOES",
+        "[CHAPTER 39\u2014REPEALED]",
+        "CHAPTER 41\u2014UNINSPECTED VESSELS GENERALLY",
+        "CHAPTER 43\u2014RECREATIONAL VESSELS",
+        "CHAPTER 45\u2014UNINSPECTED COMMERCIAL FISHING INDUSTRY VESSELS",
+        "CHAPTER 47\u2014ABANDONMENT OF BARGES",
+        "CHAPTER 49\u2014OCEANGOING NON-PASSENGER COMMERCIAL VESSELS",
+        "CHAPTER 51\u2014LOAD LINES",
+        "CHAPTER 61\u2014REPORTING MARINE CASUALTIES",
+        "CHAPTER 63\u2014INVESTIGATING MARINE CASUALTIES",
+        "CHAPTER 71\u2014LICENSES AND CERTIFICATES OF REGISTRY",
+        "CHAPTER 73\u2014MERCHANT MARINERS' DOCUMENTS",
+        "CHAPTER 75\u2014GENERAL PROCEDURES FOR LICENSING, CERTIFICATION, AND DOCUMENTATION",
+        "CHAPTER 77\u2014SUSPENSION AND REVOCATION",
+        "CHAPTER 81\u2014GENERAL",
+        "CHAPTER 83\u2014MASTERS AND OFFICERS",
+        "CHAPTER 85\u2014PILOTS",
+        "CHAPTER 87\u2014UNLICENSED PERSONNEL",
+        "CHAPTER 89\u2014SMALL VESSEL MANNING",
+        "CHAPTER 91\u2014TANK VESSEL MANNING STANDARDS",
+        "CHAPTER 93\u2014GREAT LAKES PILOTAGE",
+        "CHAPTER 101\u2014GENERAL",
+        "CHAPTER 103\u2014FOREIGN AND INTERCOASTAL VOYAGES",
+        "CHAPTER 105\u2014COASTWISE VOYAGES",
+        "CHAPTER 106\u2014FISHING VOYAGES",
+        "CHAPTER 107\u2014EFFECTS OF DECEASED SEAMEN",
+        "CHAPTER 109\u2014PROCEEDINGS ON UNSEAWORTHINESS",
+        "CHAPTER 111\u2014PROTECTION AND RELIEF",
+        "CHAPTER 112\u2014MERCHANT MARINER BENEFITS",
+        "CHAPTER 113\u2014OFFICIAL LOGBOOKS",
+        "CHAPTER 115\u2014OFFENSES AND PENALTIES",
+        "CHAPTER 121\u2014DOCUMENTATION OF VESSELS",
+        "CHAPTER 123\u2014NUMBERING UNDOCUMENTED VESSELS",
+        "CHAPTER 125\u2014VESSEL IDENTIFICATION SYSTEM",
+        "CHAPTER 131\u2014RECREATIONAL BOATING SAFETY",
+        "CHAPTER 141\u2014GENERAL",
+        "CHAPTER 143\u2014CONVENTION MEASUREMENT",
+        "CHAPTER 145\u2014REGULATORY MEASUREMENT",
+        "CHAPTER 147\u2014PENALTIES",
+        "CHAPTER 151\u2014NATIONAL MARITIME TRANSPORTATION ADVISORY COMMITTEES",
+        "CHAPTER 301\u2014GENERAL LIABILITY PROVISIONS",
+        "CHAPTER 303\u2014DEATH ON THE HIGH SEAS",
+        "CHAPTER 305\u2014EXONERATION AND LIMITATION OF LIABILITY",
+        "CHAPTER 307\u2014LIABILITY OF WATER CARRIERS",
+        "CHAPTER 309\u2014SUITS IN ADMIRALTY AGAINST THE UNITED STATES",
+        "CHAPTER 311\u2014SUITS INVOLVING PUBLIC VESSELS",
+        "CHAPTER 313\u2014COMMERCIAL INSTRUMENTS AND MARITIME LIENS",
+        "CHAPTER 401\u2014GENERAL",
+        "CHAPTER 403\u2014AGREEMENTS",
+        "CHAPTER 405\u2014TARIFFS, SERVICE CONTRACTS, REFUNDS, AND WAIVERS",
+        "CHAPTER 407\u2014CONTROLLED CARRIERS",
+        "CHAPTER 409\u2014OCEAN TRANSPORTATION INTERMEDIARIES",
+        "CHAPTER 411\u2014PROHIBITIONS AND PENALTIES",
+        "CHAPTER 413\u2014ENFORCEMENT",
+        "CHAPTER 421\u2014REGULATIONS AFFECTING SHIPPING IN FOREIGN TRADE",
+        "CHAPTER 423\u2014FOREIGN SHIPPING PRACTICES",
+        "CHAPTER 425\u2014NATIONAL SHIPPER ADVISORY COMMITTEE",
+        "CHAPTER 441\u2014EVIDENCE OF FINANCIAL RESPONSIBILITY FOR PASSENGER TRANSPORTATION",
+        "CHAPTER 461\u2014FEDERAL MARITIME COMMISSION",
+        "CHAPTER 501\u2014POLICY, STUDIES, AND REPORTS",
+        "CHAPTER 503\u2014ADMINISTRATIVE",
+        "CHAPTER 504\u2014COMMITTEES",
+        "CHAPTER 505\u2014OTHER GENERAL PROVISIONS",
+        "CHAPTER 511\u2014GENERAL",
+        "CHAPTER 513\u2014UNITED STATES MERCHANT MARINE ACADEMY",
+        "CHAPTER 515\u2014STATE MARITIME ACADEMY SUPPORT PROGRAM",
+        "CHAPTER 517\u2014OTHER SUPPORT FOR MERCHANT MARINE TRAINING",
+        "CHAPTER 519\u2014MERCHANT MARINE AWARDS",
+        "CHAPTER 521\u2014MISCELLANEOUS",
+        "CHAPTER 531\u2014MARITIME SECURITY FLEET",
+        "CHAPTER 532\u2014CABLE SECURITY FLEET",
+        "CHAPTER 533\u2014CONSTRUCTION RESERVE FUNDS",
+        "CHAPTER 534\u2014TANKER SECURITY FLEET",
+        "CHAPTER 535\u2014CAPITAL CONSTRUCTION FUNDS",
+        "CHAPTER 537\u2014LOANS AND GUARANTEES",
+        "CHAPTER 539\u2014WAR RISK INSURANCE",
+        "CHAPTER 541\u2014MISCELLANEOUS",
+        "CHAPTER 543\u2014PORT INFRASTRUCTURE DEVELOPMENT PROGRAM",
+        "CHAPTER 551\u2014COASTWISE TRADE",
+        "CHAPTER 553\u2014PASSENGER AND CARGO PREFERENCES",
+        "[CHAPTER 555\u2014TRANSFERRED]",
+        "CHAPTER 556\u2014MARINE HIGHWAYS",
+        "CHAPTER 561\u2014RESTRICTIONS ON TRANSFERS",
+        "CHAPTER 563\u2014EMERGENCY ACQUISITION OF VESSELS",
+        "CHAPTER 565\u2014ESSENTIAL VESSELS AFFECTED BY NEUTRALITY ACT",
+        "CHAPTER 571\u2014GENERAL AUTHORITY",
+        "CHAPTER 573\u2014VESSEL TRADE-IN PROGRAM",
+        "CHAPTER 575\u2014CONSTRUCTION, CHARTER, AND SALE OF VESSELS",
+        "CHAPTER 581\u2014RESTRICTIONS AND PENALTIES",
+        "CHAPTER 601\u2014ARRIVAL AND DEPARTURE REQUIREMENTS",
+        "CHAPTER 603\u2014TONNAGE TAXES AND LIGHT MONEY",
+        "CHAPTER 605\u2014DISCRIMINATING DUTIES AND RECIPROCAL PRIVILEGES",
+        "CHAPTER 700\u2014PORTS AND WATERWAYS SAFETY",
+        "CHAPTER 701\u2014PORT SECURITY",
+        "CHAPTER 703\u2014MARITIME SECURITY",
+        "CHAPTER 705\u2014MARITIME DRUG LAW ENFORCEMENT",
+        "CHAPTER 801\u2014WRECKS AND SALVAGE",
+        "CHAPTER 803\u2014ICE AND DERELICTS",
+        "CHAPTER 805\u2014SAFE CONTAINERS FOR INTERNATIONAL CARGO"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm"
+  },
+  "links": {
+    "title_num": 46,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title46/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title46/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46.zip"
+    },
+    "element_links": {
+      "subtitles": [
+        {
+          "name": "Subtitle I\u2014General",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle II\u2014Vessels and Seamen",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle III\u2014Maritime Liability",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle IV\u2014Regulation of Ocean Shipping",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle V\u2014Merchant Marine",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleV/"
+          }
+        },
+        {
+          "name": "Subtitle VI\u2014Clearance, Tonnage Taxes, and Duties",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleV/"
+          }
+        },
+        {
+          "name": "Subtitle VII\u2014Security and Drug Enforcement",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleV/"
+          }
+        },
+        {
+          "name": "Subtitle VIII\u2014Miscellaneous",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-subtitleV/"
+          }
+        }
+      ],
+      "parts": [
+        {
+          "name": "Part I\u2014State Boating Safety Programs",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-partI/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014DEFINITIONS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter1/"
+          }
+        },
+        {
+          "name": "[CHAPTER 3\u2014TRANSFERRED]",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014OTHER GENERAL PROVISIONS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014GENERAL",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014OPERATION OF VESSELS GENERALLY",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014GENERAL",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014MANAGEMENT OF VESSELS",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014INSPECTION GENERALLY",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014CARRIAGE OF PASSENGERS",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014CARRIAGE OF LIQUID BULK DANGEROUS CARGOES",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter37/"
+          }
+        },
+        {
+          "name": "[CHAPTER 39\u2014REPEALED]",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014UNINSPECTED VESSELS GENERALLY",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014RECREATIONAL VESSELS",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014UNINSPECTED COMMERCIAL FISHING INDUSTRY VESSELS",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014ABANDONMENT OF BARGES",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014OCEANGOING NON-PASSENGER COMMERCIAL VESSELS",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014LOAD LINES",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014REPORTING MARINE CASUALTIES",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014INVESTIGATING MARINE CASUALTIES",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014LICENSES AND CERTIFICATES OF REGISTRY",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014MERCHANT MARINERS' DOCUMENTS",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014GENERAL PROCEDURES FOR LICENSING, CERTIFICATION, AND DOCUMENTATION",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014SUSPENSION AND REVOCATION",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014GENERAL",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014MASTERS AND OFFICERS",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014PILOTS",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter85/"
+          }
+        },
+        {
+          "name": "CHAPTER 87\u2014UNLICENSED PERSONNEL",
+          "id": "87",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter87.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter87.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter87/"
+          }
+        },
+        {
+          "name": "CHAPTER 89\u2014SMALL VESSEL MANNING",
+          "id": "89",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter89.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter89.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter89/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014TANK VESSEL MANNING STANDARDS",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 93\u2014GREAT LAKES PILOTAGE",
+          "id": "93",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter93.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter93.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter93/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014GENERAL",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 103\u2014FOREIGN AND INTERCOASTAL VOYAGES",
+          "id": "103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter103/"
+          }
+        },
+        {
+          "name": "CHAPTER 105\u2014COASTWISE VOYAGES",
+          "id": "105",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter105.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter105.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter105/"
+          }
+        },
+        {
+          "name": "CHAPTER 106\u2014FISHING VOYAGES",
+          "id": "106",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter106.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter106.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter106/"
+          }
+        },
+        {
+          "name": "CHAPTER 107\u2014EFFECTS OF DECEASED SEAMEN",
+          "id": "107",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter107.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter107.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter107/"
+          }
+        },
+        {
+          "name": "CHAPTER 109\u2014PROCEEDINGS ON UNSEAWORTHINESS",
+          "id": "109",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter109.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter109.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter109/"
+          }
+        },
+        {
+          "name": "CHAPTER 111\u2014PROTECTION AND RELIEF",
+          "id": "111",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter111.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter111.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter111/"
+          }
+        },
+        {
+          "name": "CHAPTER 112\u2014MERCHANT MARINER BENEFITS",
+          "id": "112",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter112.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter112.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter112/"
+          }
+        },
+        {
+          "name": "CHAPTER 113\u2014OFFICIAL LOGBOOKS",
+          "id": "113",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter113.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter113.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter113/"
+          }
+        },
+        {
+          "name": "CHAPTER 115\u2014OFFENSES AND PENALTIES",
+          "id": "115",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter115.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter115.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter115/"
+          }
+        },
+        {
+          "name": "CHAPTER 121\u2014DOCUMENTATION OF VESSELS",
+          "id": "121",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter121.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter121.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter121/"
+          }
+        },
+        {
+          "name": "CHAPTER 123\u2014NUMBERING UNDOCUMENTED VESSELS",
+          "id": "123",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter123.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter123.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter123/"
+          }
+        },
+        {
+          "name": "CHAPTER 125\u2014VESSEL IDENTIFICATION SYSTEM",
+          "id": "125",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter125.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter125.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter125/"
+          }
+        },
+        {
+          "name": "CHAPTER 131\u2014RECREATIONAL BOATING SAFETY",
+          "id": "131",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter131.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter131.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter131/"
+          }
+        },
+        {
+          "name": "CHAPTER 141\u2014GENERAL",
+          "id": "141",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter141.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter141.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter141/"
+          }
+        },
+        {
+          "name": "CHAPTER 143\u2014CONVENTION MEASUREMENT",
+          "id": "143",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter143.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter143.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter143/"
+          }
+        },
+        {
+          "name": "CHAPTER 145\u2014REGULATORY MEASUREMENT",
+          "id": "145",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter145.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter145.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter145/"
+          }
+        },
+        {
+          "name": "CHAPTER 147\u2014PENALTIES",
+          "id": "147",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter147.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter147.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter147/"
+          }
+        },
+        {
+          "name": "CHAPTER 151\u2014NATIONAL MARITIME TRANSPORTATION ADVISORY COMMITTEES",
+          "id": "151",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter151.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter151.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter151/"
+          }
+        },
+        {
+          "name": "CHAPTER 301\u2014GENERAL LIABILITY PROVISIONS",
+          "id": "301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter301/"
+          }
+        },
+        {
+          "name": "CHAPTER 303\u2014DEATH ON THE HIGH SEAS",
+          "id": "303",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter303.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter303.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter303/"
+          }
+        },
+        {
+          "name": "CHAPTER 305\u2014EXONERATION AND LIMITATION OF LIABILITY",
+          "id": "305",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter305.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter305.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter305/"
+          }
+        },
+        {
+          "name": "CHAPTER 307\u2014LIABILITY OF WATER CARRIERS",
+          "id": "307",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter307.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter307.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter307/"
+          }
+        },
+        {
+          "name": "CHAPTER 309\u2014SUITS IN ADMIRALTY AGAINST THE UNITED STATES",
+          "id": "309",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter309.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter309.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter309/"
+          }
+        },
+        {
+          "name": "CHAPTER 311\u2014SUITS INVOLVING PUBLIC VESSELS",
+          "id": "311",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter311.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter311.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter311/"
+          }
+        },
+        {
+          "name": "CHAPTER 313\u2014COMMERCIAL INSTRUMENTS AND MARITIME LIENS",
+          "id": "313",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter313.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter313.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter313/"
+          }
+        },
+        {
+          "name": "CHAPTER 401\u2014GENERAL",
+          "id": "401",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter401.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter401.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter401/"
+          }
+        },
+        {
+          "name": "CHAPTER 403\u2014AGREEMENTS",
+          "id": "403",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter403.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter403.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter403/"
+          }
+        },
+        {
+          "name": "CHAPTER 405\u2014TARIFFS, SERVICE CONTRACTS, REFUNDS, AND WAIVERS",
+          "id": "405",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter405.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter405.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter405/"
+          }
+        },
+        {
+          "name": "CHAPTER 407\u2014CONTROLLED CARRIERS",
+          "id": "407",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter407.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter407.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter407/"
+          }
+        },
+        {
+          "name": "CHAPTER 409\u2014OCEAN TRANSPORTATION INTERMEDIARIES",
+          "id": "409",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter409.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter409.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter409/"
+          }
+        },
+        {
+          "name": "CHAPTER 411\u2014PROHIBITIONS AND PENALTIES",
+          "id": "411",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter411.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter411.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter411/"
+          }
+        },
+        {
+          "name": "CHAPTER 413\u2014ENFORCEMENT",
+          "id": "413",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter413.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter413.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter413/"
+          }
+        },
+        {
+          "name": "CHAPTER 421\u2014REGULATIONS AFFECTING SHIPPING IN FOREIGN TRADE",
+          "id": "421",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter421.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter421.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter421/"
+          }
+        },
+        {
+          "name": "CHAPTER 423\u2014FOREIGN SHIPPING PRACTICES",
+          "id": "423",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter423.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter423.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter423/"
+          }
+        },
+        {
+          "name": "CHAPTER 425\u2014NATIONAL SHIPPER ADVISORY COMMITTEE",
+          "id": "425",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter425.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter425.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter425/"
+          }
+        },
+        {
+          "name": "CHAPTER 441\u2014EVIDENCE OF FINANCIAL RESPONSIBILITY FOR PASSENGER TRANSPORTATION",
+          "id": "441",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter441.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter441.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter441/"
+          }
+        },
+        {
+          "name": "CHAPTER 461\u2014FEDERAL MARITIME COMMISSION",
+          "id": "461",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter461.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter461.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter461/"
+          }
+        },
+        {
+          "name": "CHAPTER 501\u2014POLICY, STUDIES, AND REPORTS",
+          "id": "501",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter501.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter501.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter501/"
+          }
+        },
+        {
+          "name": "CHAPTER 503\u2014ADMINISTRATIVE",
+          "id": "503",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter503.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter503.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter503/"
+          }
+        },
+        {
+          "name": "CHAPTER 504\u2014COMMITTEES",
+          "id": "504",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter504.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter504.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter504/"
+          }
+        },
+        {
+          "name": "CHAPTER 505\u2014OTHER GENERAL PROVISIONS",
+          "id": "505",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter505.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter505.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter505/"
+          }
+        },
+        {
+          "name": "CHAPTER 511\u2014GENERAL",
+          "id": "511",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter511.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter511.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter511/"
+          }
+        },
+        {
+          "name": "CHAPTER 513\u2014UNITED STATES MERCHANT MARINE ACADEMY",
+          "id": "513",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter513.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter513.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter513/"
+          }
+        },
+        {
+          "name": "CHAPTER 515\u2014STATE MARITIME ACADEMY SUPPORT PROGRAM",
+          "id": "515",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter515.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter515.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter515/"
+          }
+        },
+        {
+          "name": "CHAPTER 517\u2014OTHER SUPPORT FOR MERCHANT MARINE TRAINING",
+          "id": "517",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter517.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter517.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter517/"
+          }
+        },
+        {
+          "name": "CHAPTER 519\u2014MERCHANT MARINE AWARDS",
+          "id": "519",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter519.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter519.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter519/"
+          }
+        },
+        {
+          "name": "CHAPTER 521\u2014MISCELLANEOUS",
+          "id": "521",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter521.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter521.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter521/"
+          }
+        },
+        {
+          "name": "CHAPTER 531\u2014MARITIME SECURITY FLEET",
+          "id": "531",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter531.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter531.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter531/"
+          }
+        },
+        {
+          "name": "CHAPTER 532\u2014CABLE SECURITY FLEET",
+          "id": "532",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter532.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter532.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter532/"
+          }
+        },
+        {
+          "name": "CHAPTER 533\u2014CONSTRUCTION RESERVE FUNDS",
+          "id": "533",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter533.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter533.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter533/"
+          }
+        },
+        {
+          "name": "CHAPTER 534\u2014TANKER SECURITY FLEET",
+          "id": "534",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter534.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter534.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter534/"
+          }
+        },
+        {
+          "name": "CHAPTER 535\u2014CAPITAL CONSTRUCTION FUNDS",
+          "id": "535",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter535.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter535.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter535/"
+          }
+        },
+        {
+          "name": "CHAPTER 537\u2014LOANS AND GUARANTEES",
+          "id": "537",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter537.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter537.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter537/"
+          }
+        },
+        {
+          "name": "CHAPTER 539\u2014WAR RISK INSURANCE",
+          "id": "539",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter539.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter539.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter539/"
+          }
+        },
+        {
+          "name": "CHAPTER 541\u2014MISCELLANEOUS",
+          "id": "541",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter541.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter541.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter541/"
+          }
+        },
+        {
+          "name": "CHAPTER 543\u2014PORT INFRASTRUCTURE DEVELOPMENT PROGRAM",
+          "id": "543",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter543.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter543.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter543/"
+          }
+        },
+        {
+          "name": "CHAPTER 551\u2014COASTWISE TRADE",
+          "id": "551",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter551.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter551.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter551/"
+          }
+        },
+        {
+          "name": "CHAPTER 553\u2014PASSENGER AND CARGO PREFERENCES",
+          "id": "553",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter553.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter553.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter553/"
+          }
+        },
+        {
+          "name": "[CHAPTER 555\u2014TRANSFERRED]",
+          "id": "555",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter555.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter555.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter555/"
+          }
+        },
+        {
+          "name": "CHAPTER 556\u2014MARINE HIGHWAYS",
+          "id": "556",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter556.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter556.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter556/"
+          }
+        },
+        {
+          "name": "CHAPTER 561\u2014RESTRICTIONS ON TRANSFERS",
+          "id": "561",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter561.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter561.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter561/"
+          }
+        },
+        {
+          "name": "CHAPTER 563\u2014EMERGENCY ACQUISITION OF VESSELS",
+          "id": "563",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter563.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter563.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter563/"
+          }
+        },
+        {
+          "name": "CHAPTER 565\u2014ESSENTIAL VESSELS AFFECTED BY NEUTRALITY ACT",
+          "id": "565",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter565.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter565.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter565/"
+          }
+        },
+        {
+          "name": "CHAPTER 571\u2014GENERAL AUTHORITY",
+          "id": "571",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter571.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter571.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter571/"
+          }
+        },
+        {
+          "name": "CHAPTER 573\u2014VESSEL TRADE-IN PROGRAM",
+          "id": "573",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter573.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter573.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter573/"
+          }
+        },
+        {
+          "name": "CHAPTER 575\u2014CONSTRUCTION, CHARTER, AND SALE OF VESSELS",
+          "id": "575",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter575.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter575.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter575/"
+          }
+        },
+        {
+          "name": "CHAPTER 581\u2014RESTRICTIONS AND PENALTIES",
+          "id": "581",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter581.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter581.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter581/"
+          }
+        },
+        {
+          "name": "CHAPTER 601\u2014ARRIVAL AND DEPARTURE REQUIREMENTS",
+          "id": "601",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter601.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter601.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter601/"
+          }
+        },
+        {
+          "name": "CHAPTER 603\u2014TONNAGE TAXES AND LIGHT MONEY",
+          "id": "603",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter603.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter603.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter603/"
+          }
+        },
+        {
+          "name": "CHAPTER 605\u2014DISCRIMINATING DUTIES AND RECIPROCAL PRIVILEGES",
+          "id": "605",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter605.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter605.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter605/"
+          }
+        },
+        {
+          "name": "CHAPTER 700\u2014PORTS AND WATERWAYS SAFETY",
+          "id": "700",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter700.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter700.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter700/"
+          }
+        },
+        {
+          "name": "CHAPTER 701\u2014PORT SECURITY",
+          "id": "701",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter701.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter701.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter701/"
+          }
+        },
+        {
+          "name": "CHAPTER 703\u2014MARITIME SECURITY",
+          "id": "703",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter703.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter703.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter703/"
+          }
+        },
+        {
+          "name": "CHAPTER 705\u2014MARITIME DRUG LAW ENFORCEMENT",
+          "id": "705",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter705.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter705.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter705/"
+          }
+        },
+        {
+          "name": "CHAPTER 801\u2014WRECKS AND SALVAGE",
+          "id": "801",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter801.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter801.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter801/"
+          }
+        },
+        {
+          "name": "CHAPTER 803\u2014ICE AND DERELICTS",
+          "id": "803",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter803.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter803.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter803/"
+          }
+        },
+        {
+          "name": "CHAPTER 805\u2014SAFE CONTAINERS FOR INTERNATIONAL CARGO",
+          "id": "805",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46-chapter805.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46-chapter805.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46-chapter805/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

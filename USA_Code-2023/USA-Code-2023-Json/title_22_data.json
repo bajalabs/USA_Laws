@@ -1,0 +1,2169 @@
+{
+  "structure": {
+    "title_num": 22,
+    "title_name": "TITLE 22\u2014FOREIGN RELATIONS AND INTERCOURSE",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 10501",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Officers",
+        "Part B\u2014Boards",
+        "Part A\u2014General",
+        "Part B\u2014Special",
+        "Part A\u2014Categories of Personnel",
+        "Part B\u2014Salaries",
+        "Part C\u2014Salaries of Officers Temporarily in Charge",
+        "Part D\u2014Time of Receiving Salary",
+        "Part E\u2014Classification of Positions",
+        "Part F\u2014Additional Compensation",
+        "Part A\u2014Principal Diplomatic Representatives",
+        "Part B\u2014Foreign Service Officers",
+        "Part C\u2014Foreign Service Reserve Officers",
+        "Part D\u2014Foreign Service Staff Officers and Employees",
+        "Part E\u2014Alien Clerks and Employees",
+        "Part F\u2014Consular Agents",
+        "Part G\u2014Assignment of Personnel by the Army and Navy Departments",
+        "Part H\u2014Assignment of Foreign Service Personnel",
+        "Part A\u2014General",
+        "Part B\u2014Efficiency Records",
+        "Part C\u2014Promotion of Foreign Service Officers and Reserve Officers",
+        "Part D\u2014Separation of Officers and Employees From the Service",
+        "Part E\u2014Promotion of Staff Officers and Employees",
+        "Part F\u2014Separation of Staff Officers and Employees",
+        "Part G\u2014Alien Clerks and Employees",
+        "Part H\u2014Consular Agents",
+        "Part I\u2014Inspections",
+        "Part J\u2014Foreign Service Grievances",
+        "Part A\u2014Establishment of System",
+        "Part B\u2014Contributions to the Fund",
+        "Part C\u2014Computation and Payment of Annuities",
+        "Part D\u2014Benefits Accruing to Certain Participants",
+        "Part E\u2014Lump-Sum Payments",
+        "Part F\u2014Service Period for Annuities",
+        "Part G\u2014Moneys",
+        "Part H\u2014Annuitants Recalled in Service or Reemployed in Government",
+        "Part I\u2014Voluntary Contributions",
+        "Part J\u2014Cost-of-Living Adjustments of Annuities",
+        "Part A\u2014Allowances and Special Allotments",
+        "Part B\u2014Travel and Related Expenses",
+        "Part C\u2014Commissary and Mess Services and Recreation Facilities",
+        "Part D\u2014Leaves of Absence",
+        "Part E\u2014Medical Services",
+        "Part 1\u2014Customs Duties",
+        "Part 2\u2014Quotas",
+        "Part 3\u2014Internal Taxes",
+        "Part 4\u2014Immigration",
+        "Part 1\u2014Purposes",
+        "Part 2\u2014Customs Duties",
+        "Part 3\u2014Internal Taxes",
+        "Part 4\u2014Immigration",
+        "Part 5\u2014General Provisions",
+        "Part A\u2014Defense Support",
+        "Part B\u2014Development Loan Fund",
+        "Part C\u2014Technical Cooperation",
+        "Part D\u2014Special Assistance and Other Programs",
+        "Part I\u2014Declaration of Policy; Development Assistance Authorizations",
+        "Part II\u2014Other Programs",
+        "Part III\u2014International Organizations and Programs",
+        "Part IV\u2014Supporting Assistance",
+        "Part V\u2014Contingencies",
+        "Part VI\u2014Central America Democracy, Peace, and Development Initiative",
+        "Part VII\u2014Debt-for-Nature Exchanges",
+        "Part VIII\u2014International Narcotics Control",
+        "Part IX\u2014International Disaster Assistance",
+        "Part X\u2014Development Fund for Africa",
+        "Part XI\u2014Support for Economic and Democratic Development of the Independent States of the Former Soviet Union",
+        "Part XII\u2014Support for the Economic and Political Independence of the Countries of the South Caucasus and Central Asia",
+        "Part I\u2014Declaration of Policy",
+        "Part II\u2014Military Assistance",
+        "Part III\u2014Foreign Military Sales",
+        "Part IV\u2014Economic Support Fund",
+        "Part V\u2014International Military Education and Training",
+        "Part VI\u2014Peacekeeping Operations",
+        "Part VII\u2014Air Base Construction in Israel",
+        "Part VIII\u2014Antiterrorism Assistance",
+        "Part IX\u2014Nonproliferation and Export Control Assistance",
+        "Part X\u2014Cyberspace, Digital Connectivity, and Related Technologies (CDT) Fund",
+        "Part I\u2014General Provisions",
+        "Part II\u2014Administrative Provisions",
+        "Part III\u2014Miscellaneous Provisions",
+        "Part 1\u2014Panama Canal Commission",
+        "Part 2\u2014Employees",
+        "Part 3\u2014Funds and Accounts",
+        "Part 4\u2014Claims for Injuries to Persons or Property",
+        "Part 5\u2014Public Property",
+        "Part 6\u2014Tolls for Use of Panama Canal",
+        "Part 7\u2014General Regulations",
+        "Part 8\u2014Shipping and Navigation",
+        "Part 1\u2014Laws Continued in Force",
+        "Part 2\u2014Courts",
+        "Part 3\u2014Transition Authority",
+        "Part 1\u2014Procurement",
+        "Part 2\u2014Administration",
+        "Part I\u2014Foreign Service Retirement and Disability System",
+        "Part II\u2014Foreign Service Pension System",
+        "Part A\u2014Findings, Purposes, and Statement of Policy",
+        "Part B\u2014International Debt Management Authority",
+        "Part A\u2014Targeted Responses to Violations of Religious Freedom Abroad",
+        "Part B\u2014Strengthening Existing Law",
+        "Part A\u2014Abolition and Transfer of Functions",
+        "Part B\u2014Miscellaneous Provisions",
+        "Part A\u2014Abolition and Transfer of Functions",
+        "Part B\u2014International Broadcasting",
+        "Part C\u2014Conforming Amendments",
+        "Part A\u2014Abolition and Transfer of Functions",
+        "Part B\u2014Miscellaneous Provisions",
+        "Part A\u2014Reorganization and Transfer of Functions",
+        "Part B\u2014Authorities of Secretary of State",
+        "Part A\u2014Reorganization Plan",
+        "Part B\u2014Reorganization Authority",
+        "Part A\u2014Establishment of the Fund",
+        "Part B\u2014Reports",
+        "Part C\u2014United States Financial Participation",
+        "Part A\u2014Review of Membership of the People's Republic of China in the WTO",
+        "Part B\u2014Authorization To Promote Compliance With Trade Agreements",
+        "Part C\u2014Report on Compliance by the People's Republic of China With WTO Obligations",
+        "Part A\u2014Task Force on Prohibition of Importation of Products of Forced or Prison Labor From the People's Republic of China",
+        "Part B\u2014Assistance To Develop Commercial and Labor Rule of Law",
+        "Part A\u2014General Assistance and Programs",
+        "Part B\u2014Assistance for Women, Children, and Families",
+        "Part I\u2014Congressional Review and Oversight",
+        "Part II\u2014General Matters",
+        "PART A\u2014CONGRESSIONAL REVIEW OF SANCTIONS IMPOSED WITH RESPECT TO THE RUSSIAN FEDERATION",
+        "PART B\u2014SANCTIONS WITH RESPECT TO THE RUSSIAN FEDERATION"
+      ],
+      "subparts": [
+        "subpart i\u2014multilateral and regional development programs",
+        "subpart ii\u2014american schools and hospitals abroad; prototype desalting plants",
+        "subpart iii\u2014shelter and other credit guaranty programs",
+        "subpart iv\u2014overseas private investment corporation",
+        "subpart v\u2014disadvantaged children in asia",
+        "subpart vi\u2014development assistance for micro, small, and medium-sized enterprises",
+        "subpart vii\u2014evaluation of programs",
+        "subpart viii\u2014southeast asia multilateral and regional programs",
+        "subpart ix\u2014utilization of democratic institutions in development",
+        "subpart x\u2014programs relating to population growth and family planning",
+        "subpart xi\u2014food production targets and reports",
+        "subpart xii\u2014famine prevention and freedom from hunger",
+        "subpart i\u2014panama canal commission personnel",
+        "subpart ii\u2014wage and employment practices",
+        "subpart iii\u2014conditions of employment and placement",
+        "subpart iv\u2014retirement",
+        "subpart v\u2014application to related personnel",
+        "subpart vi\u2014labor-management relations",
+        "subpart i\u2014funds",
+        "subpart ii\u2014accounting policies and audits",
+        "subpart iii\u2014interagency accounts",
+        "subpart iv\u2014postal matters",
+        "subpart v\u2014accounts with republic of panama",
+        "subpart i\u2014general provisions",
+        "subpart ii\u2014vessel damage",
+        "subpart i\u2014operation of canal",
+        "subpart ii\u2014inspection of vessels"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014DIPLOMATIC AND CONSULAR SERVICE GENERALLY",
+        "CHAPTER 2\u2014CONSULAR COURTS",
+        "CHAPTER 3\u2014UNITED STATES COURT FOR CHINA",
+        "CHAPTER 4\u2014PASSPORTS",
+        "CHAPTER 5\u2014PRESERVATION OF FRIENDLY FOREIGN RELATIONS GENERALLY",
+        "CHAPTER 6\u2014FOREIGN DIPLOMATIC AND CONSULAR OFFICERS",
+        "CHAPTER 7\u2014INTERNATIONAL BUREAUS, CONGRESSES, ETC.",
+        "CHAPTER 8\u2014FOREIGN SERVICE BUILDINGS",
+        "CHAPTER 9\u2014FOREIGN WARS, WAR MATERIALS, AND NEUTRALITY",
+        "CHAPTER 10\u2014HEMISPHERAL RELATIONS",
+        "CHAPTER 11\u2014FOREIGN AGENTS AND PROPAGANDA",
+        "CHAPTER 12\u2014CLAIMS COMMISSIONS",
+        "CHAPTER 13\u2014SERVICE COURTS OF FRIENDLY FOREIGN FORCES",
+        "CHAPTER 14\u2014FOREIGN SERVICE",
+        "CHAPTER 14A\u2014FOREIGN SERVICE INFORMATION OFFICERS CORPS",
+        "CHAPTER 15\u2014THE REPUBLIC OF THE PHILIPPINES",
+        "CHAPTER 16\u2014GREEK AND TURKISH ASSISTANCE",
+        "CHAPTER 17\u2014RELIEF AID TO WAR-DEVASTATED COUNTRIES",
+        "CHAPTER 18\u2014UNITED STATES INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS",
+        "CHAPTER 19\u2014FOREIGN ASSISTANCE PROGRAM",
+        "CHAPTER 20\u2014MUTUAL DEFENSE ASSISTANCE PROGRAM",
+        "CHAPTER 20A\u2014MUTUAL DEFENSE ASSISTANCE CONTROL PROGRAM",
+        "CHAPTER 21\u2014SETTLEMENT OF INTERNATIONAL CLAIMS",
+        "CHAPTER 21A\u2014SETTLEMENT OF INVESTMENT DISPUTES",
+        "CHAPTER 22\u2014MUTUAL SECURITY ASSISTANCE",
+        "CHAPTER 23\u2014PROTECTION OF CITIZENS ABROAD",
+        "CHAPTER 24\u2014MUTUAL SECURITY PROGRAM",
+        "CHAPTER 24A\u2014MIDDLE EAST PEACE AND STABILITY",
+        "CHAPTER 25\u2014PROTECTION OF VESSELS ON THE HIGH SEAS AND IN TERRITORIAL WATERS OF FOREIGN COUNTRIES",
+        "CHAPTER 26\u2014ARMED FORCES PARTICIPATION IN INTERNATIONAL AMATEUR SPORTS COMPETITIONS",
+        "CHAPTER 27\u2014INTERNATIONAL CULTURAL EXCHANGE AND TRADE FAIR PARTICIPATION",
+        "CHAPTER 28\u2014INTERNATIONAL ATOMIC ENERGY AGENCY PARTICIPATION",
+        "CHAPTER 29\u2014CULTURAL, TECHNICAL, AND EDUCATIONAL CENTERS",
+        "CHAPTER 29A\u2014INTER-AMERICAN CULTURAL AND TRADE CENTER",
+        "CHAPTER 30\u2014INTERNATIONAL COOPERATION IN HEALTH AND MEDICAL RESEARCH",
+        "CHAPTER 31\u2014INTERNATIONAL TRAVEL",
+        "CHAPTER 31A\u2014NATIONAL TOURISM ORGANIZATION",
+        "CHAPTER 32\u2014FOREIGN ASSISTANCE",
+        "CHAPTER 33\u2014MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM",
+        "CHAPTER 34\u2014THE PEACE CORPS",
+        "CHAPTER 35\u2014ARMS CONTROL AND DISARMAMENT",
+        "CHAPTER 36\u2014MIGRATION AND REFUGEE ASSISTANCE",
+        "CHAPTER 37\u2014FOREIGN GIFTS AND DECORATIONS",
+        "CHAPTER 38\u2014DEPARTMENT OF STATE",
+        "CHAPTER 39\u2014ARMS EXPORT CONTROL",
+        "CHAPTER 40\u2014INTERNATIONAL EXPOSITIONS",
+        "CHAPTER 41\u2014STUDY COMMISSION RELATING TO FOREIGN POLICY",
+        "CHAPTER 42\u2014INTERNATIONAL ECONOMIC POLICY",
+        "CHAPTER 43\u2014INTERNATIONAL BROADCASTING",
+        "CHAPTER 44\u2014JAPAN-UNITED STATES FRIENDSHIP",
+        "CHAPTER 45\u2014COMMISSION ON SECURITY AND COOPERATION IN EUROPE",
+        "CHAPTER 46\u2014INTERNATIONAL INVESTMENT AND TRADE IN SERVICES SURVEY",
+        "CHAPTER 46A\u2014FOREIGN DIRECT INVESTMENT AND INTERNATIONAL FINANCIAL DATA",
+        "CHAPTER 47\u2014NUCLEAR NON-PROLIFERATION",
+        "CHAPTER 48\u2014TAIWAN RELATIONS",
+        "CHAPTER 48A\u2014TAIWAN ENHANCED RESILIENCE",
+        "CHAPTER 49\u2014SUPPORT OF PEACE TREATY BETWEEN EGYPT AND ISRAEL",
+        "CHAPTER 50\u2014INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION",
+        "CHAPTER 51\u2014PANAMA CANAL",
+        "CHAPTER 52\u2014FOREIGN SERVICE",
+        "CHAPTER 53\u2014AUTHORITIES RELATING TO THE REGULATION OF FOREIGN MISSIONS",
+        "CHAPTER 53A\u2014DISPOSITION OF PERSONAL PROPERTY ABROAD",
+        "CHAPTER 53B\u2014FOREIGN RELATIONS OF THE UNITED STATES HISTORICAL SERIES",
+        "CHAPTER 54\u2014PRIVATE ORGANIZATION ASSISTANCE",
+        "CHAPTER 55\u2014RESEARCH AND TRAINING FOR EASTERN EUROPE AND INDEPENDENT STATES OF FORMER SOVIET UNION",
+        "CHAPTER 56\u2014UNITED STATES INSTITUTE OF PEACE",
+        "CHAPTER 57\u2014UNITED STATES SCHOLARSHIP PROGRAM FOR DEVELOPING COUNTRIES",
+        "CHAPTER 58\u2014DIPLOMATIC SECURITY",
+        "CHAPTER 59\u2014FASCELL FELLOWSHIP PROGRAM",
+        "CHAPTER 60\u2014ANTI-APARTHEID PROGRAM",
+        "CHAPTER 61\u2014ANTI-TERRORISM\u2014PLO",
+        "CHAPTER 62\u2014INTERNATIONAL FINANCIAL POLICY",
+        "CHAPTER 63\u2014SUPPORT FOR EAST EUROPEAN DEMOCRACY (SEED)",
+        "CHAPTER 64\u2014UNITED STATES RESPONSE TO TERRORISM AFFECTING AMERICANS ABROAD",
+        "CHAPTER 65\u2014CONTROL AND ELIMINATION OF CHEMICAL AND BIOLOGICAL WEAPONS",
+        "CHAPTER 66\u2014UNITED STATES-HONG KONG POLICY",
+        "CHAPTER 67\u2014FREEDOM FOR RUSSIA AND EMERGING EURASIAN DEMOCRACIES AND OPEN MARKETS SUPPORT",
+        "CHAPTER 68\u2014DEMILITARIZATION OF FORMER SOVIET UNION",
+        "CHAPTER 68A\u2014COOPERATIVE THREAT REDUCTION WITH STATES OF FORMER SOVIET UNION",
+        "CHAPTER 69\u2014CUBAN DEMOCRACY",
+        "CHAPTER 69A\u2014CUBAN LIBERTY AND DEMOCRATIC SOLIDARITY (LIBERTAD)",
+        "CHAPTER 70\u2014MANSFIELD FELLOWSHIP PROGRAM",
+        "CHAPTER 71\u2014UNITED STATES INTERNATIONAL BROADCASTING",
+        "CHAPTER 72\u2014NUCLEAR PROLIFERATION PREVENTION",
+        "CHAPTER 73\u2014INTERNATIONAL RELIGIOUS FREEDOM",
+        "CHAPTER 74\u2014FOREIGN AFFAIRS AGENCIES CONSOLIDATION",
+        "CHAPTER 75\u2014CHEMICAL WEAPONS CONVENTION IMPLEMENTATION",
+        "CHAPTER 76\u2014ASSISTANCE TO COUNTRIES WITH LARGE POPULATIONS HAVING HIV/AIDS",
+        "CHAPTER 77\u2014UNITED STATES-CHINA RELATIONS",
+        "CHAPTER 78\u2014TRAFFICKING VICTIMS PROTECTION",
+        "CHAPTER 79\u2014TRADE SANCTIONS REFORM AND EXPORT ENHANCEMENT",
+        "CHAPTER 80\u2014DIPLOMATIC TELECOMMUNICATIONS SERVICE PROGRAM OFFICE (DTS-PO)",
+        "CHAPTER 81\u2014INTERNATIONAL CRIMINAL COURT",
+        "CHAPTER 82\u2014AFGHANISTAN FREEDOM SUPPORT",
+        "CHAPTER 83\u2014UNITED STATES LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA",
+        "CHAPTER 84\u2014MILLENNIUM CHALLENGE",
+        "CHAPTER 85\u2014NORTH KOREAN HUMAN RIGHTS",
+        "CHAPTER 86\u2014CLIMATE CHANGE TECHNOLOGY DEPLOYMENT IN DEVELOPING COUNTRIES",
+        "CHAPTER 87\u2014UNITED STATES AND INDIA NUCLEAR COOPERATION",
+        "CHAPTER 88\u2014NUCLEAR NON-PROLIFERATION TREATY\u2014UNITED STATES ADDITIONAL PROTOCOL IMPLEMENTATION",
+        "CHAPTER 89\u2014ADVANCING DEMOCRATIC VALUES",
+        "CHAPTER 90\u2014VOLUNTEERS FOR PROSPERITY PROGRAM",
+        "CHAPTER 91\u2014ENHANCED PARTNERSHIP WITH PAKISTAN",
+        "CHAPTER 92\u2014COMPREHENSIVE IRAN SANCTIONS, ACCOUNTABILITY, AND DIVESTMENT",
+        "CHAPTER 93\u2014UNITED STATES-ISRAEL COOPERATION",
+        "CHAPTER 94\u2014IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS",
+        "CHAPTER 95\u2014IRAN FREEDOM AND COUNTERPROLIFERATION",
+        "CHAPTER 96\u2014SOVEREIGNTY, INTEGRITY, DEMOCRACY, AND ECONOMIC STABILITY OF UKRAINE",
+        "CHAPTER 96A\u2014UKRAINE FREEDOM SUPPORT",
+        "CHAPTER 97\u2014INTERNATIONAL CHILD ABDUCTION REMEDIES",
+        "CHAPTER 98\u2014INTERNATIONAL CHILD ABDUCTION PREVENTION AND RETURN",
+        "CHAPTER 99\u2014NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT",
+        "CHAPTER 100\u2014GLOBAL FOOD SECURITY",
+        "CHAPTER 101\u2014COUNTERING IRAN'S DESTABILIZING ACTIVITIES",
+        "CHAPTER 102\u2014COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA",
+        "CHAPTER 103\u2014BETTER UTILIZATION OF INVESTMENTS LEADING TO DEVELOPMENT",
+        "CHAPTER 104\u2014VENEZUELA ASSISTANCE",
+        "CHAPTER 105\u2014GLOBAL FRAGILITY",
+        "CHAPTER 106\u2014CHAMPIONING AMERICAN BUSINESS THROUGH DIPLOMACY",
+        "CHAPTER 107\u2014SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY",
+        "CHAPTER 108\u2014GLOBAL MAGNITSKY HUMAN RIGHTS ACCOUNTABILITY",
+        "CHAPTER 109\u2014BURMA UNIFIED THROUGH RIGOROUS MILITARY ACCOUNTABILITY",
+        "CHAPTER 110\u2014INFORMATION SECURITY AND CYBER DIPLOMACY",
+        "CHAPTER 111\u2014AUSTRALIA, UNITED KINGDOM, AND UNITED STATES (AUKUS) SECURITY PARTNERSHIP",
+        "CHAPTER 112\u2014COMBATING GLOBAL CORRUPTION"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22.htm"
+  },
+  "links": {
+    "title_num": 22,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title22/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title22/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Inspections",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partI/"
+          }
+        },
+        {
+          "name": "Part I\u2014Voluntary Contributions",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partI/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Customs Duties",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Quotas",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Internal Taxes",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Immigration",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part4/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Purposes",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Customs Duties",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Internal Taxes",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Immigration",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part4/"
+          }
+        },
+        {
+          "name": "Part 5\u2014General Provisions",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part5/"
+          }
+        },
+        {
+          "name": "Part I\u2014Declaration of Policy; Development Assistance Authorizations",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Other Programs",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014International Organizations and Programs",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Supporting Assistance",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014Contingencies",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partV/"
+          }
+        },
+        {
+          "name": "Part VI\u2014Central America Democracy, Peace, and Development Initiative",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partVI/"
+          }
+        },
+        {
+          "name": "Part VII\u2014Debt-for-Nature Exchanges",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partVII/"
+          }
+        },
+        {
+          "name": "Part VIII\u2014International Narcotics Control",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partVIII/"
+          }
+        },
+        {
+          "name": "Part IX\u2014International Disaster Assistance",
+          "id": "IX",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partIX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partIX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partIX/"
+          }
+        },
+        {
+          "name": "Part X\u2014Development Fund for Africa",
+          "id": "X",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partX/"
+          }
+        },
+        {
+          "name": "Part XI\u2014Support for Economic and Democratic Development of the Independent States of the Former Soviet Union",
+          "id": "XI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partXI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partXI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partXI/"
+          }
+        },
+        {
+          "name": "Part XII\u2014Support for the Economic and Political Independence of the Countries of the South Caucasus and Central Asia",
+          "id": "XII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partXII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partXII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partXII/"
+          }
+        },
+        {
+          "name": "Part I\u2014Declaration of Policy",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Military Assistance",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Foreign Military Sales",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Economic Support Fund",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014International Military Education and Training",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partV/"
+          }
+        },
+        {
+          "name": "Part VI\u2014Peacekeeping Operations",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partVI/"
+          }
+        },
+        {
+          "name": "Part VII\u2014Air Base Construction in Israel",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partVII/"
+          }
+        },
+        {
+          "name": "Part VIII\u2014Antiterrorism Assistance",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partVIII/"
+          }
+        },
+        {
+          "name": "Part IX\u2014Nonproliferation and Export Control Assistance",
+          "id": "IX",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partIX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partIX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partIX/"
+          }
+        },
+        {
+          "name": "Part X\u2014Cyberspace, Digital Connectivity, and Related Technologies (CDT) Fund",
+          "id": "X",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partX/"
+          }
+        },
+        {
+          "name": "Part I\u2014General Provisions",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Administrative Provisions",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Miscellaneous Provisions",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partIII/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Panama Canal Commission",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Employees",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Funds and Accounts",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Claims for Injuries to Persons or Property",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part4/"
+          }
+        },
+        {
+          "name": "Part 5\u2014Public Property",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part5/"
+          }
+        },
+        {
+          "name": "Part 6\u2014Tolls for Use of Panama Canal",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part6/"
+          }
+        },
+        {
+          "name": "Part 7\u2014General Regulations",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part7/"
+          }
+        },
+        {
+          "name": "Part 8\u2014Shipping and Navigation",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part8/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Laws Continued in Force",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Courts",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Transition Authority",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part3/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Procurement",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Administration",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-part2/"
+          }
+        },
+        {
+          "name": "Part I\u2014Foreign Service Retirement and Disability System",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Foreign Service Pension System",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partII/"
+          }
+        },
+        {
+          "name": "Part I\u2014Congressional Review and Oversight",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014General Matters",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-partII/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart i\u2014multilateral and regional development programs",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014american schools and hospitals abroad; prototype desalting plants",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartii/"
+          }
+        },
+        {
+          "name": "subpart iii\u2014shelter and other credit guaranty programs",
+          "id": "iii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartiii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartiii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartiii/"
+          }
+        },
+        {
+          "name": "subpart iv\u2014overseas private investment corporation",
+          "id": "iv",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartiv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartiv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartiv/"
+          }
+        },
+        {
+          "name": "subpart v\u2014disadvantaged children in asia",
+          "id": "v",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartv/"
+          }
+        },
+        {
+          "name": "subpart vi\u2014development assistance for micro, small, and medium-sized enterprises",
+          "id": "vi",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartvi.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartvi.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartvi/"
+          }
+        },
+        {
+          "name": "subpart vii\u2014evaluation of programs",
+          "id": "vii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartvii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartvii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartvii/"
+          }
+        },
+        {
+          "name": "subpart viii\u2014southeast asia multilateral and regional programs",
+          "id": "viii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartviii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartviii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartviii/"
+          }
+        },
+        {
+          "name": "subpart ix\u2014utilization of democratic institutions in development",
+          "id": "ix",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartix.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartix.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartix/"
+          }
+        },
+        {
+          "name": "subpart x\u2014programs relating to population growth and family planning",
+          "id": "x",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartx.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartx.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartx/"
+          }
+        },
+        {
+          "name": "subpart xi\u2014food production targets and reports",
+          "id": "xi",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartxi.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartxi.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartxi/"
+          }
+        },
+        {
+          "name": "subpart xii\u2014famine prevention and freedom from hunger",
+          "id": "xii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartxii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartxii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartxii/"
+          }
+        },
+        {
+          "name": "subpart i\u2014panama canal commission personnel",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014wage and employment practices",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartii/"
+          }
+        },
+        {
+          "name": "subpart iii\u2014conditions of employment and placement",
+          "id": "iii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartiii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartiii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartiii/"
+          }
+        },
+        {
+          "name": "subpart iv\u2014retirement",
+          "id": "iv",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartiv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartiv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartiv/"
+          }
+        },
+        {
+          "name": "subpart v\u2014application to related personnel",
+          "id": "v",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartv/"
+          }
+        },
+        {
+          "name": "subpart vi\u2014labor-management relations",
+          "id": "vi",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartvi.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartvi.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartvi/"
+          }
+        },
+        {
+          "name": "subpart i\u2014funds",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014accounting policies and audits",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartii/"
+          }
+        },
+        {
+          "name": "subpart iii\u2014interagency accounts",
+          "id": "iii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartiii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartiii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartiii/"
+          }
+        },
+        {
+          "name": "subpart iv\u2014postal matters",
+          "id": "iv",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartiv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartiv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartiv/"
+          }
+        },
+        {
+          "name": "subpart v\u2014accounts with republic of panama",
+          "id": "v",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartv/"
+          }
+        },
+        {
+          "name": "subpart i\u2014general provisions",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014vessel damage",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartii/"
+          }
+        },
+        {
+          "name": "subpart i\u2014operation of canal",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014inspection of vessels",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-subpartii/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014DIPLOMATIC AND CONSULAR SERVICE GENERALLY",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014CONSULAR COURTS",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014UNITED STATES COURT FOR CHINA",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014PASSPORTS",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014PRESERVATION OF FRIENDLY FOREIGN RELATIONS GENERALLY",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014FOREIGN DIPLOMATIC AND CONSULAR OFFICERS",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014INTERNATIONAL BUREAUS, CONGRESSES, ETC.",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014FOREIGN SERVICE BUILDINGS",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014FOREIGN WARS, WAR MATERIALS, AND NEUTRALITY",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014HEMISPHERAL RELATIONS",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014FOREIGN AGENTS AND PROPAGANDA",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014CLAIMS COMMISSIONS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014SERVICE COURTS OF FRIENDLY FOREIGN FORCES",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014FOREIGN SERVICE",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 14A\u2014FOREIGN SERVICE INFORMATION OFFICERS CORPS",
+          "id": "14A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter14A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter14A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter14A/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014THE REPUBLIC OF THE PHILIPPINES",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014GREEK AND TURKISH ASSISTANCE",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014RELIEF AID TO WAR-DEVASTATED COUNTRIES",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014UNITED STATES INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014FOREIGN ASSISTANCE PROGRAM",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014MUTUAL DEFENSE ASSISTANCE PROGRAM",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 20A\u2014MUTUAL DEFENSE ASSISTANCE CONTROL PROGRAM",
+          "id": "20A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter20A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter20A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter20A/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014SETTLEMENT OF INTERNATIONAL CLAIMS",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 21A\u2014SETTLEMENT OF INVESTMENT DISPUTES",
+          "id": "21A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter21A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter21A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter21A/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014MUTUAL SECURITY ASSISTANCE",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014PROTECTION OF CITIZENS ABROAD",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014MUTUAL SECURITY PROGRAM",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 24A\u2014MIDDLE EAST PEACE AND STABILITY",
+          "id": "24A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter24A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter24A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter24A/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014PROTECTION OF VESSELS ON THE HIGH SEAS AND IN TERRITORIAL WATERS OF FOREIGN COUNTRIES",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014ARMED FORCES PARTICIPATION IN INTERNATIONAL AMATEUR SPORTS COMPETITIONS",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014INTERNATIONAL CULTURAL EXCHANGE AND TRADE FAIR PARTICIPATION",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014INTERNATIONAL ATOMIC ENERGY AGENCY PARTICIPATION",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014CULTURAL, TECHNICAL, AND EDUCATIONAL CENTERS",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 29A\u2014INTER-AMERICAN CULTURAL AND TRADE CENTER",
+          "id": "29A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter29A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter29A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter29A/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014INTERNATIONAL COOPERATION IN HEALTH AND MEDICAL RESEARCH",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014INTERNATIONAL TRAVEL",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 31A\u2014NATIONAL TOURISM ORGANIZATION",
+          "id": "31A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter31A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter31A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter31A/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014FOREIGN ASSISTANCE",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014THE PEACE CORPS",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014ARMS CONTROL AND DISARMAMENT",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014MIGRATION AND REFUGEE ASSISTANCE",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014FOREIGN GIFTS AND DECORATIONS",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 38\u2014DEPARTMENT OF STATE",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014ARMS EXPORT CONTROL",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 40\u2014INTERNATIONAL EXPOSITIONS",
+          "id": "40",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter40.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter40.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter40/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014STUDY COMMISSION RELATING TO FOREIGN POLICY",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014INTERNATIONAL ECONOMIC POLICY",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014INTERNATIONAL BROADCASTING",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 44\u2014JAPAN-UNITED STATES FRIENDSHIP",
+          "id": "44",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter44.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter44.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter44/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014COMMISSION ON SECURITY AND COOPERATION IN EUROPE",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 46\u2014INTERNATIONAL INVESTMENT AND TRADE IN SERVICES SURVEY",
+          "id": "46",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter46.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter46.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter46/"
+          }
+        },
+        {
+          "name": "CHAPTER 46A\u2014FOREIGN DIRECT INVESTMENT AND INTERNATIONAL FINANCIAL DATA",
+          "id": "46A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter46A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter46A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter46A/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014NUCLEAR NON-PROLIFERATION",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 48\u2014TAIWAN RELATIONS",
+          "id": "48",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter48.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter48.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter48/"
+          }
+        },
+        {
+          "name": "CHAPTER 48A\u2014TAIWAN ENHANCED RESILIENCE",
+          "id": "48A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter48A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter48A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter48A/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014SUPPORT OF PEACE TREATY BETWEEN EGYPT AND ISRAEL",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter50/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014PANAMA CANAL",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 52\u2014FOREIGN SERVICE",
+          "id": "52",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter52.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter52.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter52/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014AUTHORITIES RELATING TO THE REGULATION OF FOREIGN MISSIONS",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 53A\u2014DISPOSITION OF PERSONAL PROPERTY ABROAD",
+          "id": "53A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter53A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter53A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter53A/"
+          }
+        },
+        {
+          "name": "CHAPTER 53B\u2014FOREIGN RELATIONS OF THE UNITED STATES HISTORICAL SERIES",
+          "id": "53B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter53B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter53B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter53B/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014PRIVATE ORGANIZATION ASSISTANCE",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014RESEARCH AND TRAINING FOR EASTERN EUROPE AND INDEPENDENT STATES OF FORMER SOVIET UNION",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 56\u2014UNITED STATES INSTITUTE OF PEACE",
+          "id": "56",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter56.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter56.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter56/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014UNITED STATES SCHOLARSHIP PROGRAM FOR DEVELOPING COUNTRIES",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 58\u2014DIPLOMATIC SECURITY",
+          "id": "58",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter58.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter58.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter58/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014FASCELL FELLOWSHIP PROGRAM",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 60\u2014ANTI-APARTHEID PROGRAM",
+          "id": "60",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter60.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter60.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter60/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014ANTI-TERRORISM\u2014PLO",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 62\u2014INTERNATIONAL FINANCIAL POLICY",
+          "id": "62",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter62.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter62.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter62/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014SUPPORT FOR EAST EUROPEAN DEMOCRACY (SEED)",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 64\u2014UNITED STATES RESPONSE TO TERRORISM AFFECTING AMERICANS ABROAD",
+          "id": "64",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter64.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter64.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter64/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014CONTROL AND ELIMINATION OF CHEMICAL AND BIOLOGICAL WEAPONS",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 66\u2014UNITED STATES-HONG KONG POLICY",
+          "id": "66",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter66.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter66.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter66/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014FREEDOM FOR RUSSIA AND EMERGING EURASIAN DEMOCRACIES AND OPEN MARKETS SUPPORT",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter67/"
+          }
+        },
+        {
+          "name": "CHAPTER 68\u2014DEMILITARIZATION OF FORMER SOVIET UNION",
+          "id": "68",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter68.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter68.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter68/"
+          }
+        },
+        {
+          "name": "CHAPTER 68A\u2014COOPERATIVE THREAT REDUCTION WITH STATES OF FORMER SOVIET UNION",
+          "id": "68A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter68A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter68A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter68A/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014CUBAN DEMOCRACY",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 69A\u2014CUBAN LIBERTY AND DEMOCRATIC SOLIDARITY (LIBERTAD)",
+          "id": "69A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter69A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter69A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter69A/"
+          }
+        },
+        {
+          "name": "CHAPTER 70\u2014MANSFIELD FELLOWSHIP PROGRAM",
+          "id": "70",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter70.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter70.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter70/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014UNITED STATES INTERNATIONAL BROADCASTING",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014NUCLEAR PROLIFERATION PREVENTION",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014INTERNATIONAL RELIGIOUS FREEDOM",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014FOREIGN AFFAIRS AGENCIES CONSOLIDATION",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014CHEMICAL WEAPONS CONVENTION IMPLEMENTATION",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 76\u2014ASSISTANCE TO COUNTRIES WITH LARGE POPULATIONS HAVING HIV/AIDS",
+          "id": "76",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter76.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter76.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter76/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014UNITED STATES-CHINA RELATIONS",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 78\u2014TRAFFICKING VICTIMS PROTECTION",
+          "id": "78",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter78.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter78.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter78/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014TRADE SANCTIONS REFORM AND EXPORT ENHANCEMENT",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 80\u2014DIPLOMATIC TELECOMMUNICATIONS SERVICE PROGRAM OFFICE (DTS-PO)",
+          "id": "80",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter80.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter80.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter80/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014INTERNATIONAL CRIMINAL COURT",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 82\u2014AFGHANISTAN FREEDOM SUPPORT",
+          "id": "82",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter82.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter82.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter82/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014UNITED STATES LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 84\u2014MILLENNIUM CHALLENGE",
+          "id": "84",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter84.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter84.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter84/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014NORTH KOREAN HUMAN RIGHTS",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter85/"
+          }
+        },
+        {
+          "name": "CHAPTER 86\u2014CLIMATE CHANGE TECHNOLOGY DEPLOYMENT IN DEVELOPING COUNTRIES",
+          "id": "86",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter86.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter86.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter86/"
+          }
+        },
+        {
+          "name": "CHAPTER 87\u2014UNITED STATES AND INDIA NUCLEAR COOPERATION",
+          "id": "87",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter87.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter87.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter87/"
+          }
+        },
+        {
+          "name": "CHAPTER 88\u2014NUCLEAR NON-PROLIFERATION TREATY\u2014UNITED STATES ADDITIONAL PROTOCOL IMPLEMENTATION",
+          "id": "88",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter88.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter88.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter88/"
+          }
+        },
+        {
+          "name": "CHAPTER 89\u2014ADVANCING DEMOCRATIC VALUES",
+          "id": "89",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter89.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter89.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter89/"
+          }
+        },
+        {
+          "name": "CHAPTER 90\u2014VOLUNTEERS FOR PROSPERITY PROGRAM",
+          "id": "90",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter90.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter90.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter90/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014ENHANCED PARTNERSHIP WITH PAKISTAN",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 92\u2014COMPREHENSIVE IRAN SANCTIONS, ACCOUNTABILITY, AND DIVESTMENT",
+          "id": "92",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter92.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter92.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter92/"
+          }
+        },
+        {
+          "name": "CHAPTER 93\u2014UNITED STATES-ISRAEL COOPERATION",
+          "id": "93",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter93.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter93.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter93/"
+          }
+        },
+        {
+          "name": "CHAPTER 94\u2014IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS",
+          "id": "94",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter94.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter94.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter94/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014IRAN FREEDOM AND COUNTERPROLIFERATION",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 96\u2014SOVEREIGNTY, INTEGRITY, DEMOCRACY, AND ECONOMIC STABILITY OF UKRAINE",
+          "id": "96",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter96.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter96.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter96/"
+          }
+        },
+        {
+          "name": "CHAPTER 96A\u2014UKRAINE FREEDOM SUPPORT",
+          "id": "96A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter96A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter96A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter96A/"
+          }
+        },
+        {
+          "name": "CHAPTER 97\u2014INTERNATIONAL CHILD ABDUCTION REMEDIES",
+          "id": "97",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter97.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter97.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter97/"
+          }
+        },
+        {
+          "name": "CHAPTER 98\u2014INTERNATIONAL CHILD ABDUCTION PREVENTION AND RETURN",
+          "id": "98",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter98.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter98.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter98/"
+          }
+        },
+        {
+          "name": "CHAPTER 99\u2014NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT",
+          "id": "99",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter99.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter99.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter99/"
+          }
+        },
+        {
+          "name": "CHAPTER 100\u2014GLOBAL FOOD SECURITY",
+          "id": "100",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter100.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter100.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter100/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014COUNTERING IRAN'S DESTABILIZING ACTIVITIES",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 102\u2014COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA",
+          "id": "102",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter102.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter102.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter102/"
+          }
+        },
+        {
+          "name": "CHAPTER 103\u2014BETTER UTILIZATION OF INVESTMENTS LEADING TO DEVELOPMENT",
+          "id": "103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter103/"
+          }
+        },
+        {
+          "name": "CHAPTER 104\u2014VENEZUELA ASSISTANCE",
+          "id": "104",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter104.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter104.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter104/"
+          }
+        },
+        {
+          "name": "CHAPTER 105\u2014GLOBAL FRAGILITY",
+          "id": "105",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter105.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter105.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter105/"
+          }
+        },
+        {
+          "name": "CHAPTER 106\u2014CHAMPIONING AMERICAN BUSINESS THROUGH DIPLOMACY",
+          "id": "106",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter106.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter106.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter106/"
+          }
+        },
+        {
+          "name": "CHAPTER 107\u2014SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY",
+          "id": "107",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter107.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter107.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter107/"
+          }
+        },
+        {
+          "name": "CHAPTER 108\u2014GLOBAL MAGNITSKY HUMAN RIGHTS ACCOUNTABILITY",
+          "id": "108",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter108.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter108.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter108/"
+          }
+        },
+        {
+          "name": "CHAPTER 109\u2014BURMA UNIFIED THROUGH RIGOROUS MILITARY ACCOUNTABILITY",
+          "id": "109",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter109.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter109.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter109/"
+          }
+        },
+        {
+          "name": "CHAPTER 110\u2014INFORMATION SECURITY AND CYBER DIPLOMACY",
+          "id": "110",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter110.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter110.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter110/"
+          }
+        },
+        {
+          "name": "CHAPTER 111\u2014AUSTRALIA, UNITED KINGDOM, AND UNITED STATES (AUKUS) SECURITY PARTNERSHIP",
+          "id": "111",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter111.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter111.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter111/"
+          }
+        },
+        {
+          "name": "CHAPTER 112\u2014COMBATING GLOBAL CORRUPTION",
+          "id": "112",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22-chapter112.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22-chapter112.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22-chapter112/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

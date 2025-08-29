@@ -1,0 +1,1687 @@
+{
+  "structure": {
+    "title_num": 16,
+    "title_name": "TITLE 16\u2014CONSERVATION",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 8201",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Generally",
+        "Part B\u2014Chalmette Unit",
+        "Part A\u2014Establishment of Park and Preservation District",
+        "Part B\u2014Powers and Duties of Secretary",
+        "Part C\u2014Powers and Duties of Preservation Commission",
+        "Part A\u2014Dayton Aviation Heritage National Historical Park",
+        "Part B\u2014Dayton Aviation Heritage Commission",
+        "Part A\u2014Death Valley National Park",
+        "Part B\u2014Joshua Tree National Park",
+        "Part C\u2014Mojave National Preserve",
+        "Part D\u2014Miscellaneous Provisions",
+        "Part E\u2014Off-Highway Vehicle Recreation Areas",
+        "Part A\u2014Cane River Creole National Historical Park",
+        "Part B\u2014Cane River National Heritage Area",
+        "Part A\u2014Coordination of Programs",
+        "Part B\u2014Land and Water Conservation Fund",
+        "Part C\u2014Water Resources Projects",
+        "Part D\u2014Land Transfers",
+        "Part E\u2014Reclamation Recreation Management",
+        "Part A\u2014El Malpais National Monument",
+        "Part B\u2014Masau Trail",
+        "Part C\u2014El Malpais National Conservation Area",
+        "Part D\u2014Wilderness",
+        "Part E\u2014General Provisions",
+        "Part A\u2014Mississippi National River and Recreation Area",
+        "Part B\u2014Tri-Rivers Management",
+        "Part A\u2014Establishment, Administration, and Jurisdiction",
+        "Part B\u2014Management Provisions",
+        "Part C\u2014Transfer Provisions",
+        "Part D\u2014Funding",
+        "Part A\u2014Steens Mountain Cooperative Management and Protection Area",
+        "Part B\u2014Steens Mountain Wilderness Area",
+        "Part C\u2014Wild and Scenic Rivers and Trout Reserve",
+        "Part D\u2014Mineral Withdrawal Area",
+        "Part E\u2014Establishment of Wildlands Juniper Management Area",
+        "Part F\u2014Land Exchanges",
+        "Part G\u2014Funding Authorities",
+        "Part A\u2014Programs",
+        "Part B\u2014Advisory Council on Historic Preservation",
+        "Part C\u2014General and Miscellaneous",
+        "Part D\u2014National Center for Preservation Technology and Training",
+        "Part I\u2014Comprehensive Conservation Enhancement Program",
+        "Part II\u2014Conservation Security and Farmland Protection",
+        "Part III\u2014Environmental Easement Program",
+        "Part IV\u2014Environmental Quality Incentives Program and Conservation Stewardship Program",
+        "Part V\u2014Other Conservation Programs"
+      ],
+      "subparts": [
+        "subpart 1\u2014designation and purposes",
+        "subpart 2\u2014management of federal lands",
+        "subpart 3\u2014cooperative management",
+        "subpart 4\u2014advisory council",
+        "subpart a\u2014general provisions",
+        "subpart b\u2014conservation reserve",
+        "subpart c\u2014wetlands reserve program",
+        "subpart a\u2014conservation security program",
+        "subpart b\u2014conservation stewardship program",
+        "subpart c\u2014farmland protection program",
+        "subpart d\u2014grassland reserve program",
+        "subpart a\u2014environmental quality incentives program",
+        "subpart b\u2014conservation stewardship program"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES",
+        "CHAPTER 1A\u2014HISTORIC SITES, BUILDINGS, OBJECTS, AND ANTIQUITIES",
+        "CHAPTER 1B\u2014ARCHAEOLOGICAL RESOURCES PROTECTION",
+        "CHAPTER 1C\u2014PALEONTOLOGICAL RESOURCES PRESERVATION",
+        "CHAPTER 2\u2014NATIONAL FORESTS",
+        "CHAPTER 3\u2014FORESTS; FOREST SERVICE; REFORESTATION; MANAGEMENT",
+        "CHAPTER 3A\u2014UNEMPLOYMENT RELIEF THROUGH PERFORMANCE OF USEFUL PUBLIC WORK",
+        "CHAPTER 3B\u2014SOIL CONSERVATION",
+        "CHAPTER 3C\u2014WATER CONSERVATION",
+        "CHAPTER 4\u2014PROTECTION OF TIMBER, AND DEPREDATIONS",
+        "CHAPTER 5\u2014PROTECTION OF FUR SEALS AND OTHER FUR-BEARING ANIMALS",
+        "CHAPTER 5A\u2014PROTECTION AND CONSERVATION OF WILDLIFE",
+        "CHAPTER 5B\u2014WILDLIFE RESTORATION",
+        "CHAPTER 5C\u2014CONSERVATION PROGRAMS ON GOVERNMENT LANDS",
+        "CHAPTER 6\u2014GAME AND BIRD PRESERVES; PROTECTION",
+        "CHAPTER 7\u2014PROTECTION OF MIGRATORY GAME AND INSECTIVOROUS BIRDS",
+        "CHAPTER 8\u2014UPPER MISSISSIPPI RIVER NATIONAL WILDLIFE AND FISH REFUGE",
+        "CHAPTER 9\u2014FISH AND WILDLIFE SERVICE",
+        "CHAPTER 9A\u2014PRESERVATION OF FISHERY RESOURCES",
+        "CHAPTER 9B\u2014NATIONAL FISH HATCHERY SYSTEM ENHANCEMENT",
+        "CHAPTER 10\u2014NORTHERN PACIFIC HALIBUT FISHING",
+        "CHAPTER 10A\u2014SOCKEYE OR PINK SALMON FISHING",
+        "CHAPTER 10B\u2014FISH RESTORATION AND MANAGEMENT PROJECTS",
+        "CHAPTER 10C\u2014FISH RESEARCH AND EXPERIMENTATION PROGRAM",
+        "CHAPTER 10D\u2014STATE COMMERCIAL FISHERIES RESEARCH AND DEVELOPMENT PROJECTS",
+        "CHAPTER 11\u2014REGULATION OF LANDING, CURING, AND SALE OF SPONGES TAKEN FROM GULF OF MEXICO AND STRAITS OF FLORIDA",
+        "CHAPTER 12\u2014FEDERAL REGULATION AND DEVELOPMENT OF POWER",
+        "CHAPTER 12A\u2014TENNESSEE VALLEY AUTHORITY",
+        "CHAPTER 12B\u2014BONNEVILLE PROJECT",
+        "CHAPTER 12C\u2014FORT PECK PROJECT",
+        "CHAPTER 12D\u2014COLUMBIA BASIN PROJECT",
+        "CHAPTER 12E\u2014NIAGARA POWER PROJECT",
+        "CHAPTER 12F\u2014PACIFIC NORTHWEST CONSUMER POWER PREFERENCE; RECIPROCAL PRIORITY IN OTHER REGIONS",
+        "CHAPTER 12G\u2014PACIFIC NORTHWEST FEDERAL TRANSMISSION SYSTEM",
+        "CHAPTER 12H\u2014PACIFIC NORTHWEST ELECTRIC POWER PLANNING AND CONSERVATION",
+        "CHAPTER 13\u2014REGULATION OF TRANSPORTATION IN INTERSTATE OR FOREIGN COMMERCE OF BLACK BASS AND OTHER FISH",
+        "CHAPTER 14\u2014REGULATION OF WHALING",
+        "CHAPTER 14A\u2014WHALE CONSERVATION AND PROTECTION",
+        "CHAPTER 15\u2014PREDATORY SEA LAMPREYS IN THE GREAT LAKES",
+        "CHAPTER 15A\u2014GREAT LAKES FISHERIES",
+        "CHAPTER 15B\u2014GREAT LAKES FISH AND WILDLIFE RESTORATION",
+        "CHAPTER 15C\u2014GREAT LAKES FISH AND WILDLIFE TISSUE BANK",
+        "CHAPTER 16\u2014TUNA CONVENTIONS",
+        "CHAPTER 16A\u2014ATLANTIC TUNAS CONVENTION",
+        "CHAPTER 16B\u2014EASTERN PACIFIC TUNA FISHING",
+        "CHAPTER 16C\u2014SOUTH PACIFIC TUNA FISHING",
+        "CHAPTER 17\u2014NORTHWEST ATLANTIC FISHERIES",
+        "CHAPTER 18\u2014WATERSHED PROTECTION AND FLOOD PREVENTION",
+        "CHAPTER 18A\u2014COOPERATIVE WATERSHED MANAGEMENT PROGRAM",
+        "CHAPTER 19\u2014NORTH PACIFIC FISHERIES",
+        "CHAPTER 20\u2014NATIONAL FISHERIES CENTER AND AQUARIUM",
+        "CHAPTER 21\u2014PROHIBITION OF FOREIGN FISHING VESSELS IN THE TERRITORIAL WATERS OF THE UNITED STATES",
+        "CHAPTER 21A\u2014FISHERIES ZONE CONTIGUOUS TO TERRITORIAL SEA OF THE UNITED STATES",
+        "CHAPTER 21B\u2014PROHIBITION OF CERTAIN FOREIGN FISHING VESSELS IN UNITED STATES FISHERIES",
+        "CHAPTER 21C\u2014OFFSHORE SHRIMP FISHERIES",
+        "CHAPTER 22\u2014INTERNATIONAL PARKS",
+        "CHAPTER 23\u2014NATIONAL WILDERNESS PRESERVATION SYSTEM",
+        "CHAPTER 24\u2014CONSERVATION AND PROTECTION OF NORTH PACIFIC FUR SEALS",
+        "CHAPTER 25\u2014JELLYFISH OR SEA NETTLES, OTHER SUCH PESTS, AND SEAWEED IN COASTAL WATERS: CONTROL OR ELIMINATION",
+        "CHAPTER 25A\u2014CROWN OF THORNS STARFISH",
+        "CHAPTER 25B\u2014REEFS FOR MARINE LIFE CONSERVATION",
+        "CHAPTER 26\u2014ESTUARINE AREAS",
+        "CHAPTER 27\u2014NATIONAL TRAILS SYSTEM",
+        "CHAPTER 27A\u2014NATIONAL RECREATIONAL TRAILS FUND",
+        "CHAPTER 28\u2014WILD AND SCENIC RIVERS",
+        "CHAPTER 29\u2014WATER BANK PROGRAM FOR WETLANDS PRESERVATION",
+        "CHAPTER 30\u2014WILD HORSES AND BURROS: PROTECTION, MANAGEMENT, AND CONTROL",
+        "CHAPTER 31\u2014MARINE MAMMAL PROTECTION",
+        "CHAPTER 32\u2014MARINE SANCTUARIES",
+        "CHAPTER 32A\u2014REGIONAL MARINE RESEARCH PROGRAMS",
+        "CHAPTER 33\u2014COASTAL ZONE MANAGEMENT",
+        "CHAPTER 34\u2014RURAL ENVIRONMENTAL CONSERVATION PROGRAM",
+        "CHAPTER 35\u2014ENDANGERED SPECIES",
+        "CHAPTER 36\u2014FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING",
+        "CHAPTER 37\u2014YOUTH CONSERVATION CORPS AND PUBLIC LANDS CORPS",
+        "CHAPTER 38\u2014FISHERY CONSERVATION AND MANAGEMENT",
+        "CHAPTER 39\u2014MINING ACTIVITY WITHIN NATIONAL PARK SYSTEM AREAS",
+        "CHAPTER 40\u2014SOIL AND WATER RESOURCES CONSERVATION",
+        "CHAPTER 41\u2014COOPERATIVE FORESTRY ASSISTANCE",
+        "CHAPTER 42\u2014EMERGENCY CONSERVATION PROGRAM",
+        "CHAPTER 43\u2014PUBLIC TRANSPORTATION PROGRAMS FOR NATIONAL PARK SYSTEM AREAS",
+        "CHAPTER 44\u2014ANTARCTIC CONSERVATION",
+        "CHAPTER 44A\u2014ANTARCTIC MARINE LIVING RESOURCES CONVENTION",
+        "CHAPTER 44B\u2014ANTARCTIC MINERAL RESOURCES PROTECTION",
+        "CHAPTER 45\u2014URBAN PARK AND RECREATION RECOVERY PROGRAM",
+        "CHAPTER 46\u2014PUBLIC UTILITY REGULATORY POLICIES",
+        "CHAPTER 47\u2014SMALL HYDROELECTRIC POWER PROJECTS",
+        "CHAPTER 48\u2014NATIONAL AQUACULTURE POLICY, PLANNING, AND DEVELOPMENT",
+        "CHAPTER 49\u2014FISH AND WILDLIFE CONSERVATION",
+        "CHAPTER 50\u2014CHESAPEAKE BAY RESEARCH COORDINATION",
+        "CHAPTER 51\u2014ALASKA NATIONAL INTEREST LANDS CONSERVATION",
+        "CHAPTER 52\u2014SALMON AND STEELHEAD CONSERVATION AND ENHANCEMENT",
+        "CHAPTER 53\u2014CONTROL OF ILLEGALLY TAKEN FISH AND WILDLIFE",
+        "CHAPTER 54\u2014RESOURCE CONSERVATION",
+        "CHAPTER 55\u2014COASTAL BARRIER RESOURCES",
+        "CHAPTER 56\u2014NORTH ATLANTIC SALMON FISHING",
+        "CHAPTER 56A\u2014PACIFIC SALMON FISHING",
+        "CHAPTER 57\u2014NATIONAL FISH AND WILDLIFE FOUNDATION",
+        "CHAPTER 57A\u2014PARTNERSHIPS FOR WILDLIFE",
+        "CHAPTER 57B\u2014PARTNERS FOR FISH AND WILDLIFE",
+        "CHAPTER 58\u2014ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM",
+        "CHAPTER 59\u2014WETLANDS RESOURCES",
+        "CHAPTER 59A\u2014WETLANDS",
+        "CHAPTER 60\u2014FISH AND SEAFOOD PROMOTION",
+        "CHAPTER 61\u2014INTERJURISDICTIONAL FISHERIES",
+        "CHAPTER 62\u2014AFRICAN ELEPHANT CONSERVATION",
+        "CHAPTER 62A\u2014ASIAN ELEPHANT CONSERVATION",
+        "CHAPTER 63\u2014FEDERAL CAVE RESOURCES PROTECTION",
+        "CHAPTER 64\u2014NORTH AMERICAN WETLANDS CONSERVATION",
+        "CHAPTER 65\u2014INTERNATIONAL FORESTRY COOPERATION",
+        "CHAPTER 66\u2014TAKE PRIDE IN AMERICA PROGRAM",
+        "CHAPTER 67\u2014AQUATIC NUISANCE PREVENTION AND CONTROL",
+        "CHAPTER 68\u2014PACIFIC YEW CONSERVATION AND MANAGEMENT",
+        "CHAPTER 69\u2014WILD EXOTIC BIRD CONSERVATION",
+        "CHAPTER 70\u2014NORTH PACIFIC ANADROMOUS STOCKS CONVENTION",
+        "CHAPTER 71\u2014ATLANTIC COASTAL FISHERIES COOPERATIVE MANAGEMENT",
+        "CHAPTER 71A\u2014ATLANTIC STRIPED BASS CONSERVATION",
+        "CHAPTER 72\u2014RECREATIONAL HUNTING SAFETY",
+        "CHAPTER 73\u2014RHINOCEROS AND TIGER CONSERVATION",
+        "CHAPTER 74\u2014NATIONAL MARITIME HERITAGE",
+        "CHAPTER 75\u2014HIGH SEAS FISHING COMPLIANCE",
+        "CHAPTER 76\u2014NORTHWEST ATLANTIC FISHERIES CONVENTION",
+        "CHAPTER 77\u2014YUKON RIVER SALMON",
+        "CHAPTER 78\u2014NATIONAL NATURAL RESOURCES CONSERVATION FOUNDATION",
+        "CHAPTER 79\u2014NATIONAL PARK SERVICE MANAGEMENT",
+        "CHAPTER 80\u2014NEOTROPICAL MIGRATORY BIRD CONSERVATION",
+        "CHAPTER 81\u2014USER FEES UNDER FOREST SYSTEM RECREATION RESIDENCE PROGRAM",
+        "CHAPTER 81A\u2014NATIONAL FOREST ORGANIZATIONAL CAMP FEE IMPROVEMENT",
+        "CHAPTER 82\u2014GREAT APE CONSERVATION",
+        "CHAPTER 83\u2014CORAL REEF CONSERVATION",
+        "CHAPTER 83A\u2014CORAL REEF CONSERVATION, MANAGEMENT, AND ASSISTANCE",
+        "CHAPTER 84\u2014HEALTHY FOREST RESTORATION",
+        "CHAPTER 85\u2014MARINE TURTLE CONSERVATION",
+        "CHAPTER 86\u2014SOUTHWEST FOREST HEALTH AND WILDFIRE PREVENTION",
+        "CHAPTER 87\u2014FEDERAL LANDS RECREATION ENHANCEMENT",
+        "CHAPTER 87A\u2014MODERNIZING ACCESS TO PUBLIC LAND",
+        "CHAPTER 88\u2014WESTERN AND CENTRAL PACIFIC FISHERIES CONVENTION",
+        "CHAPTER 89\u2014PACIFIC WHITING",
+        "CHAPTER 90\u2014SECURE RURAL SCHOOLS AND COMMUNITY SELF-DETERMINATION",
+        "CHAPTER 91\u2014NATIONAL LANDSCAPE CONSERVATION SYSTEM",
+        "CHAPTER 92\u2014FOREST LANDSCAPE RESTORATION",
+        "CHAPTER 93\u2014AGREEMENT ON PORT STATE MEASURES TO PREVENT, DETER AND ELIMINATE ILLEGAL, UNREPORTED AND UNREGULATED FISHING",
+        "CHAPTER 94\u2014NATIONAL OCEANS AND COASTAL SECURITY",
+        "CHAPTER 95\u2014ELIMINATE, NEUTRALIZE, AND DISRUPT WILDLIFE TRAFFICKING",
+        "CHAPTER 96\u2014NORTH PACIFIC FISHERIES CONVENTION",
+        "CHAPTER 97\u2014CONVENTION ON THE CONSERVATION AND MANAGEMENT OF HIGH SEAS FISHERY RESOURCES IN THE SOUTH PACIFIC",
+        "CHAPTER 98\u2014SPORTSMEN'S ACCESS TO FEDERAL LAND",
+        "CHAPTER 99\u2014MARITIME SECURITY AND FISHERIES ENFORCEMENT",
+        "CHAPTER 100\u2014NUTRIA ERADICATION AND CONTROL",
+        "CHAPTER 101\u2014NATIONAL FISH HABITAT CONSERVATION THROUGH PARTNERSHIPS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16.htm"
+  },
+  "links": {
+    "title_num": 16,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title16/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title16/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Comprehensive Conservation Enhancement Program",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Conservation Security and Farmland Protection",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Environmental Easement Program",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Environmental Quality Incentives Program and Conservation Stewardship Program",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014Other Conservation Programs",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-partV/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart 1\u2014designation and purposes",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014management of federal lands",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014cooperative management",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014advisory council",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-subpart4/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 1A\u2014HISTORIC SITES, BUILDINGS, OBJECTS, AND ANTIQUITIES",
+          "id": "1A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter1A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter1A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter1A/"
+          }
+        },
+        {
+          "name": "CHAPTER 1B\u2014ARCHAEOLOGICAL RESOURCES PROTECTION",
+          "id": "1B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter1B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter1B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter1B/"
+          }
+        },
+        {
+          "name": "CHAPTER 1C\u2014PALEONTOLOGICAL RESOURCES PRESERVATION",
+          "id": "1C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter1C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter1C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter1C/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014NATIONAL FORESTS",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014FORESTS; FOREST SERVICE; REFORESTATION; MANAGEMENT",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 3A\u2014UNEMPLOYMENT RELIEF THROUGH PERFORMANCE OF USEFUL PUBLIC WORK",
+          "id": "3A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter3A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter3A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter3A/"
+          }
+        },
+        {
+          "name": "CHAPTER 3B\u2014SOIL CONSERVATION",
+          "id": "3B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter3B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter3B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter3B/"
+          }
+        },
+        {
+          "name": "CHAPTER 3C\u2014WATER CONSERVATION",
+          "id": "3C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter3C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter3C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter3C/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014PROTECTION OF TIMBER, AND DEPREDATIONS",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014PROTECTION OF FUR SEALS AND OTHER FUR-BEARING ANIMALS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 5A\u2014PROTECTION AND CONSERVATION OF WILDLIFE",
+          "id": "5A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter5A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter5A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter5A/"
+          }
+        },
+        {
+          "name": "CHAPTER 5B\u2014WILDLIFE RESTORATION",
+          "id": "5B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter5B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter5B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter5B/"
+          }
+        },
+        {
+          "name": "CHAPTER 5C\u2014CONSERVATION PROGRAMS ON GOVERNMENT LANDS",
+          "id": "5C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter5C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter5C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter5C/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014GAME AND BIRD PRESERVES; PROTECTION",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014PROTECTION OF MIGRATORY GAME AND INSECTIVOROUS BIRDS",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014UPPER MISSISSIPPI RIVER NATIONAL WILDLIFE AND FISH REFUGE",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014FISH AND WILDLIFE SERVICE",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 9A\u2014PRESERVATION OF FISHERY RESOURCES",
+          "id": "9A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter9A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter9A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter9A/"
+          }
+        },
+        {
+          "name": "CHAPTER 9B\u2014NATIONAL FISH HATCHERY SYSTEM ENHANCEMENT",
+          "id": "9B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter9B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter9B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter9B/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014NORTHERN PACIFIC HALIBUT FISHING",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 10A\u2014SOCKEYE OR PINK SALMON FISHING",
+          "id": "10A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter10A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter10A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter10A/"
+          }
+        },
+        {
+          "name": "CHAPTER 10B\u2014FISH RESTORATION AND MANAGEMENT PROJECTS",
+          "id": "10B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter10B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter10B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter10B/"
+          }
+        },
+        {
+          "name": "CHAPTER 10C\u2014FISH RESEARCH AND EXPERIMENTATION PROGRAM",
+          "id": "10C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter10C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter10C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter10C/"
+          }
+        },
+        {
+          "name": "CHAPTER 10D\u2014STATE COMMERCIAL FISHERIES RESEARCH AND DEVELOPMENT PROJECTS",
+          "id": "10D",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter10D.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter10D.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter10D/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014REGULATION OF LANDING, CURING, AND SALE OF SPONGES TAKEN FROM GULF OF MEXICO AND STRAITS OF FLORIDA",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014FEDERAL REGULATION AND DEVELOPMENT OF POWER",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 12A\u2014TENNESSEE VALLEY AUTHORITY",
+          "id": "12A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12A/"
+          }
+        },
+        {
+          "name": "CHAPTER 12B\u2014BONNEVILLE PROJECT",
+          "id": "12B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12B/"
+          }
+        },
+        {
+          "name": "CHAPTER 12C\u2014FORT PECK PROJECT",
+          "id": "12C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12C/"
+          }
+        },
+        {
+          "name": "CHAPTER 12D\u2014COLUMBIA BASIN PROJECT",
+          "id": "12D",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12D.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12D.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12D/"
+          }
+        },
+        {
+          "name": "CHAPTER 12E\u2014NIAGARA POWER PROJECT",
+          "id": "12E",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12E.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12E.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12E/"
+          }
+        },
+        {
+          "name": "CHAPTER 12F\u2014PACIFIC NORTHWEST CONSUMER POWER PREFERENCE; RECIPROCAL PRIORITY IN OTHER REGIONS",
+          "id": "12F",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12F.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12F.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12F/"
+          }
+        },
+        {
+          "name": "CHAPTER 12G\u2014PACIFIC NORTHWEST FEDERAL TRANSMISSION SYSTEM",
+          "id": "12G",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12G.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12G.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12G/"
+          }
+        },
+        {
+          "name": "CHAPTER 12H\u2014PACIFIC NORTHWEST ELECTRIC POWER PLANNING AND CONSERVATION",
+          "id": "12H",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter12H.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter12H.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter12H/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014REGULATION OF TRANSPORTATION IN INTERSTATE OR FOREIGN COMMERCE OF BLACK BASS AND OTHER FISH",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014REGULATION OF WHALING",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 14A\u2014WHALE CONSERVATION AND PROTECTION",
+          "id": "14A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter14A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter14A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter14A/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014PREDATORY SEA LAMPREYS IN THE GREAT LAKES",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 15A\u2014GREAT LAKES FISHERIES",
+          "id": "15A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter15A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter15A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter15A/"
+          }
+        },
+        {
+          "name": "CHAPTER 15B\u2014GREAT LAKES FISH AND WILDLIFE RESTORATION",
+          "id": "15B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter15B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter15B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter15B/"
+          }
+        },
+        {
+          "name": "CHAPTER 15C\u2014GREAT LAKES FISH AND WILDLIFE TISSUE BANK",
+          "id": "15C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter15C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter15C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter15C/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014TUNA CONVENTIONS",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 16A\u2014ATLANTIC TUNAS CONVENTION",
+          "id": "16A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter16A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter16A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter16A/"
+          }
+        },
+        {
+          "name": "CHAPTER 16B\u2014EASTERN PACIFIC TUNA FISHING",
+          "id": "16B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter16B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter16B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter16B/"
+          }
+        },
+        {
+          "name": "CHAPTER 16C\u2014SOUTH PACIFIC TUNA FISHING",
+          "id": "16C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter16C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter16C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter16C/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014NORTHWEST ATLANTIC FISHERIES",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014WATERSHED PROTECTION AND FLOOD PREVENTION",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 18A\u2014COOPERATIVE WATERSHED MANAGEMENT PROGRAM",
+          "id": "18A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter18A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter18A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter18A/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014NORTH PACIFIC FISHERIES",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014NATIONAL FISHERIES CENTER AND AQUARIUM",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014PROHIBITION OF FOREIGN FISHING VESSELS IN THE TERRITORIAL WATERS OF THE UNITED STATES",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 21A\u2014FISHERIES ZONE CONTIGUOUS TO TERRITORIAL SEA OF THE UNITED STATES",
+          "id": "21A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter21A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter21A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter21A/"
+          }
+        },
+        {
+          "name": "CHAPTER 21B\u2014PROHIBITION OF CERTAIN FOREIGN FISHING VESSELS IN UNITED STATES FISHERIES",
+          "id": "21B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter21B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter21B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter21B/"
+          }
+        },
+        {
+          "name": "CHAPTER 21C\u2014OFFSHORE SHRIMP FISHERIES",
+          "id": "21C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter21C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter21C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter21C/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014INTERNATIONAL PARKS",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014NATIONAL WILDERNESS PRESERVATION SYSTEM",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014CONSERVATION AND PROTECTION OF NORTH PACIFIC FUR SEALS",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014JELLYFISH OR SEA NETTLES, OTHER SUCH PESTS, AND SEAWEED IN COASTAL WATERS: CONTROL OR ELIMINATION",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 25A\u2014CROWN OF THORNS STARFISH",
+          "id": "25A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter25A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter25A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter25A/"
+          }
+        },
+        {
+          "name": "CHAPTER 25B\u2014REEFS FOR MARINE LIFE CONSERVATION",
+          "id": "25B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter25B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter25B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter25B/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014ESTUARINE AREAS",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014NATIONAL TRAILS SYSTEM",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 27A\u2014NATIONAL RECREATIONAL TRAILS FUND",
+          "id": "27A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter27A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter27A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter27A/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014WILD AND SCENIC RIVERS",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014WATER BANK PROGRAM FOR WETLANDS PRESERVATION",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014WILD HORSES AND BURROS: PROTECTION, MANAGEMENT, AND CONTROL",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014MARINE MAMMAL PROTECTION",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014MARINE SANCTUARIES",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 32A\u2014REGIONAL MARINE RESEARCH PROGRAMS",
+          "id": "32A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter32A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter32A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter32A/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014COASTAL ZONE MANAGEMENT",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014RURAL ENVIRONMENTAL CONSERVATION PROGRAM",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014ENDANGERED SPECIES",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014YOUTH CONSERVATION CORPS AND PUBLIC LANDS CORPS",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 38\u2014FISHERY CONSERVATION AND MANAGEMENT",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014MINING ACTIVITY WITHIN NATIONAL PARK SYSTEM AREAS",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 40\u2014SOIL AND WATER RESOURCES CONSERVATION",
+          "id": "40",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter40.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter40.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter40/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014COOPERATIVE FORESTRY ASSISTANCE",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014EMERGENCY CONSERVATION PROGRAM",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014PUBLIC TRANSPORTATION PROGRAMS FOR NATIONAL PARK SYSTEM AREAS",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 44\u2014ANTARCTIC CONSERVATION",
+          "id": "44",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter44.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter44.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter44/"
+          }
+        },
+        {
+          "name": "CHAPTER 44A\u2014ANTARCTIC MARINE LIVING RESOURCES CONVENTION",
+          "id": "44A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter44A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter44A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter44A/"
+          }
+        },
+        {
+          "name": "CHAPTER 44B\u2014ANTARCTIC MINERAL RESOURCES PROTECTION",
+          "id": "44B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter44B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter44B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter44B/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014URBAN PARK AND RECREATION RECOVERY PROGRAM",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 46\u2014PUBLIC UTILITY REGULATORY POLICIES",
+          "id": "46",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter46.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter46.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter46/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014SMALL HYDROELECTRIC POWER PROJECTS",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 48\u2014NATIONAL AQUACULTURE POLICY, PLANNING, AND DEVELOPMENT",
+          "id": "48",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter48.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter48.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter48/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014FISH AND WILDLIFE CONSERVATION",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014CHESAPEAKE BAY RESEARCH COORDINATION",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter50/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014ALASKA NATIONAL INTEREST LANDS CONSERVATION",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 52\u2014SALMON AND STEELHEAD CONSERVATION AND ENHANCEMENT",
+          "id": "52",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter52.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter52.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter52/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014CONTROL OF ILLEGALLY TAKEN FISH AND WILDLIFE",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014RESOURCE CONSERVATION",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014COASTAL BARRIER RESOURCES",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 56\u2014NORTH ATLANTIC SALMON FISHING",
+          "id": "56",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter56.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter56.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter56/"
+          }
+        },
+        {
+          "name": "CHAPTER 56A\u2014PACIFIC SALMON FISHING",
+          "id": "56A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter56A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter56A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter56A/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014NATIONAL FISH AND WILDLIFE FOUNDATION",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 57A\u2014PARTNERSHIPS FOR WILDLIFE",
+          "id": "57A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter57A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter57A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter57A/"
+          }
+        },
+        {
+          "name": "CHAPTER 57B\u2014PARTNERS FOR FISH AND WILDLIFE",
+          "id": "57B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter57B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter57B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter57B/"
+          }
+        },
+        {
+          "name": "CHAPTER 58\u2014ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM",
+          "id": "58",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter58.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter58.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter58/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014WETLANDS RESOURCES",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 59A\u2014WETLANDS",
+          "id": "59A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter59A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter59A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter59A/"
+          }
+        },
+        {
+          "name": "CHAPTER 60\u2014FISH AND SEAFOOD PROMOTION",
+          "id": "60",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter60.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter60.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter60/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014INTERJURISDICTIONAL FISHERIES",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 62\u2014AFRICAN ELEPHANT CONSERVATION",
+          "id": "62",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter62.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter62.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter62/"
+          }
+        },
+        {
+          "name": "CHAPTER 62A\u2014ASIAN ELEPHANT CONSERVATION",
+          "id": "62A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter62A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter62A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter62A/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014FEDERAL CAVE RESOURCES PROTECTION",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 64\u2014NORTH AMERICAN WETLANDS CONSERVATION",
+          "id": "64",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter64.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter64.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter64/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014INTERNATIONAL FORESTRY COOPERATION",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 66\u2014TAKE PRIDE IN AMERICA PROGRAM",
+          "id": "66",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter66.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter66.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter66/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014AQUATIC NUISANCE PREVENTION AND CONTROL",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter67/"
+          }
+        },
+        {
+          "name": "CHAPTER 68\u2014PACIFIC YEW CONSERVATION AND MANAGEMENT",
+          "id": "68",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter68.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter68.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter68/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014WILD EXOTIC BIRD CONSERVATION",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 70\u2014NORTH PACIFIC ANADROMOUS STOCKS CONVENTION",
+          "id": "70",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter70.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter70.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter70/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014ATLANTIC COASTAL FISHERIES COOPERATIVE MANAGEMENT",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 71A\u2014ATLANTIC STRIPED BASS CONSERVATION",
+          "id": "71A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter71A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter71A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter71A/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014RECREATIONAL HUNTING SAFETY",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014RHINOCEROS AND TIGER CONSERVATION",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014NATIONAL MARITIME HERITAGE",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014HIGH SEAS FISHING COMPLIANCE",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 76\u2014NORTHWEST ATLANTIC FISHERIES CONVENTION",
+          "id": "76",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter76.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter76.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter76/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014YUKON RIVER SALMON",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 78\u2014NATIONAL NATURAL RESOURCES CONSERVATION FOUNDATION",
+          "id": "78",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter78.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter78.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter78/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014NATIONAL PARK SERVICE MANAGEMENT",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 80\u2014NEOTROPICAL MIGRATORY BIRD CONSERVATION",
+          "id": "80",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter80.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter80.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter80/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014USER FEES UNDER FOREST SYSTEM RECREATION RESIDENCE PROGRAM",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 81A\u2014NATIONAL FOREST ORGANIZATIONAL CAMP FEE IMPROVEMENT",
+          "id": "81A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter81A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter81A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter81A/"
+          }
+        },
+        {
+          "name": "CHAPTER 82\u2014GREAT APE CONSERVATION",
+          "id": "82",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter82.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter82.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter82/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014CORAL REEF CONSERVATION",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 83A\u2014CORAL REEF CONSERVATION, MANAGEMENT, AND ASSISTANCE",
+          "id": "83A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter83A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter83A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter83A/"
+          }
+        },
+        {
+          "name": "CHAPTER 84\u2014HEALTHY FOREST RESTORATION",
+          "id": "84",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter84.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter84.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter84/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014MARINE TURTLE CONSERVATION",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter85/"
+          }
+        },
+        {
+          "name": "CHAPTER 86\u2014SOUTHWEST FOREST HEALTH AND WILDFIRE PREVENTION",
+          "id": "86",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter86.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter86.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter86/"
+          }
+        },
+        {
+          "name": "CHAPTER 87\u2014FEDERAL LANDS RECREATION ENHANCEMENT",
+          "id": "87",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter87.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter87.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter87/"
+          }
+        },
+        {
+          "name": "CHAPTER 87A\u2014MODERNIZING ACCESS TO PUBLIC LAND",
+          "id": "87A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter87A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter87A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter87A/"
+          }
+        },
+        {
+          "name": "CHAPTER 88\u2014WESTERN AND CENTRAL PACIFIC FISHERIES CONVENTION",
+          "id": "88",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter88.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter88.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter88/"
+          }
+        },
+        {
+          "name": "CHAPTER 89\u2014PACIFIC WHITING",
+          "id": "89",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter89.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter89.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter89/"
+          }
+        },
+        {
+          "name": "CHAPTER 90\u2014SECURE RURAL SCHOOLS AND COMMUNITY SELF-DETERMINATION",
+          "id": "90",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter90.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter90.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter90/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014NATIONAL LANDSCAPE CONSERVATION SYSTEM",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 92\u2014FOREST LANDSCAPE RESTORATION",
+          "id": "92",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter92.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter92.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter92/"
+          }
+        },
+        {
+          "name": "CHAPTER 93\u2014AGREEMENT ON PORT STATE MEASURES TO PREVENT, DETER AND ELIMINATE ILLEGAL, UNREPORTED AND UNREGULATED FISHING",
+          "id": "93",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter93.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter93.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter93/"
+          }
+        },
+        {
+          "name": "CHAPTER 94\u2014NATIONAL OCEANS AND COASTAL SECURITY",
+          "id": "94",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter94.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter94.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter94/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014ELIMINATE, NEUTRALIZE, AND DISRUPT WILDLIFE TRAFFICKING",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 96\u2014NORTH PACIFIC FISHERIES CONVENTION",
+          "id": "96",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter96.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter96.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter96/"
+          }
+        },
+        {
+          "name": "CHAPTER 97\u2014CONVENTION ON THE CONSERVATION AND MANAGEMENT OF HIGH SEAS FISHERY RESOURCES IN THE SOUTH PACIFIC",
+          "id": "97",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter97.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter97.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter97/"
+          }
+        },
+        {
+          "name": "CHAPTER 98\u2014SPORTSMEN'S ACCESS TO FEDERAL LAND",
+          "id": "98",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter98.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter98.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter98/"
+          }
+        },
+        {
+          "name": "CHAPTER 99\u2014MARITIME SECURITY AND FISHERIES ENFORCEMENT",
+          "id": "99",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter99.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter99.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter99/"
+          }
+        },
+        {
+          "name": "CHAPTER 100\u2014NUTRIA ERADICATION AND CONTROL",
+          "id": "100",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter100.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter100.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter100/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014NATIONAL FISH HABITAT CONSERVATION THROUGH PARTNERSHIPS",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16-chapter101/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

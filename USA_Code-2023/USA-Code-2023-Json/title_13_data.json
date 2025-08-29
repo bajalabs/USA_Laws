@@ -1,0 +1,101 @@
+{
+  "structure": {
+    "title_num": 13,
+    "title_name": "TITLE 13\u2014CENSUS",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 1 - 401",
+    "elements": {
+      "subtitles": [],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014ADMINISTRATION",
+        "CHAPTER 3\u2014COLLECTION AND PUBLICATION OF STATISTICS",
+        "CHAPTER 5\u2014CENSUSES",
+        "CHAPTER 7\u2014OFFENSES AND PENALTIES",
+        "CHAPTER 9\u2014COLLECTION AND PUBLICATION OF FOREIGN COMMERCE AND TRADE STATISTICS",
+        "CHAPTER 10\u2014EXCHANGE OF CENSUS INFORMATION"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13.htm"
+  },
+  "links": {
+    "title_num": 13,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title13/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title13/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13.zip"
+    },
+    "element_links": {
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014ADMINISTRATION",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014COLLECTION AND PUBLICATION OF STATISTICS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014CENSUSES",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014OFFENSES AND PENALTIES",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014COLLECTION AND PUBLICATION OF FOREIGN COMMERCE AND TRADE STATISTICS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014EXCHANGE OF CENSUS INFORMATION",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13-chapter10/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

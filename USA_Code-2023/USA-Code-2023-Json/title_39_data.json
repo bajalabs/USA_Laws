@@ -1,0 +1,314 @@
+{
+  "structure": {
+    "title_num": 39,
+    "title_name": "TITLE 39\u2014POSTAL SERVICE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 101 - 5601",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "PART I\u2014GENERAL",
+        "PART II\u2014PERSONNEL",
+        "PART III\u2014MODERNIZATION AND FISCAL ADMINISTRATION",
+        "PART IV\u2014MAIL MATTER",
+        "PART V\u2014TRANSPORTATION OF MAIL"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014POSTAL POLICY AND DEFINITIONS",
+        "CHAPTER 2\u2014ORGANIZATION",
+        "CHAPTER 4\u2014GENERAL AUTHORITY",
+        "CHAPTER 5\u2014POSTAL REGULATORY COMMISSION",
+        "CHAPTER 6\u2014PRIVATE CARRIAGE OF LETTERS",
+        "CHAPTER 10\u2014EMPLOYMENT WITHIN THE POSTAL SERVICE",
+        "CHAPTER 12\u2014EMPLOYEE-MANAGEMENT AGREEMENTS",
+        "CHAPTER 20\u2014FINANCE",
+        "CHAPTER 22\u2014CONVICT LABOR",
+        "CHAPTER 24\u2014APPROPRIATIONS AND ANNUAL REPORT",
+        "CHAPTER 26\u2014DEBTS AND COLLECTION",
+        "CHAPTER 28\u2014STRATEGIC PLANNING AND PERFORMANCE MANAGEMENT",
+        "CHAPTER 29\u2014PROPERTY MANAGEMENT",
+        "CHAPTER 30\u2014NONMAILABLE MATTER",
+        "CHAPTER 32\u2014PENALTY AND FRANKED MAIL",
+        "CHAPTER 34\u2014ARMED FORCES AND FREE POSTAGE",
+        "CHAPTER 36\u2014POSTAL RATES, CLASSES, AND SERVICES",
+        "CHAPTER 37\u2014NONPOSTAL SERVICES",
+        "CHAPTER 50\u2014GENERAL",
+        "[CHAPTER 52\u2014REPEALED]",
+        "CHAPTER 54\u2014TRANSPORTATION OF MAIL BY AIR",
+        "CHAPTER 56\u2014TRANSPORTATION OF MAIL BY VESSEL"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39.htm"
+  },
+  "links": {
+    "title_num": 39,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title39/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title39/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "PART I\u2014GENERAL",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PERSONNEL",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014MODERNIZATION AND FISCAL ADMINISTRATION",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014MAIL MATTER",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014TRANSPORTATION OF MAIL",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-partV/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014POSTAL POLICY AND DEFINITIONS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014ORGANIZATION",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014GENERAL AUTHORITY",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014POSTAL REGULATORY COMMISSION",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014PRIVATE CARRIAGE OF LETTERS",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014EMPLOYMENT WITHIN THE POSTAL SERVICE",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014EMPLOYEE-MANAGEMENT AGREEMENTS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014FINANCE",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014CONVICT LABOR",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014APPROPRIATIONS AND ANNUAL REPORT",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014DEBTS AND COLLECTION",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014STRATEGIC PLANNING AND PERFORMANCE MANAGEMENT",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014PROPERTY MANAGEMENT",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014NONMAILABLE MATTER",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014PENALTY AND FRANKED MAIL",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014ARMED FORCES AND FREE POSTAGE",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014POSTAL RATES, CLASSES, AND SERVICES",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014NONPOSTAL SERVICES",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014GENERAL",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter50/"
+          }
+        },
+        {
+          "name": "[CHAPTER 52\u2014REPEALED]",
+          "id": "52",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter52.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter52.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter52/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014TRANSPORTATION OF MAIL BY AIR",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 56\u2014TRANSPORTATION OF MAIL BY VESSEL",
+          "id": "56",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39-chapter56.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39-chapter56.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39-chapter56/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

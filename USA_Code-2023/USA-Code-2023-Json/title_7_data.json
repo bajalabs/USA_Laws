@@ -1,0 +1,1508 @@
+{
+  "structure": {
+    "title_num": 7,
+    "title_name": "TITLE 7\u2014AGRICULTURE",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 9201",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014General Provisions",
+        "Part B\u2014Swine Packer Marketing Contracts",
+        "Part A\u2014Definitions, Loans, Parity Payments, and Consumer Safeguards",
+        "Part B\u2014Marketing Quotas",
+        "Part C\u2014Administrative Provisions",
+        "Part D\u2014Wheat Marketing Allocation",
+        "Part E\u2014Rice Certificates",
+        "Part F\u2014Miscellaneous Provisions and Appropriations",
+        "Part A\u2014Purpose; Definitions",
+        "Part B\u2014Cattle Reporting",
+        "Part C\u2014Swine Reporting",
+        "Part D\u2014Lamb Reporting",
+        "Part E\u2014Administration",
+        "Part A\u2014Organization and Publications",
+        "Part B\u2014Legal Provisions as to the Plant Variety Protection Office",
+        "Part C\u2014Plant Variety Protection Fees",
+        "Part D\u2014Protectability of Plant Varieties",
+        "Part E\u2014Applications; Form; Who May File; Relating Back; Confidentiality",
+        "Part F\u2014Examinations; Response Time; Initial Appeals",
+        "Part G\u2014Appeals to Courts and Other Review",
+        "Part H\u2014Certificates of Plant Variety Protection",
+        "Part I\u2014Reexamination After Issue, and Contested Proceedings",
+        "Part J\u2014Ownership and Assignment",
+        "Part K\u2014Infringement of Plant Variety Protection",
+        "Part L\u2014Remedies for Infringement of Plant Variety Protection, and Other Actions",
+        "Part M\u2014Intent and Severability",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Foreign Agricultural Service",
+        "Part A\u2014Programs",
+        "Part B\u2014Implementation",
+        "Part A\u2014Program Controls",
+        "Part B\u2014Miscellaneous Provisions",
+        "Part A\u2014Best Utilization of Biological Applications",
+        "Part B\u2014Integrated Management Systems",
+        "Part C\u2014Sustainable Agriculture Technology Development and Transfer Program",
+        "Part A\u2014Dairy",
+        "Part B\u2014Sugar",
+        "Part A\u2014Miscellaneous",
+        "Part B\u2014General",
+        "Part C\u2014Studies",
+        "Part A\u2014Dairy Margin Coverage",
+        "Part B\u2014Milk Donation Program"
+      ],
+      "subparts": [
+        "subpart i\u2014marketing quotas\u2014tobacco",
+        "subpart ii\u2014acreage allotments\u2014corn",
+        "subpart iii\u2014marketing quotas\u2014wheat",
+        "subpart iv\u2014marketing quotas\u2014cotton",
+        "subpart v\u2014marketing quotas\u2014rice",
+        "subpart vi\u2014marketing quotas\u2014peanuts",
+        "subpart vii\u2014flexible marketing allotments for sugar",
+        "subpart i\u2014publication and review of quotas",
+        "subpart ii\u2014adjustment of quotas and enforcement",
+        "subpart i\u2014miscellaneous",
+        "subpart ii\u2014appropriations and administrative expenses"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014COMMODITY EXCHANGES",
+        "CHAPTER 2\u2014COTTON STANDARDS",
+        "CHAPTER 3\u2014GRAIN STANDARDS",
+        "CHAPTER 4\u2014NAVAL STORES",
+        "CHAPTER 5\u2014IMPORTATION OF ADULTERATED SEEDS",
+        "CHAPTER 6\u2014INSECTICIDES AND ENVIRONMENTAL PESTICIDE CONTROL",
+        "CHAPTER 6A\u2014NATIONAL LABORATORY ACCREDITATION",
+        "CHAPTER 7\u2014INSECT PESTS GENERALLY",
+        "CHAPTER 7A\u2014GOLDEN NEMATODE",
+        "CHAPTER 7B\u2014PLANT PESTS",
+        "CHAPTER 8\u2014NURSERY STOCK AND OTHER PLANTS AND PLANT PRODUCTS",
+        "CHAPTER 8A\u2014RUBBER AND OTHER CRITICAL AGRICULTURAL MATERIALS",
+        "CHAPTER 9\u2014PACKERS AND STOCKYARDS",
+        "CHAPTER 10\u2014WAREHOUSES",
+        "CHAPTER 11\u2014HONEYBEES",
+        "CHAPTER 12\u2014ASSOCIATIONS OF AGRICULTURAL PRODUCTS PRODUCERS",
+        "CHAPTER 13\u2014AGRICULTURAL AND MECHANICAL COLLEGES",
+        "CHAPTER 14\u2014AGRICULTURAL EXPERIMENT STATIONS",
+        "CHAPTER 15\u2014BUREAU OF ANIMAL INDUSTRY",
+        "CHAPTER 16\u2014BUREAU OF DAIRY INDUSTRY",
+        "CHAPTER 17\u2014MISCELLANEOUS MATTERS",
+        "CHAPTER 18\u2014COOPERATIVE MARKETING",
+        "CHAPTER 19\u2014COTTON STATISTICS AND ESTIMATES",
+        "CHAPTER 20\u2014DUMPING OR DESTRUCTION OF INTERSTATE PRODUCE",
+        "CHAPTER 20A\u2014PERISHABLE AGRICULTURAL COMMODITIES",
+        "CHAPTER 21\u2014TOBACCO STATISTICS",
+        "CHAPTER 21A\u2014TOBACCO INSPECTION",
+        "CHAPTER 21B\u2014TOBACCO CONTROL",
+        "CHAPTER 21C\u2014TOBACCO REFORM",
+        "CHAPTER 22\u2014AGRICULTURAL MARKETING",
+        "CHAPTER 23\u2014FOREIGN AGRICULTURAL SERVICE",
+        "CHAPTER 24\u2014PERISHABLE AGRICULTURAL COMMODITIES",
+        "CHAPTER 25\u2014EXPORT STANDARDS FOR APPLES",
+        "CHAPTER 25A\u2014EXPORT STANDARDS FOR GRAPES AND PLUMS",
+        "CHAPTER 26\u2014AGRICULTURAL ADJUSTMENT",
+        "CHAPTER 26A\u2014AGRICULTURAL MARKETING AGREEMENTS",
+        "CHAPTER 27\u2014COTTON MARKETING",
+        "CHAPTER 28\u2014TOBACCO INDUSTRY",
+        "CHAPTER 29\u2014POTATO ACT OF 1935",
+        "CHAPTER 30\u2014ANTI-HOG-CHOLERA SERUM AND HOG-CHOLERA VIRUS",
+        "CHAPTER 31\u2014RURAL ELECTRIFICATION AND TELEPHONE SERVICE",
+        "CHAPTER 31A\u2014TELEMEDICINE AND DISTANCE LEARNING SERVICES IN RURAL AREAS",
+        "CHAPTER 32\u2014PEANUT STATISTICS",
+        "CHAPTER 33\u2014FARM TENANCY",
+        "CHAPTER 34\u2014SUGAR PRODUCTION AND CONTROL",
+        "CHAPTER 35\u2014AGRICULTURAL ADJUSTMENT ACT OF 1938",
+        "CHAPTER 35A\u2014PRICE SUPPORT OF AGRICULTURAL COMMODITIES",
+        "CHAPTER 36\u2014CROP INSURANCE",
+        "CHAPTER 37\u2014SEEDS",
+        "CHAPTER 38\u2014DISTRIBUTION AND MARKETING OF AGRICULTURAL PRODUCTS",
+        "CHAPTER 39\u2014STABILIZATION OF INTERNATIONAL WHEAT MARKET",
+        "CHAPTER 40\u2014HALOGETON GLOMERATUS CONTROL",
+        "CHAPTER 41\u2014FOOD FOR PEACE",
+        "CHAPTER 42\u2014AGRICULTURAL COMMODITY SET-ASIDE",
+        "CHAPTER 43\u2014FOREIGN MARKET DEVELOPMENT",
+        "CHAPTER 44\u2014WOOL PROGRAM",
+        "CHAPTER 45\u2014SOIL BANK PROGRAM",
+        "CHAPTER 46\u2014SURPLUS DISPOSAL OF AGRICULTURAL COMMODITIES",
+        "CHAPTER 47\u2014INTERCHANGE OF DEPARTMENT OF AGRICULTURE AND STATE EMPLOYEES",
+        "CHAPTER 48\u2014HUMANE METHODS OF LIVESTOCK SLAUGHTER",
+        "CHAPTER 49\u2014CONSULTATION ON AGRICULTURAL PROGRAMS",
+        "CHAPTER 50\u2014AGRICULTURAL CREDIT",
+        "CHAPTER 51\u2014SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM",
+        "CHAPTER 52\u2014FARM LABOR CONTRACTOR REGISTRATION",
+        "CHAPTER 53\u2014COTTON RESEARCH AND PROMOTION",
+        "CHAPTER 54\u2014TRANSPORTATION, SALE, AND HANDLING OF CERTAIN ANIMALS",
+        "CHAPTER 55\u2014DEPARTMENT OF AGRICULTURE",
+        "CHAPTER 55A\u2014DEPARTMENT OF AGRICULTURE ADVISORY COMMITTEES",
+        "CHAPTER 56\u2014UNFAIR TRADE PRACTICES AFFECTING PRODUCERS OF AGRICULTURAL PRODUCTS",
+        "CHAPTER 57\u2014PLANT VARIETY PROTECTION",
+        "CHAPTER 58\u2014POTATO RESEARCH AND PROMOTION",
+        "CHAPTER 59\u2014RURAL FIRE PROTECTION, DEVELOPMENT, AND SMALL FARM RESEARCH AND EDUCATION",
+        "CHAPTER 60\u2014EGG RESEARCH AND CONSUMER INFORMATION",
+        "CHAPTER 61\u2014NOXIOUS WEEDS",
+        "CHAPTER 62\u2014BEEF RESEARCH AND INFORMATION",
+        "CHAPTER 63\u2014FARMER\u2013TO\u2013CONSUMER DIRECT MARKETING",
+        "CHAPTER 64\u2014AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING",
+        "CHAPTER 65\u2014WHEAT AND WHEAT FOODS RESEARCH AND NUTRITION EDUCATION",
+        "CHAPTER 66\u2014AGRICULTURAL FOREIGN INVESTMENT DISCLOSURE",
+        "CHAPTER 67\u2014IMPLEMENTATION OF INTERNATIONAL SUGAR AGREEMENT, 1977",
+        "CHAPTER 68\u2014AGRICULTURAL SUBTERMINAL FACILITIES",
+        "CHAPTER 69\u2014SWINE HEALTH PROTECTION",
+        "CHAPTER 70\u2014ANIMAL CANCER RESEARCH",
+        "CHAPTER 71\u2014AGRICULTURAL TRADE SUSPENSION ADJUSTMENT",
+        "CHAPTER 72\u2014NATIONAL AGRICULTURAL COST OF PRODUCTION STANDARDS REVIEW BOARD",
+        "CHAPTER 73\u2014FARMLAND PROTECTION POLICY",
+        "CHAPTER 74\u2014FLORAL RESEARCH AND CONSUMER INFORMATION",
+        "CHAPTER 75\u2014INTERNATIONAL CARRIAGE OF PERISHABLE FOODSTUFFS",
+        "CHAPTER 76\u2014DAIRY RESEARCH AND PROMOTION",
+        "CHAPTER 77\u2014HONEY RESEARCH, PROMOTION, AND CONSUMER INFORMATION",
+        "CHAPTER 78\u2014AGRICULTURAL PRODUCTIVITY RESEARCH",
+        "CHAPTER 79\u2014PORK PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+        "CHAPTER 80\u2014WATERMELON RESEARCH AND PROMOTION",
+        "CHAPTER 81\u2014NATIONAL COMMISSION ON AGRICULTURE AND RURAL DEVELOPMENT POLICY",
+        "CHAPTER 82\u2014STATE AGRICULTURAL LOAN MEDIATION PROGRAMS",
+        "CHAPTER 83\u2014AGRICULTURAL COMPETITIVENESS AND TRADE",
+        "CHAPTER 84\u2014NATIONAL NUTRITION MONITORING AND RELATED RESEARCH",
+        "CHAPTER 85\u2014ADMINISTRATION OF ENVIRONMENTAL PROGRAMS",
+        "CHAPTER 86\u2014WATER QUALITY RESEARCH, EDUCATION, AND COORDINATION",
+        "CHAPTER 87\u2014EXPORT PROMOTION",
+        "CHAPTER 88\u2014RESEARCH",
+        "CHAPTER 89\u2014PECAN PROMOTION AND RESEARCH",
+        "CHAPTER 90\u2014MUSHROOM PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+        "CHAPTER 91\u2014LIME PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+        "CHAPTER 92\u2014SOYBEAN PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+        "CHAPTER 93\u2014PROCESSOR-FUNDED MILK PROMOTION PROGRAM",
+        "CHAPTER 94\u2014ORGANIC CERTIFICATION",
+        "CHAPTER 95\u2014RURAL REVITALIZATION THROUGH FORESTRY",
+        "CHAPTER 96\u2014GLOBAL CLIMATE CHANGE",
+        "CHAPTER 97\u2014FRESH CUT FLOWERS AND FRESH CUT GREENS PROMOTION AND INFORMATION",
+        "CHAPTER 98\u2014DEPARTMENT OF AGRICULTURE REORGANIZATION",
+        "CHAPTER 99\u2014SHEEP PROMOTION, RESEARCH, AND INFORMATION",
+        "CHAPTER 100\u2014AGRICULTURAL MARKET TRANSITION",
+        "CHAPTER 101\u2014AGRICULTURAL PROMOTION",
+        "CHAPTER 102\u2014EMERGENCY FOOD ASSISTANCE",
+        "CHAPTER 103\u2014AGRICULTURAL RESEARCH, EXTENSION, AND EDUCATION REFORM",
+        "CHAPTER 104\u2014PLANT PROTECTION",
+        "CHAPTER 105\u2014HASS AVOCADO PROMOTION, RESEARCH, AND INFORMATION",
+        "CHAPTER 106\u2014COMMODITY PROGRAMS",
+        "CHAPTER 107\u2014RENEWABLE ENERGY RESEARCH AND DEVELOPMENT",
+        "CHAPTER 108\u2014TREE ASSISTANCE PROGRAM",
+        "CHAPTER 109\u2014ANIMAL HEALTH PROTECTION",
+        "CHAPTER 109A\u2014CONTROL OF WILD ANIMALS",
+        "CHAPTER 110\u2014ENHANCING CONTROLS ON DANGEROUS BIOLOGICAL AGENTS AND TOXINS",
+        "CHAPTER 111\u2014BROWN TREE SNAKE CONTROL AND ERADICATION",
+        "CHAPTER 112\u2014BIOMASS RESEARCH AND DEVELOPMENT",
+        "CHAPTER 113\u2014AGRICULTURAL COMMODITY SUPPORT PROGRAMS",
+        "CHAPTER 114\u2014AGRICULTURAL SECURITY",
+        "CHAPTER 115\u2014AGRICULTURAL COMMODITY POLICY AND PROGRAMS",
+        "CHAPTER 116\u2014NATIONAL BIO AND AGRO-DEFENSE FACILITY"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7.htm"
+  },
+  "links": {
+    "title_num": 7,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title7/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title7/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Reexamination After Issue, and Contested Proceedings",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-partI/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart i\u2014marketing quotas\u2014tobacco",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014acreage allotments\u2014corn",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartii/"
+          }
+        },
+        {
+          "name": "subpart iii\u2014marketing quotas\u2014wheat",
+          "id": "iii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartiii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartiii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartiii/"
+          }
+        },
+        {
+          "name": "subpart iv\u2014marketing quotas\u2014cotton",
+          "id": "iv",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartiv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartiv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartiv/"
+          }
+        },
+        {
+          "name": "subpart v\u2014marketing quotas\u2014rice",
+          "id": "v",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartv.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartv.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartv/"
+          }
+        },
+        {
+          "name": "subpart vi\u2014marketing quotas\u2014peanuts",
+          "id": "vi",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartvi.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartvi.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartvi/"
+          }
+        },
+        {
+          "name": "subpart vii\u2014flexible marketing allotments for sugar",
+          "id": "vii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartvii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartvii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartvii/"
+          }
+        },
+        {
+          "name": "subpart i\u2014publication and review of quotas",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014adjustment of quotas and enforcement",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartii/"
+          }
+        },
+        {
+          "name": "subpart i\u2014miscellaneous",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subparti/"
+          }
+        },
+        {
+          "name": "subpart ii\u2014appropriations and administrative expenses",
+          "id": "ii",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-subpartii.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-subpartii.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-subpartii/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014COMMODITY EXCHANGES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014COTTON STANDARDS",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014GRAIN STANDARDS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014NAVAL STORES",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014IMPORTATION OF ADULTERATED SEEDS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014INSECTICIDES AND ENVIRONMENTAL PESTICIDE CONTROL",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 6A\u2014NATIONAL LABORATORY ACCREDITATION",
+          "id": "6A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter6A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter6A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter6A/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014INSECT PESTS GENERALLY",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 7A\u2014GOLDEN NEMATODE",
+          "id": "7A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter7A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter7A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter7A/"
+          }
+        },
+        {
+          "name": "CHAPTER 7B\u2014PLANT PESTS",
+          "id": "7B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter7B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter7B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter7B/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014NURSERY STOCK AND OTHER PLANTS AND PLANT PRODUCTS",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 8A\u2014RUBBER AND OTHER CRITICAL AGRICULTURAL MATERIALS",
+          "id": "8A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter8A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter8A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter8A/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014PACKERS AND STOCKYARDS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014WAREHOUSES",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014HONEYBEES",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014ASSOCIATIONS OF AGRICULTURAL PRODUCTS PRODUCERS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014AGRICULTURAL AND MECHANICAL COLLEGES",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014AGRICULTURAL EXPERIMENT STATIONS",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014BUREAU OF ANIMAL INDUSTRY",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014BUREAU OF DAIRY INDUSTRY",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014MISCELLANEOUS MATTERS",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014COOPERATIVE MARKETING",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014COTTON STATISTICS AND ESTIMATES",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014DUMPING OR DESTRUCTION OF INTERSTATE PRODUCE",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 20A\u2014PERISHABLE AGRICULTURAL COMMODITIES",
+          "id": "20A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter20A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter20A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter20A/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014TOBACCO STATISTICS",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 21A\u2014TOBACCO INSPECTION",
+          "id": "21A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter21A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter21A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter21A/"
+          }
+        },
+        {
+          "name": "CHAPTER 21B\u2014TOBACCO CONTROL",
+          "id": "21B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter21B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter21B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter21B/"
+          }
+        },
+        {
+          "name": "CHAPTER 21C\u2014TOBACCO REFORM",
+          "id": "21C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter21C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter21C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter21C/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014AGRICULTURAL MARKETING",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014FOREIGN AGRICULTURAL SERVICE",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014PERISHABLE AGRICULTURAL COMMODITIES",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014EXPORT STANDARDS FOR APPLES",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 25A\u2014EXPORT STANDARDS FOR GRAPES AND PLUMS",
+          "id": "25A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter25A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter25A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter25A/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014AGRICULTURAL ADJUSTMENT",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 26A\u2014AGRICULTURAL MARKETING AGREEMENTS",
+          "id": "26A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter26A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter26A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter26A/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014COTTON MARKETING",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014TOBACCO INDUSTRY",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014POTATO ACT OF 1935",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014ANTI-HOG-CHOLERA SERUM AND HOG-CHOLERA VIRUS",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014RURAL ELECTRIFICATION AND TELEPHONE SERVICE",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 31A\u2014TELEMEDICINE AND DISTANCE LEARNING SERVICES IN RURAL AREAS",
+          "id": "31A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter31A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter31A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter31A/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014PEANUT STATISTICS",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014FARM TENANCY",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014SUGAR PRODUCTION AND CONTROL",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014AGRICULTURAL ADJUSTMENT ACT OF 1938",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 35A\u2014PRICE SUPPORT OF AGRICULTURAL COMMODITIES",
+          "id": "35A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter35A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter35A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter35A/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014CROP INSURANCE",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014SEEDS",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 38\u2014DISTRIBUTION AND MARKETING OF AGRICULTURAL PRODUCTS",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014STABILIZATION OF INTERNATIONAL WHEAT MARKET",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 40\u2014HALOGETON GLOMERATUS CONTROL",
+          "id": "40",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter40.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter40.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter40/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014FOOD FOR PEACE",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014AGRICULTURAL COMMODITY SET-ASIDE",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014FOREIGN MARKET DEVELOPMENT",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 44\u2014WOOL PROGRAM",
+          "id": "44",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter44.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter44.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter44/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014SOIL BANK PROGRAM",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 46\u2014SURPLUS DISPOSAL OF AGRICULTURAL COMMODITIES",
+          "id": "46",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter46.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter46.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter46/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014INTERCHANGE OF DEPARTMENT OF AGRICULTURE AND STATE EMPLOYEES",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 48\u2014HUMANE METHODS OF LIVESTOCK SLAUGHTER",
+          "id": "48",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter48.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter48.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter48/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014CONSULTATION ON AGRICULTURAL PROGRAMS",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014AGRICULTURAL CREDIT",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter50/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 52\u2014FARM LABOR CONTRACTOR REGISTRATION",
+          "id": "52",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter52.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter52.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter52/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014COTTON RESEARCH AND PROMOTION",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014TRANSPORTATION, SALE, AND HANDLING OF CERTAIN ANIMALS",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014DEPARTMENT OF AGRICULTURE",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 55A\u2014DEPARTMENT OF AGRICULTURE ADVISORY COMMITTEES",
+          "id": "55A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter55A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter55A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter55A/"
+          }
+        },
+        {
+          "name": "CHAPTER 56\u2014UNFAIR TRADE PRACTICES AFFECTING PRODUCERS OF AGRICULTURAL PRODUCTS",
+          "id": "56",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter56.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter56.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter56/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014PLANT VARIETY PROTECTION",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 58\u2014POTATO RESEARCH AND PROMOTION",
+          "id": "58",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter58.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter58.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter58/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014RURAL FIRE PROTECTION, DEVELOPMENT, AND SMALL FARM RESEARCH AND EDUCATION",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 60\u2014EGG RESEARCH AND CONSUMER INFORMATION",
+          "id": "60",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter60.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter60.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter60/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014NOXIOUS WEEDS",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 62\u2014BEEF RESEARCH AND INFORMATION",
+          "id": "62",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter62.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter62.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter62/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014FARMER\u2013TO\u2013CONSUMER DIRECT MARKETING",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 64\u2014AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING",
+          "id": "64",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter64.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter64.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter64/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014WHEAT AND WHEAT FOODS RESEARCH AND NUTRITION EDUCATION",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 66\u2014AGRICULTURAL FOREIGN INVESTMENT DISCLOSURE",
+          "id": "66",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter66.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter66.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter66/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014IMPLEMENTATION OF INTERNATIONAL SUGAR AGREEMENT, 1977",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter67/"
+          }
+        },
+        {
+          "name": "CHAPTER 68\u2014AGRICULTURAL SUBTERMINAL FACILITIES",
+          "id": "68",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter68.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter68.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter68/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014SWINE HEALTH PROTECTION",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 70\u2014ANIMAL CANCER RESEARCH",
+          "id": "70",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter70.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter70.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter70/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014AGRICULTURAL TRADE SUSPENSION ADJUSTMENT",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014NATIONAL AGRICULTURAL COST OF PRODUCTION STANDARDS REVIEW BOARD",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014FARMLAND PROTECTION POLICY",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014FLORAL RESEARCH AND CONSUMER INFORMATION",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014INTERNATIONAL CARRIAGE OF PERISHABLE FOODSTUFFS",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 76\u2014DAIRY RESEARCH AND PROMOTION",
+          "id": "76",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter76.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter76.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter76/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014HONEY RESEARCH, PROMOTION, AND CONSUMER INFORMATION",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 78\u2014AGRICULTURAL PRODUCTIVITY RESEARCH",
+          "id": "78",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter78.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter78.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter78/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014PORK PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 80\u2014WATERMELON RESEARCH AND PROMOTION",
+          "id": "80",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter80.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter80.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter80/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014NATIONAL COMMISSION ON AGRICULTURE AND RURAL DEVELOPMENT POLICY",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 82\u2014STATE AGRICULTURAL LOAN MEDIATION PROGRAMS",
+          "id": "82",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter82.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter82.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter82/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014AGRICULTURAL COMPETITIVENESS AND TRADE",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 84\u2014NATIONAL NUTRITION MONITORING AND RELATED RESEARCH",
+          "id": "84",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter84.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter84.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter84/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014ADMINISTRATION OF ENVIRONMENTAL PROGRAMS",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter85/"
+          }
+        },
+        {
+          "name": "CHAPTER 86\u2014WATER QUALITY RESEARCH, EDUCATION, AND COORDINATION",
+          "id": "86",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter86.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter86.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter86/"
+          }
+        },
+        {
+          "name": "CHAPTER 87\u2014EXPORT PROMOTION",
+          "id": "87",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter87.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter87.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter87/"
+          }
+        },
+        {
+          "name": "CHAPTER 88\u2014RESEARCH",
+          "id": "88",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter88.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter88.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter88/"
+          }
+        },
+        {
+          "name": "CHAPTER 89\u2014PECAN PROMOTION AND RESEARCH",
+          "id": "89",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter89.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter89.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter89/"
+          }
+        },
+        {
+          "name": "CHAPTER 90\u2014MUSHROOM PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+          "id": "90",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter90.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter90.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter90/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014LIME PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 92\u2014SOYBEAN PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+          "id": "92",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter92.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter92.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter92/"
+          }
+        },
+        {
+          "name": "CHAPTER 93\u2014PROCESSOR-FUNDED MILK PROMOTION PROGRAM",
+          "id": "93",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter93.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter93.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter93/"
+          }
+        },
+        {
+          "name": "CHAPTER 94\u2014ORGANIC CERTIFICATION",
+          "id": "94",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter94.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter94.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter94/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014RURAL REVITALIZATION THROUGH FORESTRY",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 96\u2014GLOBAL CLIMATE CHANGE",
+          "id": "96",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter96.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter96.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter96/"
+          }
+        },
+        {
+          "name": "CHAPTER 97\u2014FRESH CUT FLOWERS AND FRESH CUT GREENS PROMOTION AND INFORMATION",
+          "id": "97",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter97.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter97.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter97/"
+          }
+        },
+        {
+          "name": "CHAPTER 98\u2014DEPARTMENT OF AGRICULTURE REORGANIZATION",
+          "id": "98",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter98.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter98.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter98/"
+          }
+        },
+        {
+          "name": "CHAPTER 99\u2014SHEEP PROMOTION, RESEARCH, AND INFORMATION",
+          "id": "99",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter99.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter99.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter99/"
+          }
+        },
+        {
+          "name": "CHAPTER 100\u2014AGRICULTURAL MARKET TRANSITION",
+          "id": "100",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter100.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter100.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter100/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014AGRICULTURAL PROMOTION",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 102\u2014EMERGENCY FOOD ASSISTANCE",
+          "id": "102",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter102.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter102.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter102/"
+          }
+        },
+        {
+          "name": "CHAPTER 103\u2014AGRICULTURAL RESEARCH, EXTENSION, AND EDUCATION REFORM",
+          "id": "103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter103/"
+          }
+        },
+        {
+          "name": "CHAPTER 104\u2014PLANT PROTECTION",
+          "id": "104",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter104.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter104.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter104/"
+          }
+        },
+        {
+          "name": "CHAPTER 105\u2014HASS AVOCADO PROMOTION, RESEARCH, AND INFORMATION",
+          "id": "105",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter105.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter105.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter105/"
+          }
+        },
+        {
+          "name": "CHAPTER 106\u2014COMMODITY PROGRAMS",
+          "id": "106",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter106.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter106.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter106/"
+          }
+        },
+        {
+          "name": "CHAPTER 107\u2014RENEWABLE ENERGY RESEARCH AND DEVELOPMENT",
+          "id": "107",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter107.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter107.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter107/"
+          }
+        },
+        {
+          "name": "CHAPTER 108\u2014TREE ASSISTANCE PROGRAM",
+          "id": "108",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter108.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter108.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter108/"
+          }
+        },
+        {
+          "name": "CHAPTER 109\u2014ANIMAL HEALTH PROTECTION",
+          "id": "109",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter109.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter109.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter109/"
+          }
+        },
+        {
+          "name": "CHAPTER 109A\u2014CONTROL OF WILD ANIMALS",
+          "id": "109A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter109A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter109A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter109A/"
+          }
+        },
+        {
+          "name": "CHAPTER 110\u2014ENHANCING CONTROLS ON DANGEROUS BIOLOGICAL AGENTS AND TOXINS",
+          "id": "110",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter110.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter110.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter110/"
+          }
+        },
+        {
+          "name": "CHAPTER 111\u2014BROWN TREE SNAKE CONTROL AND ERADICATION",
+          "id": "111",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter111.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter111.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter111/"
+          }
+        },
+        {
+          "name": "CHAPTER 112\u2014BIOMASS RESEARCH AND DEVELOPMENT",
+          "id": "112",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter112.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter112.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter112/"
+          }
+        },
+        {
+          "name": "CHAPTER 113\u2014AGRICULTURAL COMMODITY SUPPORT PROGRAMS",
+          "id": "113",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter113.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter113.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter113/"
+          }
+        },
+        {
+          "name": "CHAPTER 114\u2014AGRICULTURAL SECURITY",
+          "id": "114",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter114.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter114.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter114/"
+          }
+        },
+        {
+          "name": "CHAPTER 115\u2014AGRICULTURAL COMMODITY POLICY AND PROGRAMS",
+          "id": "115",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter115.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter115.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter115/"
+          }
+        },
+        {
+          "name": "CHAPTER 116\u2014NATIONAL BIO AND AGRO-DEFENSE FACILITY",
+          "id": "116",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7-chapter116.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7-chapter116.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7-chapter116/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

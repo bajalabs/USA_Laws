@@ -1,0 +1,491 @@
+{
+  "structure": {
+    "title_num": 21,
+    "title_name": "TITLE 21\u2014FOOD AND DRUGS",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 2401",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Drugs and Devices",
+        "Part B\u2014Drugs for Rare Diseases or Conditions",
+        "Part C\u2014Electronic Product Radiation Control",
+        "Part D\u2014Dissemination of Treatment Information",
+        "Part E\u2014General Provisions Relating to Drugs and Devices",
+        "Part F\u2014New Animal Drugs for Minor Use and Minor Species",
+        "Part G\u2014Medical Gases",
+        "Part H\u2014Pharmaceutical Distribution Supply Chain",
+        "Part I\u2014Nonprescription Sunscreen and Other Active Ingredients",
+        "Part A\u2014General Administrative Provisions",
+        "Part B\u2014Colors",
+        "Part C\u2014Fees",
+        "Part D\u2014Information and Education",
+        "Part E\u2014Environmental Impact Review",
+        "Part F\u2014National Uniformity for Nonprescription Drugs and Preemption for Labeling or Packaging of Cosmetics",
+        "Part G\u2014Safety Reports",
+        "Part H\u2014Serious Adverse Event Reports",
+        "Part I\u2014Reagan-Udall Foundation for the Food and Drug Administration",
+        "Part A\u2014Introductory Provisions",
+        "Part B\u2014Authority To Control; Standards and Schedules",
+        "Part C\u2014Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances",
+        "Part D\u2014Offenses and Penalties",
+        "Part E\u2014Administrative and Enforcement Provisions",
+        "Part F\u2014General Provisions",
+        "Part A\u2014Drug-Free Communities Support Program",
+        "Part B\u2014Advisory Commission"
+      ],
+      "subparts": [
+        "subpart 1\u2014freedom of information fees",
+        "subpart 2\u2014fees relating to drugs",
+        "subpart 3\u2014fees relating to devices",
+        "subpart 4\u2014fees relating to animal drugs",
+        "subpart 5\u2014fees relating to generic new animal drugs",
+        "subpart 6\u2014fees related to food",
+        "subpart 7\u2014fees relating to generic drugs",
+        "subpart 8\u2014fees relating to biosimilar biological products",
+        "subpart 9\u2014fees relating to outsourcing facilities",
+        "subpart 10\u2014fees relating to over-the-counter drugs"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014ADULTERATED OR MISBRANDED FOODS OR DRUGS",
+        "CHAPTER 2\u2014TEAS",
+        "CHAPTER 3\u2014FILLED MILK",
+        "CHAPTER 4\u2014ANIMALS, MEATS, AND MEAT AND DAIRY PRODUCTS",
+        "CHAPTER 5\u2014VIRUSES, SERUMS, TOXINS, ANTITOXINS, AND ANALOGOUS PRODUCTS",
+        "CHAPTER 5A\u2014BUREAU OF NARCOTICS",
+        "CHAPTER 6\u2014NARCOTIC DRUGS",
+        "CHAPTER 7\u2014PRACTICE OF PHARMACY AND SALE OF POISONS IN CONSULAR DISTRICTS IN CHINA",
+        "CHAPTER 8\u2014NARCOTIC FARMS",
+        "CHAPTER 9\u2014FEDERAL FOOD, DRUG, AND COSMETIC ACT",
+        "CHAPTER 10\u2014POULTRY AND POULTRY PRODUCTS INSPECTION",
+        "CHAPTER 11\u2014MANUFACTURE OF NARCOTIC DRUGS",
+        "CHAPTER 12\u2014MEAT INSPECTION",
+        "CHAPTER 13\u2014DRUG ABUSE PREVENTION AND CONTROL",
+        "CHAPTER 14\u2014ALCOHOL AND DRUG ABUSE EDUCATIONAL PROGRAMS AND ACTIVITIES",
+        "CHAPTER 15\u2014EGG PRODUCTS INSPECTION",
+        "CHAPTER 16\u2014DRUG ABUSE PREVENTION, TREATMENT, AND REHABILITATION",
+        "CHAPTER 17\u2014NATIONAL DRUG ENFORCEMENT POLICY",
+        "CHAPTER 18\u2014PRESIDENT'S MEDIA COMMISSION ON ALCOHOL AND DRUG ABUSE PREVENTION",
+        "CHAPTER 19\u2014PESTICIDE MONITORING IMPROVEMENTS",
+        "CHAPTER 20\u2014NATIONAL DRUG CONTROL PROGRAM",
+        "CHAPTER 21\u2014BIOMATERIALS ACCESS ASSURANCE",
+        "CHAPTER 22\u2014NATIONAL DRUG CONTROL POLICY",
+        "CHAPTER 23\u2014NATIONAL YOUTH ANTI-DRUG MEDIA CAMPAIGN",
+        "CHAPTER 24\u2014INTERNATIONAL NARCOTICS TRAFFICKING",
+        "CHAPTER 25\u2014MISCELLANEOUS ANTI-DRUG ABUSE PROVISIONS",
+        "CHAPTER 26\u2014FOOD SAFETY",
+        "CHAPTER 27\u2014FOOD SAFETY MODERNIZATION",
+        "CHAPTER 28\u2014SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS",
+        "CHAPTER 29\u2014INTERNATIONAL SPORTS DOPING"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21.htm"
+  },
+  "links": {
+    "title_num": 21,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title21/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title21/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Nonprescription Sunscreen and Other Active Ingredients",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-partI/"
+          }
+        },
+        {
+          "name": "Part I\u2014Reagan-Udall Foundation for the Food and Drug Administration",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-partI/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart 1\u2014freedom of information fees",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014fees relating to drugs",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014fees relating to devices",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014fees relating to animal drugs",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014fees relating to generic new animal drugs",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 6\u2014fees related to food",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart6/"
+          }
+        },
+        {
+          "name": "subpart 7\u2014fees relating to generic drugs",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart7/"
+          }
+        },
+        {
+          "name": "subpart 8\u2014fees relating to biosimilar biological products",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart8/"
+          }
+        },
+        {
+          "name": "subpart 9\u2014fees relating to outsourcing facilities",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart9/"
+          }
+        },
+        {
+          "name": "subpart 10\u2014fees relating to over-the-counter drugs",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-subpart10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-subpart10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-subpart10/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014ADULTERATED OR MISBRANDED FOODS OR DRUGS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014TEAS",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014FILLED MILK",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014ANIMALS, MEATS, AND MEAT AND DAIRY PRODUCTS",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014VIRUSES, SERUMS, TOXINS, ANTITOXINS, AND ANALOGOUS PRODUCTS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 5A\u2014BUREAU OF NARCOTICS",
+          "id": "5A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter5A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter5A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter5A/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014NARCOTIC DRUGS",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014PRACTICE OF PHARMACY AND SALE OF POISONS IN CONSULAR DISTRICTS IN CHINA",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014NARCOTIC FARMS",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014FEDERAL FOOD, DRUG, AND COSMETIC ACT",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014POULTRY AND POULTRY PRODUCTS INSPECTION",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014MANUFACTURE OF NARCOTIC DRUGS",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014MEAT INSPECTION",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014DRUG ABUSE PREVENTION AND CONTROL",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014ALCOHOL AND DRUG ABUSE EDUCATIONAL PROGRAMS AND ACTIVITIES",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014EGG PRODUCTS INSPECTION",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014DRUG ABUSE PREVENTION, TREATMENT, AND REHABILITATION",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014NATIONAL DRUG ENFORCEMENT POLICY",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014PRESIDENT'S MEDIA COMMISSION ON ALCOHOL AND DRUG ABUSE PREVENTION",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014PESTICIDE MONITORING IMPROVEMENTS",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014NATIONAL DRUG CONTROL PROGRAM",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014BIOMATERIALS ACCESS ASSURANCE",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014NATIONAL DRUG CONTROL POLICY",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014NATIONAL YOUTH ANTI-DRUG MEDIA CAMPAIGN",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014INTERNATIONAL NARCOTICS TRAFFICKING",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014MISCELLANEOUS ANTI-DRUG ABUSE PROVISIONS",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014FOOD SAFETY",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014FOOD SAFETY MODERNIZATION",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014INTERNATIONAL SPORTS DOPING",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21-chapter29/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "structure": {
+    "title_num": 27,
+    "title_name": "TITLE 27\u2014INTOXICATING LIQUORS",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 1 - 221",
+    "elements": {
+      "subtitles": [],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014GENERAL PROVISIONS",
+        "CHAPTER 2\u2014PROHIBITION OF INTOXICATING BEVERAGES",
+        "CHAPTER 2A\u2014BEER, ALE, PORTER, AND SIMILAR FERMENTED LIQUOR",
+        "CHAPTER 3\u2014INDUSTRIAL ALCOHOL",
+        "CHAPTER 4\u2014PENALTIES",
+        "CHAPTER 5\u2014PROHIBITION REORGANIZATION ACT OF 1930",
+        "CHAPTER 6\u2014TRANSPORTATION IN INTERSTATE COMMERCE",
+        "CHAPTER 7\u2014LIQUOR LAW REPEAL AND ENFORCEMENT ACT",
+        "CHAPTER 8\u2014FEDERAL ALCOHOL ADMINISTRATION ACT",
+        "CHAPTER 9\u2014LIQUOR ENFORCEMENT ACT OF 1936"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27.htm"
+  },
+  "links": {
+    "title_num": 27,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title27/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title27/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27.zip"
+    },
+    "element_links": {
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014GENERAL PROVISIONS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014PROHIBITION OF INTOXICATING BEVERAGES",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 2A\u2014BEER, ALE, PORTER, AND SIMILAR FERMENTED LIQUOR",
+          "id": "2A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter2A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter2A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter2A/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014INDUSTRIAL ALCOHOL",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014PENALTIES",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014PROHIBITION REORGANIZATION ACT OF 1930",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014TRANSPORTATION IN INTERSTATE COMMERCE",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014LIQUOR LAW REPEAL AND ENFORCEMENT ACT",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014FEDERAL ALCOHOL ADMINISTRATION ACT",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014LIQUOR ENFORCEMENT ACT OF 1936",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27-chapter9/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

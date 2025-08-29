@@ -1,0 +1,211 @@
+{
+  "structure": {
+    "title_num": 14,
+    "title_name": "TITLE 14\u2014COAST GUARD",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 101 - 5101",
+    "elements": {
+      "subtitles": [],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014ESTABLISHMENT AND DUTIES",
+        "CHAPTER 3\u2014COMPOSITION AND ORGANIZATION",
+        "CHAPTER 5\u2014FUNCTIONS AND POWERS",
+        "CHAPTER 7\u2014COOPERATION",
+        "CHAPTER 9\u2014ADMINISTRATION",
+        "CHAPTER 11\u2014ACQUISITIONS",
+        "CHAPTER 19\u2014COAST GUARD ACADEMY",
+        "CHAPTER 21\u2014PERSONNEL; OFFICERS",
+        "CHAPTER 23\u2014PERSONNEL; ENLISTED",
+        "CHAPTER 25\u2014PERSONNEL; GENERAL PROVISIONS",
+        "CHAPTER 27\u2014PAY, ALLOWANCES, AWARDS, AND OTHER RIGHTS AND BENEFITS",
+        "CHAPTER 29\u2014COAST GUARD FAMILY SUPPORT, CHILD CARE, AND HOUSING",
+        "CHAPTER 37\u2014COAST GUARD RESERVE",
+        "CHAPTER 39\u2014COAST GUARD AUXILIARY",
+        "CHAPTER 41\u2014GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY",
+        "CHAPTER 49\u2014AUTHORIZATIONS",
+        "CHAPTER 51\u2014REPORTS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14.htm"
+  },
+  "links": {
+    "title_num": 14,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title14/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title14/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14.zip"
+    },
+    "element_links": {
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014ESTABLISHMENT AND DUTIES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014COMPOSITION AND ORGANIZATION",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014FUNCTIONS AND POWERS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014COOPERATION",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014ADMINISTRATION",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014ACQUISITIONS",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014COAST GUARD ACADEMY",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014PERSONNEL; OFFICERS",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014PERSONNEL; ENLISTED",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014PERSONNEL; GENERAL PROVISIONS",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014PAY, ALLOWANCES, AWARDS, AND OTHER RIGHTS AND BENEFITS",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014COAST GUARD FAMILY SUPPORT, CHILD CARE, AND HOUSING",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014COAST GUARD RESERVE",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014COAST GUARD AUXILIARY",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014AUTHORIZATIONS",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014REPORTS",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-chapter51/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

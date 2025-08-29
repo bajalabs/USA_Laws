@@ -1,0 +1,635 @@
+{
+  "structure": {
+    "title_num": 2,
+    "title_name": "TITLE 2\u2014THE CONGRESS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 1 - 6501",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part I\u2014Purpose, Policy, and Function",
+        "Part II\u2014Administration",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Federal Mandates",
+        "Part A\u2014Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining, Employment and Reemployment of Veterans, and Intimidation",
+        "Part B\u2014Public Services and Accommodations Under Americans with Disabilities Act of 1990",
+        "Part C\u2014Occupational Safety and Health Act of 1970",
+        "Part D\u2014Labor-Management Relations",
+        "Part E\u2014General",
+        "Part F\u2014Study",
+        "Part A\u2014General",
+        "Part B\u2014Compensation",
+        "Part A\u2014General",
+        "Part B\u2014Compensation and Other Personnel Matters",
+        "Part C\u2014Uniform and Arms",
+        "Part D\u2014United States Capitol Police Memorial Fund",
+        "Part A\u2014United States Capitol Preservation Commission",
+        "Part B\u2014Senate Commission on Art",
+        "Part C\u2014House of Representatives Fine Arts Board",
+        "Part D\u2014Miscellaneous",
+        "Part A\u2014Capitol Guide Service",
+        "Part B\u2014Office of Congressional Accessibility Services",
+        "Part C\u2014Transfer Date",
+        "Part A\u2014Amount and Type",
+        "Part B\u2014Administration",
+        "Part A\u2014Amount and Type",
+        "Part B\u2014Administration",
+        "Part A\u2014Amount and Type",
+        "Part B\u2014Administration",
+        "Part A\u2014Organization and Personnel",
+        "Part B\u2014General Powers and Duties",
+        "Part A\u2014Organization and Personnel",
+        "Part B\u2014General Powers and Duties"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014ELECTION OF SENATORS AND REPRESENTATIVES",
+        "CHAPTER 2\u2014ORGANIZATION OF CONGRESS",
+        "CHAPTER 3\u2014COMPENSATION AND ALLOWANCES OF MEMBERS",
+        "CHAPTER 4\u2014OFFICERS AND EMPLOYEES OF SENATE AND HOUSE OF REPRESENTATIVES",
+        "CHAPTER 5\u2014LIBRARY OF CONGRESS",
+        "CHAPTER 6\u2014CONGRESSIONAL AND COMMITTEE PROCEDURE; INVESTIGATIONS",
+        "CHAPTER 7\u2014CONTESTED ELECTIONS",
+        "CHAPTER 8\u2014FEDERAL CORRUPT PRACTICES",
+        "CHAPTER 8A\u2014REGULATION OF LOBBYING",
+        "CHAPTER 9\u2014OFFICE OF LEGISLATIVE COUNSEL",
+        "CHAPTER 9A\u2014OFFICE OF LAW REVISION COUNSEL",
+        "CHAPTER 9B\u2014LEGISLATIVE CLASSIFICATION OFFICE",
+        "CHAPTER 9C\u2014OFFICE OF PARLIAMENTARIAN OF HOUSE OF REPRESENTATIVES",
+        "CHAPTER 9D\u2014OFFICE OF SENATE LEGAL COUNSEL",
+        "CHAPTER 10\u2014CLASSIFICATION OF EMPLOYEES OF HOUSE OF REPRESENTATIVES",
+        "CHAPTER 10A\u2014PAYROLL ADMINISTRATION IN HOUSE OF REPRESENTATIVES",
+        "CHAPTER 11\u2014CITIZENS' COMMISSION ON PUBLIC SERVICE AND COMPENSATION",
+        "CHAPTER 12\u2014CONTESTED ELECTIONS",
+        "CHAPTER 13\u2014JOINT COMMITTEE ON CONGRESSIONAL OPERATIONS",
+        "CHAPTER 14\u2014FEDERAL ELECTION CAMPAIGNS",
+        "CHAPTER 15\u2014OFFICE OF TECHNOLOGY ASSESSMENT",
+        "CHAPTER 16\u2014CONGRESSIONAL MAILING STANDARDS",
+        "CHAPTER 17\u2014CONGRESSIONAL BUDGET OFFICE",
+        "CHAPTER 17A\u2014CONGRESSIONAL BUDGET AND FISCAL OPERATIONS",
+        "CHAPTER 17B\u2014IMPOUNDMENT CONTROL",
+        "CHAPTER 18\u2014LEGISLATIVE PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS",
+        "CHAPTER 19\u2014CONGRESSIONAL AWARD PROGRAM",
+        "CHAPTER 19A\u2014JOHN HEINZ COMPETITIVE EXCELLENCE AWARD",
+        "CHAPTER 20\u2014EMERGENCY POWERS TO ELIMINATE BUDGET DEFICITS",
+        "CHAPTER 20A\u2014STATUTORY PAY-AS-YOU-GO",
+        "CHAPTER 21\u2014CIVIC ACHIEVEMENT AWARD PROGRAM IN HONOR OF OFFICE OF SPEAKER OF HOUSE OF REPRESENTATIVES",
+        "CHAPTER 22\u2014JOHN C. STENNIS CENTER FOR PUBLIC SERVICE TRAINING AND DEVELOPMENT",
+        "CHAPTER 22A\u2014CONGRESSIONAL OFFICE FOR INTERNATIONAL LEADERSHIP",
+        "CHAPTER 22B\u2014HUNGER FELLOWSHIP PROGRAM",
+        "CHAPTER 23\u2014GOVERNMENT EMPLOYEE RIGHTS",
+        "CHAPTER 24\u2014CONGRESSIONAL ACCOUNTABILITY",
+        "CHAPTER 25\u2014UNFUNDED MANDATES REFORM",
+        "CHAPTER 26\u2014DISCLOSURE OF LOBBYING ACTIVITIES",
+        "CHAPTER 27\u2014SOUND RECORDING PRESERVATION BY THE LIBRARY OF CONGRESS",
+        "CHAPTER 28\u2014ARCHITECT OF THE CAPITOL",
+        "CHAPTER 29\u2014CAPITOL POLICE",
+        "CHAPTER 30\u2014OPERATION AND MAINTENANCE OF CAPITOL COMPLEX",
+        "CHAPTER 31\u2014CAPITOL VISITOR CENTER",
+        "CHAPTER 41\u2014CONGRESSIONAL OFFICERS AND ADMINISTRATION",
+        "CHAPTER 43\u2014CONGRESSIONAL COMMITTEES",
+        "CHAPTER 45\u2014CONGRESSIONAL PAY AND BENEFITS",
+        "CHAPTER 47\u2014CONGRESSIONAL ETHICS",
+        "CHAPTER 49\u2014CONGRESSIONAL PAGES",
+        "CHAPTER 51\u2014HOUSE OF REPRESENTATIVES LEADERSHIP",
+        "CHAPTER 53\u2014HOUSE OF REPRESENTATIVES MEMBERS",
+        "CHAPTER 55\u2014HOUSE OF REPRESENTATIVES OFFICERS AND ADMINISTRATION",
+        "CHAPTER 61\u2014SENATE LEADERSHIP",
+        "CHAPTER 63\u2014SENATE MEMBERS",
+        "CHAPTER 65\u2014SENATE OFFICERS AND ADMINISTRATION"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2.htm"
+  },
+  "links": {
+    "title_num": 2,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title2/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title2/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Purpose, Policy, and Function",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Administration",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-partII/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014ELECTION OF SENATORS AND REPRESENTATIVES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014ORGANIZATION OF CONGRESS",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014COMPENSATION AND ALLOWANCES OF MEMBERS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014OFFICERS AND EMPLOYEES OF SENATE AND HOUSE OF REPRESENTATIVES",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014LIBRARY OF CONGRESS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014CONGRESSIONAL AND COMMITTEE PROCEDURE; INVESTIGATIONS",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014CONTESTED ELECTIONS",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014FEDERAL CORRUPT PRACTICES",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 8A\u2014REGULATION OF LOBBYING",
+          "id": "8A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter8A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter8A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter8A/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014OFFICE OF LEGISLATIVE COUNSEL",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 9A\u2014OFFICE OF LAW REVISION COUNSEL",
+          "id": "9A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter9A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter9A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter9A/"
+          }
+        },
+        {
+          "name": "CHAPTER 9B\u2014LEGISLATIVE CLASSIFICATION OFFICE",
+          "id": "9B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter9B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter9B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter9B/"
+          }
+        },
+        {
+          "name": "CHAPTER 9C\u2014OFFICE OF PARLIAMENTARIAN OF HOUSE OF REPRESENTATIVES",
+          "id": "9C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter9C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter9C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter9C/"
+          }
+        },
+        {
+          "name": "CHAPTER 9D\u2014OFFICE OF SENATE LEGAL COUNSEL",
+          "id": "9D",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter9D.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter9D.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter9D/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014CLASSIFICATION OF EMPLOYEES OF HOUSE OF REPRESENTATIVES",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 10A\u2014PAYROLL ADMINISTRATION IN HOUSE OF REPRESENTATIVES",
+          "id": "10A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter10A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter10A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter10A/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014CITIZENS' COMMISSION ON PUBLIC SERVICE AND COMPENSATION",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014CONTESTED ELECTIONS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014JOINT COMMITTEE ON CONGRESSIONAL OPERATIONS",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014FEDERAL ELECTION CAMPAIGNS",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014OFFICE OF TECHNOLOGY ASSESSMENT",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014CONGRESSIONAL MAILING STANDARDS",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014CONGRESSIONAL BUDGET OFFICE",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 17A\u2014CONGRESSIONAL BUDGET AND FISCAL OPERATIONS",
+          "id": "17A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter17A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter17A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter17A/"
+          }
+        },
+        {
+          "name": "CHAPTER 17B\u2014IMPOUNDMENT CONTROL",
+          "id": "17B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter17B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter17B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter17B/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014LEGISLATIVE PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014CONGRESSIONAL AWARD PROGRAM",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 19A\u2014JOHN HEINZ COMPETITIVE EXCELLENCE AWARD",
+          "id": "19A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter19A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter19A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter19A/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014EMERGENCY POWERS TO ELIMINATE BUDGET DEFICITS",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 20A\u2014STATUTORY PAY-AS-YOU-GO",
+          "id": "20A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter20A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter20A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter20A/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014CIVIC ACHIEVEMENT AWARD PROGRAM IN HONOR OF OFFICE OF SPEAKER OF HOUSE OF REPRESENTATIVES",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014JOHN C. STENNIS CENTER FOR PUBLIC SERVICE TRAINING AND DEVELOPMENT",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 22A\u2014CONGRESSIONAL OFFICE FOR INTERNATIONAL LEADERSHIP",
+          "id": "22A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter22A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter22A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter22A/"
+          }
+        },
+        {
+          "name": "CHAPTER 22B\u2014HUNGER FELLOWSHIP PROGRAM",
+          "id": "22B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter22B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter22B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter22B/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014GOVERNMENT EMPLOYEE RIGHTS",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014CONGRESSIONAL ACCOUNTABILITY",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014UNFUNDED MANDATES REFORM",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014DISCLOSURE OF LOBBYING ACTIVITIES",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014SOUND RECORDING PRESERVATION BY THE LIBRARY OF CONGRESS",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014ARCHITECT OF THE CAPITOL",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014CAPITOL POLICE",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014OPERATION AND MAINTENANCE OF CAPITOL COMPLEX",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014CAPITOL VISITOR CENTER",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014CONGRESSIONAL OFFICERS AND ADMINISTRATION",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014CONGRESSIONAL COMMITTEES",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014CONGRESSIONAL PAY AND BENEFITS",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014CONGRESSIONAL ETHICS",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014CONGRESSIONAL PAGES",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014HOUSE OF REPRESENTATIVES LEADERSHIP",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014HOUSE OF REPRESENTATIVES MEMBERS",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014HOUSE OF REPRESENTATIVES OFFICERS AND ADMINISTRATION",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014SENATE LEADERSHIP",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014SENATE MEMBERS",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014SENATE OFFICERS AND ADMINISTRATION",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter65/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

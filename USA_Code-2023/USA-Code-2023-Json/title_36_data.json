@@ -1,0 +1,1166 @@
+{
+  "structure": {
+    "title_num": 36,
+    "title_name": "TITLE 36\u2014PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND\u00a0ORGANIZATIONS",
+    "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+    "section_range": "Sections 101 - 300101",
+    "elements": {
+      "subtitles": [
+        "Subtitle I\u2014Patriotic and National Observances and Ceremonies",
+        "Subtitle II\u2014Patriotic and National Organizations",
+        "Subtitle III\u2014Treaty Obligation Organizations"
+      ],
+      "parts": [
+        "Part A\u2014Observances and Ceremonies",
+        "Part B\u2014United States Government Organizations Involved With Observances and Ceremonies",
+        "Part A\u2014General",
+        "Part B\u2014Organizations"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014PATRIOTIC AND NATIONAL OBSERVANCES",
+        "CHAPTER 3\u2014NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, AND TREE",
+        "CHAPTER 5\u2014PRESIDENTIAL INAUGURAL CEREMONIES",
+        "CHAPTER 7\u2014FEDERAL PARTICIPATION IN CARL GARNER FEDERAL LANDS CLEANUP DAY",
+        "CHAPTER 9\u2014MISCELLANEOUS",
+        "CHAPTER 21\u2014AMERICAN BATTLE MONUMENTS COMMISSION",
+        "CHAPTER 23\u2014UNITED STATES HOLOCAUST MEMORIAL MUSEUM",
+        "CHAPTER 25\u2014PRESIDENT'S COMMITTEE ON EMPLOYMENT OF PEOPLE WITH DISABILITIES",
+        "CHAPTER 101\u2014GENERAL",
+        "CHAPTER 201\u2014AGRICULTURAL HALL OF FAME",
+        "CHAPTER 202\u2014AIR FORCE SERGEANTS ASSOCIATION",
+        "CHAPTER 203\u2014AMERICAN ACADEMY OF ARTS AND LETTERS",
+        "CHAPTER 205\u2014AMERICAN CHEMICAL SOCIETY",
+        "CHAPTER 207\u2014AMERICAN COUNCIL OF LEARNED SOCIETIES",
+        "CHAPTER 209\u2014AMERICAN EX-PRISONERS OF WAR",
+        "CHAPTER 210\u2014AMERICAN GI FORUM OF THE UNITED STATES",
+        "CHAPTER 211\u2014AMERICAN GOLD STAR MOTHERS, INCORPORATED",
+        "CHAPTER 213\u2014AMERICAN HISTORICAL ASSOCIATION",
+        "CHAPTER 215\u2014AMERICAN HOSPITAL OF PARIS",
+        "CHAPTER 217\u2014THE AMERICAN LEGION",
+        "CHAPTER 219\u2014THE AMERICAN NATIONAL THEATER AND ACADEMY",
+        "CHAPTER 221\u2014THE AMERICAN SOCIETY OF INTERNATIONAL LAW",
+        "CHAPTER 223\u2014AMERICAN SYMPHONY ORCHESTRA LEAGUE",
+        "CHAPTER 225\u2014AMERICAN WAR MOTHERS",
+        "CHAPTER 227\u2014AMVETS (AMERICAN VETERANS)",
+        "CHAPTER 229\u2014ARMY AND NAVY UNION OF THE UNITED STATES OF AMERICA",
+        "CHAPTER 231\u2014AVIATION HALL OF FAME",
+        "CHAPTERS 233 THROUGH 299\u2014RESERVED",
+        "CHAPTER 301\u2014BIG BROTHERS\u2014BIG SISTERS OF AMERICA",
+        "CHAPTER 303\u2014BLINDED VETERANS ASSOCIATION",
+        "CHAPTER 305\u2014BLUE STAR MOTHERS OF AMERICA, INC.",
+        "CHAPTER 307\u2014BOARD FOR FUNDAMENTAL EDUCATION",
+        "CHAPTER 309\u2014BOY SCOUTS OF AMERICA",
+        "CHAPTER 311\u2014BOYS & GIRLS CLUBS OF AMERICA",
+        "CHAPTERS 313 THROUGH 399\u2014RESERVED",
+        "CHAPTER 401\u2014CATHOLIC WAR VETERANS OF THE UNITED STATES OF AMERICA, INCORPORATED",
+        "CHAPTER 403\u2014CIVIL AIR PATROL",
+        "CHAPTER 405\u2014CONGRESSIONAL MEDAL OF HONOR SOCIETY OF THE UNITED STATES OF AMERICA",
+        "CHAPTER 407\u2014CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE AND FIREARMS SAFETY",
+        "CHAPTERS 409 THROUGH 499\u2014RESERVED",
+        "CHAPTER 501\u2014DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861\u20131865",
+        "CHAPTER 503\u2014DISABLED AMERICAN VETERANS",
+        "CHAPTERS 505 THROUGH 599\u2014RESERVED",
+        "CHAPTER 601\u201482ND AIRBORNE DIVISION ASSOCIATION, INCORPORATED",
+        "CHAPTERS 603 THROUGH 699\u2014RESERVED",
+        "CHAPTER 701\u2014FLEET RESERVE ASSOCIATION",
+        "CHAPTER 703\u2014FORMER MEMBERS OF CONGRESS",
+        "CHAPTER 705\u2014THE FOUNDATION OF THE FEDERAL BAR ASSOCIATION",
+        "CHAPTER 707\u2014FREDERICK DOUGLASS MEMORIAL AND HISTORICAL ASSOCIATION",
+        "CHAPTER 709\u2014FUTURE FARMERS OF AMERICA",
+        "CHAPTERS 711 THROUGH 799\u2014RESERVED",
+        "CHAPTER 801\u2014GENERAL FEDERATION OF WOMEN'S CLUBS",
+        "CHAPTER 803\u2014GIRL SCOUTS OF THE UNITED STATES OF AMERICA",
+        "CHAPTER 805\u2014GOLD STAR WIVES OF AMERICA",
+        "CHAPTERS 807 THROUGH 899\u2014RESERVED",
+        "CHAPTER 901\u2014HELP AMERICA VOTE FOUNDATION",
+        "CHAPTERS 903 THROUGH 999\u2014RESERVED",
+        "CHAPTER 1001\u2014ITALIAN AMERICAN WAR VETERANS OF THE UNITED STATES",
+        "CHAPTERS 1003 THROUGH 1099\u2014RESERVED",
+        "CHAPTER 1101\u2014JEWISH WAR VETERANS OF THE UNITED STATES OF AMERICA, INCORPORATED",
+        "CHAPTER 1103\u2014JEWISH WAR VETERANS, U.S.A., NATIONAL MEMORIAL, INCORPORATED",
+        "CHAPTERS 1105 THROUGH 1199\u2014RESERVED",
+        "CHAPTER 1201\u2014KOREAN WAR VETERANS ASSOCIATION, INCORPORATED",
+        "CHAPTERS 1203 THROUGH 1299\u2014RESERVED",
+        "CHAPTER 1301\u2014LADIES OF THE GRAND ARMY OF THE REPUBLIC",
+        "CHAPTER 1303\u2014LEGION OF VALOR OF THE UNITED STATES OF AMERICA, INCORPORATED",
+        "CHAPTER 1305\u2014LITTLE LEAGUE BASEBALL, INCORPORATED",
+        "CHAPTERS 1307 THROUGH 1399\u2014RESERVED",
+        "CHAPTER 1401\u2014MARINE CORPS LEAGUE",
+        "CHAPTER 1403\u2014THE MILITARY CHAPLAINS ASSOCIATION OF THE UNITED STATES OF AMERICA",
+        "CHAPTER 1404\u2014MILITARY OFFICERS ASSOCIATION OF AMERICA",
+        "CHAPTER 1405\u2014MILITARY ORDER OF THE PURPLE HEART OF THE UNITED STATES OF AMERICA, INCORPORATED",
+        "CHAPTER 1407\u2014MILITARY ORDER OF THE WORLD WARS",
+        "CHAPTERS 1409 THROUGH 1499\u2014RESERVED",
+        "CHAPTER 1501\u2014NATIONAL ACADEMY OF PUBLIC ADMINISTRATION",
+        "CHAPTER 1503\u2014NATIONAL ACADEMY OF SCIENCES",
+        "CHAPTER 1504\u2014NATIONAL AMERICAN INDIAN VETERANS, INCORPORATED",
+        "CHAPTER 1505\u2014NATIONAL CONFERENCE OF STATE SOCIETIES, WASHINGTON, DISTRICT OF COLUMBIA",
+        "CHAPTER 1507\u2014NATIONAL CONFERENCE ON CITIZENSHIP",
+        "CHAPTER 1509\u2014NATIONAL COUNCIL ON RADIATION PROTECTION AND MEASUREMENTS",
+        "CHAPTER 1511\u2014NATIONAL EDUCATION ASSOCIATION OF THE UNITED STATES",
+        "CHAPTER 1513\u2014NATIONAL FALLEN FIREFIGHTERS FOUNDATION",
+        "CHAPTER 1515\u2014NATIONAL FEDERATION OF MUSIC CLUBS",
+        "CHAPTER 1517\u2014NATIONAL FILM PRESERVATION FOUNDATION",
+        "CHAPTER 1519\u2014NATIONAL FUND FOR MEDICAL EDUCATION",
+        "CHAPTER 1521\u2014NATIONAL MINING HALL OF FAME AND MUSEUM",
+        "CHAPTER 1523\u2014NATIONAL MUSIC COUNCIL",
+        "CHAPTER 1524\u2014NATIONAL RECORDING PRESERVATION FOUNDATION",
+        "CHAPTER 1525\u2014NATIONAL SAFETY COUNCIL",
+        "[CHAPTER 1526\u2014TRANSFERRED]",
+        "CHAPTER 1527\u2014NATIONAL SKI PATROL SYSTEM, INCORPORATED",
+        "CHAPTER 1529\u2014NATIONAL SOCIETY, DAUGHTERS OF THE AMERICAN COLONISTS",
+        "CHAPTER 1531\u2014THE NATIONAL SOCIETY OF THE DAUGHTERS OF THE AMERICAN REVOLUTION",
+        "CHAPTER 1533\u2014NATIONAL SOCIETY OF THE SONS OF THE AMERICAN REVOLUTION",
+        "CHAPTER 1535\u2014NATIONAL TROPICAL BOTANICAL GARDEN",
+        "CHAPTER 1537\u2014NATIONAL WOMAN'S RELIEF CORPS, AUXILIARY TO THE GRAND ARMY OF THE REPUBLIC",
+        "CHAPTER 1539\u2014THE NATIONAL YEOMEN (F)",
+        "CHAPTER 1541\u2014NAVAL SEA CADET CORPS",
+        "CHAPTER 1543\u2014NAVY CLUB OF THE UNITED STATES OF AMERICA",
+        "CHAPTER 1545\u2014NAVY WIVES CLUBS OF AMERICA",
+        "CHAPTER 1547\u2014NON COMMISSIONED OFFICERS ASSOCIATION OF THE UNITED STATES OF AMERICA, INCORPORATED",
+        "CHAPTERS 1549 THROUGH 1599\u2014RESERVED",
+        "CHAPTERS 1601 THROUGH 1699\u2014RESERVED",
+        "CHAPTER 1701\u2014PARALYZED VETERANS OF AMERICA",
+        "CHAPTER 1703\u2014PEARL HARBOR SURVIVORS ASSOCIATION",
+        "CHAPTER 1705\u2014POLISH LEGION OF AMERICAN VETERANS, U.S.A.",
+        "CHAPTERS 1707 THROUGH 1799\u2014RESERVED",
+        "CHAPTERS 1801 THROUGH 1899\u2014RESERVED",
+        "CHAPTER 1901\u2014RESERVE OFFICERS ASSOCIATION OF THE UNITED STATES",
+        "CHAPTER 1903\u2014RETIRED ENLISTED ASSOCIATION, INCORPORATED",
+        "CHAPTERS 1905 THROUGH 1999\u2014RESERVED",
+        "CHAPTER 2001\u2014SOCIETY OF AMERICAN FLORISTS AND ORNAMENTAL HORTICULTURISTS",
+        "CHAPTER 2003\u2014SONS OF UNION VETERANS OF THE CIVIL WAR",
+        "CHAPTERS 2005 THROUGH 2099\u2014RESERVED",
+        "CHAPTER 2101\u2014THEODORE ROOSEVELT ASSOCIATION",
+        "CHAPTER 2103\u2014369TH VETERANS' ASSOCIATION",
+        "CHAPTERS 2105 THROUGH 2199\u2014RESERVED",
+        "CHAPTER 2201\u2014UNITED SERVICE ORGANIZATIONS, INCORPORATED",
+        "CHAPTER 2203\u2014UNITED STATES CAPITOL HISTORICAL SOCIETY",
+        "CHAPTER 2205\u2014UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE",
+        "CHAPTER 2207\u2014UNITED STATES SUBMARINE VETERANS OF WORLD WAR II",
+        "CHAPTERS 2209 THROUGH 2299\u2014RESERVED",
+        "CHAPTER 2301\u2014VETERANS OF FOREIGN WARS OF THE UNITED STATES",
+        "CHAPTER 2303\u2014VETERANS OF WORLD WAR I OF THE UNITED STATES OF AMERICA, INCORPORATED",
+        "CHAPTER 2305\u2014VIETNAM VETERANS OF AMERICA, INC.",
+        "CHAPTERS 2307 THROUGH 2399\u2014RESERVED",
+        "CHAPTER 2401\u2014WOMEN'S ARMY CORPS VETERANS' ASSOCIATION",
+        "CHAPTERS 2403 THROUGH 2499\u2014RESERVED",
+        "CHAPTERS 2501 THROUGH 2599\u2014RESERVED",
+        "CHAPTERS 2601 THROUGH 2699\u2014RESERVED",
+        "CHAPTERS 2701 THROUGH 2799\u2014RESERVED",
+        "CHAPTER 3001\u2014THE AMERICAN NATIONAL RED CROSS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm"
+  },
+  "links": {
+    "title_num": 36,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title36/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title36/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36.zip"
+    },
+    "element_links": {
+      "subtitles": [
+        {
+          "name": "Subtitle I\u2014Patriotic and National Observances and Ceremonies",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle II\u2014Patriotic and National Organizations",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle III\u2014Treaty Obligation Organizations",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-subtitleI/"
+          }
+        }
+      ],
+      "parts": [],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014PATRIOTIC AND NATIONAL OBSERVANCES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, AND TREE",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014PRESIDENTIAL INAUGURAL CEREMONIES",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014FEDERAL PARTICIPATION IN CARL GARNER FEDERAL LANDS CLEANUP DAY",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014MISCELLANEOUS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014AMERICAN BATTLE MONUMENTS COMMISSION",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014UNITED STATES HOLOCAUST MEMORIAL MUSEUM",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014PRESIDENT'S COMMITTEE ON EMPLOYMENT OF PEOPLE WITH DISABILITIES",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014GENERAL",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 201\u2014AGRICULTURAL HALL OF FAME",
+          "id": "201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter201/"
+          }
+        },
+        {
+          "name": "CHAPTER 202\u2014AIR FORCE SERGEANTS ASSOCIATION",
+          "id": "202",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter202.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter202.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter202/"
+          }
+        },
+        {
+          "name": "CHAPTER 203\u2014AMERICAN ACADEMY OF ARTS AND LETTERS",
+          "id": "203",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter203.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter203.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter203/"
+          }
+        },
+        {
+          "name": "CHAPTER 205\u2014AMERICAN CHEMICAL SOCIETY",
+          "id": "205",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter205.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter205.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter205/"
+          }
+        },
+        {
+          "name": "CHAPTER 207\u2014AMERICAN COUNCIL OF LEARNED SOCIETIES",
+          "id": "207",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter207.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter207.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter207/"
+          }
+        },
+        {
+          "name": "CHAPTER 209\u2014AMERICAN EX-PRISONERS OF WAR",
+          "id": "209",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter209.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter209.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter209/"
+          }
+        },
+        {
+          "name": "CHAPTER 210\u2014AMERICAN GI FORUM OF THE UNITED STATES",
+          "id": "210",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter210.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter210.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter210/"
+          }
+        },
+        {
+          "name": "CHAPTER 211\u2014AMERICAN GOLD STAR MOTHERS, INCORPORATED",
+          "id": "211",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter211.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter211.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter211/"
+          }
+        },
+        {
+          "name": "CHAPTER 213\u2014AMERICAN HISTORICAL ASSOCIATION",
+          "id": "213",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter213.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter213.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter213/"
+          }
+        },
+        {
+          "name": "CHAPTER 215\u2014AMERICAN HOSPITAL OF PARIS",
+          "id": "215",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter215.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter215.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter215/"
+          }
+        },
+        {
+          "name": "CHAPTER 217\u2014THE AMERICAN LEGION",
+          "id": "217",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter217.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter217.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter217/"
+          }
+        },
+        {
+          "name": "CHAPTER 219\u2014THE AMERICAN NATIONAL THEATER AND ACADEMY",
+          "id": "219",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter219.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter219.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter219/"
+          }
+        },
+        {
+          "name": "CHAPTER 221\u2014THE AMERICAN SOCIETY OF INTERNATIONAL LAW",
+          "id": "221",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter221.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter221.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter221/"
+          }
+        },
+        {
+          "name": "CHAPTER 223\u2014AMERICAN SYMPHONY ORCHESTRA LEAGUE",
+          "id": "223",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter223.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter223.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter223/"
+          }
+        },
+        {
+          "name": "CHAPTER 225\u2014AMERICAN WAR MOTHERS",
+          "id": "225",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter225.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter225.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter225/"
+          }
+        },
+        {
+          "name": "CHAPTER 227\u2014AMVETS (AMERICAN VETERANS)",
+          "id": "227",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter227.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter227.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter227/"
+          }
+        },
+        {
+          "name": "CHAPTER 229\u2014ARMY AND NAVY UNION OF THE UNITED STATES OF AMERICA",
+          "id": "229",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter229.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter229.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter229/"
+          }
+        },
+        {
+          "name": "CHAPTER 231\u2014AVIATION HALL OF FAME",
+          "id": "231",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter231.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter231.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter231/"
+          }
+        },
+        {
+          "name": "CHAPTER 301\u2014BIG BROTHERS\u2014BIG SISTERS OF AMERICA",
+          "id": "301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter301/"
+          }
+        },
+        {
+          "name": "CHAPTER 303\u2014BLINDED VETERANS ASSOCIATION",
+          "id": "303",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter303.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter303.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter303/"
+          }
+        },
+        {
+          "name": "CHAPTER 305\u2014BLUE STAR MOTHERS OF AMERICA, INC.",
+          "id": "305",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter305.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter305.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter305/"
+          }
+        },
+        {
+          "name": "CHAPTER 307\u2014BOARD FOR FUNDAMENTAL EDUCATION",
+          "id": "307",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter307.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter307.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter307/"
+          }
+        },
+        {
+          "name": "CHAPTER 309\u2014BOY SCOUTS OF AMERICA",
+          "id": "309",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter309.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter309.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter309/"
+          }
+        },
+        {
+          "name": "CHAPTER 311\u2014BOYS & GIRLS CLUBS OF AMERICA",
+          "id": "311",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter311.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter311.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter311/"
+          }
+        },
+        {
+          "name": "CHAPTER 401\u2014CATHOLIC WAR VETERANS OF THE UNITED STATES OF AMERICA, INCORPORATED",
+          "id": "401",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter401.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter401.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter401/"
+          }
+        },
+        {
+          "name": "CHAPTER 403\u2014CIVIL AIR PATROL",
+          "id": "403",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter403.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter403.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter403/"
+          }
+        },
+        {
+          "name": "CHAPTER 405\u2014CONGRESSIONAL MEDAL OF HONOR SOCIETY OF THE UNITED STATES OF AMERICA",
+          "id": "405",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter405.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter405.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter405/"
+          }
+        },
+        {
+          "name": "CHAPTER 407\u2014CORPORATION FOR THE PROMOTION OF RIFLE PRACTICE AND FIREARMS SAFETY",
+          "id": "407",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter407.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter407.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter407/"
+          }
+        },
+        {
+          "name": "CHAPTER 501\u2014DAUGHTERS OF UNION VETERANS OF THE CIVIL WAR 1861\u20131865",
+          "id": "501",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter501.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter501.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter501/"
+          }
+        },
+        {
+          "name": "CHAPTER 503\u2014DISABLED AMERICAN VETERANS",
+          "id": "503",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter503.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter503.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter503/"
+          }
+        },
+        {
+          "name": "CHAPTER 601\u201482ND AIRBORNE DIVISION ASSOCIATION, INCORPORATED",
+          "id": "601",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter601.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter601.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter601/"
+          }
+        },
+        {
+          "name": "CHAPTER 701\u2014FLEET RESERVE ASSOCIATION",
+          "id": "701",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter701.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter701.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter701/"
+          }
+        },
+        {
+          "name": "CHAPTER 703\u2014FORMER MEMBERS OF CONGRESS",
+          "id": "703",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter703.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter703.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter703/"
+          }
+        },
+        {
+          "name": "CHAPTER 705\u2014THE FOUNDATION OF THE FEDERAL BAR ASSOCIATION",
+          "id": "705",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter705.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter705.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter705/"
+          }
+        },
+        {
+          "name": "CHAPTER 707\u2014FREDERICK DOUGLASS MEMORIAL AND HISTORICAL ASSOCIATION",
+          "id": "707",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter707.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter707.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter707/"
+          }
+        },
+        {
+          "name": "CHAPTER 709\u2014FUTURE FARMERS OF AMERICA",
+          "id": "709",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter709.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter709.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter709/"
+          }
+        },
+        {
+          "name": "CHAPTER 801\u2014GENERAL FEDERATION OF WOMEN'S CLUBS",
+          "id": "801",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter801.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter801.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter801/"
+          }
+        },
+        {
+          "name": "CHAPTER 803\u2014GIRL SCOUTS OF THE UNITED STATES OF AMERICA",
+          "id": "803",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter803.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter803.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter803/"
+          }
+        },
+        {
+          "name": "CHAPTER 805\u2014GOLD STAR WIVES OF AMERICA",
+          "id": "805",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter805.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter805.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter805/"
+          }
+        },
+        {
+          "name": "CHAPTER 901\u2014HELP AMERICA VOTE FOUNDATION",
+          "id": "901",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter901.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter901.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter901/"
+          }
+        },
+        {
+          "name": "CHAPTER 1001\u2014ITALIAN AMERICAN WAR VETERANS OF THE UNITED STATES",
+          "id": "1001",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1001.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1001.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1001/"
+          }
+        },
+        {
+          "name": "CHAPTER 1101\u2014JEWISH WAR VETERANS OF THE UNITED STATES OF AMERICA, INCORPORATED",
+          "id": "1101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1101/"
+          }
+        },
+        {
+          "name": "CHAPTER 1103\u2014JEWISH WAR VETERANS, U.S.A., NATIONAL MEMORIAL, INCORPORATED",
+          "id": "1103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1103/"
+          }
+        },
+        {
+          "name": "CHAPTER 1201\u2014KOREAN WAR VETERANS ASSOCIATION, INCORPORATED",
+          "id": "1201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1201/"
+          }
+        },
+        {
+          "name": "CHAPTER 1301\u2014LADIES OF THE GRAND ARMY OF THE REPUBLIC",
+          "id": "1301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1301/"
+          }
+        },
+        {
+          "name": "CHAPTER 1303\u2014LEGION OF VALOR OF THE UNITED STATES OF AMERICA, INCORPORATED",
+          "id": "1303",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1303.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1303.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1303/"
+          }
+        },
+        {
+          "name": "CHAPTER 1305\u2014LITTLE LEAGUE BASEBALL, INCORPORATED",
+          "id": "1305",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1305.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1305.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1305/"
+          }
+        },
+        {
+          "name": "CHAPTER 1401\u2014MARINE CORPS LEAGUE",
+          "id": "1401",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1401.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1401.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1401/"
+          }
+        },
+        {
+          "name": "CHAPTER 1403\u2014THE MILITARY CHAPLAINS ASSOCIATION OF THE UNITED STATES OF AMERICA",
+          "id": "1403",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1403.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1403.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1403/"
+          }
+        },
+        {
+          "name": "CHAPTER 1404\u2014MILITARY OFFICERS ASSOCIATION OF AMERICA",
+          "id": "1404",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1404.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1404.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1404/"
+          }
+        },
+        {
+          "name": "CHAPTER 1405\u2014MILITARY ORDER OF THE PURPLE HEART OF THE UNITED STATES OF AMERICA, INCORPORATED",
+          "id": "1405",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1405.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1405.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1405/"
+          }
+        },
+        {
+          "name": "CHAPTER 1407\u2014MILITARY ORDER OF THE WORLD WARS",
+          "id": "1407",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1407.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1407.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1407/"
+          }
+        },
+        {
+          "name": "CHAPTER 1501\u2014NATIONAL ACADEMY OF PUBLIC ADMINISTRATION",
+          "id": "1501",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1501.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1501.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1501/"
+          }
+        },
+        {
+          "name": "CHAPTER 1503\u2014NATIONAL ACADEMY OF SCIENCES",
+          "id": "1503",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1503.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1503.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1503/"
+          }
+        },
+        {
+          "name": "CHAPTER 1504\u2014NATIONAL AMERICAN INDIAN VETERANS, INCORPORATED",
+          "id": "1504",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1504.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1504.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1504/"
+          }
+        },
+        {
+          "name": "CHAPTER 1505\u2014NATIONAL CONFERENCE OF STATE SOCIETIES, WASHINGTON, DISTRICT OF COLUMBIA",
+          "id": "1505",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1505.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1505.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1505/"
+          }
+        },
+        {
+          "name": "CHAPTER 1507\u2014NATIONAL CONFERENCE ON CITIZENSHIP",
+          "id": "1507",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1507.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1507.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1507/"
+          }
+        },
+        {
+          "name": "CHAPTER 1509\u2014NATIONAL COUNCIL ON RADIATION PROTECTION AND MEASUREMENTS",
+          "id": "1509",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1509.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1509.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1509/"
+          }
+        },
+        {
+          "name": "CHAPTER 1511\u2014NATIONAL EDUCATION ASSOCIATION OF THE UNITED STATES",
+          "id": "1511",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1511.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1511.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1511/"
+          }
+        },
+        {
+          "name": "CHAPTER 1513\u2014NATIONAL FALLEN FIREFIGHTERS FOUNDATION",
+          "id": "1513",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1513.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1513.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1513/"
+          }
+        },
+        {
+          "name": "CHAPTER 1515\u2014NATIONAL FEDERATION OF MUSIC CLUBS",
+          "id": "1515",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1515.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1515.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1515/"
+          }
+        },
+        {
+          "name": "CHAPTER 1517\u2014NATIONAL FILM PRESERVATION FOUNDATION",
+          "id": "1517",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1517.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1517.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1517/"
+          }
+        },
+        {
+          "name": "CHAPTER 1519\u2014NATIONAL FUND FOR MEDICAL EDUCATION",
+          "id": "1519",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1519.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1519.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1519/"
+          }
+        },
+        {
+          "name": "CHAPTER 1521\u2014NATIONAL MINING HALL OF FAME AND MUSEUM",
+          "id": "1521",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1521.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1521.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1521/"
+          }
+        },
+        {
+          "name": "CHAPTER 1523\u2014NATIONAL MUSIC COUNCIL",
+          "id": "1523",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1523.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1523.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1523/"
+          }
+        },
+        {
+          "name": "CHAPTER 1524\u2014NATIONAL RECORDING PRESERVATION FOUNDATION",
+          "id": "1524",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1524.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1524.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1524/"
+          }
+        },
+        {
+          "name": "CHAPTER 1525\u2014NATIONAL SAFETY COUNCIL",
+          "id": "1525",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1525.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1525.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1525/"
+          }
+        },
+        {
+          "name": "[CHAPTER 1526\u2014TRANSFERRED]",
+          "id": "1526",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1526.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1526.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1526/"
+          }
+        },
+        {
+          "name": "CHAPTER 1527\u2014NATIONAL SKI PATROL SYSTEM, INCORPORATED",
+          "id": "1527",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1527.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1527.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1527/"
+          }
+        },
+        {
+          "name": "CHAPTER 1529\u2014NATIONAL SOCIETY, DAUGHTERS OF THE AMERICAN COLONISTS",
+          "id": "1529",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1529.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1529.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1529/"
+          }
+        },
+        {
+          "name": "CHAPTER 1531\u2014THE NATIONAL SOCIETY OF THE DAUGHTERS OF THE AMERICAN REVOLUTION",
+          "id": "1531",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1531.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1531.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1531/"
+          }
+        },
+        {
+          "name": "CHAPTER 1533\u2014NATIONAL SOCIETY OF THE SONS OF THE AMERICAN REVOLUTION",
+          "id": "1533",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1533.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1533.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1533/"
+          }
+        },
+        {
+          "name": "CHAPTER 1535\u2014NATIONAL TROPICAL BOTANICAL GARDEN",
+          "id": "1535",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1535.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1535.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1535/"
+          }
+        },
+        {
+          "name": "CHAPTER 1537\u2014NATIONAL WOMAN'S RELIEF CORPS, AUXILIARY TO THE GRAND ARMY OF THE REPUBLIC",
+          "id": "1537",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1537.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1537.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1537/"
+          }
+        },
+        {
+          "name": "CHAPTER 1539\u2014THE NATIONAL YEOMEN (F)",
+          "id": "1539",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1539.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1539.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1539/"
+          }
+        },
+        {
+          "name": "CHAPTER 1541\u2014NAVAL SEA CADET CORPS",
+          "id": "1541",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1541.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1541.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1541/"
+          }
+        },
+        {
+          "name": "CHAPTER 1543\u2014NAVY CLUB OF THE UNITED STATES OF AMERICA",
+          "id": "1543",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1543.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1543.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1543/"
+          }
+        },
+        {
+          "name": "CHAPTER 1545\u2014NAVY WIVES CLUBS OF AMERICA",
+          "id": "1545",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1545.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1545.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1545/"
+          }
+        },
+        {
+          "name": "CHAPTER 1547\u2014NON COMMISSIONED OFFICERS ASSOCIATION OF THE UNITED STATES OF AMERICA, INCORPORATED",
+          "id": "1547",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1547.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1547.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1547/"
+          }
+        },
+        {
+          "name": "CHAPTER 1701\u2014PARALYZED VETERANS OF AMERICA",
+          "id": "1701",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1701.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1701.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1701/"
+          }
+        },
+        {
+          "name": "CHAPTER 1703\u2014PEARL HARBOR SURVIVORS ASSOCIATION",
+          "id": "1703",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1703.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1703.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1703/"
+          }
+        },
+        {
+          "name": "CHAPTER 1705\u2014POLISH LEGION OF AMERICAN VETERANS, U.S.A.",
+          "id": "1705",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1705.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1705.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1705/"
+          }
+        },
+        {
+          "name": "CHAPTER 1901\u2014RESERVE OFFICERS ASSOCIATION OF THE UNITED STATES",
+          "id": "1901",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1901.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1901.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1901/"
+          }
+        },
+        {
+          "name": "CHAPTER 1903\u2014RETIRED ENLISTED ASSOCIATION, INCORPORATED",
+          "id": "1903",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter1903.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter1903.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter1903/"
+          }
+        },
+        {
+          "name": "CHAPTER 2001\u2014SOCIETY OF AMERICAN FLORISTS AND ORNAMENTAL HORTICULTURISTS",
+          "id": "2001",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2001.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2001.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2001/"
+          }
+        },
+        {
+          "name": "CHAPTER 2003\u2014SONS OF UNION VETERANS OF THE CIVIL WAR",
+          "id": "2003",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2003.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2003.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2003/"
+          }
+        },
+        {
+          "name": "CHAPTER 2101\u2014THEODORE ROOSEVELT ASSOCIATION",
+          "id": "2101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2101/"
+          }
+        },
+        {
+          "name": "CHAPTER 2103\u2014369TH VETERANS' ASSOCIATION",
+          "id": "2103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2103/"
+          }
+        },
+        {
+          "name": "CHAPTER 2201\u2014UNITED SERVICE ORGANIZATIONS, INCORPORATED",
+          "id": "2201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2201/"
+          }
+        },
+        {
+          "name": "CHAPTER 2203\u2014UNITED STATES CAPITOL HISTORICAL SOCIETY",
+          "id": "2203",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2203.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2203.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2203/"
+          }
+        },
+        {
+          "name": "CHAPTER 2205\u2014UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE",
+          "id": "2205",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2205.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2205.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2205/"
+          }
+        },
+        {
+          "name": "CHAPTER 2207\u2014UNITED STATES SUBMARINE VETERANS OF WORLD WAR II",
+          "id": "2207",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2207.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2207.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2207/"
+          }
+        },
+        {
+          "name": "CHAPTER 2301\u2014VETERANS OF FOREIGN WARS OF THE UNITED STATES",
+          "id": "2301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2301/"
+          }
+        },
+        {
+          "name": "CHAPTER 2303\u2014VETERANS OF WORLD WAR I OF THE UNITED STATES OF AMERICA, INCORPORATED",
+          "id": "2303",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2303.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2303.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2303/"
+          }
+        },
+        {
+          "name": "CHAPTER 2305\u2014VIETNAM VETERANS OF AMERICA, INC.",
+          "id": "2305",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2305.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2305.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2305/"
+          }
+        },
+        {
+          "name": "CHAPTER 2401\u2014WOMEN'S ARMY CORPS VETERANS' ASSOCIATION",
+          "id": "2401",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter2401.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter2401.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter2401/"
+          }
+        },
+        {
+          "name": "CHAPTER 3001\u2014THE AMERICAN NATIONAL RED CROSS",
+          "id": "3001",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36-chapter3001.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36-chapter3001.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36-chapter3001/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

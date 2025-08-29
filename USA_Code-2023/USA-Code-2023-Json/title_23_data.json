@@ -1,0 +1,101 @@
+{
+  "structure": {
+    "title_num": 23,
+    "title_name": "TITLE 23\u2014HIGHWAYS",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 101 - 601",
+    "elements": {
+      "subtitles": [],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014FEDERAL-AID HIGHWAYS",
+        "CHAPTER 2\u2014OTHER HIGHWAYS",
+        "CHAPTER 3\u2014GENERAL PROVISIONS",
+        "CHAPTER 4\u2014HIGHWAY SAFETY",
+        "CHAPTER 5\u2014RESEARCH, TECHNOLOGY, AND EDUCATION",
+        "CHAPTER 6\u2014INFRASTRUCTURE FINANCE"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23.htm"
+  },
+  "links": {
+    "title_num": 23,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title23/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title23/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23.zip"
+    },
+    "element_links": {
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014FEDERAL-AID HIGHWAYS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014OTHER HIGHWAYS",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014GENERAL PROVISIONS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014HIGHWAY SAFETY",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014RESEARCH, TECHNOLOGY, AND EDUCATION",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014INFRASTRUCTURE FINANCE",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23-chapter6/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "title_num": 1,
+    "title_name": "TITLE 1\u2014GENERAL PROVISIONS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_01_TITLE_1-GENERAL_PROVISIONS.md",
+    "json_file": "title_1_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 2,
+    "title_name": "TITLE 2\u2014THE CONGRESS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_02_TITLE_2-THE_CONGRESS.md",
+    "json_file": "title_2_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 3,
+    "title_name": "TITLE 3\u2014THE PRESIDENT",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_03_TITLE_3-THE_PRESIDENT.md",
+    "json_file": "title_3_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 4,
+    "title_name": "TITLE 4\u2014FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_04_TITLE_4-FLAG_AND_SEAL_SEAT_OF_GOVERNMENT_AND_THE_STATES.md",
+    "json_file": "title_4_data.json",
+    "status": "success"
+  }
+]

@@ -1,0 +1,464 @@
+{
+  "structure": {
+    "title_num": 51,
+    "title_name": "TITLE 51\u2014NATIONAL AND COMMERCIAL SPACE PROGRAMS",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 10101 - 71301",
+    "elements": {
+      "subtitles": [
+        "Subtitle I\u2014General",
+        "Subtitle II\u2014General Program and Policy Provisions",
+        "Subtitle III\u2014Administrative Provisions",
+        "Subtitle IV\u2014Aeronautics and Space Research and Education",
+        "Subtitle V\u2014Programs Targeting Commercial Opportunities",
+        "Subtitle VI\u2014Earth Observations",
+        "Subtitle VII\u2014Access to Space"
+      ],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 101\u2014DEFINITIONS",
+        "CHAPTER 201\u2014NATIONAL AERONAUTICS AND SPACE PROGRAM",
+        "CHAPTER 203\u2014RESPONSIBILITIES AND VISION",
+        "CHAPTER 301\u2014APPROPRIATIONS, BUDGETS, AND ACCOUNTING",
+        "CHAPTER 303\u2014CONTRACTING AND PROCUREMENT",
+        "CHAPTER 305\u2014MANAGEMENT AND REVIEW",
+        "CHAPTER 307\u2014INTERNATIONAL COOPERATION AND COMPETITION",
+        "CHAPTER 309\u2014AWARDS",
+        "CHAPTER 311\u2014SAFETY",
+        "CHAPTER 313\u2014HEALTHCARE",
+        "CHAPTER 315\u2014MISCELLANEOUS",
+        "CHAPTER 401\u2014AERONAUTICS",
+        "CHAPTER 403\u2014NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM",
+        "CHAPTER 405\u2014BIOMEDICAL RESEARCH IN SPACE",
+        "CHAPTER 407\u2014ENVIRONMENTALLY FRIENDLY AIRCRAFT",
+        "CHAPTER 409\u2014MISCELLANEOUS",
+        "CHAPTER 501\u2014SPACE COMMERCE",
+        "CHAPTER 503\u2014COMMERCIAL REUSABLE IN-SPACE TRANSPORTATION",
+        "CHAPTER 505\u2014COMMERCIAL SPACE COMPETITIVENESS",
+        "CHAPTER 507\u2014OFFICE OF SPACE COMMERCE",
+        "CHAPTER 509\u2014COMMERCIAL SPACE LAUNCH ACTIVITIES",
+        "CHAPTER 511\u2014SPACE TRANSPORTATION INFRASTRUCTURE MATCHING GRANTS",
+        "CHAPTER 513\u2014SPACE RESOURCE COMMERCIAL EXPLORATION AND UTILIZATION",
+        "CHAPTER 515\u2014OFFICE OF SPACEPORTS",
+        "CHAPTER 601\u2014LAND REMOTE SENSING POLICY",
+        "CHAPTER 603\u2014REMOTE SENSING",
+        "CHAPTER 605\u2014EARTH SCIENCE",
+        "CHAPTER 606\u2014SPACE WEATHER",
+        "CHAPTER 701\u2014USE OF SPACE LAUNCH SYSTEM OR ALTERNATIVES",
+        "[CHAPTER 703\u2014REPEALED]",
+        "CHAPTER 705\u2014EXPLORATION INITIATIVES",
+        "CHAPTER 707\u2014HUMAN SPACE FLIGHT INDEPENDENT INVESTIGATION COMMISSION",
+        "CHAPTER 709\u2014INTERNATIONAL SPACE STATION",
+        "CHAPTER 711\u2014NEAR-EARTH OBJECTS",
+        "CHAPTER 713\u2014COOPERATION FOR SAFETY AMONG SPACEFARING NATIONS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51.htm"
+  },
+  "links": {
+    "title_num": 51,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title51/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title51/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51.zip"
+    },
+    "element_links": {
+      "subtitles": [
+        {
+          "name": "Subtitle I\u2014General",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle II\u2014General Program and Policy Provisions",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle III\u2014Administrative Provisions",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle IV\u2014Aeronautics and Space Research and Education",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle V\u2014Programs Targeting Commercial Opportunities",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleV/"
+          }
+        },
+        {
+          "name": "Subtitle VI\u2014Earth Observations",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleV/"
+          }
+        },
+        {
+          "name": "Subtitle VII\u2014Access to Space",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleV/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 101\u2014DEFINITIONS",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 201\u2014NATIONAL AERONAUTICS AND SPACE PROGRAM",
+          "id": "201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter201/"
+          }
+        },
+        {
+          "name": "CHAPTER 203\u2014RESPONSIBILITIES AND VISION",
+          "id": "203",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter203.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter203.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter203/"
+          }
+        },
+        {
+          "name": "CHAPTER 301\u2014APPROPRIATIONS, BUDGETS, AND ACCOUNTING",
+          "id": "301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter301/"
+          }
+        },
+        {
+          "name": "CHAPTER 303\u2014CONTRACTING AND PROCUREMENT",
+          "id": "303",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter303.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter303.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter303/"
+          }
+        },
+        {
+          "name": "CHAPTER 305\u2014MANAGEMENT AND REVIEW",
+          "id": "305",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter305.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter305.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter305/"
+          }
+        },
+        {
+          "name": "CHAPTER 307\u2014INTERNATIONAL COOPERATION AND COMPETITION",
+          "id": "307",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter307.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter307.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter307/"
+          }
+        },
+        {
+          "name": "CHAPTER 309\u2014AWARDS",
+          "id": "309",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter309.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter309.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter309/"
+          }
+        },
+        {
+          "name": "CHAPTER 311\u2014SAFETY",
+          "id": "311",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter311.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter311.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter311/"
+          }
+        },
+        {
+          "name": "CHAPTER 313\u2014HEALTHCARE",
+          "id": "313",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter313.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter313.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter313/"
+          }
+        },
+        {
+          "name": "CHAPTER 315\u2014MISCELLANEOUS",
+          "id": "315",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter315.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter315.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter315/"
+          }
+        },
+        {
+          "name": "CHAPTER 401\u2014AERONAUTICS",
+          "id": "401",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter401.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter401.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter401/"
+          }
+        },
+        {
+          "name": "CHAPTER 403\u2014NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM",
+          "id": "403",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter403.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter403.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter403/"
+          }
+        },
+        {
+          "name": "CHAPTER 405\u2014BIOMEDICAL RESEARCH IN SPACE",
+          "id": "405",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter405.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter405.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter405/"
+          }
+        },
+        {
+          "name": "CHAPTER 407\u2014ENVIRONMENTALLY FRIENDLY AIRCRAFT",
+          "id": "407",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter407.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter407.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter407/"
+          }
+        },
+        {
+          "name": "CHAPTER 409\u2014MISCELLANEOUS",
+          "id": "409",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter409.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter409.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter409/"
+          }
+        },
+        {
+          "name": "CHAPTER 501\u2014SPACE COMMERCE",
+          "id": "501",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter501.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter501.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter501/"
+          }
+        },
+        {
+          "name": "CHAPTER 503\u2014COMMERCIAL REUSABLE IN-SPACE TRANSPORTATION",
+          "id": "503",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter503.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter503.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter503/"
+          }
+        },
+        {
+          "name": "CHAPTER 505\u2014COMMERCIAL SPACE COMPETITIVENESS",
+          "id": "505",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter505.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter505.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter505/"
+          }
+        },
+        {
+          "name": "CHAPTER 507\u2014OFFICE OF SPACE COMMERCE",
+          "id": "507",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter507.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter507.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter507/"
+          }
+        },
+        {
+          "name": "CHAPTER 509\u2014COMMERCIAL SPACE LAUNCH ACTIVITIES",
+          "id": "509",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter509.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter509.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter509/"
+          }
+        },
+        {
+          "name": "CHAPTER 511\u2014SPACE TRANSPORTATION INFRASTRUCTURE MATCHING GRANTS",
+          "id": "511",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter511.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter511.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter511/"
+          }
+        },
+        {
+          "name": "CHAPTER 513\u2014SPACE RESOURCE COMMERCIAL EXPLORATION AND UTILIZATION",
+          "id": "513",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter513.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter513.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter513/"
+          }
+        },
+        {
+          "name": "CHAPTER 515\u2014OFFICE OF SPACEPORTS",
+          "id": "515",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter515.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter515.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter515/"
+          }
+        },
+        {
+          "name": "CHAPTER 601\u2014LAND REMOTE SENSING POLICY",
+          "id": "601",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter601.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter601.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter601/"
+          }
+        },
+        {
+          "name": "CHAPTER 603\u2014REMOTE SENSING",
+          "id": "603",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter603.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter603.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter603/"
+          }
+        },
+        {
+          "name": "CHAPTER 605\u2014EARTH SCIENCE",
+          "id": "605",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter605.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter605.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter605/"
+          }
+        },
+        {
+          "name": "CHAPTER 606\u2014SPACE WEATHER",
+          "id": "606",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter606.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter606.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter606/"
+          }
+        },
+        {
+          "name": "CHAPTER 701\u2014USE OF SPACE LAUNCH SYSTEM OR ALTERNATIVES",
+          "id": "701",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter701.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter701.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter701/"
+          }
+        },
+        {
+          "name": "[CHAPTER 703\u2014REPEALED]",
+          "id": "703",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter703.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter703.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter703/"
+          }
+        },
+        {
+          "name": "CHAPTER 705\u2014EXPLORATION INITIATIVES",
+          "id": "705",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter705.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter705.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter705/"
+          }
+        },
+        {
+          "name": "CHAPTER 707\u2014HUMAN SPACE FLIGHT INDEPENDENT INVESTIGATION COMMISSION",
+          "id": "707",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter707.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter707.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter707/"
+          }
+        },
+        {
+          "name": "CHAPTER 709\u2014INTERNATIONAL SPACE STATION",
+          "id": "709",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter709.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter709.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter709/"
+          }
+        },
+        {
+          "name": "CHAPTER 711\u2014NEAR-EARTH OBJECTS",
+          "id": "711",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter711.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter711.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter711/"
+          }
+        },
+        {
+          "name": "CHAPTER 713\u2014COOPERATION FOR SAFETY AMONG SPACEFARING NATIONS",
+          "id": "713",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-chapter713.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-chapter713.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-chapter713/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

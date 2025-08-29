@@ -1,0 +1,2841 @@
+{
+  "structure": {
+    "title_num": 26,
+    "title_name": "TITLE 26\u2014INTERNAL REVENUE CODE",
+    "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 9831",
+    "elements": {
+      "subtitles": [
+        "Subtitle A\u2014Income Taxes",
+        "Subtitle B\u2014Estate and Gift Taxes",
+        "Subtitle C\u2014Employment Taxes",
+        "Subtitle D\u2014Miscellaneous Excise Taxes",
+        "Subtitle E\u2014Alcohol, Tobacco, and Certain Other Excise Taxes",
+        "Subtitle F\u2014Procedure and Administration",
+        "Subtitle G\u2014The Joint Committee on Taxation",
+        "Subtitle H\u2014Financing of Presidential Election Campaigns",
+        "Subtitle I\u2014Trust Fund Code",
+        "Subtitle J\u2014Coal Industry Health Benefits",
+        "Subtitle K\u2014Group Health Plan Requirements"
+      ],
+      "parts": [
+        "PART I\u2014TAX ON INDIVIDUALS",
+        "PART II\u2014TAX ON CORPORATIONS",
+        "PART III\u2014CHANGES IN RATES DURING A TAXABLE YEAR",
+        "PART IV\u2014CREDITS AGAINST TAX",
+        "[PART V\u2014REPEALED]",
+        "PART VI\u2014ALTERNATIVE MINIMUM TAX",
+        "PART VII\u2014BASE EROSION AND ANTI-ABUSE TAX",
+        "[PART VIII\u2014REPEALED]",
+        "PART I\u2014DEFINITION OF GROSS INCOME, ADJUSTED GROSS INCOME, TAXABLE INCOME, ETC.",
+        "PART II\u2014ITEMS SPECIFICALLY INCLUDED IN GROSS INCOME",
+        "PART III\u2014ITEMS SPECIFICALLY EXCLUDED FROM GROSS INCOME",
+        "PART IV\u2014TAX EXEMPTION REQUIREMENTS FOR STATE AND LOCAL BONDS",
+        "PART V\u2014DEDUCTIONS FOR PERSONAL EXEMPTIONS",
+        "PART VI\u2014ITEMIZED DEDUCTIONS FOR INDIVIDUALS AND CORPORATIONS",
+        "PART VII\u2014ADDITIONAL ITEMIZED DEDUCTIONS FOR INDIVIDUALS",
+        "PART VIII\u2014SPECIAL DEDUCTIONS FOR CORPORATIONS",
+        "PART IX\u2014ITEMS NOT DEDUCTIBLE",
+        "PART X\u2014TERMINAL RAILROAD CORPORATIONS AND THEIR SHAREHOLDERS",
+        "PART XI\u2014SPECIAL RULES RELATING TO CORPORATE PREFERENCE ITEMS",
+        "PART I\u2014DISTRIBUTIONS BY CORPORATIONS",
+        "PART II\u2014CORPORATE LIQUIDATIONS",
+        "PART III\u2014CORPORATE ORGANIZATIONS AND REORGANIZATIONS",
+        "[PART IV\u2014REPEALED]",
+        "PART V\u2014CARRYOVERS",
+        "PART VI\u2014TREATMENT OF CERTAIN CORPORATE INTERESTS AS STOCK OR INDEBTEDNESS",
+        "[PART VII\u2014REPEALED]",
+        "PART I\u2014PENSION, PROFIT-SHARING, STOCK BONUS PLANS, ETC.",
+        "PART II\u2014CERTAIN STOCK OPTIONS",
+        "PART III\u2014RULES RELATING TO MINIMUM FUNDING STANDARDS AND BENEFIT LIMITATIONS",
+        "PART I\u2014ACCOUNTING PERIODS",
+        "PART II\u2014METHODS OF ACCOUNTING",
+        "PART III\u2014ADJUSTMENTS",
+        "PART I\u2014GENERAL RULE",
+        "PART II\u2014PRIVATE FOUNDATIONS",
+        "PART III\u2014TAXATION OF BUSINESS INCOME OF CERTAIN EXEMPT ORGANIZATIONS",
+        "PART IV\u2014FARMERS' COOPERATIVES",
+        "PART V\u2014SHIPOWNERS' PROTECTION AND INDEMNITY ASSOCIATIONS",
+        "PART VI\u2014POLITICAL ORGANIZATIONS",
+        "PART VII\u2014CERTAIN HOMEOWNERS ASSOCIATIONS",
+        "PART VIII\u2014CERTAIN SAVINGS ENTITIES",
+        "PART I\u2014CORPORATIONS IMPROPERLY ACCUMULATING SURPLUS",
+        "PART II\u2014PERSONAL HOLDING COMPANIES",
+        "[PART III\u2014REPEALED]",
+        "PART IV\u2014DEDUCTION FOR DIVIDENDS PAID",
+        "PART I\u2014RULES OF GENERAL APPLICATION TO BANKING INSTITUTIONS",
+        "PART II\u2014MUTUAL SAVINGS BANKS, ETC.",
+        "PART I\u2014DEDUCTIONS",
+        "[PART II\u2014REPEALED]",
+        "PART III\u2014SALES AND EXCHANGES",
+        "PART IV\u2014MINERAL PRODUCTION PAYMENTS",
+        "PART V\u2014CONTINENTAL SHELF AREAS",
+        "PART I\u2014ESTATES, TRUSTS, AND BENEFICIARIES",
+        "PART II\u2014INCOME IN RESPECT OF DECEDENTS",
+        "PART I\u2014DETERMINATION OF TAX LIABILITY",
+        "PART II\u2014CONTRIBUTIONS, DISTRIBUTIONS, AND TRANSFERS",
+        "PART III\u2014DEFINITIONS",
+        "[PART IV\u2014REPEALED]",
+        "PART I\u2014LIFE INSURANCE COMPANIES",
+        "PART II\u2014OTHER INSURANCE COMPANIES",
+        "PART III\u2014PROVISIONS OF GENERAL APPLICATION",
+        "PART I\u2014REGULATED INVESTMENT COMPANIES",
+        "PART II\u2014REAL ESTATE INVESTMENT TRUSTS",
+        "PART III\u2014PROVISIONS WHICH APPLY TO BOTH REGULATED INVESTMENT COMPANIES AND REAL ESTATE INVESTMENT TRUSTS",
+        "PART IV\u2014REAL ESTATE MORTGAGE INVESTMENT CONDUITS",
+        "[PART V\u2014REPEALED]",
+        "PART I\u2014SOURCE RULES AND OTHER GENERAL RULES RELATING TO FOREIGN INCOME",
+        "PART II\u2014NONRESIDENT ALIENS AND FOREIGN CORPORATIONS",
+        "PART III\u2014INCOME FROM SOURCES WITHOUT THE UNITED STATES",
+        "PART IV\u2014DOMESTIC INTERNATIONAL SALES CORPORATIONS",
+        "PART V\u2014INTERNATIONAL BOYCOTT DETERMINATIONS",
+        "PART I\u2014DETERMINATION OF AMOUNT OF AND RECOGNITION OF GAIN OR LOSS",
+        "PART II\u2014BASIS RULES OF GENERAL APPLICATION",
+        "PART III\u2014COMMON NONTAXABLE EXCHANGES",
+        "PART IV\u2014SPECIAL RULES",
+        "[PART V\u2014REPEALED]",
+        "[PART VI\u2014REPEALED]",
+        "PART VII\u2014WASH SALES; STRADDLES",
+        "[PART VIII\u2014REPEALED]",
+        "[PART IX\u2014REPEALED]",
+        "PART I\u2014TREATMENT OF CAPITAL GAINS",
+        "PART II\u2014TREATMENT OF CAPITAL LOSSES",
+        "PART III\u2014GENERAL RULES FOR DETERMINING CAPITAL GAINS AND LOSSES",
+        "PART IV\u2014SPECIAL RULES FOR DETERMINING CAPITAL GAINS AND LOSSES",
+        "PART V\u2014SPECIAL RULES FOR BONDS AND OTHER DEBT INSTRUMENTS",
+        "PART VI\u2014TREATMENT OF CERTAIN PASSIVE FOREIGN INVESTMENT COMPANIES",
+        "PART I\u2014INCOME AVERAGING",
+        "PART II\u2014MITIGATION OF EFFECT OF LIMITATIONS AND OTHER PROVISIONS",
+        "[PART III\u2014REPEALED]",
+        "[PART IV\u2014REPEALED]",
+        "PART V\u2014CLAIM OF RIGHT",
+        "[PART VI\u2014REPEALED]",
+        "PART VII\u2014RECOVERIES OF FOREIGN EXPROPRIATION LOSSES",
+        "PART I\u2014IN GENERAL",
+        "PART II\u2014TAX TREATMENT OF SHAREHOLDERS",
+        "PART III\u2014SPECIAL RULES",
+        "PART IV\u2014DEFINITIONS; MISCELLANEOUS",
+        "PART I\u2014TAX TREATMENT OF COOPERATIVES",
+        "PART II\u2014TAX TREATMENT BY PATRONS OF PATRONAGE DIVIDENDS AND PER-UNIT RETAIN ALLOCATIONS",
+        "PART III\u2014DEFINITIONS; SPECIAL RULES",
+        "PART I\u2014DESIGNATION",
+        "PART II\u2014TAX-EXEMPT FACILITY BONDS FOR EMPOWERMENT ZONES AND ENTERPRISE COMMUNITIES",
+        "PART III\u2014ADDITIONAL INCENTIVES FOR EMPOWERMENT ZONES",
+        "PART IV\u2014INCENTIVES FOR EDUCATION ZONES",
+        "PART V\u2014REGULATIONS",
+        "PART I\u2014IN GENERAL",
+        "PART II\u2014CERTAIN CONTROLLED CORPORATIONS",
+        "PART I\u2014TAX IMPOSED",
+        "PART II\u2014CREDITS AGAINST TAX",
+        "PART III\u2014GROSS ESTATE",
+        "PART IV\u2014TAXABLE ESTATE",
+        "PART I\u2014GAS GUZZLERS",
+        "PART II\u2014TIRES",
+        "PART III\u2014PETROLEUM PRODUCTS",
+        "PART I\u2014SPORTING GOODS",
+        "[PART II\u2014REPEALED]",
+        "PART III\u2014FIREARMS",
+        "PART I\u2014PERSONS",
+        "PART II\u2014PROPERTY",
+        "PART III\u2014SPECIAL PROVISIONS APPLICABLE TO TAXES ON TRANSPORTATION BY AIR",
+        "PART I\u2014GALLONAGE TAXES",
+        "PART II\u2014MISCELLANEOUS PROVISIONS",
+        "PART I\u2014GENERAL PROVISIONS",
+        "PART II\u2014OPERATIONS ON BONDED PREMISES",
+        "[PART III\u2014REPEALED]",
+        "PART I\u2014RETURN OF MATERIALS USED IN THE MANUFACTURE OR RECOVERY OF DISTILLED SPIRITS",
+        "PART II\u2014REGULATION OF TRAFFIC IN CONTAINERS OF DISTILLED SPIRITS",
+        "PART III\u2014MISCELLANEOUS PROVISIONS",
+        "PART I\u2014ESTABLISHMENT",
+        "PART II\u2014OPERATIONS",
+        "PART III\u2014CELLAR TREATMENT AND CLASSIFICATION OF WINE",
+        "PART IV\u2014GENERAL",
+        "PART I\u2014ESTABLISHMENT",
+        "PART II\u2014OPERATIONS",
+        "PART I\u2014VINEGAR PLANTS",
+        "PART II\u2014VOLATILE FRUIT-FLAVOR CONCENTRATE PLANTS",
+        "[PART III\u2014REPEALED]",
+        "PART I\u2014PENALTY, SEIZURE, AND FORFEITURE PROVISIONS APPLICABLE TO DISTILLING, RECTIFYING, AND DISTILLED AND RECTIFIED PRODUCTS",
+        "PART II\u2014PENALTY AND FORFEITURE PROVISIONS APPLICABLE TO WINE AND WINE PRODUCTION",
+        "PART III\u2014PENALTY, SEIZURE, AND FORFEITURE PROVISIONS APPLICABLE TO BEER AND BREWING",
+        "PART IV\u2014PENALTY, SEIZURE, AND FORFEITURE PROVISIONS COMMON TO LIQUORS",
+        "[PART V\u2014REPEALED]",
+        "PART I\u2014SPECIAL (OCCUPATIONAL) TAXES",
+        "PART II\u2014TAX ON TRANSFERRING FIREARMS",
+        "PART III\u2014TAX ON MAKING FIREARMS",
+        "PART I\u2014GENERAL PROVISIONS",
+        "PART II\u2014EXEMPTIONS",
+        "PART I\u2014RECORDS, STATEMENTS, AND SPECIAL RETURNS",
+        "PART II\u2014TAX RETURNS OR STATEMENTS",
+        "PART III\u2014INFORMATION RETURNS",
+        "PART IV\u2014SIGNING AND VERIFYING OF RETURNS AND OTHER DOCUMENTS",
+        "PART V\u2014TIME FOR FILING RETURNS AND OTHER DOCUMENTS",
+        "PART VI\u2014EXTENSION OF TIME FOR FILING RETURNS",
+        "PART VII\u2014PLACE FOR FILING RETURNS OR OTHER DOCUMENTS",
+        "PART VIII\u2014DESIGNATION OF INCOME TAX PAYMENTS TO PRESIDENTIAL ELECTION CAMPAIGN FUND",
+        "PART I\u2014IN GENERAL",
+        "PART II\u2014PARTNERSHIP ADJUSTMENTS",
+        "PART III\u2014PROCEDURE",
+        "PART IV\u2014DEFINITIONS AND SPECIAL RULES",
+        "PART I\u2014DUE PROCESS FOR LIENS",
+        "PART II\u2014LIENS",
+        "PART I\u2014DUE PROCESS FOR COLLECTIONS",
+        "PART II\u2014LEVY",
+        "PART I\u2014GENERAL PROVISIONS",
+        "PART II\u2014ACCURACY-RELATED AND FRAUD PENALTIES",
+        "PART III\u2014APPLICABLE RULES",
+        "PART I\u2014GENERAL PROVISIONS",
+        "PART II\u2014FAILURE TO COMPLY WITH CERTAIN INFORMATION REPORTING REQUIREMENTS",
+        "PART I\u2014TERMINATION OF TAXABLE YEAR",
+        "PART II\u2014JEOPARDY ASSESSMENTS",
+        "PART III\u2014SPECIAL RULES WITH RESPECT TO CERTAIN CASH",
+        "PART I\u2014GENERAL PROVISIONS",
+        "PART II\u2014PENALTIES APPLICABLE TO CERTAIN TAXES",
+        "PART I\u2014PROPERTY SUBJECT TO FORFEITURE",
+        "PART II\u2014PROVISIONS COMMON TO FORFEITURES",
+        "PART I\u2014ORGANIZATION AND JURISDICTION",
+        "PART II\u2014PROCEDURE",
+        "PART III\u2014MISCELLANEOUS PROVISIONS",
+        "PART IV\u2014DECLARATORY JUDGMENTS",
+        "PART I\u2014ESTABLISHMENT AND BENEFITS",
+        "PART II\u2014FINANCING",
+        "PART III\u2014ENFORCEMENT",
+        "PART IV\u2014OTHER PROVISIONS",
+        "PART I\u2014INDIVIDUAL EMPLOYER PLANS",
+        "PART II\u20141992 UMWA BENEFIT PLAN"
+      ],
+      "subparts": [
+        "Subpart A\u2014Nonrefundable Personal Credits",
+        "Subpart B\u2014Other Credits",
+        "Subpart C\u2014Refundable Credits",
+        "Subpart D\u2014Business Related Credits",
+        "Subpart E\u2014Rules for Computing Investment Credit",
+        "Subpart F\u2014Rules for Computing Work Opportunity Credit",
+        "Subpart G\u2014Credit Against Regular Tax for Prior Year Minimum Tax Liability",
+        "[Subpart H\u2014Repealed]",
+        "[Subpart I\u2014Repealed]",
+        "[Subpart J\u2014Repealed]",
+        "Subpart A\u2014Private Activity Bonds",
+        "Subpart B\u2014Requirements Applicable to All State and Local Bonds",
+        "Subpart C\u2014Definitions and Special Rules",
+        "Subpart A\u2014Effects on Recipients",
+        "Subpart B\u2014Effects on Corporation",
+        "Subpart C\u2014Definitions; Constructive Ownership of Stock",
+        "Subpart A\u2014Effects on Recipients",
+        "Subpart B\u2014Effects on Corporation",
+        "[Subpart C\u2014Repealed]",
+        "Subpart D\u2014Definition and Special Rule",
+        "Subpart A\u2014Corporate Organizations",
+        "Subpart B\u2014Effects on Shareholders and Security Holders",
+        "Subpart C\u2014Effects on Corporations",
+        "Subpart D\u2014Special Rule; Definitions",
+        "Subpart A\u2014General Rule",
+        "Subpart B\u2014Special Rules",
+        "Subpart C\u2014Insolvent Plans",
+        "Subpart D\u2014Treatment of Welfare Benefit Funds",
+        "Subpart E\u2014Treatment of Transfers to Retiree Health Accounts",
+        "Subpart A\u2014Minimum Funding Standards for Pension Plans",
+        "Subpart B\u2014Benefit Limitations Under Single-Employer Plans",
+        "Subpart A\u2014Methods of Accounting in General",
+        "Subpart B\u2014Taxable Year for Which Items of Gross Income Included",
+        "Subpart C\u2014Taxable Year for Which Deductions Taken",
+        "Subpart D\u2014Inventories",
+        "Subpart A\u2014General Rules for Taxation of Estates and Trusts",
+        "Subpart B\u2014Trusts Which Distribute Current Income Only",
+        "Subpart C\u2014Estates and Trusts Which May Accumulate Income or Which Distribute Corpus",
+        "Subpart D\u2014Treatment of Excess Distributions by Trusts",
+        "Subpart E\u2014Grantors and Others Treated as Substantial Owners",
+        "Subpart F\u2014Miscellaneous",
+        "Subpart A\u2014Contributions to a Partnership",
+        "Subpart B\u2014Distributions by a Partnership",
+        "Subpart C\u2014Transfers of Interests in a Partnership",
+        "Subpart D\u2014Provisions Common to Other Subparts",
+        "Subpart A\u2014Tax Imposed",
+        "Subpart B\u2014Life Insurance Gross Income",
+        "Subpart C\u2014Life Insurance Deductions",
+        "Subpart D\u2014Accounting, Allocation, and Foreign Provisions",
+        "Subpart E\u2014Definitions and Special Rules",
+        "Subpart A\u2014Nonresident Alien Individuals",
+        "Subpart B\u2014Foreign Corporations",
+        "Subpart C\u2014Tax on Gross Transportation Income",
+        "Subpart D\u2014Miscellaneous Provisions",
+        "Subpart A\u2014Foreign Tax Credit",
+        "Subpart B\u2014Earned Income of Citizens or Residents of United States",
+        "[Subpart C\u2014Repealed]",
+        "Subpart D\u2014Possessions of the United States",
+        "[Subpart E\u2014Repealed]",
+        "Subpart F\u2014Controlled Foreign Corporations",
+        "Subpart G\u2014Export Trade Corporations",
+        "[Subpart H\u2014Repealed]",
+        "Subpart I\u2014Admissibility of Documentation Maintained in Foreign Countries",
+        "Subpart J\u2014Foreign Currency Transactions",
+        "Subpart A\u2014Treatment of Qualifying Corporations",
+        "Subpart B\u2014Treatment of Distributions to Shareholders",
+        "Subpart A\u2014Original Issue Discount",
+        "Subpart B\u2014Market Discount on Bonds",
+        "Subpart C\u2014Discount on Short-Term Obligations",
+        "Subpart D\u2014Miscellaneous Provisions",
+        "Subpart A\u2014Interest on Tax Deferral",
+        "Subpart B\u2014Treatment of Qualified Electing Funds",
+        "Subpart C\u2014Election of Mark to Market for Marketable Stock",
+        "Subpart D\u2014General Provisions",
+        "Subpart A\u2014Empowerment Zone Employment Credit",
+        "Subpart B\u2014Additional Expensing",
+        "Subpart C\u2014Nonrecognition of Gain on Rollover of Empowerment Zone Investments",
+        "Subpart D\u2014General Provisions",
+        "Subpart A\u2014Motor and Aviation Fuels",
+        "Subpart B\u2014Special Provisions Applicable to Fuels Tax",
+        "Subpart A\u2014Distilled Spirits",
+        "[Subpart B\u2014Repealed]",
+        "Subpart C\u2014Wines",
+        "Subpart D\u2014Beer",
+        "Subpart E\u2014General Provisions",
+        "Subpart A\u2014Manufacturers of Stills",
+        "Subpart B\u2014Nonbeverage Domestic Drawback Claimants",
+        "Subpart C\u2014Recordkeeping and Registration by Dealers",
+        "Subpart D\u2014Other Provisions",
+        "Subpart A\u2014General",
+        "Subpart B\u2014Production",
+        "Subpart C\u2014Storage",
+        "Subpart D\u2014Denaturation",
+        "Subpart A\u2014General Requirement",
+        "Subpart B\u2014Income Tax Returns",
+        "Subpart C\u2014Estate and Gift Tax Returns",
+        "Subpart D\u2014Miscellaneous Provisions",
+        "Subpart A\u2014Information Concerning Persons Subject to Special Provisions",
+        "Subpart B\u2014Information Concerning Transactions With Other Persons",
+        "Subpart C\u2014Information Regarding Wages Paid Employees",
+        "Subpart D\u2014Information Regarding Health Insurance Coverage",
+        "Subpart E\u2014Registration of and Information Concerning Pension, Etc., Plans",
+        "Subpart F\u2014Information Concerning Tax Return Preparers"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014NORMAL TAXES AND SURTAXES",
+        "CHAPTER 2\u2014TAX ON SELF-EMPLOYMENT INCOME",
+        "CHAPTER 2A\u2014UNEARNED INCOME MEDICARE CONTRIBUTION",
+        "CHAPTER 3\u2014WITHHOLDING OF TAX ON NONRESIDENT ALIENS AND FOREIGN CORPORATIONS",
+        "CHAPTER 4\u2014TAXES TO ENFORCE REPORTING ON CERTAIN FOREIGN ACCOUNTS",
+        "[CHAPTER 5\u2014REPEALED]",
+        "CHAPTER 6\u2014CONSOLIDATED RETURNS",
+        "CHAPTER 11\u2014ESTATE TAX",
+        "CHAPTER 12\u2014GIFT TAX",
+        "CHAPTER 13\u2014TAX ON GENERATION-SKIPPING TRANSFERS",
+        "CHAPTER 14\u2014SPECIAL VALUATION RULES",
+        "CHAPTER 15\u2014GIFTS AND BEQUESTS FROM EXPATRIATES",
+        "CHAPTER 21\u2014FEDERAL INSURANCE CONTRIBUTIONS ACT",
+        "CHAPTER 22\u2014RAILROAD RETIREMENT TAX ACT",
+        "CHAPTER 23\u2014FEDERAL UNEMPLOYMENT TAX ACT",
+        "CHAPTER 23A\u2014RAILROAD UNEMPLOYMENT REPAYMENT TAX",
+        "CHAPTER 24\u2014COLLECTION OF INCOME TAX AT SOURCE ON WAGES",
+        "CHAPTER 25\u2014GENERAL PROVISIONS RELATING TO EMPLOYMENT TAXES",
+        "CHAPTER 31\u2014RETAIL EXCISE TAXES",
+        "CHAPTER 32\u2014MANUFACTURERS EXCISE TAXES",
+        "CHAPTER 33\u2014FACILITIES AND SERVICES",
+        "CHAPTER 34\u2014TAXES ON CERTAIN INSURANCE POLICIES",
+        "CHAPTER 35\u2014TAXES ON WAGERING",
+        "CHAPTER 36\u2014CERTAIN OTHER EXCISE TAXES",
+        "CHAPTER 37\u2014REPURCHASE OF CORPORATE STOCK",
+        "[CHAPTER 38\u2014REPEALED]\u00a01",
+        "CHAPTER 38\u2014ENVIRONMENTAL TAXES",
+        "CHAPTER 39\u2014REGISTRATION-REQUIRED OBLIGATIONS",
+        "CHAPTER 40\u2014GENERAL PROVISIONS RELATING TO OCCUPATIONAL TAXES",
+        "CHAPTER 41\u2014PUBLIC CHARITIES",
+        "CHAPTER 42\u2014PRIVATE FOUNDATIONS; AND CERTAIN OTHER TAX-EXEMPT ORGANIZATIONS",
+        "CHAPTER 43\u2014QUALIFIED PENSION, ETC., PLANS",
+        "CHAPTER 44\u2014QUALIFIED INVESTMENT ENTITIES",
+        "CHAPTER 45\u2014PROVISIONS RELATING TO EXPATRIATED ENTITIES",
+        "CHAPTER 46\u2014GOLDEN PARACHUTE PAYMENTS",
+        "CHAPTER 47\u2014CERTAIN GROUP HEALTH PLANS",
+        "CHAPTER 48\u2014MAINTENANCE OF MINIMUM ESSENTIAL COVERAGE",
+        "CHAPTER 49\u2014COSMETIC SERVICES",
+        "CHAPTER 50\u2014FOREIGN PROCUREMENT",
+        "CHAPTER 50A\u2014DESIGNATED DRUGS",
+        "CHAPTER 51\u2014DISTILLED SPIRITS, WINES, AND BEER",
+        "CHAPTER 52\u2014TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES",
+        "CHAPTER 53\u2014MACHINE GUNS, DESTRUCTIVE DEVICES, AND CERTAIN OTHER FIREARMS",
+        "CHAPTER 54\u2014GREENMAIL",
+        "CHAPTER 55\u2014STRUCTURED SETTLEMENT FACTORING TRANSACTIONS",
+        "CHAPTER 61\u2014INFORMATION AND RETURNS",
+        "CHAPTER 62\u2014TIME AND PLACE FOR PAYING TAX",
+        "CHAPTER 63\u2014ASSESSMENT",
+        "CHAPTER 64\u2014COLLECTION",
+        "CHAPTER 65\u2014ABATEMENTS, CREDITS, AND REFUNDS",
+        "CHAPTER 66\u2014LIMITATIONS",
+        "CHAPTER 67\u2014INTEREST",
+        "CHAPTER 68\u2014ADDITIONS TO THE TAX, ADDITIONAL AMOUNTS, AND ASSESSABLE PENALTIES",
+        "CHAPTER 69\u2014GENERAL PROVISIONS RELATING TO STAMPS",
+        "CHAPTER 70\u2014JEOPARDY, RECEIVERSHIPS, ETC.",
+        "CHAPTER 71\u2014TRANSFEREES AND FIDUCIARIES",
+        "CHAPTER 72\u2014LICENSING AND REGISTRATION",
+        "CHAPTER 73\u2014BONDS",
+        "CHAPTER 74\u2014CLOSING AGREEMENTS AND COMPROMISES",
+        "CHAPTER 75\u2014CRIMES, OTHER OFFENSES, AND FORFEITURES",
+        "CHAPTER 76\u2014JUDICIAL PROCEEDINGS",
+        "CHAPTER 77\u2014MISCELLANEOUS PROVISIONS",
+        "CHAPTER 78\u2014DISCOVERY OF LIABILITY AND ENFORCEMENT OF TITLE",
+        "CHAPTER 79\u2014DEFINITIONS",
+        "CHAPTER 80\u2014GENERAL RULES",
+        "CHAPTER 91\u2014ORGANIZATION AND MEMBERSHIP OF THE JOINT COMMITTEE",
+        "CHAPTER 92\u2014POWERS AND DUTIES OF THE JOINT COMMITTEE",
+        "CHAPTER 95\u2014PRESIDENTIAL ELECTION CAMPAIGN FUND",
+        "CHAPTER 96\u2014PRESIDENTIAL PRIMARY MATCHING PAYMENT ACCOUNT",
+        "CHAPTER 98\u2014TRUST FUND CODE",
+        "CHAPTER 99\u2014COAL INDUSTRY HEALTH BENEFITS",
+        "CHAPTER 100\u2014GROUP HEALTH PLAN REQUIREMENTS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm"
+  },
+  "links": {
+    "title_num": 26,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title26/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title26/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26.zip"
+    },
+    "element_links": {
+      "subtitles": [
+        {
+          "name": "Subtitle A\u2014Income Taxes",
+          "id": "A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleA.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleA.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleA/"
+          }
+        },
+        {
+          "name": "Subtitle B\u2014Estate and Gift Taxes",
+          "id": "B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleB.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleB.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleB/"
+          }
+        },
+        {
+          "name": "Subtitle C\u2014Employment Taxes",
+          "id": "C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleC.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleC.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleC/"
+          }
+        },
+        {
+          "name": "Subtitle D\u2014Miscellaneous Excise Taxes",
+          "id": "D",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleD.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleD.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleD/"
+          }
+        },
+        {
+          "name": "Subtitle E\u2014Alcohol, Tobacco, and Certain Other Excise Taxes",
+          "id": "E",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleE.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleE.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleE/"
+          }
+        },
+        {
+          "name": "Subtitle F\u2014Procedure and Administration",
+          "id": "F",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleF.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleF.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleF/"
+          }
+        },
+        {
+          "name": "Subtitle G\u2014The Joint Committee on Taxation",
+          "id": "G",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleG.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleG.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleG/"
+          }
+        },
+        {
+          "name": "Subtitle H\u2014Financing of Presidential Election Campaigns",
+          "id": "H",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleH.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleH.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleH/"
+          }
+        },
+        {
+          "name": "Subtitle I\u2014Trust Fund Code",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle J\u2014Coal Industry Health Benefits",
+          "id": "J",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleJ.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleJ.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleJ/"
+          }
+        },
+        {
+          "name": "Subtitle K\u2014Group Health Plan Requirements",
+          "id": "K",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleK.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleK.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleK/"
+          }
+        }
+      ],
+      "parts": [
+        {
+          "name": "PART I\u2014TAX ON INDIVIDUALS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TAX ON CORPORATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014CHANGES IN RATES DURING A TAXABLE YEAR",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014CREDITS AGAINST TAX",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "[PART V\u2014REPEALED]",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART VI\u2014ALTERNATIVE MINIMUM TAX",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "PART VII\u2014BASE EROSION AND ANTI-ABUSE TAX",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVII/"
+          }
+        },
+        {
+          "name": "[PART VIII\u2014REPEALED]",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014DEFINITION OF GROSS INCOME, ADJUSTED GROSS INCOME, TAXABLE INCOME, ETC.",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014ITEMS SPECIFICALLY INCLUDED IN GROSS INCOME",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014ITEMS SPECIFICALLY EXCLUDED FROM GROSS INCOME",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014TAX EXEMPTION REQUIREMENTS FOR STATE AND LOCAL BONDS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014DEDUCTIONS FOR PERSONAL EXEMPTIONS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART VI\u2014ITEMIZED DEDUCTIONS FOR INDIVIDUALS AND CORPORATIONS",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "PART VII\u2014ADDITIONAL ITEMIZED DEDUCTIONS FOR INDIVIDUALS",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVII/"
+          }
+        },
+        {
+          "name": "PART VIII\u2014SPECIAL DEDUCTIONS FOR CORPORATIONS",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVIII/"
+          }
+        },
+        {
+          "name": "PART IX\u2014ITEMS NOT DEDUCTIBLE",
+          "id": "IX",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIX/"
+          }
+        },
+        {
+          "name": "PART X\u2014TERMINAL RAILROAD CORPORATIONS AND THEIR SHAREHOLDERS",
+          "id": "X",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partX/"
+          }
+        },
+        {
+          "name": "PART XI\u2014SPECIAL RULES RELATING TO CORPORATE PREFERENCE ITEMS",
+          "id": "XI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partXI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partXI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partXI/"
+          }
+        },
+        {
+          "name": "PART I\u2014DISTRIBUTIONS BY CORPORATIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014CORPORATE LIQUIDATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014CORPORATE ORGANIZATIONS AND REORGANIZATIONS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "[PART IV\u2014REPEALED]",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014CARRYOVERS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART VI\u2014TREATMENT OF CERTAIN CORPORATE INTERESTS AS STOCK OR INDEBTEDNESS",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "[PART VII\u2014REPEALED]",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVII/"
+          }
+        },
+        {
+          "name": "PART I\u2014PENSION, PROFIT-SHARING, STOCK BONUS PLANS, ETC.",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014CERTAIN STOCK OPTIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014RULES RELATING TO MINIMUM FUNDING STANDARDS AND BENEFIT LIMITATIONS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014ACCOUNTING PERIODS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014METHODS OF ACCOUNTING",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014ADJUSTMENTS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014GENERAL RULE",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PRIVATE FOUNDATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014TAXATION OF BUSINESS INCOME OF CERTAIN EXEMPT ORGANIZATIONS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014FARMERS' COOPERATIVES",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014SHIPOWNERS' PROTECTION AND INDEMNITY ASSOCIATIONS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART VI\u2014POLITICAL ORGANIZATIONS",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "PART VII\u2014CERTAIN HOMEOWNERS ASSOCIATIONS",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVII/"
+          }
+        },
+        {
+          "name": "PART VIII\u2014CERTAIN SAVINGS ENTITIES",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014CORPORATIONS IMPROPERLY ACCUMULATING SURPLUS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PERSONAL HOLDING COMPANIES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "[PART III\u2014REPEALED]",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014DEDUCTION FOR DIVIDENDS PAID",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014RULES OF GENERAL APPLICATION TO BANKING INSTITUTIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014MUTUAL SAVINGS BANKS, ETC.",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014DEDUCTIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "[PART II\u2014REPEALED]",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014SALES AND EXCHANGES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014MINERAL PRODUCTION PAYMENTS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014CONTINENTAL SHELF AREAS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART I\u2014ESTATES, TRUSTS, AND BENEFICIARIES",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014INCOME IN RESPECT OF DECEDENTS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014DETERMINATION OF TAX LIABILITY",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014CONTRIBUTIONS, DISTRIBUTIONS, AND TRANSFERS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014DEFINITIONS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "[PART IV\u2014REPEALED]",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014LIFE INSURANCE COMPANIES",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014OTHER INSURANCE COMPANIES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014PROVISIONS OF GENERAL APPLICATION",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014REGULATED INVESTMENT COMPANIES",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014REAL ESTATE INVESTMENT TRUSTS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014PROVISIONS WHICH APPLY TO BOTH REGULATED INVESTMENT COMPANIES AND REAL ESTATE INVESTMENT TRUSTS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014REAL ESTATE MORTGAGE INVESTMENT CONDUITS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "[PART V\u2014REPEALED]",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART I\u2014SOURCE RULES AND OTHER GENERAL RULES RELATING TO FOREIGN INCOME",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014NONRESIDENT ALIENS AND FOREIGN CORPORATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014INCOME FROM SOURCES WITHOUT THE UNITED STATES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014DOMESTIC INTERNATIONAL SALES CORPORATIONS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014INTERNATIONAL BOYCOTT DETERMINATIONS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART I\u2014DETERMINATION OF AMOUNT OF AND RECOGNITION OF GAIN OR LOSS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014BASIS RULES OF GENERAL APPLICATION",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014COMMON NONTAXABLE EXCHANGES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014SPECIAL RULES",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "[PART V\u2014REPEALED]",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "[PART VI\u2014REPEALED]",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "PART VII\u2014WASH SALES; STRADDLES",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVII/"
+          }
+        },
+        {
+          "name": "[PART VIII\u2014REPEALED]",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVIII/"
+          }
+        },
+        {
+          "name": "[PART IX\u2014REPEALED]",
+          "id": "IX",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIX/"
+          }
+        },
+        {
+          "name": "PART I\u2014TREATMENT OF CAPITAL GAINS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TREATMENT OF CAPITAL LOSSES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014GENERAL RULES FOR DETERMINING CAPITAL GAINS AND LOSSES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014SPECIAL RULES FOR DETERMINING CAPITAL GAINS AND LOSSES",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014SPECIAL RULES FOR BONDS AND OTHER DEBT INSTRUMENTS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART VI\u2014TREATMENT OF CERTAIN PASSIVE FOREIGN INVESTMENT COMPANIES",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "PART I\u2014INCOME AVERAGING",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014MITIGATION OF EFFECT OF LIMITATIONS AND OTHER PROVISIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "[PART III\u2014REPEALED]",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "[PART IV\u2014REPEALED]",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014CLAIM OF RIGHT",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "[PART VI\u2014REPEALED]",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "PART VII\u2014RECOVERIES OF FOREIGN EXPROPRIATION LOSSES",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVII/"
+          }
+        },
+        {
+          "name": "PART I\u2014IN GENERAL",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TAX TREATMENT OF SHAREHOLDERS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014SPECIAL RULES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014DEFINITIONS; MISCELLANEOUS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014TAX TREATMENT OF COOPERATIVES",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TAX TREATMENT BY PATRONS OF PATRONAGE DIVIDENDS AND PER-UNIT RETAIN ALLOCATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014DEFINITIONS; SPECIAL RULES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014DESIGNATION",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TAX-EXEMPT FACILITY BONDS FOR EMPOWERMENT ZONES AND ENTERPRISE COMMUNITIES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014ADDITIONAL INCENTIVES FOR EMPOWERMENT ZONES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014INCENTIVES FOR EDUCATION ZONES",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014REGULATIONS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART I\u2014IN GENERAL",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014CERTAIN CONTROLLED CORPORATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014TAX IMPOSED",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014CREDITS AGAINST TAX",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014GROSS ESTATE",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014TAXABLE ESTATE",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014GAS GUZZLERS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TIRES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014PETROLEUM PRODUCTS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014SPORTING GOODS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "[PART II\u2014REPEALED]",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014FIREARMS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014PERSONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PROPERTY",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014SPECIAL PROVISIONS APPLICABLE TO TAXES ON TRANSPORTATION BY AIR",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014GALLONAGE TAXES",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014MISCELLANEOUS PROVISIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014GENERAL PROVISIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014OPERATIONS ON BONDED PREMISES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "[PART III\u2014REPEALED]",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014RETURN OF MATERIALS USED IN THE MANUFACTURE OR RECOVERY OF DISTILLED SPIRITS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014REGULATION OF TRAFFIC IN CONTAINERS OF DISTILLED SPIRITS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014MISCELLANEOUS PROVISIONS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014ESTABLISHMENT",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014OPERATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014CELLAR TREATMENT AND CLASSIFICATION OF WINE",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014GENERAL",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014ESTABLISHMENT",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014OPERATIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014VINEGAR PLANTS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014VOLATILE FRUIT-FLAVOR CONCENTRATE PLANTS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "[PART III\u2014REPEALED]",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014PENALTY, SEIZURE, AND FORFEITURE PROVISIONS APPLICABLE TO DISTILLING, RECTIFYING, AND DISTILLED AND RECTIFIED PRODUCTS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PENALTY AND FORFEITURE PROVISIONS APPLICABLE TO WINE AND WINE PRODUCTION",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014PENALTY, SEIZURE, AND FORFEITURE PROVISIONS APPLICABLE TO BEER AND BREWING",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014PENALTY, SEIZURE, AND FORFEITURE PROVISIONS COMMON TO LIQUORS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "[PART V\u2014REPEALED]",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART I\u2014SPECIAL (OCCUPATIONAL) TAXES",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TAX ON TRANSFERRING FIREARMS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014TAX ON MAKING FIREARMS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014GENERAL PROVISIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014EXEMPTIONS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014RECORDS, STATEMENTS, AND SPECIAL RETURNS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014TAX RETURNS OR STATEMENTS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014INFORMATION RETURNS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014SIGNING AND VERIFYING OF RETURNS AND OTHER DOCUMENTS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014TIME FOR FILING RETURNS AND OTHER DOCUMENTS",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partV/"
+          }
+        },
+        {
+          "name": "PART VI\u2014EXTENSION OF TIME FOR FILING RETURNS",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVI/"
+          }
+        },
+        {
+          "name": "PART VII\u2014PLACE FOR FILING RETURNS OR OTHER DOCUMENTS",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVII/"
+          }
+        },
+        {
+          "name": "PART VIII\u2014DESIGNATION OF INCOME TAX PAYMENTS TO PRESIDENTIAL ELECTION CAMPAIGN FUND",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partVIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014IN GENERAL",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PARTNERSHIP ADJUSTMENTS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014PROCEDURE",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014DEFINITIONS AND SPECIAL RULES",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014DUE PROCESS FOR LIENS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014LIENS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014DUE PROCESS FOR COLLECTIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014LEVY",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014GENERAL PROVISIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014ACCURACY-RELATED AND FRAUD PENALTIES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014APPLICABLE RULES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014GENERAL PROVISIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014FAILURE TO COMPLY WITH CERTAIN INFORMATION REPORTING REQUIREMENTS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014TERMINATION OF TAXABLE YEAR",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014JEOPARDY ASSESSMENTS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014SPECIAL RULES WITH RESPECT TO CERTAIN CASH",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART I\u2014GENERAL PROVISIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PENALTIES APPLICABLE TO CERTAIN TAXES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014PROPERTY SUBJECT TO FORFEITURE",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PROVISIONS COMMON TO FORFEITURES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART I\u2014ORGANIZATION AND JURISDICTION",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014PROCEDURE",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014MISCELLANEOUS PROVISIONS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014DECLARATORY JUDGMENTS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014ESTABLISHMENT AND BENEFITS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014FINANCING",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014ENFORCEMENT",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014OTHER PROVISIONS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partIV/"
+          }
+        },
+        {
+          "name": "PART I\u2014INDIVIDUAL EMPLOYER PLANS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partI/"
+          }
+        },
+        {
+          "name": "PART II\u20141992 UMWA BENEFIT PLAN",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-partII/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "[Subpart I\u2014Repealed]",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subparti/"
+          }
+        },
+        {
+          "name": "Subpart I\u2014Admissibility of Documentation Maintained in Foreign Countries",
+          "id": "i",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subparti.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subparti.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subparti/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014NORMAL TAXES AND SURTAXES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014TAX ON SELF-EMPLOYMENT INCOME",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 2A\u2014UNEARNED INCOME MEDICARE CONTRIBUTION",
+          "id": "2A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter2A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter2A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter2A/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014WITHHOLDING OF TAX ON NONRESIDENT ALIENS AND FOREIGN CORPORATIONS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014TAXES TO ENFORCE REPORTING ON CERTAIN FOREIGN ACCOUNTS",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter4/"
+          }
+        },
+        {
+          "name": "[CHAPTER 5\u2014REPEALED]",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014CONSOLIDATED RETURNS",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014ESTATE TAX",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014GIFT TAX",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014TAX ON GENERATION-SKIPPING TRANSFERS",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014SPECIAL VALUATION RULES",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014GIFTS AND BEQUESTS FROM EXPATRIATES",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014FEDERAL INSURANCE CONTRIBUTIONS ACT",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014RAILROAD RETIREMENT TAX ACT",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014FEDERAL UNEMPLOYMENT TAX ACT",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 23A\u2014RAILROAD UNEMPLOYMENT REPAYMENT TAX",
+          "id": "23A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter23A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter23A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter23A/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014COLLECTION OF INCOME TAX AT SOURCE ON WAGES",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014GENERAL PROVISIONS RELATING TO EMPLOYMENT TAXES",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014RETAIL EXCISE TAXES",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014MANUFACTURERS EXCISE TAXES",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014FACILITIES AND SERVICES",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014TAXES ON CERTAIN INSURANCE POLICIES",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014TAXES ON WAGERING",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014CERTAIN OTHER EXCISE TAXES",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014REPURCHASE OF CORPORATE STOCK",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter37/"
+          }
+        },
+        {
+          "name": "[CHAPTER 38\u2014REPEALED]\u00a01",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 38\u2014ENVIRONMENTAL TAXES",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014REGISTRATION-REQUIRED OBLIGATIONS",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 40\u2014GENERAL PROVISIONS RELATING TO OCCUPATIONAL TAXES",
+          "id": "40",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter40.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter40.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter40/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014PUBLIC CHARITIES",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014PRIVATE FOUNDATIONS; AND CERTAIN OTHER TAX-EXEMPT ORGANIZATIONS",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014QUALIFIED PENSION, ETC., PLANS",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 44\u2014QUALIFIED INVESTMENT ENTITIES",
+          "id": "44",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter44.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter44.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter44/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014PROVISIONS RELATING TO EXPATRIATED ENTITIES",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 46\u2014GOLDEN PARACHUTE PAYMENTS",
+          "id": "46",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter46.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter46.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter46/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014CERTAIN GROUP HEALTH PLANS",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 48\u2014MAINTENANCE OF MINIMUM ESSENTIAL COVERAGE",
+          "id": "48",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter48.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter48.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter48/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014COSMETIC SERVICES",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014FOREIGN PROCUREMENT",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter50/"
+          }
+        },
+        {
+          "name": "CHAPTER 50A\u2014DESIGNATED DRUGS",
+          "id": "50A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter50A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter50A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter50A/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014DISTILLED SPIRITS, WINES, AND BEER",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 52\u2014TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES",
+          "id": "52",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter52.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter52.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter52/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014MACHINE GUNS, DESTRUCTIVE DEVICES, AND CERTAIN OTHER FIREARMS",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014GREENMAIL",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014STRUCTURED SETTLEMENT FACTORING TRANSACTIONS",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014INFORMATION AND RETURNS",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 62\u2014TIME AND PLACE FOR PAYING TAX",
+          "id": "62",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter62.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter62.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter62/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014ASSESSMENT",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 64\u2014COLLECTION",
+          "id": "64",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter64.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter64.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter64/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014ABATEMENTS, CREDITS, AND REFUNDS",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 66\u2014LIMITATIONS",
+          "id": "66",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter66.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter66.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter66/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014INTEREST",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter67/"
+          }
+        },
+        {
+          "name": "CHAPTER 68\u2014ADDITIONS TO THE TAX, ADDITIONAL AMOUNTS, AND ASSESSABLE PENALTIES",
+          "id": "68",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter68.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter68.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter68/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014GENERAL PROVISIONS RELATING TO STAMPS",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 70\u2014JEOPARDY, RECEIVERSHIPS, ETC.",
+          "id": "70",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter70.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter70.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter70/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014TRANSFEREES AND FIDUCIARIES",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014LICENSING AND REGISTRATION",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014BONDS",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014CLOSING AGREEMENTS AND COMPROMISES",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014CRIMES, OTHER OFFENSES, AND FORFEITURES",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 76\u2014JUDICIAL PROCEEDINGS",
+          "id": "76",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter76.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter76.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter76/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014MISCELLANEOUS PROVISIONS",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 78\u2014DISCOVERY OF LIABILITY AND ENFORCEMENT OF TITLE",
+          "id": "78",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter78.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter78.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter78/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014DEFINITIONS",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 80\u2014GENERAL RULES",
+          "id": "80",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter80.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter80.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter80/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014ORGANIZATION AND MEMBERSHIP OF THE JOINT COMMITTEE",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 92\u2014POWERS AND DUTIES OF THE JOINT COMMITTEE",
+          "id": "92",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter92.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter92.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter92/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014PRESIDENTIAL ELECTION CAMPAIGN FUND",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 96\u2014PRESIDENTIAL PRIMARY MATCHING PAYMENT ACCOUNT",
+          "id": "96",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter96.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter96.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter96/"
+          }
+        },
+        {
+          "name": "CHAPTER 98\u2014TRUST FUND CODE",
+          "id": "98",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter98.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter98.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter98/"
+          }
+        },
+        {
+          "name": "CHAPTER 99\u2014COAL INDUSTRY HEALTH BENEFITS",
+          "id": "99",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter99.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter99.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter99/"
+          }
+        },
+        {
+          "name": "CHAPTER 100\u2014GROUP HEALTH PLAN REQUIREMENTS",
+          "id": "100",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-chapter100.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-chapter100.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-chapter100/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

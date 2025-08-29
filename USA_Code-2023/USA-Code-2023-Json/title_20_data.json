@@ -1,0 +1,2488 @@
+{
+  "structure": {
+    "title_num": 20,
+    "title_name": "TITLE 20\u2014EDUCATION",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 10001",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Basic Grants",
+        "Part B\u2014Special Incentive Grants",
+        "Part C\u2014Special Grants",
+        "Part D\u2014General Provisions",
+        "Part A\u2014Family Learning Centers",
+        "Part B\u2014Library Literacy Centers",
+        "Part A\u2014Grants to States",
+        "Part B\u2014Grants to Local Educational Agencies",
+        "Part A\u2014State Programs",
+        "Part B\u2014Counseling and Guidance Training Institutes",
+        "Part A\u2014Centers and Research and Studies",
+        "Part B\u2014Language Institutes",
+        "Part A\u2014Research and Experimentation",
+        "Part B\u2014Dissemination of Information on New Educational Media",
+        "Part C\u2014General Provisions",
+        "Part I\u2014General",
+        "Part II\u2014International Affairs",
+        "Part A\u2014Grants to Strengthen State Departments of Education",
+        "Part B\u2014Local Educational Agencies",
+        "Part C\u2014Comprehensive Educational Planning and Evaluation",
+        "Part E\u2014General Provisions",
+        "Part A\u2014Financial Assistance for Bilingual Education Programs",
+        "Part B\u2014Administration",
+        "Part C\u2014Supportive Services and Activities",
+        "Part A\u2014Definitions",
+        "Part B\u2014Additional General Provisions",
+        "Part C\u2014Cost of Higher Education",
+        "Part D\u2014Administrative Provisions for Delivery of Student Financial Assistance",
+        "Part E\u2014Lender and Institution Requirements Relating to Education Loans",
+        "Part A\u2014Teacher Quality Partnership Grants",
+        "Part B\u2014Enhancing Teacher Education",
+        "Part C\u2014General Provisions",
+        "Part A\u2014Strengthening Institutions",
+        "Part B\u2014Strengthening Historically Black Colleges and Universities",
+        "Part C\u2014Endowment Challenge Grants for Institutions Eligible for Assistance Under Part A or Part B",
+        "Part D\u2014Historically Black College and University Capital Financing",
+        "Part E\u2014Minority Science and Engineering Improvement Program",
+        "Part F\u2014Strengthening Historically Black Colleges and Universities and Other Minority-Serving Institutions",
+        "Part G\u2014General Provisions",
+        "Part A\u2014Grants to Students in Attendance at Institutions of Higher Education",
+        "Division 4\u2014Model Program Community Partnership and Counseling Grants",
+        "Part B\u2014Federal Family Education Loan Program",
+        "Part C\u2014Federal Work-Study Programs",
+        "Part D\u2014William D. Ford Federal Direct Loan Program",
+        "Part E\u2014Federal Perkins Loans",
+        "Part F\u2014Need Analysis",
+        "Part G\u2014General Provisions Relating to Student Assistance Programs",
+        "Part G\u20131\u2014Higher Education Relief Opportunities for Students",
+        "Part H\u2014Program Integrity",
+        "Part I\u2014Competitive Loan Auction Pilot Program",
+        "Part A\u2014Hispanic-Serving Institutions",
+        "Part B\u2014Promoting Postbaccalaureate Opportunities for Hispanic Americans",
+        "Part C\u2014General Provisions",
+        "Part A\u2014International and Foreign Language Studies",
+        "Part B\u2014Business and International Education Programs",
+        "Part C\u2014Institute for International Public Policy",
+        "Part D\u2014General Provisions",
+        "Part A\u2014Graduate Education Programs",
+        "Part B\u2014Fund for the Improvement of Postsecondary Education",
+        "Part C\u2014Urban Community Service",
+        "Part D\u2014Programs To Provide Students With Disabilities With a Quality Higher Education",
+        "Part E\u2014College Access Challenge Grant Program",
+        "Part A\u2014Project GRAD",
+        "Part B\u2014Mathematics and Science Scholars Program",
+        "Part C\u2014Business Workforce Partnerships for Job Skill Training in High-Growth Occupations or Industries",
+        "Part D\u2014Capacity for Nursing Students and Faculty",
+        "Part E\u2014American History for Freedom",
+        "Part F\u2014Teach For America",
+        "Part G\u2014Patsy T. Mink Fellowship Program",
+        "Part H\u2014Improving College Enrollment By Secondary Schools",
+        "Part I\u2014Early Childhood Education Professional Development and Career Task Force",
+        "Part J\u2014Improving Science, Technology, Engineering, and Mathematics Education With a Focus On Alaska Native and Native Hawaiian Students",
+        "Part K\u2014Pilot Programs To Increase College Persistence and Success",
+        "Part L\u2014Student Safety and Campus Emergency Management",
+        "Part M\u2014Low Tuition",
+        "Part N\u2014Cooperative Education",
+        "Part O\u2014College Partnership Grants",
+        "Part P\u2014Jobs to Careers",
+        "Part Q\u2014Rural Development Grants for Rural-Serving Colleges and Universities",
+        "Part R\u2014Campus-Based Digital Theft Prevention",
+        "Part S\u2014Training for Realtime Writers",
+        "Part T\u2014Centers of Excellence for Veteran Student Success",
+        "Part U\u2014University Sustainability Programs",
+        "Part V\u2014Modeling and Simulation Programs",
+        "Part W\u2014Path to Success",
+        "Part X\u2014School of Veterinary Medicine Competitive Grant Program",
+        "Part Y\u2014Early Federal Pell Grant Commitment Demonstration Program",
+        "Part Z\u2014Henry Kuualoha Giugni Kupuna Memorial Archives",
+        "Part AA\u2014Masters and Postbaccalaureate Programs",
+        "Part A\u2014Basic State Grants",
+        "Part B\u2014Programs for Corrections Education and Education for Other Institutionalized Individuals",
+        "Part C\u2014State Administrative Responsibilities",
+        "Part D\u2014Planning and Applications",
+        "Part E\u2014Evaluation and State Plan Amendments",
+        "Part F\u2014Demonstration Projects",
+        "Part G\u2014State Literacy Resource Centers",
+        "Part H\u2014Federal Share; Federal Administrative Responsibilities",
+        "Part 1\u2014Appropriations",
+        "Part 2\u2014Planning and Evaluation of Federal Education Activities",
+        "Part 1\u2014General Authority",
+        "Part 2\u2014Administration: Requirements and Limitations",
+        "Part 3\u2014Administration of Education Programs and Projects by States and Local Educational Agencies",
+        "Part 4\u2014Records; Privacy; Limitation on Withholding Federal Funds",
+        "Part A\u2014State Personnel Development Grants",
+        "Part B\u2014Personnel Preparation, Technical Assistance, Model Demonstration Projects, and Dissemination of Information",
+        "Part C\u2014Supports To Improve Results for Children With Disabilities",
+        "Part D\u2014General Provisions",
+        "Part 1\u2014Policy and Purpose",
+        "Part 2\u2014Unlawful Practices",
+        "Part 3\u2014Enforcement",
+        "Part 4\u2014Remedies",
+        "Part 5\u2014Definitions",
+        "Part 6\u2014Miscellaneous Provisions",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Libraries and Learning Resources",
+        "Part C\u2014Educational Innovation and Support",
+        "Part A\u2014Allotment and Allocation",
+        "Part B\u2014State Provisions",
+        "Part C\u2014Local Provisions",
+        "Part A\u2014Federal Administrative Provisions",
+        "Part B\u2014State Administrative Provisions",
+        "Part A\u2014Basic Programs Operated by Local Educational Agencies",
+        "Part B\u2014Even Start Family Literacy Programs",
+        "Part C\u2014Secondary School Programs for Basic Skills Improvement and Dropout Prevention and Reentry",
+        "Part D\u2014Programs Operated by State Agencies",
+        "Part E\u2014Payments",
+        "Part F\u2014General Provisions",
+        "Division 2\u2014Federal, State, and Local Partnership for Educational Improvement",
+        "Part A\u2014State and Local Programs",
+        "Part B\u2014National Programs and Activities",
+        "Part C\u2014General Administrative Provisions",
+        "Part A\u2014Dwight D. Eisenhower Mathematics and Science Education Act",
+        "Part B\u2014Foreign Languages Assistance",
+        "Part C\u2014Presidential Awards for Teaching Excellence in Foreign Languages",
+        "Part A\u2014Women's Educational Equity",
+        "Part B\u2014Gifted and Talented Children",
+        "Part C\u2014Allen J. Ellender Fellowship Program",
+        "Part D\u2014Immigrant Education",
+        "Part E\u2014Territorial Assistance",
+        "Part F\u2014Secretary's Fund for Innovation in Education",
+        "Part G\u2014Ready To Learn Television",
+        "Part A\u2014Financial Assistance for Drug Abuse Education and Prevention Programs",
+        "Part B\u2014State and Local Programs",
+        "Part C\u2014Training of Teachers, Counselors, and School Personnel",
+        "Part D\u2014National Programs",
+        "Part E\u2014General Provisions",
+        "Part F\u2014Development of Early Childhood Education Drug Abuse Prevention Materials",
+        "Part G\u2014Miscellaneous Provisions",
+        "Part A\u2014Assistance To Address School Dropout Problems",
+        "Part B\u2014Assistance To Provide Basic Skills Improvement",
+        "Part C\u2014General Provisions",
+        "Part A\u2014Financial Assistance for Bilingual Education Programs",
+        "Part B\u2014Data Collection, Evaluation, and Research",
+        "Part C\u2014Training and Technical Assistance",
+        "Part D\u2014Administration",
+        "Part E\u2014Transition",
+        "Part A\u2014Personnel Provisions",
+        "Part B\u2014General Administrative Provisions",
+        "Part A\u2014Basic Skills Development",
+        "Part B\u2014Educational Improvement and Support Services",
+        "Part C\u2014Special Projects",
+        "Part D\u2014Secretary's Discretionary Funds",
+        "Part E\u2014General Provisions",
+        "Part A\u2014Higher Education Partnerships",
+        "Part B\u2014Elementary and Secondary Education Partnerships",
+        "Part A\u2014Gallaudet University",
+        "Part B\u2014National Technical Institute for the Deaf",
+        "Part C\u2014Other Programs",
+        "Part A\u2014Foreign Languages",
+        "Part B\u2014Educational Partnerships",
+        "Part C\u2014Projects and Programs Designed To Address School Dropout Problems and To Strengthen Basic Skills Instruction",
+        "Part A\u2014Transfer of Education and Training Software",
+        "Part B\u2014Instructional Programs in Technology Education",
+        "Part C\u2014Replication of Technical Education Programs",
+        "Part D\u2014Access Demonstration Programs",
+        "Part A\u2014Innovative Technologies",
+        "Part B\u2014Science-Technology Centers",
+        "Part C\u2014Grants to Educational Agencies for Systemic Reform of Mathematics and Science Education",
+        "Part A\u2014Graduate Fellowships and Traineeships",
+        "Part B\u2014Centers of Excellence",
+        "Part A\u2014National Science Scholars Program",
+        "Part B\u2014Robert Noyce Scholarships",
+        "Part C\u2014National Academy of Science, Space, and Technology",
+        "Part D\u2014Additional Provisions",
+        "Part A\u2014Authorization of Appropriations",
+        "Part B\u2014Definitions",
+        "Part A\u2014National Education Goals Panel",
+        "Part B\u2014Leadership in Educational Technology",
+        "Part C\u2014Authorization of Appropriations",
+        "Part A\u2014General Provisions Regarding Office of Educational Research and Improvement",
+        "Part B\u2014National Educational Research Policy and Priorities Board",
+        "Part C\u2014National Research Institutes",
+        "Part D\u2014National Education Dissemination System",
+        "Part E\u2014National Library of Education",
+        "Part F\u2014Certain Multiyear Grants and Contracts",
+        "Part G\u2014Comprehensive Regional Assistance Centers",
+        "Part H\u2014National Diffusion Network",
+        "Part I\u2014Eisenhower Regional Mathematics and Science Education Consortia",
+        "Part J\u2014Technology-Based Technical Assistance",
+        "Part A\u2014Miscellaneous Provisions",
+        "Part B\u2014Environmental Tobacco Smoke",
+        "Part A\u2014State Development Grants",
+        "Part B\u2014State Implementation Grants",
+        "Part C\u2014Development and Implementation Grants for School-to-Work Programs for Indian Youths",
+        "Part A\u2014Improving Basic Programs Operated by Local Educational Agencies",
+        "Part B\u2014State Assessment Grants",
+        "Part C\u2014Education of Migratory Children",
+        "Part D\u2014Prevention and Intervention Programs for Children and Youth Who Are Neglected, Delinquent, or At-Risk",
+        "Part E\u2014Flexibility for Equitable Per-Pupil Funding",
+        "Part F\u2014General Provisions",
+        "Part A\u2014Supporting Effective Instruction",
+        "Part B\u2014National Activities",
+        "Part C\u2014General Provisions",
+        "Part A\u2014English Language Acquisition, Language Enhancement, and Academic Achievement Act",
+        "Part B\u2014General Provisions",
+        "Part A\u2014Student Support and Academic Enrichment Grants",
+        "Part B\u201421st Century Community Learning Centers",
+        "Part C\u2014Expanding Opportunity Through Quality Charter Schools",
+        "Part D\u2014Magnet Schools Assistance",
+        "Part E\u2014Family Engagement in Education Programs",
+        "Part F\u2014National Activities",
+        "Part A\u2014Funding Transferability for State and Local Educational Agencies",
+        "Part B\u2014Rural Education Initiative",
+        "Part C\u2014General Provisions",
+        "Part A\u2014Indian Education",
+        "Part B\u2014Native Hawaiian Education",
+        "Part C\u2014Alaska Native Education",
+        "Part A\u2014Definitions",
+        "Part B\u2014Flexibility in the Use of Administrative and Other Funds",
+        "Part C\u2014Coordination of Programs; Consolidated State and Local Plans and Applications",
+        "Part D\u2014Waivers",
+        "Part E\u2014Approval and Disapproval of State Plans and Local Applications",
+        "Part F\u2014Uniform Provisions",
+        "Part G\u2014Evaluations",
+        "Part A\u2014Fund for the Improvement of Education",
+        "Part B\u2014Gifted and Talented Children",
+        "Part C\u2014Public Charter Schools",
+        "Part D\u2014Arts in Education",
+        "Part E\u2014Inexpensive Book Distribution Program",
+        "Part F\u2014Civic Education",
+        "Part G\u2014Allen J. Ellender Fellowship Program",
+        "Part H\u2014De Lugo Territorial Education Improvement Program",
+        "Part I\u201421st Century Community Learning Centers",
+        "Part J\u2014Urban and Rural Education Assistance",
+        "Part K\u2014National Writing Project",
+        "Part L\u2014Physical Education for Progress",
+        "Part M\u2014Territorial Assistance",
+        "Part A\u2014Comprehensive Regional Assistance Centers",
+        "Part B\u2014National Diffusion Network",
+        "Part C\u2014Eisenhower Regional Mathematics and Science Education Consortia",
+        "Part D\u2014Technology-Based Technical Assistance",
+        "Part A\u2014Definitions",
+        "Part B\u2014Flexibility in the Use of Administrative and Other Funds",
+        "Part C\u2014Coordination of Programs; Consolidated State and Local Plans and Applications",
+        "Part D\u2014Waivers",
+        "Part E\u2014Uniform Provisions",
+        "Part F\u2014Gun Possession",
+        "Part G\u2014Evaluations",
+        "Part H\u2014Sense of Congress",
+        "Part 1\u2014Basic Program Requirements",
+        "Part 2\u2014Library Programs",
+        "Part 3\u2014Administrative Provisions",
+        "Part 4\u2014Laura Bush 21st Century Librarians",
+        "Part A\u2014Adult Education and Literacy Programs",
+        "Part A\u2014The Institute of Education Sciences",
+        "Part B\u2014National Center for Education Research",
+        "Part C\u2014National Center for Education Statistics",
+        "Part D\u2014National Center for Education Evaluation and Regional Assistance",
+        "Part E\u2014National Center for Special Education Research",
+        "Part F\u2014General Provisions",
+        "Part A\u2014Teachers for a Competitive Tomorrow",
+        "Part B\u2014Advanced Placement and International Baccalaureate Programs",
+        "Part C\u2014Promising Practices in Science, Technology, Engineering, and Mathematics Teaching"
+      ],
+      "subparts": [
+        "subpart 1\u2014grants to local educational agencies",
+        "subpart 2\u2014state operated programs",
+        "subpart 1\u2014preparing teachers for digital age learners",
+        "subpart 2\u2014honorable augustus f. hawkins centers of excellence",
+        "subpart 3\u2014preparing general education teachers to more effectively educate students with disabilities",
+        "subpart 4\u2014adjunct teacher corps",
+        "subpart 5\u2014graduate fellowships to prepare faculty in high-need areas at colleges of education",
+        "subpart 1\u2014minority science and engineering improvement program",
+        "subpart 2\u2014programs in stem fields",
+        "subpart 3\u2014administrative and general provisions",
+        "subpart 1\u2014federal pell grants",
+        "subpart 2\u2014federal early outreach and student services programs",
+        "subpart 3\u2014federal supplemental educational opportunity grants",
+        "subpart 4\u2014leveraging educational assistance partnership program",
+        "subpart 5\u2014special programs for students whose families are engaged in migrant and seasonal farmwork",
+        "subpart 6\u2014robert c. byrd honors scholarship program",
+        "subpart 7\u2014child care access means parents in school",
+        "subpart 8\u2014[Repealed]",
+        "subpart 9\u2014teach grants",
+        "subpart 10\u2014scholarships for veteran's dependents",
+        "subpart 1\u2014state role",
+        "subpart 2\u2014accrediting agency recognition",
+        "subpart 3\u2014eligibility and certification procedures",
+        "subpart 1\u2014jacob k. javits fellowship program",
+        "subpart 2\u2014graduate assistance in areas of national need",
+        "subpart 3\u2014thurgood marshall legal educational opportunity program",
+        "subpart 4\u2014masters degree programs at historically black colleges and universities and predominantly black institutions",
+        "subpart 5\u2014general provisions",
+        "subpart 1\u2014demonstration projects to support postsecondary faculty, staff, and administrators in educating students with disabilities",
+        "subpart 2\u2014transition programs for students with intellectual disabilities into higher education",
+        "subpart 3\u2014commission on accessible materials; programs to support improved access to materials",
+        "subpart 4\u2014national technical assistance center; coordinating center",
+        "subpart 1\u2014allocations",
+        "subpart 2\u2014basic program requirements",
+        "subpart 1\u2014programs for migratory children",
+        "subpart 2\u2014programs for handicapped children",
+        "subpart 3\u2014programs for neglected and delinquent children",
+        "subpart 4\u2014general provisions for state operated programs",
+        "subpart 1\u2014federal administration",
+        "subpart 2\u2014state administration",
+        "subpart 3\u2014rural educational opportunities",
+        "subpart 4\u2014studies",
+        "subpart 5\u2014definitions",
+        "subpart 6\u2014miscellaneous provisions",
+        "subpart 1\u2014general provisions",
+        "subpart 2\u2014state programs",
+        "subpart 3\u2014local targeted assistance programs",
+        "subpart 4\u2014effective schools programs",
+        "subpart 1\u2014state grants and national programs",
+        "subpart 2\u2014regional mathematics and science education consortiums",
+        "subpart 3\u2014general provisions",
+        "subpart 1\u2014program for secondary school students and teachers",
+        "subpart 2\u2014programs for older americans and recent immigrants",
+        "subpart 3\u2014general provisions",
+        "subpart 1\u2014foreign language assistance",
+        "subpart 2\u2014presidential award for languages",
+        "subpart 1\u2014assistance to address school dropout problems",
+        "subpart 2\u2014assistance to provide basic skills improvement",
+        "subpart 3\u2014general provisions",
+        "subpart 1\u2014basic program requirements",
+        "subpart 2\u2014allocations",
+        "subpart 1\u2014state agency programs",
+        "subpart 2\u2014local agency programs",
+        "subpart 3\u2014general provisions",
+        "subpart 1\u2014teacher and school leader incentive program",
+        "subpart 2\u2014literacy education for all, results for the nation",
+        "subpart 3\u2014american history and civics education",
+        "subpart 4\u2014programs of national significance",
+        "subpart 5\u2014recognizing achievement in classified school employees",
+        "subpart 1\u2014grants and subgrants for english language acquisition and language enhancement",
+        "subpart 2\u2014accountability and administration",
+        "subpart 3\u2014national activities",
+        "subpart 4\u2014definitions",
+        "subpart 1\u2014student support and academic enrichment grants",
+        "subpart 2\u2014internet safety",
+        "subpart 3\u2014gun possession",
+        "subpart 4\u2014general provisions",
+        "subpart 1\u2014education innovation and research",
+        "subpart 2\u2014community support for school success",
+        "subpart 3\u2014national activities for school safety",
+        "subpart 4\u2014academic enrichment",
+        "subpart 1\u2014small, rural school achievement program",
+        "subpart 2\u2014rural and low-income school program",
+        "subpart 3\u2014general provisions",
+        "subpart 1\u2014formula grants to local educational agencies",
+        "subpart 2\u2014special programs and projects to improve educational opportunities for indian children",
+        "subpart 3\u2014national activities",
+        "subpart 4\u2014federal administration",
+        "subpart 5\u2014definitions; authorizations of appropriations",
+        "subpart 1\u2014private schools",
+        "subpart 2\u2014other provisions",
+        "subpart 3\u2014teacher liability protection",
+        "subpart 4\u2014gun possession",
+        "subpart 5\u2014environmental tobacco smoke",
+        "subpart 1\u2014basic charter school grant program",
+        "subpart 2\u2014credit enhancement initiatives to assist charter school facility acquisition, construction, and renovation",
+        "subpart 1\u2014arts education",
+        "subpart 2\u2014cultural partnerships for at-risk children and youth",
+        "subpart 1\u2014program for middle and secondary school students",
+        "subpart 2\u2014program for middle and secondary school teachers",
+        "subpart 3\u2014programs for recent immigrants, students of migrant parents and older americans",
+        "subpart 4\u2014general provisions",
+        "subpart 1\u2014urban education demonstration grants",
+        "subpart 2\u2014rural education initiative",
+        "subpart 3\u2014white house conferences",
+        "subpart a\u2014state requirements",
+        "subpart b\u2014federal requirements",
+        "subpart 1\u2014federal provisions",
+        "subpart 2\u2014state provisions",
+        "subpart 3\u2014local provisions",
+        "subpart 4\u2014general provisions"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014OFFICE OF EDUCATION",
+        "CHAPTER 2\u2014TEACHING OF AGRICULTURAL, TRADE, HOME ECONOMICS, AND INDUSTRIAL SUBJECTS",
+        "CHAPTER 3\u2014SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES",
+        "CHAPTER 4\u2014NATIONAL ZOOLOGICAL PARK",
+        "CHAPTER 5\u2014GOVERNMENT COLLECTIONS AND INSTITUTIONS FOR RESEARCH, AND MATERIAL FOR EDUCATIONAL INSTITUTIONS",
+        "CHAPTER 6\u2014AMERICAN PRINTING HOUSE FOR THE BLIND",
+        "CHAPTER 6A\u2014VENDING FACILITIES FOR BLIND IN FEDERAL BUILDINGS",
+        "CHAPTER 7\u2014INSTRUCTION AS TO NATURE AND EFFECT OF ALCOHOLIC DRINKS AND NARCOTICS",
+        "CHAPTER 8\u2014HOWARD UNIVERSITY",
+        "CHAPTER 9\u2014NATIONAL TRAINING SCHOOL FOR BOYS",
+        "CHAPTER 10\u2014NATIONAL TRAINING SCHOOL FOR GIRLS",
+        "CHAPTER 11\u2014NATIONAL ARBORETUM",
+        "CHAPTER 12\u2014FOREIGN AND EXCHANGE STUDENTS",
+        "CHAPTER 13\u2014FINANCIAL ASSISTANCE TO LOCAL EDUCATIONAL AGENCIES",
+        "CHAPTER 14\u2014SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES",
+        "CHAPTER 15\u2014STUDIES AND RESEARCH ON PROBLEMS IN EDUCATION",
+        "CHAPTER 16\u2014PUBLIC LIBRARY SERVICES AND CONSTRUCTION",
+        "CHAPTER 17\u2014NATIONAL DEFENSE EDUCATION PROGRAM",
+        "CHAPTER 18\u2014GRANTS FOR TEACHING IN THE EDUCATION OF HANDICAPPED CHILDREN",
+        "CHAPTER 18A\u2014EARLY EDUCATION PROGRAMS FOR HANDICAPPED CHILDREN",
+        "CHAPTER 19\u2014SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES",
+        "CHAPTER 20\u2014GRANTS FOR TEACHING IN THE EDUCATION OF THE DEAF",
+        "CHAPTER 20A\u2014NATIONAL TECHNICAL INSTITUTE FOR THE DEAF",
+        "CHAPTER 20B\u2014GALLAUDET COLLEGE",
+        "CHAPTER 21\u2014HIGHER EDUCATION FACILITIES",
+        "CHAPTER 22\u2014NATIONAL COUNCIL ON THE ARTS",
+        "CHAPTER 23\u2014TRAINING AND FELLOWSHIP PROGRAMS FOR COMMUNITY DEVELOPMENT",
+        "CHAPTER 24\u2014GRANTS FOR EDUCATIONAL MATERIALS, FACILITIES AND SERVICES, AND STRENGTHENING OF EDUCATIONAL AGENCIES",
+        "CHAPTER 25\u2014PAY AND PERSONNEL PROGRAM FOR OVERSEAS TEACHERS",
+        "CHAPTER 25A\u2014OVERSEAS DEFENSE DEPENDENTS' EDUCATION",
+        "CHAPTER 26\u2014SUPPORT AND SCHOLARSHIP IN HUMANITIES AND ARTS; MUSEUM SERVICES",
+        "CHAPTER 26A\u2014INDEMNITY FOR EXHIBITIONS OF ARTS AND ARTIFACTS",
+        "CHAPTER 27\u2014NATIONAL VOCATIONAL STUDENT LOAN INSURANCE",
+        "CHAPTER 28\u2014HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE",
+        "CHAPTER 29\u2014INTERNATIONAL STUDIES AND RESEARCH",
+        "CHAPTER 30\u2014BASIC EDUCATION FOR ADULTS",
+        "CHAPTER 31\u2014GENERAL PROVISIONS CONCERNING EDUCATION",
+        "CHAPTER 32\u2014VOCATIONAL EDUCATION",
+        "CHAPTER 33\u2014EDUCATION OF INDIVIDUALS WITH DISABILITIES",
+        "CHAPTER 34\u2014NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE",
+        "CHAPTER 35\u2014ENVIRONMENTAL EDUCATION",
+        "CHAPTER 36\u2014EMERGENCY SCHOOL AID",
+        "CHAPTER 37\u2014ASSIGNMENT OR TRANSPORTATION OF STUDENTS",
+        "CHAPTER 38\u2014DISCRIMINATION BASED ON SEX OR BLINDNESS",
+        "CHAPTER 39\u2014EQUAL EDUCATIONAL OPPORTUNITIES AND TRANSPORTATION OF STUDENTS",
+        "CHAPTER 40\u2014CONSOLIDATION OF EDUCATION PROGRAMS",
+        "CHAPTER 41\u2014NATIONAL READING IMPROVEMENT PROGRAM",
+        "CHAPTER 42\u2014HARRY S TRUMAN MEMORIAL SCHOLARSHIPS",
+        "CHAPTER 43\u2014AMERICAN FOLKLIFE PRESERVATION",
+        "CHAPTER 44\u2014CAREER AND TECHNICAL EDUCATION",
+        "CHAPTER 45\u2014CAREER EDUCATION AND CAREER DEVELOPMENT",
+        "CHAPTER 46\u2014CAREER EDUCATION INCENTIVE",
+        "CHAPTER 47\u2014STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS",
+        "CHAPTER 48\u2014DEPARTMENT OF EDUCATION",
+        "CHAPTER 49\u2014ASBESTOS SCHOOL HAZARD DETECTION AND CONTROL",
+        "CHAPTER 50\u2014NATIONAL CENTER FOR THE STUDY OF AFRO-AMERICAN HISTORY AND CULTURE",
+        "CHAPTER 51\u2014ELEMENTARY AND SECONDARY EDUCATION BLOCK GRANT",
+        "CHAPTER 52\u2014EDUCATION FOR ECONOMIC SECURITY",
+        "CHAPTER 53\u2014EMERGENCY IMMIGRANT EDUCATION ASSISTANCE",
+        "CHAPTER 54\u2014LEADERSHIP IN EDUCATIONAL ADMINISTRATION",
+        "CHAPTER 55\u2014EDUCATION OF THE DEAF",
+        "CHAPTER 56\u2014AMERICAN INDIAN, ALASKA NATIVE, AND NATIVE HAWAIIAN CULTURE AND ART DEVELOPMENT",
+        "CHAPTER 57\u2014JAMES MADISON MEMORIAL FELLOWSHIP PROGRAM",
+        "CHAPTER 58\u2014DRUG-FREE SCHOOLS AND COMMUNITIES",
+        "CHAPTER 59\u2014BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION PROGRAM",
+        "CHAPTER 60\u2014FUND FOR THE IMPROVEMENT AND REFORM OF SCHOOLS AND TEACHING",
+        "CHAPTER 61\u2014EDUCATION FOR NATIVE HAWAIIANS",
+        "CHAPTER 62\u2014EDUCATION AND TRAINING FOR AMERICAN COMPETITIVENESS",
+        "CHAPTER 63\u2014EISENHOWER EXCHANGE FELLOWSHIP PROGRAM",
+        "CHAPTER 64\u2014EXCELLENCE IN MATHEMATICS, SCIENCE, AND ENGINEERING EDUCATION",
+        "CHAPTER 65\u2014NATIONAL ENVIRONMENTAL EDUCATION",
+        "CHAPTER 66\u2014MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION",
+        "CHAPTER 67\u2014CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION",
+        "CHAPTER 68\u2014NATIONAL EDUCATION REFORM",
+        "CHAPTER 69\u2014SCHOOL-TO-WORK OPPORTUNITIES",
+        "CHAPTER 70\u2014STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS",
+        "CHAPTER 71\u2014NATIONAL EDUCATION STATISTICS",
+        "CHAPTER 72\u2014MUSEUM AND LIBRARY SERVICES",
+        "CHAPTER 73\u2014ADULT EDUCATION AND LITERACY",
+        "CHAPTER 74\u2014TROOPS-TO-TEACHERS PROGRAM",
+        "CHAPTER 75\u2014EARLY LEARNING OPPORTUNITIES",
+        "CHAPTER 76\u2014EDUCATION RESEARCH, STATISTICS, EVALUATION, INFORMATION, AND DISSEMINATION",
+        "CHAPTER 77\u2014FINANCIAL LITERACY AND EDUCATION IMPROVEMENT",
+        "CHAPTER 78\u2014SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS, AND CRITICAL FOREIGN LANGUAGE EDUCATION",
+        "CHAPTER 79\u2014STEM-TRAINING GRANT PROGRAM",
+        "CHAPTER 80\u2014STATE FISCAL STABILIZATION FUND"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20.htm"
+  },
+  "links": {
+    "title_num": 20,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title20/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title20/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014General",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014International Affairs",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partII/"
+          }
+        },
+        {
+          "name": "Part I\u2014Competitive Loan Auction Pilot Program",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partI/"
+          }
+        },
+        {
+          "name": "Part I\u2014Early Childhood Education Professional Development and Career Task Force",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partI/"
+          }
+        },
+        {
+          "name": "Part V\u2014Modeling and Simulation Programs",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partV/"
+          }
+        },
+        {
+          "name": "Part X\u2014School of Veterinary Medicine Competitive Grant Program",
+          "id": "X",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partX/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Appropriations",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Planning and Evaluation of Federal Education Activities",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part2/"
+          }
+        },
+        {
+          "name": "Part 1\u2014General Authority",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Administration: Requirements and Limitations",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Administration of Education Programs and Projects by States and Local Educational Agencies",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Records; Privacy; Limitation on Withholding Federal Funds",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part4/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Policy and Purpose",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Unlawful Practices",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Enforcement",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Remedies",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part4/"
+          }
+        },
+        {
+          "name": "Part 5\u2014Definitions",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part5/"
+          }
+        },
+        {
+          "name": "Part 6\u2014Miscellaneous Provisions",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part6/"
+          }
+        },
+        {
+          "name": "Part I\u2014Eisenhower Regional Mathematics and Science Education Consortia",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partI/"
+          }
+        },
+        {
+          "name": "Part I\u201421st Century Community Learning Centers",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-partI/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Basic Program Requirements",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Library Programs",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Administrative Provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Laura Bush 21st Century Librarians",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-part4/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart 1\u2014grants to local educational agencies",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014state operated programs",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014preparing teachers for digital age learners",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014honorable augustus f. hawkins centers of excellence",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014preparing general education teachers to more effectively educate students with disabilities",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014adjunct teacher corps",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014graduate fellowships to prepare faculty in high-need areas at colleges of education",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014minority science and engineering improvement program",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014programs in stem fields",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014administrative and general provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014federal pell grants",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014federal early outreach and student services programs",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014federal supplemental educational opportunity grants",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014leveraging educational assistance partnership program",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014special programs for students whose families are engaged in migrant and seasonal farmwork",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 6\u2014robert c. byrd honors scholarship program",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart6/"
+          }
+        },
+        {
+          "name": "subpart 7\u2014child care access means parents in school",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart7/"
+          }
+        },
+        {
+          "name": "subpart 8\u2014[Repealed]",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart8/"
+          }
+        },
+        {
+          "name": "subpart 9\u2014teach grants",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart9/"
+          }
+        },
+        {
+          "name": "subpart 10\u2014scholarships for veteran's dependents",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart10/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014state role",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014accrediting agency recognition",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014eligibility and certification procedures",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014jacob k. javits fellowship program",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014graduate assistance in areas of national need",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014thurgood marshall legal educational opportunity program",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014masters degree programs at historically black colleges and universities and predominantly black institutions",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014general provisions",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014demonstration projects to support postsecondary faculty, staff, and administrators in educating students with disabilities",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014transition programs for students with intellectual disabilities into higher education",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014commission on accessible materials; programs to support improved access to materials",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014national technical assistance center; coordinating center",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014allocations",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014basic program requirements",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014programs for migratory children",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014programs for handicapped children",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014programs for neglected and delinquent children",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014general provisions for state operated programs",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014federal administration",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014state administration",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014rural educational opportunities",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014studies",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014definitions",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 6\u2014miscellaneous provisions",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart6/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014general provisions",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014state programs",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014local targeted assistance programs",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014effective schools programs",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014state grants and national programs",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014regional mathematics and science education consortiums",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014general provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014program for secondary school students and teachers",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014programs for older americans and recent immigrants",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014general provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014foreign language assistance",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014presidential award for languages",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014assistance to address school dropout problems",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014assistance to provide basic skills improvement",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014general provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014basic program requirements",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014allocations",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014state agency programs",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014local agency programs",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014general provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014teacher and school leader incentive program",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014literacy education for all, results for the nation",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014american history and civics education",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014programs of national significance",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014recognizing achievement in classified school employees",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014grants and subgrants for english language acquisition and language enhancement",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014accountability and administration",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014national activities",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014definitions",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014student support and academic enrichment grants",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014internet safety",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014gun possession",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014general provisions",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014education innovation and research",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014community support for school success",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014national activities for school safety",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014academic enrichment",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014small, rural school achievement program",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014rural and low-income school program",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014general provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014formula grants to local educational agencies",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014special programs and projects to improve educational opportunities for indian children",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014national activities",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014federal administration",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014definitions; authorizations of appropriations",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014private schools",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014other provisions",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014teacher liability protection",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014gun possession",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014environmental tobacco smoke",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014basic charter school grant program",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014credit enhancement initiatives to assist charter school facility acquisition, construction, and renovation",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014arts education",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014cultural partnerships for at-risk children and youth",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014program for middle and secondary school students",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014program for middle and secondary school teachers",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014programs for recent immigrants, students of migrant parents and older americans",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014general provisions",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014urban education demonstration grants",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014rural education initiative",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014white house conferences",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014federal provisions",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014state provisions",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014local provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014general provisions",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-subpart4/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014OFFICE OF EDUCATION",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014TEACHING OF AGRICULTURAL, TRADE, HOME ECONOMICS, AND INDUSTRIAL SUBJECTS",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014NATIONAL ZOOLOGICAL PARK",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014GOVERNMENT COLLECTIONS AND INSTITUTIONS FOR RESEARCH, AND MATERIAL FOR EDUCATIONAL INSTITUTIONS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014AMERICAN PRINTING HOUSE FOR THE BLIND",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 6A\u2014VENDING FACILITIES FOR BLIND IN FEDERAL BUILDINGS",
+          "id": "6A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter6A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter6A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter6A/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014INSTRUCTION AS TO NATURE AND EFFECT OF ALCOHOLIC DRINKS AND NARCOTICS",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014HOWARD UNIVERSITY",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014NATIONAL TRAINING SCHOOL FOR BOYS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014NATIONAL TRAINING SCHOOL FOR GIRLS",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014NATIONAL ARBORETUM",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014FOREIGN AND EXCHANGE STUDENTS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014FINANCIAL ASSISTANCE TO LOCAL EDUCATIONAL AGENCIES",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014STUDIES AND RESEARCH ON PROBLEMS IN EDUCATION",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014PUBLIC LIBRARY SERVICES AND CONSTRUCTION",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014NATIONAL DEFENSE EDUCATION PROGRAM",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014GRANTS FOR TEACHING IN THE EDUCATION OF HANDICAPPED CHILDREN",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 18A\u2014EARLY EDUCATION PROGRAMS FOR HANDICAPPED CHILDREN",
+          "id": "18A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter18A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter18A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter18A/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014GRANTS FOR TEACHING IN THE EDUCATION OF THE DEAF",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 20A\u2014NATIONAL TECHNICAL INSTITUTE FOR THE DEAF",
+          "id": "20A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter20A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter20A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter20A/"
+          }
+        },
+        {
+          "name": "CHAPTER 20B\u2014GALLAUDET COLLEGE",
+          "id": "20B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter20B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter20B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter20B/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014HIGHER EDUCATION FACILITIES",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014NATIONAL COUNCIL ON THE ARTS",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014TRAINING AND FELLOWSHIP PROGRAMS FOR COMMUNITY DEVELOPMENT",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014GRANTS FOR EDUCATIONAL MATERIALS, FACILITIES AND SERVICES, AND STRENGTHENING OF EDUCATIONAL AGENCIES",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014PAY AND PERSONNEL PROGRAM FOR OVERSEAS TEACHERS",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 25A\u2014OVERSEAS DEFENSE DEPENDENTS' EDUCATION",
+          "id": "25A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter25A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter25A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter25A/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014SUPPORT AND SCHOLARSHIP IN HUMANITIES AND ARTS; MUSEUM SERVICES",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 26A\u2014INDEMNITY FOR EXHIBITIONS OF ARTS AND ARTIFACTS",
+          "id": "26A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter26A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter26A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter26A/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014NATIONAL VOCATIONAL STUDENT LOAN INSURANCE",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014INTERNATIONAL STUDIES AND RESEARCH",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014BASIC EDUCATION FOR ADULTS",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014GENERAL PROVISIONS CONCERNING EDUCATION",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014VOCATIONAL EDUCATION",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014EDUCATION OF INDIVIDUALS WITH DISABILITIES",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014ENVIRONMENTAL EDUCATION",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014EMERGENCY SCHOOL AID",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014ASSIGNMENT OR TRANSPORTATION OF STUDENTS",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 38\u2014DISCRIMINATION BASED ON SEX OR BLINDNESS",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014EQUAL EDUCATIONAL OPPORTUNITIES AND TRANSPORTATION OF STUDENTS",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 40\u2014CONSOLIDATION OF EDUCATION PROGRAMS",
+          "id": "40",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter40.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter40.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter40/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014NATIONAL READING IMPROVEMENT PROGRAM",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014HARRY S TRUMAN MEMORIAL SCHOLARSHIPS",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014AMERICAN FOLKLIFE PRESERVATION",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 44\u2014CAREER AND TECHNICAL EDUCATION",
+          "id": "44",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter44.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter44.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter44/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014CAREER EDUCATION AND CAREER DEVELOPMENT",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 46\u2014CAREER EDUCATION INCENTIVE",
+          "id": "46",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter46.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter46.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter46/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 48\u2014DEPARTMENT OF EDUCATION",
+          "id": "48",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter48.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter48.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter48/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014ASBESTOS SCHOOL HAZARD DETECTION AND CONTROL",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014NATIONAL CENTER FOR THE STUDY OF AFRO-AMERICAN HISTORY AND CULTURE",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter50/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014ELEMENTARY AND SECONDARY EDUCATION BLOCK GRANT",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 52\u2014EDUCATION FOR ECONOMIC SECURITY",
+          "id": "52",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter52.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter52.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter52/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014EMERGENCY IMMIGRANT EDUCATION ASSISTANCE",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014LEADERSHIP IN EDUCATIONAL ADMINISTRATION",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014EDUCATION OF THE DEAF",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 56\u2014AMERICAN INDIAN, ALASKA NATIVE, AND NATIVE HAWAIIAN CULTURE AND ART DEVELOPMENT",
+          "id": "56",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter56.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter56.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter56/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014JAMES MADISON MEMORIAL FELLOWSHIP PROGRAM",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 58\u2014DRUG-FREE SCHOOLS AND COMMUNITIES",
+          "id": "58",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter58.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter58.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter58/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION PROGRAM",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 60\u2014FUND FOR THE IMPROVEMENT AND REFORM OF SCHOOLS AND TEACHING",
+          "id": "60",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter60.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter60.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter60/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014EDUCATION FOR NATIVE HAWAIIANS",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 62\u2014EDUCATION AND TRAINING FOR AMERICAN COMPETITIVENESS",
+          "id": "62",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter62.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter62.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter62/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014EISENHOWER EXCHANGE FELLOWSHIP PROGRAM",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 64\u2014EXCELLENCE IN MATHEMATICS, SCIENCE, AND ENGINEERING EDUCATION",
+          "id": "64",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter64.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter64.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter64/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014NATIONAL ENVIRONMENTAL EDUCATION",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 66\u2014MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION",
+          "id": "66",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter66.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter66.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter66/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter67/"
+          }
+        },
+        {
+          "name": "CHAPTER 68\u2014NATIONAL EDUCATION REFORM",
+          "id": "68",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter68.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter68.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter68/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014SCHOOL-TO-WORK OPPORTUNITIES",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 70\u2014STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS",
+          "id": "70",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter70.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter70.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter70/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014NATIONAL EDUCATION STATISTICS",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014MUSEUM AND LIBRARY SERVICES",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014ADULT EDUCATION AND LITERACY",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014TROOPS-TO-TEACHERS PROGRAM",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014EARLY LEARNING OPPORTUNITIES",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 76\u2014EDUCATION RESEARCH, STATISTICS, EVALUATION, INFORMATION, AND DISSEMINATION",
+          "id": "76",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter76.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter76.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter76/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014FINANCIAL LITERACY AND EDUCATION IMPROVEMENT",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 78\u2014SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS, AND CRITICAL FOREIGN LANGUAGE EDUCATION",
+          "id": "78",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter78.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter78.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter78/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014STEM-TRAINING GRANT PROGRAM",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 80\u2014STATE FISCAL STABILIZATION FUND",
+          "id": "80",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20-chapter80.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20-chapter80.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20-chapter80/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

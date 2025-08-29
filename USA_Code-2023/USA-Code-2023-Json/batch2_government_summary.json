@@ -1,0 +1,50 @@
+[
+  {
+    "title_num": 5,
+    "title_name": "TITLE 5\u2014GOVERNMENT ORGANIZATION AND EMPLOYEES",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_05_TITLE_5-GOVERNMENT_ORGANIZATION_AND_EMPLOYEES.md",
+    "json_file": "title_5_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 6,
+    "title_name": "TITLE 6\u2014DOMESTIC SECURITY",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_06_TITLE_6-DOMESTIC_SECURITY.md",
+    "json_file": "title_6_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 7,
+    "title_name": "TITLE 7\u2014AGRICULTURE",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_07_TITLE_7-AGRICULTURE.md",
+    "json_file": "title_7_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 8,
+    "title_name": "TITLE 8\u2014ALIENS AND NATIONALITY",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_08_TITLE_8-ALIENS_AND_NATIONALITY.md",
+    "json_file": "title_8_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 9,
+    "title_name": "TITLE 9\u2014ARBITRATION",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_09_TITLE_9-ARBITRATION.md",
+    "json_file": "title_9_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 10,
+    "title_name": "TITLE 10\u2014ARMED FORCES",
+    "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_10_TITLE_10-ARMED_FORCES.md",
+    "json_file": "title_10_data.json",
+    "status": "success"
+  }
+]

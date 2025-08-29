@@ -1,0 +1,574 @@
+{
+  "structure": {
+    "title_num": 38,
+    "title_name": "TITLE 38\u2014VETERANS' BENEFITS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 101 - 8501",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "PART I\u2014GENERAL PROVISIONS",
+        "PART II\u2014GENERAL BENEFITS",
+        "PART III\u2014READJUSTMENT AND RELATED BENEFITS",
+        "PART IV\u2014GENERAL ADMINISTRATIVE PROVISIONS",
+        "PART V\u2014BOARDS, ADMINISTRATIONS, AND SERVICES",
+        "PART VI\u2014ACQUISITION AND DISPOSITION OF PROPERTY"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014GENERAL",
+        "CHAPTER 3\u2014DEPARTMENT OF VETERANS AFFAIRS",
+        "CHAPTER 5\u2014AUTHORITY AND DUTIES OF THE SECRETARY",
+        "CHAPTER 7\u2014EMPLOYEES",
+        "CHAPTER 9\u2014SECURITY AND LAW ENFORCEMENT ON PROPERTY UNDER THE JURISDICTION OF THE DEPARTMENT",
+        "CHAPTER 11\u2014COMPENSATION FOR SERVICE-CONNECTED DISABILITY OR DEATH",
+        "CHAPTER 13\u2014DEPENDENCY AND INDEMNITY COMPENSATION FOR SERVICE-CONNECTED DEATHS",
+        "CHAPTER 15\u2014PENSION FOR NON-SERVICE-CONNECTED DISABILITY OR DEATH OR FOR SERVICE",
+        "CHAPTER 17\u2014HOSPITAL, NURSING HOME, DOMICILIARY, AND MEDICAL CARE",
+        "CHAPTER 18\u2014BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS",
+        "CHAPTER 19\u2014INSURANCE",
+        "CHAPTER 20\u2014BENEFITS FOR HOMELESS VETERANS",
+        "CHAPTER 21\u2014SPECIALLY ADAPTED HOUSING FOR DISABLED VETERANS",
+        "CHAPTER 23\u2014BURIAL BENEFITS",
+        "CHAPTER 24\u2014NATIONAL CEMETERIES AND MEMORIALS",
+        "CHAPTER 30\u2014ALL-VOLUNTEER FORCE EDUCATIONAL ASSISTANCE PROGRAM",
+        "CHAPTER 31\u2014TRAINING AND REHABILITATION FOR VETERANS WITH SERVICE-CONNECTED DISABILITIES",
+        "CHAPTER 32\u2014POST-VIETNAM ERA VETERANS' EDUCATIONAL ASSISTANCE",
+        "CHAPTER 33\u2014POST\u20139/11 EDUCATIONAL ASSISTANCE",
+        "CHAPTER 34\u2014VETERANS' EDUCATIONAL ASSISTANCE",
+        "CHAPTER 35\u2014SURVIVORS' AND DEPENDENTS' EDUCATIONAL ASSISTANCE",
+        "CHAPTER 36\u2014ADMINISTRATION OF EDUCATIONAL BENEFITS",
+        "CHAPTER 37\u2014HOUSING AND SMALL BUSINESS LOANS",
+        "CHAPTER 39\u2014AUTOMOBILES AND ADAPTIVE EQUIPMENT FOR CERTAIN DISABLED VETERANS AND MEMBERS OF THE ARMED FORCES",
+        "CHAPTER 41\u2014JOB COUNSELING, TRAINING, AND PLACEMENT SERVICE FOR VETERANS",
+        "CHAPTER 42\u2014EMPLOYMENT AND TRAINING OF VETERANS",
+        "CHAPTER 43\u2014EMPLOYMENT AND REEMPLOYMENT RIGHTS OF MEMBERS OF THE UNIFORMED SERVICES",
+        "CHAPTER 51\u2014CLAIMS, EFFECTIVE DATES, AND PAYMENTS",
+        "CHAPTER 53\u2014SPECIAL PROVISIONS RELATING TO BENEFITS",
+        "CHAPTER 55\u2014MINORS, INCOMPETENTS, AND OTHER WARDS",
+        "CHAPTER 57\u2014RECORDS AND INVESTIGATIONS",
+        "CHAPTER 59\u2014AGENTS AND ATTORNEYS",
+        "CHAPTER 61\u2014PENAL AND FORFEITURE PROVISIONS",
+        "CHAPTER 63\u2014OUTREACH ACTIVITIES",
+        "CHAPTER 71\u2014BOARD OF VETERANS' APPEALS",
+        "CHAPTER 72\u2014UNITED STATES COURT OF APPEALS FOR VETERANS CLAIMS",
+        "CHAPTER 73\u2014VETERANS HEALTH ADMINISTRATION\u2014ORGANIZATION AND FUNCTIONS",
+        "CHAPTER 74\u2014VETERANS HEALTH ADMINISTRATION\u2014PERSONNEL",
+        "CHAPTER 75\u2014VISUAL IMPAIRMENT AND ORIENTATION AND MOBILITY PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM",
+        "CHAPTER 76\u2014HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM",
+        "CHAPTER 77\u2014VETERANS BENEFITS ADMINISTRATION",
+        "CHAPTER 78\u2014VETERANS' CANTEEN SERVICE",
+        "CHAPTER 79\u2014INFORMATION SECURITY EDUCATION ASSISTANCE PROGRAM",
+        "CHAPTER 81\u2014ACQUISITION AND OPERATION OF HOSPITAL AND DOMICILIARY FACILITIES; PROCUREMENT AND SUPPLY; ENHANCED-USE LEASES OF REAL PROPERTY",
+        "CHAPTER 82\u2014ASSISTANCE IN ESTABLISHING NEW STATE MEDICAL SCHOOLS; GRANTS TO AFFILIATED MEDICAL SCHOOLS; ASSISTANCE TO HEALTH MANPOWER TRAINING INSTITUTIONS",
+        "CHAPTER 83\u2014ACCEPTANCE OF GIFTS AND BEQUESTS",
+        "CHAPTER 85\u2014DISPOSITION OF DECEASED VETERANS' PERSONAL PROPERTY"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38.htm"
+  },
+  "links": {
+    "title_num": 38,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title38/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title38/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "PART I\u2014GENERAL PROVISIONS",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014GENERAL BENEFITS",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014READJUSTMENT AND RELATED BENEFITS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014GENERAL ADMINISTRATIVE PROVISIONS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014BOARDS, ADMINISTRATIONS, AND SERVICES",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-partV/"
+          }
+        },
+        {
+          "name": "PART VI\u2014ACQUISITION AND DISPOSITION OF PROPERTY",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-partVI/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014GENERAL",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014DEPARTMENT OF VETERANS AFFAIRS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014AUTHORITY AND DUTIES OF THE SECRETARY",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014EMPLOYEES",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014SECURITY AND LAW ENFORCEMENT ON PROPERTY UNDER THE JURISDICTION OF THE DEPARTMENT",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014COMPENSATION FOR SERVICE-CONNECTED DISABILITY OR DEATH",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014DEPENDENCY AND INDEMNITY COMPENSATION FOR SERVICE-CONNECTED DEATHS",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014PENSION FOR NON-SERVICE-CONNECTED DISABILITY OR DEATH OR FOR SERVICE",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014HOSPITAL, NURSING HOME, DOMICILIARY, AND MEDICAL CARE",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014INSURANCE",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014BENEFITS FOR HOMELESS VETERANS",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014SPECIALLY ADAPTED HOUSING FOR DISABLED VETERANS",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014BURIAL BENEFITS",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014NATIONAL CEMETERIES AND MEMORIALS",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014ALL-VOLUNTEER FORCE EDUCATIONAL ASSISTANCE PROGRAM",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014TRAINING AND REHABILITATION FOR VETERANS WITH SERVICE-CONNECTED DISABILITIES",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014POST-VIETNAM ERA VETERANS' EDUCATIONAL ASSISTANCE",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014POST\u20139/11 EDUCATIONAL ASSISTANCE",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014VETERANS' EDUCATIONAL ASSISTANCE",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014SURVIVORS' AND DEPENDENTS' EDUCATIONAL ASSISTANCE",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014ADMINISTRATION OF EDUCATIONAL BENEFITS",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014HOUSING AND SMALL BUSINESS LOANS",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014AUTOMOBILES AND ADAPTIVE EQUIPMENT FOR CERTAIN DISABLED VETERANS AND MEMBERS OF THE ARMED FORCES",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014JOB COUNSELING, TRAINING, AND PLACEMENT SERVICE FOR VETERANS",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014EMPLOYMENT AND TRAINING OF VETERANS",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014EMPLOYMENT AND REEMPLOYMENT RIGHTS OF MEMBERS OF THE UNIFORMED SERVICES",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014CLAIMS, EFFECTIVE DATES, AND PAYMENTS",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014SPECIAL PROVISIONS RELATING TO BENEFITS",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014MINORS, INCOMPETENTS, AND OTHER WARDS",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014RECORDS AND INVESTIGATIONS",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014AGENTS AND ATTORNEYS",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014PENAL AND FORFEITURE PROVISIONS",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014OUTREACH ACTIVITIES",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014BOARD OF VETERANS' APPEALS",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014UNITED STATES COURT OF APPEALS FOR VETERANS CLAIMS",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014VETERANS HEALTH ADMINISTRATION\u2014ORGANIZATION AND FUNCTIONS",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014VETERANS HEALTH ADMINISTRATION\u2014PERSONNEL",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014VISUAL IMPAIRMENT AND ORIENTATION AND MOBILITY PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 76\u2014HEALTH PROFESSIONALS EDUCATIONAL ASSISTANCE PROGRAM",
+          "id": "76",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter76.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter76.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter76/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014VETERANS BENEFITS ADMINISTRATION",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 78\u2014VETERANS' CANTEEN SERVICE",
+          "id": "78",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter78.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter78.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter78/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014INFORMATION SECURITY EDUCATION ASSISTANCE PROGRAM",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014ACQUISITION AND OPERATION OF HOSPITAL AND DOMICILIARY FACILITIES; PROCUREMENT AND SUPPLY; ENHANCED-USE LEASES OF REAL PROPERTY",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 82\u2014ASSISTANCE IN ESTABLISHING NEW STATE MEDICAL SCHOOLS; GRANTS TO AFFILIATED MEDICAL SCHOOLS; ASSISTANCE TO HEALTH MANPOWER TRAINING INSTITUTIONS",
+          "id": "82",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter82.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter82.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter82/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014ACCEPTANCE OF GIFTS AND BEQUESTS",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014DISPOSITION OF DECEASED VETERANS' PERSONAL PROPERTY",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38-chapter85/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

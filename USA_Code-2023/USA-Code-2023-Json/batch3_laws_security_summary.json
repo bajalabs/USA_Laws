@@ -1,0 +1,82 @@
+[
+  {
+    "title_num": 21,
+    "title_name": "TITLE 21\u2014FOOD AND DRUGS",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_21_TITLE_21-FOOD_AND_DRUGS.md",
+    "json_file": "title_21_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 22,
+    "title_name": "TITLE 22\u2014FOREIGN RELATIONS AND INTERCOURSE",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_22_TITLE_22-FOREIGN_RELATIONS_AND_INTERCOURSE.md",
+    "json_file": "title_22_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 23,
+    "title_name": "TITLE 23\u2014HIGHWAYS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_23_TITLE_23-HIGHWAYS.md",
+    "json_file": "title_23_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 24,
+    "title_name": "TITLE 24\u2014HOSPITALS AND ASYLUMS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_24_TITLE_24-HOSPITALS_AND_ASYLUMS.md",
+    "json_file": "title_24_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 25,
+    "title_name": "TITLE 25\u2014INDIANS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_25_TITLE_25-INDIANS.md",
+    "json_file": "title_25_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 26,
+    "title_name": "TITLE 26\u2014INTERNAL REVENUE CODE",
+    "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_26_TITLE_26-INTERNAL_REVENUE_CODE.md",
+    "json_file": "title_26_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 27,
+    "title_name": "TITLE 27\u2014INTOXICATING LIQUORS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_27_TITLE_27-INTOXICATING_LIQUORS.md",
+    "json_file": "title_27_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 28,
+    "title_name": "TITLE 28\u2014JUDICIARY AND JUDICIAL PROCEDURE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_28_TITLE_28-JUDICIARY_AND_JUDICIAL_PROCEDURE.md",
+    "json_file": "title_28_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 29,
+    "title_name": "TITLE 29\u2014LABOR",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_29_TITLE_29-LABOR.md",
+    "json_file": "title_29_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 30,
+    "title_name": "TITLE 30\u2014MINERAL LANDS AND MINING",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_30_TITLE_30-MINERAL_LANDS_AND_MINING.md",
+    "json_file": "title_30_data.json",
+    "status": "success"
+  }
+]

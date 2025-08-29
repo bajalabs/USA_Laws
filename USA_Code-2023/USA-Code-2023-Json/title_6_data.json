@@ -1,0 +1,166 @@
+{
+  "structure": {
+    "title_num": 6,
+    "title_name": "TITLE 6\u2014DOMESTIC SECURITY",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 101 - 1500",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Information and Analysis; Access to Information",
+        "Part B\u2014Information Security",
+        "Part C\u2014Office of Science and Technology",
+        "Part A\u2014Border, Maritime, and Transportation Security Responsibilities and Functions",
+        "Part B\u2014U.S. Customs and Border Protection",
+        "Part C\u2014Miscellaneous Provisions",
+        "Part D\u2014Immigration Enforcement Functions",
+        "Part E\u2014Citizenship and Immigration Services",
+        "Part F\u2014General Immigration Provisions",
+        "Part G\u2014U.S. Customs and Border Protection Public Private Partnerships",
+        "Part A\u2014Coordination With Non-Federal Entities",
+        "Part B\u2014Inspector General",
+        "Part C\u2014United States Secret Service",
+        "Part D\u2014Acquisitions",
+        "Part E\u2014Human Resources Management",
+        "Part F\u2014Federal Emergency Procurement Flexibility",
+        "Part G\u2014Support Anti-Terrorism by Fostering Effective Technologies",
+        "Part H\u2014Miscellaneous Provisions",
+        "Part I\u2014Information Sharing",
+        "Part J\u2014Secure Handling of Ammonium Nitrate",
+        "Part A\u2014Executive Office for Immigration Review",
+        "Part B\u2014Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice",
+        "Part A\u2014Reorganization Plan",
+        "Part B\u2014Transitional Provisions",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Transportation Security Administration Acquisition Improvements",
+        "Part C\u2014Maintenance of Security-related Technology",
+        "Part A\u2014Countering Weapons of Mass Destruction Office",
+        "Part B\u2014Mission of the Office",
+        "Part C\u2014Chief Medical Officer",
+        "Part A\u2014Grants to States and High-Risk Urban Areas",
+        "Part B\u2014Grants Administration",
+        "Part A\u2014Cybersecurity and Infrastructure Security",
+        "Part B\u2014Critical Infrastructure Information",
+        "Part C\u2014Declaration of a Significant Incident",
+        "Part D\u2014Cyber Incident Reporting",
+        "Part A\u2014Federal Emergency Management Agency Personnel",
+        "Part B\u2014Emergency Management Capabilities",
+        "Part A\u2014National Preparedness System",
+        "Part B\u2014Additional Preparedness",
+        "Part C\u2014Miscellaneous Authorities",
+        "Part D\u2014Prevention of Fraud, Waste, and Abuse",
+        "Part E\u2014Authorization of Appropriations",
+        "Part F\u2014Global Catastrophic Risk Management",
+        "Part A\u2014Port Security Grants; Training and Exercise Programs",
+        "Part B\u2014Port Operations",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Customs\u2013Trade Partnership Against Terrorism",
+        "Part C\u2014Miscellaneous Provisions",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Railroad Security",
+        "Part C\u2014Over-the-Road Bus and Trucking Security",
+        "Part D\u2014Hazardous Material and Pipeline Security"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014HOMELAND SECURITY ORGANIZATION",
+        "CHAPTER 2\u2014NATIONAL EMERGENCY MANAGEMENT",
+        "CHAPTER 3\u2014SECURITY AND ACCOUNTABILITY FOR EVERY PORT",
+        "CHAPTER 4\u2014TRANSPORTATION SECURITY",
+        "CHAPTER 5\u2014BORDER INFRASTRUCTURE AND TECHNOLOGY MODERNIZATION",
+        "CHAPTER 6\u2014CYBERSECURITY"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6.htm"
+  },
+  "links": {
+    "title_num": 6,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title6/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title6/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Information Sharing",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6-partI/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014HOMELAND SECURITY ORGANIZATION",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014NATIONAL EMERGENCY MANAGEMENT",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014SECURITY AND ACCOUNTABILITY FOR EVERY PORT",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014TRANSPORTATION SECURITY",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014BORDER INFRASTRUCTURE AND TECHNOLOGY MODERNIZATION",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014CYBERSECURITY",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6-chapter6/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

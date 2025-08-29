@@ -1,0 +1,733 @@
+{
+  "structure": {
+    "title_num": 5,
+    "title_name": "TITLE 5\u2014GOVERNMENT ORGANIZATION AND EMPLOYEES",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 101 - 13101",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "PART I\u2014THE AGENCIES GENERALLY",
+        "PART II\u2014CIVIL SERVICE FUNCTIONS AND RESPONSIBILITIES",
+        "PART III\u2014EMPLOYEES",
+        "Subpart A\u2014General Provisions",
+        "Subpart B\u2014Employment and Retention",
+        "Subpart C\u2014Employee Performance",
+        "Subpart D\u2014Pay and Allowances",
+        "Subpart E\u2014Attendance and Leave",
+        "Subpart F\u2014Labor-Management and Employee Relations",
+        "Subpart G\u2014Insurance and Annuities",
+        "Subpart H\u2014Access to Criminal History Record Information",
+        "Subpart I\u2014Miscellaneous",
+        "Subpart J\u2014Enhanced Personnel Security Programs",
+        "PART IV\u2014ETHICS REQUIREMENTS"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014ORGANIZATION",
+        "CHAPTER 3\u2014POWERS",
+        "CHAPTER 4\u2014INSPECTORS GENERAL",
+        "CHAPTER 5\u2014ADMINISTRATIVE PROCEDURE",
+        "CHAPTER 6\u2014THE ANALYSIS OF REGULATORY FUNCTIONS",
+        "CHAPTER 7\u2014JUDICIAL REVIEW",
+        "CHAPTER 8\u2014CONGRESSIONAL REVIEW OF AGENCY RULEMAKING",
+        "CHAPTER 9\u2014EXECUTIVE REORGANIZATION",
+        "CHAPTER 10\u2014FEDERAL ADVISORY COMMITTEES",
+        "CHAPTER 11\u2014OFFICE OF PERSONNEL MANAGEMENT",
+        "CHAPTER 12\u2014MERIT SYSTEMS PROTECTION BOARD, OFFICE OF SPECIAL COUNSEL, AND EMPLOYEE RIGHT OF ACTION",
+        "CHAPTER 13\u2014SPECIAL AUTHORITY",
+        "CHAPTER 14\u2014AGENCY CHIEF HUMAN CAPITAL OFFICERS",
+        "CHAPTER 15\u2014POLITICAL ACTIVITY OF CERTAIN STATE AND LOCAL EMPLOYEES",
+        "CHAPTER 21\u2014DEFINITIONS",
+        "CHAPTER 23\u2014MERIT SYSTEM PRINCIPLES",
+        "CHAPTER 29\u2014COMMISSIONS, OATHS, RECORDS, AND REPORTS",
+        "CHAPTER 31\u2014AUTHORITY FOR EMPLOYMENT",
+        "CHAPTER 33\u2014EXAMINATION, SELECTION, AND PLACEMENT",
+        "CHAPTER 34\u2014PART-TIME CAREER EMPLOYMENT OPPORTUNITIES",
+        "CHAPTER 35\u2014RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT",
+        "CHAPTER 37\u2014INFORMATION TECHNOLOGY EXCHANGE PROGRAM",
+        "CHAPTER 41\u2014TRAINING",
+        "CHAPTER 43\u2014PERFORMANCE APPRAISAL",
+        "CHAPTER 45\u2014INCENTIVE AWARDS",
+        "CHAPTER 47\u2014PERSONNEL RESEARCH PROGRAMS AND DEMONSTRATION PROJECTS",
+        "CHAPTER 48\u2014AGENCY PERSONNEL DEMONSTRATION PROJECT",
+        "CHAPTER 51\u2014CLASSIFICATION",
+        "CHAPTER 53\u2014PAY RATES AND SYSTEMS",
+        "CHAPTER 54\u2014HUMAN CAPITAL PERFORMANCE FUND",
+        "CHAPTER 55\u2014PAY ADMINISTRATION",
+        "CHAPTER 57\u2014TRAVEL, TRANSPORTATION, AND SUBSISTENCE",
+        "CHAPTER 59\u2014ALLOWANCES",
+        "CHAPTER 61\u2014HOURS OF WORK",
+        "CHAPTER 63\u2014LEAVE",
+        "CHAPTER 65\u2014TELEWORK",
+        "CHAPTER 71\u2014LABOR-MANAGEMENT RELATIONS",
+        "CHAPTER 72\u2014ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS",
+        "CHAPTER 73\u2014SUITABILITY, SECURITY, AND CONDUCT",
+        "CHAPTER 75\u2014ADVERSE ACTIONS",
+        "CHAPTER 77\u2014APPEALS",
+        "CHAPTER 79\u2014SERVICES TO EMPLOYEES",
+        "CHAPTER 81\u2014COMPENSATION FOR WORK INJURIES",
+        "CHAPTER 83\u2014RETIREMENT",
+        "CHAPTER 84\u2014FEDERAL EMPLOYEES' RETIREMENT SYSTEM",
+        "CHAPTER 85\u2014UNEMPLOYMENT COMPENSATION",
+        "CHAPTER 87\u2014LIFE INSURANCE",
+        "CHAPTER 89\u2014HEALTH INSURANCE",
+        "CHAPTER 89A\u2014ENHANCED DENTAL BENEFITS",
+        "CHAPTER 89B\u2014ENHANCED VISION BENEFITS",
+        "CHAPTER 90\u2014LONG-TERM CARE INSURANCE",
+        "CHAPTER 91\u2014ACCESS TO CRIMINAL HISTORY RECORDS FOR NATIONAL SECURITY AND OTHER PURPOSES",
+        "CHAPTER 92\u2014PROHIBITION ON CRIMINAL HISTORY INQUIRIES PRIOR TO CONDITIONAL OFFER",
+        "CHAPTER 95\u2014PERSONNEL FLEXIBILITIES RELATING TO THE INTERNAL REVENUE SERVICE",
+        "CHAPTER 96\u2014PERSONNEL FLEXIBILITIES RELATING TO LAND MANAGEMENT AGENCIES",
+        "CHAPTER 97\u2014DEPARTMENT OF HOMELAND SECURITY",
+        "CHAPTER 98\u2014NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+        "CHAPTER 99\u2014DEPARTMENT OF DEFENSE PERSONNEL AUTHORITIES",
+        "CHAPTER 101\u2014FEDERAL EMERGENCY MANAGEMENT AGENCY PERSONNEL",
+        "CHAPTER 102\u2014UNITED STATES SECRET SERVICE UNIFORMED DIVISION PERSONNEL",
+        "CHAPTER 103\u2014DEPARTMENT OF STATE",
+        "CHAPTER 110\u2014ENHANCED PERSONNEL SECURITY PROGRAMS",
+        "CHAPTER 131\u2014ETHICS IN GOVERNMENT"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5.htm"
+  },
+  "links": {
+    "title_num": 5,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title5/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title5/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "PART I\u2014THE AGENCIES GENERALLY",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014CIVIL SERVICE FUNCTIONS AND RESPONSIBILITIES",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014EMPLOYEES",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-partIII/"
+          }
+        },
+        {
+          "name": "Subpart I\u2014Miscellaneous",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-partI/"
+          }
+        },
+        {
+          "name": "PART IV\u2014ETHICS REQUIREMENTS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-partIV/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014ORGANIZATION",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014POWERS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014INSPECTORS GENERAL",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014ADMINISTRATIVE PROCEDURE",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014THE ANALYSIS OF REGULATORY FUNCTIONS",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014JUDICIAL REVIEW",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014CONGRESSIONAL REVIEW OF AGENCY RULEMAKING",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014EXECUTIVE REORGANIZATION",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014FEDERAL ADVISORY COMMITTEES",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014OFFICE OF PERSONNEL MANAGEMENT",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014MERIT SYSTEMS PROTECTION BOARD, OFFICE OF SPECIAL COUNSEL, AND EMPLOYEE RIGHT OF ACTION",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014SPECIAL AUTHORITY",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014AGENCY CHIEF HUMAN CAPITAL OFFICERS",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014POLITICAL ACTIVITY OF CERTAIN STATE AND LOCAL EMPLOYEES",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014DEFINITIONS",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014MERIT SYSTEM PRINCIPLES",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014COMMISSIONS, OATHS, RECORDS, AND REPORTS",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014AUTHORITY FOR EMPLOYMENT",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014EXAMINATION, SELECTION, AND PLACEMENT",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014PART-TIME CAREER EMPLOYMENT OPPORTUNITIES",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014INFORMATION TECHNOLOGY EXCHANGE PROGRAM",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014TRAINING",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014PERFORMANCE APPRAISAL",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014INCENTIVE AWARDS",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014PERSONNEL RESEARCH PROGRAMS AND DEMONSTRATION PROJECTS",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 48\u2014AGENCY PERSONNEL DEMONSTRATION PROJECT",
+          "id": "48",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter48.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter48.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter48/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014CLASSIFICATION",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014PAY RATES AND SYSTEMS",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014HUMAN CAPITAL PERFORMANCE FUND",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014PAY ADMINISTRATION",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014TRAVEL, TRANSPORTATION, AND SUBSISTENCE",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014ALLOWANCES",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014HOURS OF WORK",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014LEAVE",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014TELEWORK",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014LABOR-MANAGEMENT RELATIONS",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014SUITABILITY, SECURITY, AND CONDUCT",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014ADVERSE ACTIONS",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014APPEALS",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014SERVICES TO EMPLOYEES",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014COMPENSATION FOR WORK INJURIES",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014RETIREMENT",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 84\u2014FEDERAL EMPLOYEES' RETIREMENT SYSTEM",
+          "id": "84",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter84.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter84.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter84/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014UNEMPLOYMENT COMPENSATION",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter85/"
+          }
+        },
+        {
+          "name": "CHAPTER 87\u2014LIFE INSURANCE",
+          "id": "87",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter87.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter87.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter87/"
+          }
+        },
+        {
+          "name": "CHAPTER 89\u2014HEALTH INSURANCE",
+          "id": "89",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter89.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter89.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter89/"
+          }
+        },
+        {
+          "name": "CHAPTER 89A\u2014ENHANCED DENTAL BENEFITS",
+          "id": "89A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter89A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter89A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter89A/"
+          }
+        },
+        {
+          "name": "CHAPTER 89B\u2014ENHANCED VISION BENEFITS",
+          "id": "89B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter89B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter89B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter89B/"
+          }
+        },
+        {
+          "name": "CHAPTER 90\u2014LONG-TERM CARE INSURANCE",
+          "id": "90",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter90.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter90.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter90/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014ACCESS TO CRIMINAL HISTORY RECORDS FOR NATIONAL SECURITY AND OTHER PURPOSES",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 92\u2014PROHIBITION ON CRIMINAL HISTORY INQUIRIES PRIOR TO CONDITIONAL OFFER",
+          "id": "92",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter92.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter92.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter92/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014PERSONNEL FLEXIBILITIES RELATING TO THE INTERNAL REVENUE SERVICE",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 96\u2014PERSONNEL FLEXIBILITIES RELATING TO LAND MANAGEMENT AGENCIES",
+          "id": "96",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter96.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter96.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter96/"
+          }
+        },
+        {
+          "name": "CHAPTER 97\u2014DEPARTMENT OF HOMELAND SECURITY",
+          "id": "97",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter97.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter97.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter97/"
+          }
+        },
+        {
+          "name": "CHAPTER 98\u2014NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+          "id": "98",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter98.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter98.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter98/"
+          }
+        },
+        {
+          "name": "CHAPTER 99\u2014DEPARTMENT OF DEFENSE PERSONNEL AUTHORITIES",
+          "id": "99",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter99.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter99.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter99/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014FEDERAL EMERGENCY MANAGEMENT AGENCY PERSONNEL",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 102\u2014UNITED STATES SECRET SERVICE UNIFORMED DIVISION PERSONNEL",
+          "id": "102",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter102.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter102.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter102/"
+          }
+        },
+        {
+          "name": "CHAPTER 103\u2014DEPARTMENT OF STATE",
+          "id": "103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter103/"
+          }
+        },
+        {
+          "name": "CHAPTER 110\u2014ENHANCED PERSONNEL SECURITY PROGRAMS",
+          "id": "110",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter110.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter110.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter110/"
+          }
+        },
+        {
+          "name": "CHAPTER 131\u2014ETHICS IN GOVERNMENT",
+          "id": "131",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5-chapter131.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5-chapter131.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5-chapter131/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

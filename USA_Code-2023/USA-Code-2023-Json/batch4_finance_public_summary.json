@@ -1,0 +1,82 @@
+[
+  {
+    "title_num": 31,
+    "title_name": "TITLE 31\u2014MONEY AND FINANCE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_31_TITLE_31-MONEY_AND_FINANCE.md",
+    "json_file": "title_31_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 32,
+    "title_name": "TITLE 32\u2014NATIONAL GUARD",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_32_TITLE_32-NATIONAL_GUARD.md",
+    "json_file": "title_32_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 33,
+    "title_name": "TITLE 33\u2014NAVIGATION AND NAVIGABLE WATERS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_33_TITLE_33-NAVIGATION_AND_NAVIGABLE_WATERS.md",
+    "json_file": "title_33_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 34,
+    "title_name": "TITLE 34\u2014CRIME CONTROL AND LAW ENFORCEMENT",
+    "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_34_TITLE_34-CRIME_CONTROL_AND_LAW_ENFORCEMENT.md",
+    "json_file": "title_34_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 35,
+    "title_name": "TITLE 35\u2014PATENTS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_35_TITLE_35-PATENTS.md",
+    "json_file": "title_35_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 36,
+    "title_name": "TITLE 36\u2014PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND\u00a0ORGANIZATIONS",
+    "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_36_TITLE_36-PATRIOTIC_AND_NATIONAL_OBSERVANCES_CEREMONIES_AND\u00a0ORGANIZATIONS.md",
+    "json_file": "title_36_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 37,
+    "title_name": "TITLE 37\u2014PAY AND ALLOWANCES OF THE UNIFORMED SERVICES",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_37_TITLE_37-PAY_AND_ALLOWANCES_OF_THE_UNIFORMED_SERVICES.md",
+    "json_file": "title_37_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 38,
+    "title_name": "TITLE 38\u2014VETERANS' BENEFITS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_38_TITLE_38-VETERANS'_BENEFITS.md",
+    "json_file": "title_38_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 39,
+    "title_name": "TITLE 39\u2014POSTAL SERVICE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_39_TITLE_39-POSTAL_SERVICE.md",
+    "json_file": "title_39_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 40,
+    "title_name": "TITLE 40\u2014PUBLIC BUILDINGS, PROPERTY, AND WORKS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_40_TITLE_40-PUBLIC_BUILDINGS_PROPERTY_AND_WORKS.md",
+    "json_file": "title_40_data.json",
+    "status": "success"
+  }
+]

@@ -1,0 +1,1596 @@
+{
+  "structure": {
+    "title_num": 15,
+    "title_name": "TITLE 15\u2014COMMERCE AND TRADE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 1 - 9801",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Small Business Investment Companies",
+        "Part B\u2014New Markets Venture Capital Program",
+        "Part C\u2014Renewable Fuel Capital Investment Pilot Program",
+        "Part A\u2014Commercial or Industrial Lease and Qualified Contract Guarantees",
+        "Part B\u2014Surety Bond Guarantees",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Discovery, Notification, and Remedy of Motor Vehicle Defects",
+        "Part A\u2014General Provisions",
+        "Part B\u2014Credit Transactions",
+        "Part C\u2014Credit Advertising and Limits on Credit Card Fees",
+        "Part D\u2014Credit Billing",
+        "Part E\u2014Consumer Leases",
+        "Part A\u2014State Programs",
+        "Part B\u2014Special Demonstration Projects",
+        "Part C\u2014Authorization of Appropriations",
+        "Part A\u2014Emergency Authority",
+        "Part B\u2014Other Authorities and Requirements",
+        "Part A\u2014Regulatory Authority",
+        "Part B\u2014Regulation of Swap Markets",
+        "Part A\u2014Coronavirus Economic Stabilization",
+        "Part B\u2014Air Carrier Worker Support",
+        "Part C\u2014Airline Worker Support Extension",
+        "Part D\u2014Coronavirus Economic Relief for Transportation Services Act",
+        "Part E\u2014Relief for Airports",
+        "Part F\u2014Aviation Manufacturing Jobs Protection",
+        "Part G\u2014Airlines",
+        "Part A\u2014Market Development, Research, and Information",
+        "Part B\u2014Minority Business Development Agency Business Center Program"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE",
+        "CHAPTER 2\u2014FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION",
+        "CHAPTER 2A\u2014SECURITIES AND TRUST INDENTURES",
+        "CHAPTER 2B\u2014SECURITIES EXCHANGES",
+        "CHAPTER 2B\u20131\u2014SECURITIES INVESTOR PROTECTION",
+        "CHAPTER 2C\u2014PUBLIC UTILITY HOLDING COMPANIES",
+        "CHAPTER 2D\u2014INVESTMENT COMPANIES AND ADVISERS",
+        "CHAPTER 2E\u2014OMNIBUS SMALL BUSINESS CAPITAL FORMATION",
+        "CHAPTER 3\u2014TRADE-MARKS",
+        "CHAPTER 4\u2014CHINA TRADE",
+        "CHAPTER 5\u2014STATISTICAL AND COMMERCIAL INFORMATION",
+        "CHAPTER 6\u2014WEIGHTS AND MEASURES AND STANDARD TIME",
+        "CHAPTER 7\u2014NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY",
+        "CHAPTER 7A\u2014STANDARD REFERENCE DATA PROGRAM",
+        "CHAPTER 8\u2014FALSELY STAMPED GOLD OR SILVER OR GOODS MANUFACTURED THEREFROM",
+        "CHAPTER 9\u2014NATIONAL WEATHER SERVICE",
+        "CHAPTER 9A\u2014WEATHER MODIFICATION ACTIVITIES OR ATTEMPTS; REPORTING REQUIREMENT",
+        "CHAPTER 10\u2014WAR FINANCE CORPORATION",
+        "CHAPTER 10A\u2014COLLECTION OF STATE CIGARETTE TAXES",
+        "CHAPTER 10B\u2014STATE TAXATION OF INCOME FROM INTERSTATE COMMERCE",
+        "CHAPTER 11\u2014CAUSTIC POISONS",
+        "CHAPTER 12\u2014DISCRIMINATION AGAINST FARMERS' COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE",
+        "CHAPTER 13\u2014TEXTILE FOUNDATION",
+        "CHAPTER 13A\u2014FISHING INDUSTRY",
+        "CHAPTER 14\u2014RECONSTRUCTION FINANCE CORPORATION",
+        "CHAPTER 14A\u2014AID TO SMALL BUSINESS",
+        "CHAPTER 14B\u2014SMALL BUSINESS INVESTMENT PROGRAM",
+        "CHAPTER 15\u2014ECONOMIC RECOVERY",
+        "CHAPTER 15A\u2014INTERSTATE TRANSPORTATION OF PETROLEUM PRODUCTS",
+        "CHAPTER 15B\u2014NATURAL GAS",
+        "CHAPTER 15C\u2014ALASKA NATURAL GAS TRANSPORTATION",
+        "CHAPTER 15D\u2014ALASKA NATURAL GAS PIPELINE",
+        "CHAPTER 16\u2014EMERGENCY RELIEF",
+        "CHAPTER 16A\u2014EMERGENCY PETROLEUM ALLOCATION",
+        "CHAPTER 16B\u2014FEDERAL ENERGY ADMINISTRATION",
+        "CHAPTER 16C\u2014ENERGY SUPPLY AND ENVIRONMENTAL COORDINATION",
+        "CHAPTER 17\u2014PRODUCTION, MARKETING, AND USE OF BITUMINOUS COAL",
+        "CHAPTER 18\u2014TRANSPORTATION OF FIREARMS",
+        "CHAPTER 19\u2014MISCELLANEOUS",
+        "CHAPTER 20\u2014REGULATION OF INSURANCE",
+        "CHAPTER 21\u2014NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY",
+        "CHAPTER 22\u2014TRADEMARKS",
+        "CHAPTER 23\u2014DISSEMINATION OF TECHNICAL, SCIENTIFIC AND ENGINEERING INFORMATION",
+        "CHAPTER 24\u2014TRANSPORTATION OF GAMBLING DEVICES",
+        "CHAPTER 25\u2014FLAMMABLE FABRICS",
+        "CHAPTER 26\u2014HOUSEHOLD REFRIGERATORS",
+        "CHAPTER 27\u2014AUTOMOBILE DEALER SUITS AGAINST MANUFACTURERS",
+        "CHAPTER 28\u2014DISCLOSURE OF AUTOMOBILE INFORMATION",
+        "CHAPTER 29\u2014MANUFACTURE, TRANSPORTATION, OR DISTRIBUTION OF SWITCHBLADE KNIVES",
+        "CHAPTER 30\u2014HAZARDOUS SUBSTANCES",
+        "CHAPTER 31\u2014DESTRUCTION OF PROPERTY MOVING IN COMMERCE",
+        "CHAPTER 32\u2014TELECASTING OF PROFESSIONAL SPORTS CONTESTS",
+        "CHAPTER 33\u2014BRAKE FLUID REGULATION",
+        "CHAPTER 34\u2014ANTITRUST CIVIL PROCESS",
+        "CHAPTER 35\u2014SEAT BELT REGULATION",
+        "CHAPTER 36\u2014CIGARETTE LABELING AND ADVERTISING",
+        "CHAPTER 37\u2014STATE TECHNICAL SERVICES",
+        "CHAPTER 38\u2014TRAFFIC AND MOTOR VEHICLE SAFETY",
+        "CHAPTER 39\u2014FAIR PACKAGING AND LABELING PROGRAM",
+        "CHAPTER 39A\u2014SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN",
+        "CHAPTER 40\u2014DEPARTMENT OF COMMERCE",
+        "CHAPTER 41\u2014CONSUMER CREDIT PROTECTION",
+        "CHAPTER 42\u2014INTERSTATE LAND SALES",
+        "CHAPTER 43\u2014NEWSPAPER PRESERVATION",
+        "CHAPTER 44\u2014PROTECTION OF HORSES",
+        "CHAPTER 45\u2014EMERGENCY LOAN GUARANTEES TO BUSINESS ENTERPRISES",
+        "CHAPTER 45A\u2014CHRYSLER CORPORATION LOAN GUARANTEE",
+        "CHAPTER 46\u2014MOTOR VEHICLE INFORMATION AND COST SAVINGS",
+        "CHAPTER 46A\u2014AUTOMOBILE TITLE FRAUD",
+        "CHAPTER 47\u2014CONSUMER PRODUCT SAFETY",
+        "CHAPTER 48\u2014HOBBY PROTECTION",
+        "CHAPTER 49\u2014FIRE PREVENTION AND CONTROL",
+        "CHAPTER 50\u2014CONSUMER PRODUCT WARRANTIES",
+        "CHAPTER 51\u2014NATIONAL PRODUCTIVITY AND QUALITY OF WORKING LIFE",
+        "CHAPTER 52\u2014ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+        "CHAPTER 53\u2014TOXIC SUBSTANCES CONTROL",
+        "CHAPTER 54\u2014AUTOMOTIVE PROPULSION RESEARCH AND DEVELOPMENT",
+        "CHAPTER 55\u2014PETROLEUM MARKETING PRACTICES",
+        "CHAPTER 56\u2014NATIONAL CLIMATE PROGRAM",
+        "CHAPTER 56A\u2014GLOBAL CHANGE RESEARCH",
+        "CHAPTER 57\u2014INTERSTATE HORSERACING",
+        "CHAPTER 57A\u2014HORSERACING INTEGRITY AND SAFETY",
+        "CHAPTER 58\u2014FULL EMPLOYMENT AND BALANCED GROWTH",
+        "CHAPTER 59\u2014RETAIL POLICIES FOR NATURAL GAS UTILITIES",
+        "CHAPTER 60\u2014NATURAL GAS POLICY",
+        "CHAPTER 61\u2014SOFT DRINK INTERBRAND COMPETITION",
+        "CHAPTER 62\u2014CONDOMINIUM AND COOPERATIVE CONVERSION PROTECTION AND ABUSE RELIEF",
+        "CHAPTER 63\u2014TECHNOLOGY INNOVATION",
+        "CHAPTER 64\u2014METHANE TRANSPORTATION RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+        "CHAPTER 65\u2014LIABILITY RISK RETENTION",
+        "CHAPTER 66\u2014PROMOTION OF EXPORT TRADE",
+        "CHAPTER 67\u2014ARCTIC RESEARCH AND POLICY",
+        "CHAPTER 68\u2014LAND REMOTE-SENSING COMMERCIALIZATION",
+        "CHAPTER 69\u2014COOPERATIVE RESEARCH",
+        "CHAPTER 70\u2014COMPREHENSIVE SMOKELESS TOBACCO HEALTH EDUCATION",
+        "CHAPTER 71\u2014PETROLEUM OVERCHARGE DISTRIBUTION AND RESTITUTION",
+        "CHAPTER 72\u2014SEMICONDUCTOR RESEARCH",
+        "CHAPTER 72A\u2014CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS FOR AMERICA",
+        "CHAPTER 73\u2014EXPORT ENHANCEMENT",
+        "CHAPTER 74\u2014COMPETITIVENESS POLICY COUNCIL",
+        "CHAPTER 75\u2014NATIONAL TRADE DATA BANK",
+        "CHAPTER 76\u2014IMITATION FIREARMS",
+        "CHAPTER 77\u2014STEEL AND ALUMINUM ENERGY CONSERVATION AND TECHNOLOGY COMPETITIVENESS",
+        "CHAPTER 78\u2014SUPERCONDUCTIVITY AND COMPETITIVENESS",
+        "CHAPTER 79\u2014METAL CASTING COMPETITIVENESS RESEARCH PROGRAM",
+        "CHAPTER 80\u2014FASTENERS",
+        "CHAPTER 81\u2014HIGH-PERFORMANCE COMPUTING",
+        "CHAPTER 82\u2014LAND REMOTE SENSING POLICY",
+        "CHAPTER 83\u2014TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION",
+        "CHAPTER 84\u2014COMMERCIAL SPACE COMPETITIVENESS",
+        "CHAPTER 85\u2014ARMORED CAR INDUSTRY RECIPROCITY",
+        "CHAPTER 86\u2014CHILDREN'S BICYCLE HELMET SAFETY",
+        "CHAPTER 87\u2014TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION",
+        "CHAPTER 87A\u2014NATIONAL DO-NOT-CALL REGISTRY",
+        "CHAPTER 88\u2014INTERNATIONAL ANTITRUST ENFORCEMENT ASSISTANCE",
+        "CHAPTER 89\u2014PROFESSIONAL BOXING SAFETY",
+        "CHAPTER 90\u2014PROPANE EDUCATION AND RESEARCH",
+        "CHAPTER 91\u2014CHILDREN'S ONLINE PRIVACY PROTECTION",
+        "CHAPTER 91A\u2014PROMOTING A SAFE INTERNET FOR CHILDREN",
+        "CHAPTER 92\u2014YEAR 2000 COMPUTER DATE CHANGE",
+        "CHAPTER 93\u2014INSURANCE",
+        "CHAPTER 94\u2014PRIVACY",
+        "CHAPTER 94A\u2014VISUAL DEPICTION PRIVACY",
+        "CHAPTER 95\u2014MICROENTERPRISE TECHNICAL ASSISTANCE AND CAPACITY BUILDING PROGRAM",
+        "CHAPTER 96\u2014ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE",
+        "CHAPTER 97\u2014WOMEN'S BUSINESS ENTERPRISE DEVELOPMENT",
+        "CHAPTER 98\u2014PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY",
+        "CHAPTER 99\u2014NATIONAL CONSTRUCTION SAFETY TEAM",
+        "CHAPTER 100\u2014CYBER SECURITY RESEARCH AND DEVELOPMENT",
+        "CHAPTER 100A\u2014CYBERSECURITY ENHANCEMENT",
+        "CHAPTER 101\u2014NANOTECHNOLOGY RESEARCH AND DEVELOPMENT",
+        "CHAPTER 102\u2014FAIRNESS TO CONTACT LENS CONSUMERS",
+        "CHAPTER 103\u2014CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING",
+        "CHAPTER 104\u2014SPORTS AGENT RESPONSIBILITY AND TRUST",
+        "CHAPTER 105\u2014PROTECTION OF LAWFUL COMMERCE IN ARMS",
+        "CHAPTER 106\u2014POOL AND SPA SAFETY",
+        "CHAPTER 107\u2014PROTECTION OF INTELLECTUAL PROPERTY RIGHTS",
+        "CHAPTER 108\u2014STATE-BASED INSURANCE REFORM",
+        "CHAPTER 109\u2014WALL STREET TRANSPARENCY AND ACCOUNTABILITY",
+        "CHAPTER 110\u2014ONLINE SHOPPER PROTECTION",
+        "CHAPTER 111\u2014WEATHER RESEARCH AND FORECASTING INNOVATION",
+        "CHAPTER 112\u2014SPORTS MEDICINE LICENSURE",
+        "CHAPTER 113\u2014CONCRETE MASONRY PRODUCTS RESEARCH, EDUCATION, AND PROMOTION",
+        "CHAPTER 114\u2014NATIONAL QUANTUM INITIATIVE",
+        "CHAPTER 115\u2014PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND EMERGING CONTAMINANTS",
+        "CHAPTER 116\u2014CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT)",
+        "CHAPTER 117\u2014IDENTIFYING OUTPUTS OF GENERATIVE ADVERSARIAL NETWORKS",
+        "CHAPTER 118\u2014SUSTAINABLE CHEMISTRY",
+        "CHAPTER 119\u2014NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE",
+        "CHAPTER 120\u2014MINORITY BUSINESS DEVELOPMENT",
+        "CHAPTER 121\u2014FLOOD LEVEL OBSERVATION, OPERATIONS, AND DECISION SUPPORT",
+        "CHAPTER 122\u2014TRAVEL AND TOURISM"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm"
+  },
+  "links": {
+    "title_num": 15,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title15/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title15/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15.zip"
+    },
+    "element_links": {
+      "parts": [],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 2A\u2014SECURITIES AND TRUST INDENTURES",
+          "id": "2A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter2A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter2A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter2A/"
+          }
+        },
+        {
+          "name": "CHAPTER 2B\u2014SECURITIES EXCHANGES",
+          "id": "2B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter2B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter2B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter2B/"
+          }
+        },
+        {
+          "name": "CHAPTER 2B\u20131\u2014SECURITIES INVESTOR PROTECTION",
+          "id": "2B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter2B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter2B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter2B/"
+          }
+        },
+        {
+          "name": "CHAPTER 2C\u2014PUBLIC UTILITY HOLDING COMPANIES",
+          "id": "2C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter2C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter2C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter2C/"
+          }
+        },
+        {
+          "name": "CHAPTER 2D\u2014INVESTMENT COMPANIES AND ADVISERS",
+          "id": "2D",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter2D.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter2D.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter2D/"
+          }
+        },
+        {
+          "name": "CHAPTER 2E\u2014OMNIBUS SMALL BUSINESS CAPITAL FORMATION",
+          "id": "2E",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter2E.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter2E.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter2E/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014TRADE-MARKS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014CHINA TRADE",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014STATISTICAL AND COMMERCIAL INFORMATION",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014WEIGHTS AND MEASURES AND STANDARD TIME",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 7A\u2014STANDARD REFERENCE DATA PROGRAM",
+          "id": "7A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter7A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter7A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter7A/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014FALSELY STAMPED GOLD OR SILVER OR GOODS MANUFACTURED THEREFROM",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014NATIONAL WEATHER SERVICE",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 9A\u2014WEATHER MODIFICATION ACTIVITIES OR ATTEMPTS; REPORTING REQUIREMENT",
+          "id": "9A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter9A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter9A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter9A/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014WAR FINANCE CORPORATION",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 10A\u2014COLLECTION OF STATE CIGARETTE TAXES",
+          "id": "10A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter10A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter10A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter10A/"
+          }
+        },
+        {
+          "name": "CHAPTER 10B\u2014STATE TAXATION OF INCOME FROM INTERSTATE COMMERCE",
+          "id": "10B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter10B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter10B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter10B/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014CAUSTIC POISONS",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014DISCRIMINATION AGAINST FARMERS' COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014TEXTILE FOUNDATION",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 13A\u2014FISHING INDUSTRY",
+          "id": "13A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter13A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter13A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter13A/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014RECONSTRUCTION FINANCE CORPORATION",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 14A\u2014AID TO SMALL BUSINESS",
+          "id": "14A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter14A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter14A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter14A/"
+          }
+        },
+        {
+          "name": "CHAPTER 14B\u2014SMALL BUSINESS INVESTMENT PROGRAM",
+          "id": "14B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter14B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter14B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter14B/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014ECONOMIC RECOVERY",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 15A\u2014INTERSTATE TRANSPORTATION OF PETROLEUM PRODUCTS",
+          "id": "15A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter15A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter15A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter15A/"
+          }
+        },
+        {
+          "name": "CHAPTER 15B\u2014NATURAL GAS",
+          "id": "15B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter15B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter15B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter15B/"
+          }
+        },
+        {
+          "name": "CHAPTER 15C\u2014ALASKA NATURAL GAS TRANSPORTATION",
+          "id": "15C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter15C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter15C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter15C/"
+          }
+        },
+        {
+          "name": "CHAPTER 15D\u2014ALASKA NATURAL GAS PIPELINE",
+          "id": "15D",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter15D.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter15D.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter15D/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014EMERGENCY RELIEF",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 16A\u2014EMERGENCY PETROLEUM ALLOCATION",
+          "id": "16A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter16A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter16A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter16A/"
+          }
+        },
+        {
+          "name": "CHAPTER 16B\u2014FEDERAL ENERGY ADMINISTRATION",
+          "id": "16B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter16B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter16B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter16B/"
+          }
+        },
+        {
+          "name": "CHAPTER 16C\u2014ENERGY SUPPLY AND ENVIRONMENTAL COORDINATION",
+          "id": "16C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter16C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter16C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter16C/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014PRODUCTION, MARKETING, AND USE OF BITUMINOUS COAL",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014TRANSPORTATION OF FIREARMS",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014MISCELLANEOUS",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014REGULATION OF INSURANCE",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014TRADEMARKS",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014DISSEMINATION OF TECHNICAL, SCIENTIFIC AND ENGINEERING INFORMATION",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014TRANSPORTATION OF GAMBLING DEVICES",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014FLAMMABLE FABRICS",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014HOUSEHOLD REFRIGERATORS",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014AUTOMOBILE DEALER SUITS AGAINST MANUFACTURERS",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014DISCLOSURE OF AUTOMOBILE INFORMATION",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014MANUFACTURE, TRANSPORTATION, OR DISTRIBUTION OF SWITCHBLADE KNIVES",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014HAZARDOUS SUBSTANCES",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014DESTRUCTION OF PROPERTY MOVING IN COMMERCE",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014TELECASTING OF PROFESSIONAL SPORTS CONTESTS",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter32/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014BRAKE FLUID REGULATION",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 34\u2014ANTITRUST CIVIL PROCESS",
+          "id": "34",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter34.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter34.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter34/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014SEAT BELT REGULATION",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 36\u2014CIGARETTE LABELING AND ADVERTISING",
+          "id": "36",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter36.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter36.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter36/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014STATE TECHNICAL SERVICES",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 38\u2014TRAFFIC AND MOTOR VEHICLE SAFETY",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014FAIR PACKAGING AND LABELING PROGRAM",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 39A\u2014SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN",
+          "id": "39A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter39A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter39A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter39A/"
+          }
+        },
+        {
+          "name": "CHAPTER 40\u2014DEPARTMENT OF COMMERCE",
+          "id": "40",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter40.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter40.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter40/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014CONSUMER CREDIT PROTECTION",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014INTERSTATE LAND SALES",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014NEWSPAPER PRESERVATION",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 44\u2014PROTECTION OF HORSES",
+          "id": "44",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter44.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter44.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter44/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014EMERGENCY LOAN GUARANTEES TO BUSINESS ENTERPRISES",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 45A\u2014CHRYSLER CORPORATION LOAN GUARANTEE",
+          "id": "45A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter45A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter45A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter45A/"
+          }
+        },
+        {
+          "name": "CHAPTER 46\u2014MOTOR VEHICLE INFORMATION AND COST SAVINGS",
+          "id": "46",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter46.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter46.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter46/"
+          }
+        },
+        {
+          "name": "CHAPTER 46A\u2014AUTOMOBILE TITLE FRAUD",
+          "id": "46A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter46A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter46A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter46A/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014CONSUMER PRODUCT SAFETY",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 48\u2014HOBBY PROTECTION",
+          "id": "48",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter48.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter48.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter48/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014FIRE PREVENTION AND CONTROL",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014CONSUMER PRODUCT WARRANTIES",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter50/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014NATIONAL PRODUCTIVITY AND QUALITY OF WORKING LIFE",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 52\u2014ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+          "id": "52",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter52.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter52.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter52/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014TOXIC SUBSTANCES CONTROL",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 54\u2014AUTOMOTIVE PROPULSION RESEARCH AND DEVELOPMENT",
+          "id": "54",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter54.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter54.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter54/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014PETROLEUM MARKETING PRACTICES",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 56\u2014NATIONAL CLIMATE PROGRAM",
+          "id": "56",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter56.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter56.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter56/"
+          }
+        },
+        {
+          "name": "CHAPTER 56A\u2014GLOBAL CHANGE RESEARCH",
+          "id": "56A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter56A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter56A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter56A/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014INTERSTATE HORSERACING",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 57A\u2014HORSERACING INTEGRITY AND SAFETY",
+          "id": "57A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter57A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter57A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter57A/"
+          }
+        },
+        {
+          "name": "CHAPTER 58\u2014FULL EMPLOYMENT AND BALANCED GROWTH",
+          "id": "58",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter58.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter58.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter58/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014RETAIL POLICIES FOR NATURAL GAS UTILITIES",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 60\u2014NATURAL GAS POLICY",
+          "id": "60",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter60.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter60.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter60/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014SOFT DRINK INTERBRAND COMPETITION",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 62\u2014CONDOMINIUM AND COOPERATIVE CONVERSION PROTECTION AND ABUSE RELIEF",
+          "id": "62",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter62.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter62.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter62/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014TECHNOLOGY INNOVATION",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 64\u2014METHANE TRANSPORTATION RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+          "id": "64",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter64.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter64.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter64/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014LIABILITY RISK RETENTION",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 66\u2014PROMOTION OF EXPORT TRADE",
+          "id": "66",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter66.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter66.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter66/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014ARCTIC RESEARCH AND POLICY",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter67/"
+          }
+        },
+        {
+          "name": "CHAPTER 68\u2014LAND REMOTE-SENSING COMMERCIALIZATION",
+          "id": "68",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter68.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter68.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter68/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014COOPERATIVE RESEARCH",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 70\u2014COMPREHENSIVE SMOKELESS TOBACCO HEALTH EDUCATION",
+          "id": "70",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter70.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter70.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter70/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014PETROLEUM OVERCHARGE DISTRIBUTION AND RESTITUTION",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 72\u2014SEMICONDUCTOR RESEARCH",
+          "id": "72",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter72.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter72.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter72/"
+          }
+        },
+        {
+          "name": "CHAPTER 72A\u2014CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS FOR AMERICA",
+          "id": "72A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter72A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter72A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter72A/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014EXPORT ENHANCEMENT",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014COMPETITIVENESS POLICY COUNCIL",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014NATIONAL TRADE DATA BANK",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 76\u2014IMITATION FIREARMS",
+          "id": "76",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter76.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter76.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter76/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014STEEL AND ALUMINUM ENERGY CONSERVATION AND TECHNOLOGY COMPETITIVENESS",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 78\u2014SUPERCONDUCTIVITY AND COMPETITIVENESS",
+          "id": "78",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter78.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter78.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter78/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014METAL CASTING COMPETITIVENESS RESEARCH PROGRAM",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 80\u2014FASTENERS",
+          "id": "80",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter80.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter80.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter80/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014HIGH-PERFORMANCE COMPUTING",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 82\u2014LAND REMOTE SENSING POLICY",
+          "id": "82",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter82.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter82.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter82/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 84\u2014COMMERCIAL SPACE COMPETITIVENESS",
+          "id": "84",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter84.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter84.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter84/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014ARMORED CAR INDUSTRY RECIPROCITY",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter85/"
+          }
+        },
+        {
+          "name": "CHAPTER 86\u2014CHILDREN'S BICYCLE HELMET SAFETY",
+          "id": "86",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter86.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter86.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter86/"
+          }
+        },
+        {
+          "name": "CHAPTER 87\u2014TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION",
+          "id": "87",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter87.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter87.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter87/"
+          }
+        },
+        {
+          "name": "CHAPTER 87A\u2014NATIONAL DO-NOT-CALL REGISTRY",
+          "id": "87A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter87A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter87A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter87A/"
+          }
+        },
+        {
+          "name": "CHAPTER 88\u2014INTERNATIONAL ANTITRUST ENFORCEMENT ASSISTANCE",
+          "id": "88",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter88.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter88.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter88/"
+          }
+        },
+        {
+          "name": "CHAPTER 89\u2014PROFESSIONAL BOXING SAFETY",
+          "id": "89",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter89.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter89.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter89/"
+          }
+        },
+        {
+          "name": "CHAPTER 90\u2014PROPANE EDUCATION AND RESEARCH",
+          "id": "90",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter90.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter90.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter90/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014CHILDREN'S ONLINE PRIVACY PROTECTION",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 91A\u2014PROMOTING A SAFE INTERNET FOR CHILDREN",
+          "id": "91A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter91A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter91A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter91A/"
+          }
+        },
+        {
+          "name": "CHAPTER 92\u2014YEAR 2000 COMPUTER DATE CHANGE",
+          "id": "92",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter92.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter92.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter92/"
+          }
+        },
+        {
+          "name": "CHAPTER 93\u2014INSURANCE",
+          "id": "93",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter93.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter93.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter93/"
+          }
+        },
+        {
+          "name": "CHAPTER 94\u2014PRIVACY",
+          "id": "94",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter94.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter94.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter94/"
+          }
+        },
+        {
+          "name": "CHAPTER 94A\u2014VISUAL DEPICTION PRIVACY",
+          "id": "94A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter94A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter94A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter94A/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014MICROENTERPRISE TECHNICAL ASSISTANCE AND CAPACITY BUILDING PROGRAM",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 96\u2014ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE",
+          "id": "96",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter96.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter96.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter96/"
+          }
+        },
+        {
+          "name": "CHAPTER 97\u2014WOMEN'S BUSINESS ENTERPRISE DEVELOPMENT",
+          "id": "97",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter97.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter97.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter97/"
+          }
+        },
+        {
+          "name": "CHAPTER 98\u2014PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY",
+          "id": "98",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter98.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter98.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter98/"
+          }
+        },
+        {
+          "name": "CHAPTER 99\u2014NATIONAL CONSTRUCTION SAFETY TEAM",
+          "id": "99",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter99.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter99.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter99/"
+          }
+        },
+        {
+          "name": "CHAPTER 100\u2014CYBER SECURITY RESEARCH AND DEVELOPMENT",
+          "id": "100",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter100.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter100.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter100/"
+          }
+        },
+        {
+          "name": "CHAPTER 100A\u2014CYBERSECURITY ENHANCEMENT",
+          "id": "100A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter100A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter100A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter100A/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014NANOTECHNOLOGY RESEARCH AND DEVELOPMENT",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 102\u2014FAIRNESS TO CONTACT LENS CONSUMERS",
+          "id": "102",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter102.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter102.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter102/"
+          }
+        },
+        {
+          "name": "CHAPTER 103\u2014CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING",
+          "id": "103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter103/"
+          }
+        },
+        {
+          "name": "CHAPTER 104\u2014SPORTS AGENT RESPONSIBILITY AND TRUST",
+          "id": "104",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter104.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter104.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter104/"
+          }
+        },
+        {
+          "name": "CHAPTER 105\u2014PROTECTION OF LAWFUL COMMERCE IN ARMS",
+          "id": "105",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter105.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter105.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter105/"
+          }
+        },
+        {
+          "name": "CHAPTER 106\u2014POOL AND SPA SAFETY",
+          "id": "106",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter106.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter106.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter106/"
+          }
+        },
+        {
+          "name": "CHAPTER 107\u2014PROTECTION OF INTELLECTUAL PROPERTY RIGHTS",
+          "id": "107",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter107.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter107.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter107/"
+          }
+        },
+        {
+          "name": "CHAPTER 108\u2014STATE-BASED INSURANCE REFORM",
+          "id": "108",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter108.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter108.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter108/"
+          }
+        },
+        {
+          "name": "CHAPTER 109\u2014WALL STREET TRANSPARENCY AND ACCOUNTABILITY",
+          "id": "109",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter109.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter109.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter109/"
+          }
+        },
+        {
+          "name": "CHAPTER 110\u2014ONLINE SHOPPER PROTECTION",
+          "id": "110",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter110.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter110.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter110/"
+          }
+        },
+        {
+          "name": "CHAPTER 111\u2014WEATHER RESEARCH AND FORECASTING INNOVATION",
+          "id": "111",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter111.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter111.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter111/"
+          }
+        },
+        {
+          "name": "CHAPTER 112\u2014SPORTS MEDICINE LICENSURE",
+          "id": "112",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter112.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter112.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter112/"
+          }
+        },
+        {
+          "name": "CHAPTER 113\u2014CONCRETE MASONRY PRODUCTS RESEARCH, EDUCATION, AND PROMOTION",
+          "id": "113",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter113.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter113.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter113/"
+          }
+        },
+        {
+          "name": "CHAPTER 114\u2014NATIONAL QUANTUM INITIATIVE",
+          "id": "114",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter114.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter114.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter114/"
+          }
+        },
+        {
+          "name": "CHAPTER 115\u2014PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND EMERGING CONTAMINANTS",
+          "id": "115",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter115.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter115.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter115/"
+          }
+        },
+        {
+          "name": "CHAPTER 116\u2014CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT)",
+          "id": "116",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter116.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter116.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter116/"
+          }
+        },
+        {
+          "name": "CHAPTER 117\u2014IDENTIFYING OUTPUTS OF GENERATIVE ADVERSARIAL NETWORKS",
+          "id": "117",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter117.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter117.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter117/"
+          }
+        },
+        {
+          "name": "CHAPTER 118\u2014SUSTAINABLE CHEMISTRY",
+          "id": "118",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter118.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter118.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter118/"
+          }
+        },
+        {
+          "name": "CHAPTER 119\u2014NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE",
+          "id": "119",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter119.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter119.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter119/"
+          }
+        },
+        {
+          "name": "CHAPTER 120\u2014MINORITY BUSINESS DEVELOPMENT",
+          "id": "120",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter120.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter120.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter120/"
+          }
+        },
+        {
+          "name": "CHAPTER 121\u2014FLOOD LEVEL OBSERVATION, OPERATIONS, AND DECISION SUPPORT",
+          "id": "121",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter121.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter121.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter121/"
+          }
+        },
+        {
+          "name": "CHAPTER 122\u2014TRAVEL AND TOURISM",
+          "id": "122",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15-chapter122.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chapter122.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15-chapter122/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm"
+        }
+      ],
+      "appendices": [
+        {
+          "text": "2\u00a0For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees.",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm#1511_2"
+        }
+      ]
+    }
+  }
+}

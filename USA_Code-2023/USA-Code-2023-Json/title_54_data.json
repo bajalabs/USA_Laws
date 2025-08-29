@@ -1,0 +1,616 @@
+{
+  "structure": {
+    "title_num": 54,
+    "title_name": "TITLE 54\u2014NATIONAL PARK SERVICE AND RELATED PROGRAMS",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 100101 - 320301",
+    "elements": {
+      "subtitles": [
+        "Subtitle I\u2014National Park System",
+        "Subtitle II\u2014Outdoor Recreation Programs",
+        "Subtitle III\u2014National Preservation Programs"
+      ],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1001\u2014GENERAL PROVISIONS",
+        "CHAPTER 1003\u2014ESTABLISHMENT, DIRECTORS, AND OTHER EMPLOYEES",
+        "CHAPTER 1005\u2014AREAS OF NATIONAL PARK SYSTEM",
+        "CHAPTER 1007\u2014RESOURCE MANAGEMENT",
+        "CHAPTER 1008\u2014EDUCATION AND INTERPRETATION",
+        "CHAPTER 1009\u2014ADMINISTRATION",
+        "CHAPTER 1011\u2014DONATIONS",
+        "CHAPTER 1013\u2014EMPLOYEES",
+        "CHAPTER 1015\u2014TRANSPORTATION",
+        "CHAPTER 1017\u2014FINANCIAL AGREEMENTS",
+        "CHAPTER 1019\u2014CONCESSIONS AND COMMERCIAL USE AUTHORIZATIONS",
+        "CHAPTER 1021\u2014PRIVILEGES AND LEASES",
+        "CHAPTER 1023\u2014PROGRAMS AND ORGANIZATIONS",
+        "CHAPTER 1025\u2014MUSEUMS",
+        "CHAPTER 1027\u2014LAW ENFORCEMENT AND EMERGENCY ASSISTANCE",
+        "CHAPTER 1029\u2014LAND TRANSFERS",
+        "CHAPTER 1031\u2014APPROPRIATIONS AND ACCOUNTING",
+        "CHAPTER 1033\u2014NATIONAL MILITARY PARKS",
+        "CHAPTER 1035\u2014NATIONAL PARK CENTENNIAL CHALLENGE FUND",
+        "CHAPTERS 1035\u00a01 THROUGH 1047\u2014RESERVED",
+        "CHAPTER 1049\u2014MISCELLANEOUS",
+        "CHAPTER 1201\u2014NATIONAL HERITAGE AREA SYSTEM",
+        "CHAPTER 2001\u2014COORDINATION OF PROGRAMS",
+        "CHAPTER 2003\u2014LAND AND WATER CONSERVATION FUND",
+        "CHAPTER 2004\u2014NATIONAL PARKS AND PUBLIC LAND LEGACY RESTORATION FUND",
+        "CHAPTER 2005\u2014URBAN PARK AND RECREATION RECOVERY PROGRAM",
+        "CHAPTER 3001\u2014POLICY",
+        "CHAPTER 3003\u2014DEFINITIONS",
+        "CHAPTER 3021\u2014NATIONAL REGISTER OF HISTORIC PLACES",
+        "CHAPTER 3023\u2014STATE HISTORIC PRESERVATION PROGRAMS",
+        "CHAPTER 3025\u2014CERTIFICATION OF LOCAL GOVERNMENTS",
+        "CHAPTER 3027\u2014HISTORIC PRESERVATION PROGRAMS AND AUTHORITIES FOR INDIAN TRIBES AND NATIVE HAWAIIAN ORGANIZATIONS",
+        "CHAPTER 3029\u2014GRANTS",
+        "CHAPTER 3031\u2014HISTORIC PRESERVATION FUND",
+        "CHAPTERS 3033 THROUGH 3037\u2014RESERVED",
+        "CHAPTER 3039\u2014MISCELLANEOUS",
+        "CHAPTER 3041\u2014ADVISORY COUNCIL ON HISTORIC PRESERVATION",
+        "CHAPTER 3051\u2014HISTORIC LIGHT STATION PRESERVATION",
+        "CHAPTER 3053\u2014NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING",
+        "CHAPTER 3055\u2014NATIONAL BUILDING MUSEUM",
+        "CHAPTER 3061\u2014PROGRAM RESPONSIBILITIES AND AUTHORITIES",
+        "CHAPTER 3071\u2014MISCELLANEOUS",
+        "CHAPTER 3081\u2014AMERICAN BATTLEFIELD PROTECTION PROGRAM",
+        "CHAPTER 3083\u2014NATIONAL UNDERGROUND RAILROAD NETWORK TO FREEDOM",
+        "CHAPTER 3084\u2014AFRICAN AMERICAN CIVIL RIGHTS NETWORK",
+        "CHAPTER 3085\u2014NATIONAL WOMEN'S RIGHTS HISTORY PROJECT",
+        "CHAPTER 3086\u2014UNITED STATES AFRICAN-AMERICAN BURIAL GROUNDS PRESERVATION PROGRAM",
+        "CHAPTER 3087\u2014NATIONAL MARITIME HERITAGE",
+        "CHAPTER 3089\u2014SAVE AMERICA'S TREASURES PROGRAM",
+        "CHAPTER 3091\u2014COMMEMORATION OF FORMER PRESIDENTS",
+        "CHAPTER 3111\u2014PRESERVE AMERICA PROGRAM",
+        "CHAPTER 3121\u2014NATIONAL TRUST FOR HISTORIC PRESERVATION IN THE UNITED STATES",
+        "CHAPTER 3123\u2014COMMISSION FOR THE PRESERVATION OF AMERICA'S HERITAGE ABROAD",
+        "CHAPTER 3125\u2014PRESERVATION OF HISTORICAL AND ARCHEOLOGICAL DATA",
+        "CHAPTER 3201\u2014POLICY AND ADMINISTRATIVE PROVISIONS",
+        "CHAPTER 3203\u2014MONUMENTS, RUINS, SITES, AND OBJECTS OF ANTIQUITY"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+  },
+  "links": {
+    "title_num": 54,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title54/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title54/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54.zip"
+    },
+    "element_links": {
+      "subtitles": [
+        {
+          "name": "Subtitle I\u2014National Park System",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle II\u2014Outdoor Recreation Programs",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle III\u2014National Preservation Programs",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-subtitleI/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1001\u2014GENERAL PROVISIONS",
+          "id": "1001",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1001.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1001.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1001/"
+          }
+        },
+        {
+          "name": "CHAPTER 1003\u2014ESTABLISHMENT, DIRECTORS, AND OTHER EMPLOYEES",
+          "id": "1003",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1003.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1003.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1003/"
+          }
+        },
+        {
+          "name": "CHAPTER 1005\u2014AREAS OF NATIONAL PARK SYSTEM",
+          "id": "1005",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1005.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1005.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1005/"
+          }
+        },
+        {
+          "name": "CHAPTER 1007\u2014RESOURCE MANAGEMENT",
+          "id": "1007",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1007.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1007.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1007/"
+          }
+        },
+        {
+          "name": "CHAPTER 1008\u2014EDUCATION AND INTERPRETATION",
+          "id": "1008",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1008.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1008.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1008/"
+          }
+        },
+        {
+          "name": "CHAPTER 1009\u2014ADMINISTRATION",
+          "id": "1009",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1009.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1009.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1009/"
+          }
+        },
+        {
+          "name": "CHAPTER 1011\u2014DONATIONS",
+          "id": "1011",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1011.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1011.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1011/"
+          }
+        },
+        {
+          "name": "CHAPTER 1013\u2014EMPLOYEES",
+          "id": "1013",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1013.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1013.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1013/"
+          }
+        },
+        {
+          "name": "CHAPTER 1015\u2014TRANSPORTATION",
+          "id": "1015",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1015.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1015.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1015/"
+          }
+        },
+        {
+          "name": "CHAPTER 1017\u2014FINANCIAL AGREEMENTS",
+          "id": "1017",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1017.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1017.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1017/"
+          }
+        },
+        {
+          "name": "CHAPTER 1019\u2014CONCESSIONS AND COMMERCIAL USE AUTHORIZATIONS",
+          "id": "1019",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1019.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1019.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1019/"
+          }
+        },
+        {
+          "name": "CHAPTER 1021\u2014PRIVILEGES AND LEASES",
+          "id": "1021",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1021.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1021.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1021/"
+          }
+        },
+        {
+          "name": "CHAPTER 1023\u2014PROGRAMS AND ORGANIZATIONS",
+          "id": "1023",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1023.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1023.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1023/"
+          }
+        },
+        {
+          "name": "CHAPTER 1025\u2014MUSEUMS",
+          "id": "1025",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1025.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1025.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1025/"
+          }
+        },
+        {
+          "name": "CHAPTER 1027\u2014LAW ENFORCEMENT AND EMERGENCY ASSISTANCE",
+          "id": "1027",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1027.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1027.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1027/"
+          }
+        },
+        {
+          "name": "CHAPTER 1029\u2014LAND TRANSFERS",
+          "id": "1029",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1029.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1029.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1029/"
+          }
+        },
+        {
+          "name": "CHAPTER 1031\u2014APPROPRIATIONS AND ACCOUNTING",
+          "id": "1031",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1031.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1031.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1031/"
+          }
+        },
+        {
+          "name": "CHAPTER 1033\u2014NATIONAL MILITARY PARKS",
+          "id": "1033",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1033.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1033.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1033/"
+          }
+        },
+        {
+          "name": "CHAPTER 1035\u2014NATIONAL PARK CENTENNIAL CHALLENGE FUND",
+          "id": "1035",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1035.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1035.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1035/"
+          }
+        },
+        {
+          "name": "CHAPTER 1049\u2014MISCELLANEOUS",
+          "id": "1049",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1049.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1049.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1049/"
+          }
+        },
+        {
+          "name": "CHAPTER 1201\u2014NATIONAL HERITAGE AREA SYSTEM",
+          "id": "1201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter1201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter1201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter1201/"
+          }
+        },
+        {
+          "name": "CHAPTER 2001\u2014COORDINATION OF PROGRAMS",
+          "id": "2001",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter2001.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter2001.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter2001/"
+          }
+        },
+        {
+          "name": "CHAPTER 2003\u2014LAND AND WATER CONSERVATION FUND",
+          "id": "2003",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter2003.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter2003.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter2003/"
+          }
+        },
+        {
+          "name": "CHAPTER 2004\u2014NATIONAL PARKS AND PUBLIC LAND LEGACY RESTORATION FUND",
+          "id": "2004",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter2004.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter2004.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter2004/"
+          }
+        },
+        {
+          "name": "CHAPTER 2005\u2014URBAN PARK AND RECREATION RECOVERY PROGRAM",
+          "id": "2005",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter2005.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter2005.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter2005/"
+          }
+        },
+        {
+          "name": "CHAPTER 3001\u2014POLICY",
+          "id": "3001",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3001.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3001.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3001/"
+          }
+        },
+        {
+          "name": "CHAPTER 3003\u2014DEFINITIONS",
+          "id": "3003",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3003.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3003.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3003/"
+          }
+        },
+        {
+          "name": "CHAPTER 3021\u2014NATIONAL REGISTER OF HISTORIC PLACES",
+          "id": "3021",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3021.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3021.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3021/"
+          }
+        },
+        {
+          "name": "CHAPTER 3023\u2014STATE HISTORIC PRESERVATION PROGRAMS",
+          "id": "3023",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3023.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3023.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3023/"
+          }
+        },
+        {
+          "name": "CHAPTER 3025\u2014CERTIFICATION OF LOCAL GOVERNMENTS",
+          "id": "3025",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3025.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3025.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3025/"
+          }
+        },
+        {
+          "name": "CHAPTER 3027\u2014HISTORIC PRESERVATION PROGRAMS AND AUTHORITIES FOR INDIAN TRIBES AND NATIVE HAWAIIAN ORGANIZATIONS",
+          "id": "3027",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3027.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3027.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3027/"
+          }
+        },
+        {
+          "name": "CHAPTER 3029\u2014GRANTS",
+          "id": "3029",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3029.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3029.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3029/"
+          }
+        },
+        {
+          "name": "CHAPTER 3031\u2014HISTORIC PRESERVATION FUND",
+          "id": "3031",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3031.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3031.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3031/"
+          }
+        },
+        {
+          "name": "CHAPTER 3039\u2014MISCELLANEOUS",
+          "id": "3039",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3039.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3039.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3039/"
+          }
+        },
+        {
+          "name": "CHAPTER 3041\u2014ADVISORY COUNCIL ON HISTORIC PRESERVATION",
+          "id": "3041",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3041.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3041.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3041/"
+          }
+        },
+        {
+          "name": "CHAPTER 3051\u2014HISTORIC LIGHT STATION PRESERVATION",
+          "id": "3051",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3051.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3051.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3051/"
+          }
+        },
+        {
+          "name": "CHAPTER 3053\u2014NATIONAL CENTER FOR PRESERVATION TECHNOLOGY AND TRAINING",
+          "id": "3053",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3053.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3053.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3053/"
+          }
+        },
+        {
+          "name": "CHAPTER 3055\u2014NATIONAL BUILDING MUSEUM",
+          "id": "3055",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3055.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3055.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3055/"
+          }
+        },
+        {
+          "name": "CHAPTER 3061\u2014PROGRAM RESPONSIBILITIES AND AUTHORITIES",
+          "id": "3061",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3061.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3061.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3061/"
+          }
+        },
+        {
+          "name": "CHAPTER 3071\u2014MISCELLANEOUS",
+          "id": "3071",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3071.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3071.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3071/"
+          }
+        },
+        {
+          "name": "CHAPTER 3081\u2014AMERICAN BATTLEFIELD PROTECTION PROGRAM",
+          "id": "3081",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3081.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3081.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3081/"
+          }
+        },
+        {
+          "name": "CHAPTER 3083\u2014NATIONAL UNDERGROUND RAILROAD NETWORK TO FREEDOM",
+          "id": "3083",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3083.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3083.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3083/"
+          }
+        },
+        {
+          "name": "CHAPTER 3084\u2014AFRICAN AMERICAN CIVIL RIGHTS NETWORK",
+          "id": "3084",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3084.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3084.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3084/"
+          }
+        },
+        {
+          "name": "CHAPTER 3085\u2014NATIONAL WOMEN'S RIGHTS HISTORY PROJECT",
+          "id": "3085",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3085.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3085.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3085/"
+          }
+        },
+        {
+          "name": "CHAPTER 3086\u2014UNITED STATES AFRICAN-AMERICAN BURIAL GROUNDS PRESERVATION PROGRAM",
+          "id": "3086",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3086.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3086.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3086/"
+          }
+        },
+        {
+          "name": "CHAPTER 3087\u2014NATIONAL MARITIME HERITAGE",
+          "id": "3087",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3087.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3087.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3087/"
+          }
+        },
+        {
+          "name": "CHAPTER 3089\u2014SAVE AMERICA'S TREASURES PROGRAM",
+          "id": "3089",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3089.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3089.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3089/"
+          }
+        },
+        {
+          "name": "CHAPTER 3091\u2014COMMEMORATION OF FORMER PRESIDENTS",
+          "id": "3091",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3091.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3091.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3091/"
+          }
+        },
+        {
+          "name": "CHAPTER 3111\u2014PRESERVE AMERICA PROGRAM",
+          "id": "3111",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3111.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3111.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3111/"
+          }
+        },
+        {
+          "name": "CHAPTER 3121\u2014NATIONAL TRUST FOR HISTORIC PRESERVATION IN THE UNITED STATES",
+          "id": "3121",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3121.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3121.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3121/"
+          }
+        },
+        {
+          "name": "CHAPTER 3123\u2014COMMISSION FOR THE PRESERVATION OF AMERICA'S HERITAGE ABROAD",
+          "id": "3123",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3123.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3123.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3123/"
+          }
+        },
+        {
+          "name": "CHAPTER 3125\u2014PRESERVATION OF HISTORICAL AND ARCHEOLOGICAL DATA",
+          "id": "3125",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3125.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3125.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3125/"
+          }
+        },
+        {
+          "name": "CHAPTER 3201\u2014POLICY AND ADMINISTRATIVE PROVISIONS",
+          "id": "3201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3201/"
+          }
+        },
+        {
+          "name": "CHAPTER 3203\u2014MONUMENTS, RUINS, SITES, AND OBJECTS OF ANTIQUITY",
+          "id": "3203",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54-chapter3203.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54-chapter3203.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54-chapter3203/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

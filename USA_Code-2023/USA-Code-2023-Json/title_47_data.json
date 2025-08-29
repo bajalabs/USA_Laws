@@ -1,0 +1,336 @@
+{
+  "structure": {
+    "title_num": 47,
+    "title_name": "TITLE 47\u2014TELECOMMUNICATIONS",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 1701",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part I\u2014Common Carrier Regulation",
+        "Part II\u2014Development of Competitive Markets",
+        "Part III\u2014Special Provisions Concerning Bell Operating Companies",
+        "Part I\u2014General Provisions",
+        "Part II\u2014Radio Equipment and Radio Operators On Board Ship",
+        "Part III\u2014Radio Installations on Vessels Carrying Passengers for Hire",
+        "Part IV\u2014Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for Public Broadcasting; General Provisions",
+        "Part I\u2014General Provisions",
+        "Part II\u2014Use of Cable Channels and Cable Ownership Restrictions",
+        "Part III\u2014Franchising and Regulation",
+        "Part IV\u2014Miscellaneous Provisions",
+        "Part V\u2014Video Programming Services Provided by Telephone Companies",
+        "Part A\u2014Actions To Ensure Pro-Competitive Privatization",
+        "Part B\u2014Federal Communications Commission Licensing Criteria: Privatization Criteria",
+        "Part C\u2014Deregulation and Other Statutory Changes",
+        "Part D\u2014Negotiations To Pursue Privatization",
+        "Part E\u2014Definitions"
+      ],
+      "subparts": [
+        "subpart a\u2014assistance for planning and construction of public telecommunications facilities",
+        "subpart b\u2014national endowment for children's educational television",
+        "subpart c\u2014telecommunications demonstrations",
+        "subpart d\u2014corporation for public broadcasting",
+        "subpart e\u2014general provisions"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014TELEGRAPHS",
+        "CHAPTER 2\u2014SUBMARINE CABLES",
+        "CHAPTER 3\u2014RADIOTELEGRAPHS",
+        "CHAPTER 4\u2014RADIO ACT OF 1927",
+        "CHAPTER 5\u2014WIRE OR RADIO COMMUNICATION",
+        "CHAPTER 6\u2014COMMUNICATIONS SATELLITE SYSTEM",
+        "CHAPTER 7\u2014CAMPAIGN COMMUNICATIONS",
+        "CHAPTER 8\u2014NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION",
+        "CHAPTER 9\u2014INTERCEPTION OF DIGITAL AND OTHER COMMUNICATIONS",
+        "CHAPTER 10\u2014SATELLITE CARRIER RETRANSMISSION ELIGIBILITY",
+        "CHAPTER 11\u2014COMMERCIAL MOBILE SERVICE ALERTS",
+        "CHAPTER 12\u2014BROADBAND",
+        "CHAPTER 13\u2014PUBLIC SAFETY COMMUNICATIONS AND ELECTROMAGNETIC SPECTRUM AUCTIONS",
+        "CHAPTER 14\u2014MAKING OPPORTUNITIES FOR BROADBAND INVESTMENT AND LIMITING EXCESSIVE AND NEEDLESS OBSTACLES TO WIRELESS",
+        "CHAPTER 15\u2014SECURE AND TRUSTED COMMUNICATIONS NETWORKS",
+        "CHAPTER 16\u2014BROADBAND ACCESS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47.htm"
+  },
+  "links": {
+    "title_num": 47,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title47/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title47/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Common Carrier Regulation",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Development of Competitive Markets",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Special Provisions Concerning Bell Operating Companies",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partIII/"
+          }
+        },
+        {
+          "name": "Part I\u2014General Provisions",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Radio Equipment and Radio Operators On Board Ship",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Radio Installations on Vessels Carrying Passengers for Hire",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Assistance for Planning and Construction of Public Telecommunications Facilities; Telecommunications Demonstrations; Corporation for Public Broadcasting; General Provisions",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partIV/"
+          }
+        },
+        {
+          "name": "Part I\u2014General Provisions",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Use of Cable Channels and Cable Ownership Restrictions",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Franchising and Regulation",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Miscellaneous Provisions",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014Video Programming Services Provided by Telephone Companies",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-partV/"
+          }
+        }
+      ],
+      "subparts": [],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014TELEGRAPHS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014SUBMARINE CABLES",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014RADIOTELEGRAPHS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014RADIO ACT OF 1927",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014WIRE OR RADIO COMMUNICATION",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014COMMUNICATIONS SATELLITE SYSTEM",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014CAMPAIGN COMMUNICATIONS",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014INTERCEPTION OF DIGITAL AND OTHER COMMUNICATIONS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014SATELLITE CARRIER RETRANSMISSION ELIGIBILITY",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014COMMERCIAL MOBILE SERVICE ALERTS",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014BROADBAND",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014PUBLIC SAFETY COMMUNICATIONS AND ELECTROMAGNETIC SPECTRUM AUCTIONS",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014MAKING OPPORTUNITIES FOR BROADBAND INVESTMENT AND LIMITING EXCESSIVE AND NEEDLESS OBSTACLES TO WIRELESS",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014SECURE AND TRUSTED COMMUNICATIONS NETWORKS",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014BROADBAND ACCESS",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47-chapter16/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "title_num": 11,
+    "title_name": "TITLE 11\u2014BANKRUPTCY",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_11_TITLE_11-BANKRUPTCY.md",
+    "json_file": "title_11_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 12,
+    "title_name": "TITLE 12\u2014BANKS AND BANKING",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_12_TITLE_12-BANKS_AND_BANKING.md",
+    "json_file": "title_12_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 13,
+    "title_name": "TITLE 13\u2014CENSUS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_13_TITLE_13-CENSUS.md",
+    "json_file": "title_13_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 14,
+    "title_name": "TITLE 14\u2014COAST GUARD",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_14_TITLE_14-COAST_GUARD.md",
+    "json_file": "title_14_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 15,
+    "title_name": "TITLE 15\u2014COMMERCE AND TRADE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_15_TITLE_15-COMMERCE_AND_TRADE.md",
+    "json_file": "title_15_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 16,
+    "title_name": "TITLE 16\u2014CONSERVATION",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_16_TITLE_16-CONSERVATION.md",
+    "json_file": "title_16_data.json",
+    "status": "success"
+  }
+]

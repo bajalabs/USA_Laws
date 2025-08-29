@@ -1,0 +1,98 @@
+{
+  "structure": {
+    "title_num": 3,
+    "title_name": "TITLE 3\u2014THE PRESIDENT",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 1 - 401",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Employment Discrimination, Family and Medical Leave, Fair Labor Standards, Employee Polygraph Protection, Worker Adjustment and Retraining, Employment and Reemployment of Veterans, and Intimidation",
+        "Part B\u2014Public Access Provisions Under the Americans With Disabilities Act of 1990",
+        "Part C\u2014Occupational Safety and Health Act of 1970",
+        "Part D\u2014Labor-Management Relations",
+        "Part E\u2014General"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014PRESIDENTIAL ELECTIONS AND VACANCIES",
+        "CHAPTER 2\u2014OFFICE AND COMPENSATION OF PRESIDENT",
+        "[CHAPTER 3\u2014REPEALED]",
+        "CHAPTER 4\u2014DELEGATION OF FUNCTIONS",
+        "CHAPTER 5\u2014EXTENSION OF CERTAIN RIGHTS AND PROTECTIONS TO PRESIDENTIAL OFFICES"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3.htm"
+  },
+  "links": {
+    "title_num": 3,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title3/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title3/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3.zip"
+    },
+    "element_links": {
+      "parts": [],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014PRESIDENTIAL ELECTIONS AND VACANCIES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014OFFICE AND COMPENSATION OF PRESIDENT",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3-chapter2/"
+          }
+        },
+        {
+          "name": "[CHAPTER 3\u2014REPEALED]",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014DELEGATION OF FUNCTIONS",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014EXTENSION OF CERTAIN RIGHTS AND PROTECTIONS TO PRESIDENTIAL OFFICES",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3-chapter5/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

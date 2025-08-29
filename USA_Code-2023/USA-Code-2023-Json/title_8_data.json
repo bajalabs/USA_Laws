@@ -1,0 +1,324 @@
+{
+  "structure": {
+    "title_num": 8,
+    "title_name": "TITLE 8\u2014ALIENS AND NATIONALITY",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 1 - 1701",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part I\u2014Selection System",
+        "Part II\u2014Admission Qualifications for Aliens; Travel Control of Citizens and Aliens",
+        "Part III\u2014Issuance of Entry Documents",
+        "Part IV\u2014Inspection, Apprehension, Examination, Exclusion, and Removal",
+        "Part V\u2014Adjustment and Change of Status",
+        "Part VI\u2014Special Provisions Relating to Alien Crewmen",
+        "Part VII\u2014Registration of Aliens",
+        "Part VIII\u2014General Penalty Provisions",
+        "Part IX\u2014Miscellaneous",
+        "Part I\u2014Nationality at Birth and Collective Naturalization",
+        "Part II\u2014Nationality Through Naturalization",
+        "Part III\u2014Loss of Nationality",
+        "Part IV\u2014Miscellaneous"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014GENERAL PROVISIONS",
+        "CHAPTER 2\u2014ELECTIVE FRANCHISE",
+        "CHAPTER 3\u2014CIVIL RIGHTS",
+        "CHAPTER 4\u2014FREEDMEN",
+        "CHAPTER 5\u2014ALIEN OWNERSHIP OF LAND",
+        "CHAPTER 6\u2014IMMIGRATION",
+        "CHAPTER 7\u2014EXCLUSION OF CHINESE",
+        "CHAPTER 8\u2014THE COOLY TRADE",
+        "CHAPTER 9\u2014MISCELLANEOUS PROVISIONS",
+        "CHAPTER 10\u2014ALIEN REGISTRATION",
+        "CHAPTER 11\u2014NATIONALITY",
+        "CHAPTER 12\u2014IMMIGRATION AND NATIONALITY",
+        "CHAPTER 13\u2014IMMIGRATION AND NATURALIZATION SERVICE",
+        "CHAPTER 14\u2014RESTRICTING WELFARE AND PUBLIC BENEFITS FOR ALIENS",
+        "CHAPTER 15\u2014ENHANCED BORDER SECURITY AND VISA ENTRY REFORM"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8.htm"
+  },
+  "links": {
+    "title_num": 8,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title8/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title8/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part I\u2014Selection System",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Admission Qualifications for Aliens; Travel Control of Citizens and Aliens",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Issuance of Entry Documents",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Inspection, Apprehension, Examination, Exclusion, and Removal",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014Adjustment and Change of Status",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partV/"
+          }
+        },
+        {
+          "name": "Part VI\u2014Special Provisions Relating to Alien Crewmen",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partVI/"
+          }
+        },
+        {
+          "name": "Part VII\u2014Registration of Aliens",
+          "id": "VII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partVII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partVII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partVII/"
+          }
+        },
+        {
+          "name": "Part VIII\u2014General Penalty Provisions",
+          "id": "VIII",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partVIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partVIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partVIII/"
+          }
+        },
+        {
+          "name": "Part IX\u2014Miscellaneous",
+          "id": "IX",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partIX.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partIX.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partIX/"
+          }
+        },
+        {
+          "name": "Part I\u2014Nationality at Birth and Collective Naturalization",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Nationality Through Naturalization",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Loss of Nationality",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Miscellaneous",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-partIV/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014GENERAL PROVISIONS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014ELECTIVE FRANCHISE",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014CIVIL RIGHTS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014FREEDMEN",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014ALIEN OWNERSHIP OF LAND",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014IMMIGRATION",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014EXCLUSION OF CHINESE",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014THE COOLY TRADE",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014MISCELLANEOUS PROVISIONS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014ALIEN REGISTRATION",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014NATIONALITY",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014IMMIGRATION AND NATIONALITY",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014IMMIGRATION AND NATURALIZATION SERVICE",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014RESTRICTING WELFARE AND PUBLIC BENEFITS FOR ALIENS",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014ENHANCED BORDER SECURITY AND VISA ENTRY REFORM",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8-chapter15/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

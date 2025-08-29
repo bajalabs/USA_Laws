@@ -1,0 +1,374 @@
+{
+  "structure": {
+    "title_num": 31,
+    "title_name": "TITLE 31\u2014MONEY AND FINANCE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 101 - 9701",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part 1\u2014National Money Laundering and Related Financial Crimes Strategy",
+        "Part 2\u2014Financial Crime-Free Communities Support Program"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014DEFINITIONS",
+        "CHAPTER 3\u2014DEPARTMENT OF THE TREASURY",
+        "CHAPTER 5\u2014OFFICE OF MANAGEMENT AND BUDGET",
+        "CHAPTER 7\u2014GOVERNMENT ACCOUNTABILITY OFFICE",
+        "CHAPTER 9\u2014AGENCY CHIEF FINANCIAL OFFICERS",
+        "CHAPTER 11\u2014THE BUDGET AND FISCAL, BUDGET, AND PROGRAM INFORMATION",
+        "CHAPTER 13\u2014APPROPRIATIONS",
+        "CHAPTER 15\u2014APPROPRIATION ACCOUNTING",
+        "CHAPTER 31\u2014PUBLIC DEBT",
+        "CHAPTER 33\u2014DEPOSITING, KEEPING, AND PAYING MONEY",
+        "CHAPTER 35\u2014ACCOUNTING AND COLLECTION",
+        "CHAPTER 37\u2014CLAIMS",
+        "CHAPTER 38\u2014ADMINISTRATIVE REMEDIES FOR FALSE CLAIMS AND STATEMENTS",
+        "CHAPTER 39\u2014PROMPT PAYMENT",
+        "CHAPTER 51\u2014COINS AND CURRENCY",
+        "CHAPTER 53\u2014MONETARY TRANSACTIONS",
+        "CHAPTER 61\u2014PROGRAM INFORMATION",
+        "CHAPTER 62\u2014CONSOLIDATED FEDERAL FUNDS REPORT",
+        "CHAPTER 63\u2014USING PROCUREMENT CONTRACTS AND GRANT AND COOPERATIVE AGREEMENTS",
+        "CHAPTER 64\u2014DATA STANDARDS FOR GRANT REPORTING",
+        "CHAPTER 65\u2014INTERGOVERNMENTAL COOPERATION",
+        "CHAPTER 67\u2014FEDERAL PAYMENTS",
+        "CHAPTER 69\u2014PAYMENT FOR ENTITLEMENT LAND",
+        "CHAPTER 71\u2014JOINT FUNDING SIMPLIFICATION",
+        "CHAPTER 73\u2014ADMINISTERING BLOCK GRANTS",
+        "CHAPTER 75\u2014REQUIREMENTS FOR SINGLE AUDITS",
+        "CHAPTER 77\u2014ACCESS TO INFORMATION FOR DEBT COLLECTION",
+        "CHAPTER 91\u2014GOVERNMENT CORPORATIONS",
+        "CHAPTER 93\u2014SURETIES AND SURETY BONDS",
+        "CHAPTER 95\u2014GOVERNMENT PENSION PLAN PROTECTION",
+        "CHAPTER 97\u2014MISCELLANEOUS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31.htm"
+  },
+  "links": {
+    "title_num": 31,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title31/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title31/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "Part 1\u2014National Money Laundering and Related Financial Crimes Strategy",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Financial Crime-Free Communities Support Program",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-part2/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014DEFINITIONS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014DEPARTMENT OF THE TREASURY",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014OFFICE OF MANAGEMENT AND BUDGET",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014GOVERNMENT ACCOUNTABILITY OFFICE",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014AGENCY CHIEF FINANCIAL OFFICERS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014THE BUDGET AND FISCAL, BUDGET, AND PROGRAM INFORMATION",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014APPROPRIATIONS",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014APPROPRIATION ACCOUNTING",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014PUBLIC DEBT",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014DEPOSITING, KEEPING, AND PAYING MONEY",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014ACCOUNTING AND COLLECTION",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014CLAIMS",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 38\u2014ADMINISTRATIVE REMEDIES FOR FALSE CLAIMS AND STATEMENTS",
+          "id": "38",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter38.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter38.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter38/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014PROMPT PAYMENT",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014COINS AND CURRENCY",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014MONETARY TRANSACTIONS",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014PROGRAM INFORMATION",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 62\u2014CONSOLIDATED FEDERAL FUNDS REPORT",
+          "id": "62",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter62.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter62.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter62/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014USING PROCUREMENT CONTRACTS AND GRANT AND COOPERATIVE AGREEMENTS",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 64\u2014DATA STANDARDS FOR GRANT REPORTING",
+          "id": "64",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter64.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter64.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter64/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014INTERGOVERNMENTAL COOPERATION",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014FEDERAL PAYMENTS",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter67/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014PAYMENT FOR ENTITLEMENT LAND",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014JOINT FUNDING SIMPLIFICATION",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014ADMINISTERING BLOCK GRANTS",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014REQUIREMENTS FOR SINGLE AUDITS",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014ACCESS TO INFORMATION FOR DEBT COLLECTION",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014GOVERNMENT CORPORATIONS",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 93\u2014SURETIES AND SURETY BONDS",
+          "id": "93",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter93.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter93.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter93/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014GOVERNMENT PENSION PLAN PROTECTION",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 97\u2014MISCELLANEOUS",
+          "id": "97",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31-chapter97.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31-chapter97.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31-chapter97/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

@@ -1,0 +1,789 @@
+{
+  "structure": {
+    "title_num": 29,
+    "title_name": "TITLE 29\u2014LABOR",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 3101",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014General Provisions",
+        "Part B\u2014Basic Vocational Rehabilitation Services",
+        "Part C\u2014American Indian Vocational Rehabilitation Services",
+        "Part D\u2014Vocational Rehabilitation Services Client Information",
+        "Part A\u2014Individuals With Significant Disabilities",
+        "Part B\u2014Independent Living Services for Older Individuals Who Are Blind",
+        "Part A\u2014Organizational Provisions",
+        "Part B\u2014General Provisions",
+        "Part A\u2014Financial Assistance Provisions",
+        "Part B\u2014Services for the Economically Disadvantaged",
+        "Part C\u2014Upgrading and Retraining",
+        "Part D\u2014Transitional Employment Opportunities for the Economically Disadvantaged",
+        "Part A\u2014Special National Programs and Activities",
+        "Part B\u2014Research, Training, and Evaluation",
+        "Part A\u2014Youth Employment Demonstration Programs",
+        "Part B\u2014Job Corps",
+        "Part C\u2014Summer Youth Program",
+        "part 1\u2014reporting and disclosure",
+        "part 2\u2014participation and vesting",
+        "part 3\u2014funding",
+        "part 4\u2014fiduciary responsibility",
+        "part 5\u2014administration and enforcement",
+        "part 6\u2014continuation coverage and additional standards for group health plans",
+        "part 7\u2014group health plan requirements",
+        "part 8\u2014pension-linked emergency savings accounts",
+        "part 1\u2014joint pension, profit-sharing, and employee stock ownership plan task force",
+        "part 2\u2014other studies",
+        "part 1\u2014employer withdrawals",
+        "part 2\u2014merger or transfer of plan assets or liabilities",
+        "part 3\u2014insolvent plans",
+        "part 4\u2014financial assistance",
+        "part 5\u2014benefits after termination",
+        "part 6\u2014enforcement",
+        "Part A\u2014Service Delivery System",
+        "Part B\u2014Additional State Responsibilities",
+        "Part C\u2014Program Requirements for Service Delivery System",
+        "Part D\u2014Federal and Fiscal Administrative Provisions",
+        "Part E\u2014Miscellaneous Provisions",
+        "Part A\u2014Adult Training Program",
+        "Part B\u2014Summer Youth Employment and Training Program",
+        "Part C\u2014Youth Training Program",
+        "Part A\u2014State Delivery of Services",
+        "Part B\u2014Federal Responsibilities",
+        "Part A\u2014Employment and Training Programs for Native Americans and Migrant and Seasonal Farmworkers",
+        "Part B\u2014Job Corps",
+        "Part C\u2014Veterans' Employment Programs",
+        "Part D\u2014National Activities",
+        "Part E\u2014Labor Market Information",
+        "Part F\u2014National Commission for Employment Policy",
+        "Part G\u2014Training To Fulfill Affirmative Action Obligations",
+        "Part H\u2014Youth Fair Chance Program",
+        "Part I\u2014Microenterprise Grants Program",
+        "Part J\u2014Disaster Relief Employment Assistance",
+        "Part A\u2014Enforcement Provisions",
+        "Part B\u2014Administrative Provisions",
+        "Part C\u2014Miscellaneous Provisions",
+        "Part A\u2014National Classification System",
+        "Part B\u2014Training and Demonstration Projects",
+        "Part C\u2014Authorization of Appropriations",
+        "Part A\u2014State Provisions",
+        "Part B\u2014Local Provisions",
+        "Part C\u2014Workforce Investment Activities Providers",
+        "Part D\u2014Youth Activities",
+        "Part E\u2014Adult and Dislocated Worker Employment and Training Activities",
+        "Part F\u2014General Provisions",
+        "Part A\u2014System Alignment",
+        "Part B\u2014Workforce Investment Activities and Providers",
+        "Part C\u2014Job Corps",
+        "Part D\u2014National Programs",
+        "Part E\u2014Administration",
+        "Part A\u2014Federal Provisions",
+        "Part B\u2014State Provisions",
+        "Part C\u2014Local Provisions",
+        "Part D\u2014General Provisions",
+        "Part A\u2014Workforce Investment",
+        "Part B\u2014Miscellaneous Provisions"
+      ],
+      "subparts": [
+        "subpart 1\u2014general provisions",
+        "subpart 2\u2014independent living services",
+        "subpart 3\u2014centers for independent living",
+        "subpart 1\u2014youth incentive entitlement pilot projects",
+        "subpart 2\u2014youth community conservation and improvement projects",
+        "subpart 3\u2014youth employment and training programs",
+        "subpart 4\u2014general provisions",
+        "Subpart A\u2014Requirements Relating to Portability, Access, and Renewability",
+        "Subpart B\u2014Other Requirements",
+        "Subpart C\u2014General Provisions",
+        "subpart 1\u2014state provisions",
+        "subpart 2\u2014local provisions",
+        "subpart 3\u2014board provisions",
+        "subpart 4\u2014performance accountability",
+        "subpart 1\u2014workforce investment activities and providers",
+        "subpart 2\u2014youth workforce investment activities",
+        "subpart 3\u2014adult and dislocated worker employment and training activities",
+        "subpart 4\u2014general workforce investment provisions"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014LABOR STATISTICS",
+        "CHAPTER 2\u2014WOMEN'S BUREAU",
+        "CHAPTER 2A\u2014CHILDREN'S BUREAU",
+        "CHAPTER 3\u2014NATIONAL TRADE UNIONS",
+        "CHAPTER 4\u2014VOCATIONAL REHABILITATION OF PERSONS INJURED IN INDUSTRY",
+        "CHAPTER 4A\u2014EMPLOYMENT STABILIZATION",
+        "CHAPTER 4B\u2014FEDERAL EMPLOYMENT SERVICE",
+        "CHAPTER 4C\u2014APPRENTICE LABOR",
+        "CHAPTER 5\u2014LABOR DISPUTES; MEDIATION AND INJUNCTIVE RELIEF",
+        "CHAPTER 6\u2014JURISDICTION OF COURTS IN MATTERS AFFECTING EMPLOYER AND EMPLOYEE",
+        "CHAPTER 7\u2014LABOR-MANAGEMENT RELATIONS",
+        "CHAPTER 8\u2014FAIR LABOR STANDARDS",
+        "CHAPTER 9\u2014PORTAL-TO-PORTAL PAY",
+        "CHAPTER 10\u2014DISCLOSURE OF WELFARE AND PENSION PLANS",
+        "CHAPTER 11\u2014LABOR-MANAGEMENT REPORTING AND DISCLOSURE PROCEDURE",
+        "CHAPTER 12\u2014DEPARTMENT OF LABOR",
+        "CHAPTER 13\u2014EXEMPLARY REHABILITATION CERTIFICATES",
+        "CHAPTER 14\u2014AGE DISCRIMINATION IN EMPLOYMENT",
+        "CHAPTER 15\u2014OCCUPATIONAL SAFETY AND HEALTH",
+        "CHAPTER 16\u2014VOCATIONAL REHABILITATION AND OTHER REHABILITATION SERVICES",
+        "CHAPTER 17\u2014COMPREHENSIVE EMPLOYMENT AND TRAINING PROGRAMS",
+        "CHAPTER 18\u2014EMPLOYEE RETIREMENT INCOME SECURITY PROGRAM",
+        "CHAPTER 19\u2014JOB TRAINING PARTNERSHIP",
+        "CHAPTER 20\u2014MIGRANT AND SEASONAL AGRICULTURAL WORKER PROTECTION",
+        "CHAPTER 21\u2014HELEN KELLER NATIONAL CENTER FOR YOUTHS AND ADULTS WHO ARE DEAF-BLIND",
+        "CHAPTER 22\u2014EMPLOYEE POLYGRAPH PROTECTION",
+        "CHAPTER 23\u2014WORKER ADJUSTMENT AND RETRAINING NOTIFICATION",
+        "CHAPTER 24\u2014TECHNOLOGY RELATED ASSISTANCE FOR INDIVIDUALS WITH DISABILITIES",
+        "CHAPTER 25\u2014DISPLACED HOMEMAKERS SELF-SUFFICIENCY ASSISTANCE",
+        "CHAPTER 26\u2014NATIONAL CENTER FOR THE WORKPLACE",
+        "CHAPTER 27\u2014WOMEN IN APPRENTICESHIP AND NONTRADITIONAL OCCUPATIONS",
+        "CHAPTER 28\u2014FAMILY AND MEDICAL LEAVE",
+        "CHAPTER 29\u2014WORKERS TECHNOLOGY SKILL DEVELOPMENT",
+        "CHAPTER 30\u2014WORKFORCE INVESTMENT SYSTEMS",
+        "CHAPTER 31\u2014ASSISTIVE TECHNOLOGY FOR INDIVIDUALS WITH DISABILITIES",
+        "CHAPTER 32\u2014WORKFORCE INNOVATION AND OPPORTUNITY"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29.htm"
+  },
+  "links": {
+    "title_num": 29,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title29/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title29/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "part 1\u2014reporting and disclosure",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part1/"
+          }
+        },
+        {
+          "name": "part 2\u2014participation and vesting",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part2/"
+          }
+        },
+        {
+          "name": "part 3\u2014funding",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part3/"
+          }
+        },
+        {
+          "name": "part 4\u2014fiduciary responsibility",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part4/"
+          }
+        },
+        {
+          "name": "part 5\u2014administration and enforcement",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part5/"
+          }
+        },
+        {
+          "name": "part 6\u2014continuation coverage and additional standards for group health plans",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part6/"
+          }
+        },
+        {
+          "name": "part 7\u2014group health plan requirements",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part7/"
+          }
+        },
+        {
+          "name": "part 8\u2014pension-linked emergency savings accounts",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part8/"
+          }
+        },
+        {
+          "name": "part 1\u2014joint pension, profit-sharing, and employee stock ownership plan task force",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part1/"
+          }
+        },
+        {
+          "name": "part 2\u2014other studies",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part2/"
+          }
+        },
+        {
+          "name": "part 1\u2014employer withdrawals",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part1/"
+          }
+        },
+        {
+          "name": "part 2\u2014merger or transfer of plan assets or liabilities",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part2/"
+          }
+        },
+        {
+          "name": "part 3\u2014insolvent plans",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part3/"
+          }
+        },
+        {
+          "name": "part 4\u2014financial assistance",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part4/"
+          }
+        },
+        {
+          "name": "part 5\u2014benefits after termination",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part5/"
+          }
+        },
+        {
+          "name": "part 6\u2014enforcement",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-part6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-part6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-part6/"
+          }
+        },
+        {
+          "name": "Part I\u2014Microenterprise Grants Program",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-partI/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart 1\u2014general provisions",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014independent living services",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014centers for independent living",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014youth incentive entitlement pilot projects",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014youth community conservation and improvement projects",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014youth employment and training programs",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014general provisions",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014state provisions",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014local provisions",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014board provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014performance accountability",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014workforce investment activities and providers",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014youth workforce investment activities",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014adult and dislocated worker employment and training activities",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014general workforce investment provisions",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-subpart4/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014LABOR STATISTICS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014WOMEN'S BUREAU",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 2A\u2014CHILDREN'S BUREAU",
+          "id": "2A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter2A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter2A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter2A/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014NATIONAL TRADE UNIONS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014VOCATIONAL REHABILITATION OF PERSONS INJURED IN INDUSTRY",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 4A\u2014EMPLOYMENT STABILIZATION",
+          "id": "4A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter4A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter4A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter4A/"
+          }
+        },
+        {
+          "name": "CHAPTER 4B\u2014FEDERAL EMPLOYMENT SERVICE",
+          "id": "4B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter4B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter4B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter4B/"
+          }
+        },
+        {
+          "name": "CHAPTER 4C\u2014APPRENTICE LABOR",
+          "id": "4C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter4C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter4C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter4C/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014LABOR DISPUTES; MEDIATION AND INJUNCTIVE RELIEF",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014JURISDICTION OF COURTS IN MATTERS AFFECTING EMPLOYER AND EMPLOYEE",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014LABOR-MANAGEMENT RELATIONS",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014FAIR LABOR STANDARDS",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014PORTAL-TO-PORTAL PAY",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014DISCLOSURE OF WELFARE AND PENSION PLANS",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014LABOR-MANAGEMENT REPORTING AND DISCLOSURE PROCEDURE",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014DEPARTMENT OF LABOR",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014EXEMPLARY REHABILITATION CERTIFICATES",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014AGE DISCRIMINATION IN EMPLOYMENT",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014OCCUPATIONAL SAFETY AND HEALTH",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014VOCATIONAL REHABILITATION AND OTHER REHABILITATION SERVICES",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014COMPREHENSIVE EMPLOYMENT AND TRAINING PROGRAMS",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014EMPLOYEE RETIREMENT INCOME SECURITY PROGRAM",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014JOB TRAINING PARTNERSHIP",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014MIGRANT AND SEASONAL AGRICULTURAL WORKER PROTECTION",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014HELEN KELLER NATIONAL CENTER FOR YOUTHS AND ADULTS WHO ARE DEAF-BLIND",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014EMPLOYEE POLYGRAPH PROTECTION",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014WORKER ADJUSTMENT AND RETRAINING NOTIFICATION",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014TECHNOLOGY RELATED ASSISTANCE FOR INDIVIDUALS WITH DISABILITIES",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014DISPLACED HOMEMAKERS SELF-SUFFICIENCY ASSISTANCE",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014NATIONAL CENTER FOR THE WORKPLACE",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014WOMEN IN APPRENTICESHIP AND NONTRADITIONAL OCCUPATIONS",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014FAMILY AND MEDICAL LEAVE",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014WORKERS TECHNOLOGY SKILL DEVELOPMENT",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014WORKFORCE INVESTMENT SYSTEMS",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014ASSISTIVE TECHNOLOGY FOR INDIVIDUALS WITH DISABILITIES",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014WORKFORCE INNOVATION AND OPPORTUNITY",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29-chapter32/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

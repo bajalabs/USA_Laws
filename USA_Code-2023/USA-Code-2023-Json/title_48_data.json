@@ -1,0 +1,257 @@
+{
+  "structure": {
+    "title_num": 48,
+    "title_name": "TITLE 48\u2014TERRITORIES AND INSULAR POSSESSIONS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 1 - 2101",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014Approval and Implementation of Original Compact",
+        "Part B\u2014Approval and Implementation of Compacts, As Amended",
+        "Part A\u2014Approval of Compact and Supplemental Provisions",
+        "Part B\u2014Implementation of Compact"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014BUREAU OF INSULAR AFFAIRS",
+        "CHAPTER 2\u2014ALASKA",
+        "CHAPTER 3\u2014HAWAII",
+        "CHAPTER 4\u2014PUERTO RICO",
+        "CHAPTER 5\u2014PHILIPPINE ISLANDS",
+        "CHAPTER 6\u2014CANAL ZONE",
+        "CHAPTER 7\u2014VIRGIN ISLANDS",
+        "CHAPTER 8\u2014GUANO ISLANDS",
+        "CHAPTER 8A\u2014GUAM",
+        "CHAPTER 9\u2014SAMOA, TUTUILA, MANUA, SWAINS ISLAND, AND TRUST TERRITORY OF THE PACIFIC ISLANDS",
+        "CHAPTER 10\u2014TERRITORIAL PROVISIONS OF A GENERAL NATURE",
+        "CHAPTER 11\u2014ALIEN OWNERS OF LAND",
+        "CHAPTER 12\u2014VIRGIN ISLANDS [1954]",
+        "CHAPTER 13\u2014EASTERN SAMOA",
+        "CHAPTER 14\u2014TRUST TERRITORY OF THE PACIFIC ISLANDS",
+        "CHAPTER 15\u2014CONVEYANCE OF SUBMERGED LANDS TO TERRITORIES",
+        "CHAPTER 16\u2014DELEGATES TO CONGRESS",
+        "CHAPTER 17\u2014NORTHERN MARIANA ISLANDS",
+        "CHAPTER 18\u2014MICRONESIA, MARSHALL ISLANDS, AND PALAU",
+        "CHAPTER 19\u2014PACIFIC POLICY REPORTS",
+        "CHAPTER 20\u2014PUERTO RICO OVERSIGHT, MANAGEMENT, AND ECONOMIC STABILITY"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48.htm"
+  },
+  "links": {
+    "title_num": 48,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title48/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title48/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48.zip"
+    },
+    "element_links": {
+      "parts": [],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014BUREAU OF INSULAR AFFAIRS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014ALASKA",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014HAWAII",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014PUERTO RICO",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014PHILIPPINE ISLANDS",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014CANAL ZONE",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014VIRGIN ISLANDS",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014GUANO ISLANDS",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 8A\u2014GUAM",
+          "id": "8A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter8A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter8A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter8A/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014SAMOA, TUTUILA, MANUA, SWAINS ISLAND, AND TRUST TERRITORY OF THE PACIFIC ISLANDS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014TERRITORIAL PROVISIONS OF A GENERAL NATURE",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014ALIEN OWNERS OF LAND",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014VIRGIN ISLANDS [1954]",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014EASTERN SAMOA",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014TRUST TERRITORY OF THE PACIFIC ISLANDS",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014CONVEYANCE OF SUBMERGED LANDS TO TERRITORIES",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014DELEGATES TO CONGRESS",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014NORTHERN MARIANA ISLANDS",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014MICRONESIA, MARSHALL ISLANDS, AND PALAU",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014PACIFIC POLICY REPORTS",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014PUERTO RICO OVERSIGHT, MANAGEMENT, AND ECONOMIC STABILITY",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48-chapter20/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

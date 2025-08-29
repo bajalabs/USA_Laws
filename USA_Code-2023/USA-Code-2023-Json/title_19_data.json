@@ -1,0 +1,988 @@
+{
+  "structure": {
+    "title_num": 19,
+    "title_name": "TITLE 19\u2014CUSTOMS DUTIES",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 1 - 4501",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "part 1\u2014definitions",
+        "part 2\u2014report, entry, and unlading of vessels and vehicles",
+        "part 3\u2014ascertainment, collection, and recovery of duties",
+        "part 4\u2014transportation in bond and warehousing of merchandise",
+        "part 5\u2014enforcement provisions",
+        "part 6\u2014general provisions",
+        "Part I\u2014Miscellaneous",
+        "Part II\u2014United States International Trade Commission",
+        "Part III\u2014Promotion of Foreign Trade",
+        "Part I\u2014Definitions and National Customs Automation Program",
+        "Part II\u2014Report, Entry, and Unlading of Vessels and Vehicles",
+        "Part III\u2014Ascertainment, Collection, and Recovery of Duties",
+        "Part IV\u2014Transportation in Bond and Warehousing of Merchandise",
+        "Part V\u2014Enforcement Provisions",
+        "Part VI\u2014Miscellaneous Provisions",
+        "Part I\u2014Imposition of Countervailing Duties",
+        "Part II\u2014Imposition of Antidumping Duties",
+        "Part III\u2014Reviews; Other Actions Regarding Agreements",
+        "Part IV\u2014General Provisions",
+        "Part I\u2014General Authority",
+        "Part II\u2014European Economic Community",
+        "Part III\u2014Requirements Concerning Negotiations",
+        "Part IV\u2014National Security",
+        "Part V\u2014Administrative Provisions",
+        "Part VI\u2014General Provisions",
+        "Part I\u2014Eligibility for Assistance",
+        "Part II\u2014Adjustment Assistance to Firms",
+        "Part III\u2014Adjustment Assistance to Workers",
+        "Part IV\u2014Tariff Adjustment",
+        "Part V\u2014Advisory Board",
+        "Part 1\u2014Rates of Duty and Other Trade Barriers",
+        "Part 2\u2014Other Authority",
+        "Part 3\u2014Hearings and Advice Concerning Negotiations",
+        "Part 4\u2014Office of the United States Trade Representative",
+        "Part 5\u2014Congressional Procedures With Respect to Presidential Actions",
+        "Part 6\u2014Congressional Liaison and Reports",
+        "Part 7\u2014United States International Trade Commission",
+        "Part 8\u2014Identification of Market Barriers and Certain Unfair Trade Actions",
+        "Part 1\u2014Positive Adjustment by Industries Injured by Imports",
+        "Part 2\u2014Adjustment Assistance for Workers",
+        "Part 3\u2014Adjustment Assistance for Firms",
+        "Part 4\u2014Trade Adjustment Assistance for Communities",
+        "Part 5\u2014Miscellaneous Provisions",
+        "Part 6\u2014Adjustment Assistance for Farmers",
+        "Part 1\u2014Trade Relations With Certain Countries",
+        "Part 2\u2014Relief From Market Disruption to Industries and Diversion of Trade to the United States Market",
+        "Part A\u2014Obligations of the United States",
+        "Part B\u2014Functions of Federal Agencies",
+        "Part C\u2014Administrative and Judicial Proceedings Regarding Standards-Related Activities",
+        "Part D\u2014Definitions and Miscellaneous Provisions",
+        "Part E\u2014Standards and Measures Under the North American Free Trade Agreement",
+        "Part F\u2014International Standard-Setting Activities",
+        "Part A\u2014Safeguards",
+        "Part B\u2014Agriculture",
+        "Part C\u2014Temporary Entry of Business Persons",
+        "Part D\u2014Standards",
+        "Part B\u2014General Provisions",
+        "Part A\u2014Provisions Relating to Performance Under Agreement",
+        "Part B\u2014Implementation of NAFTA Supplemental Agreements",
+        "Part A\u2014Approval of Agreements and Related Provisions",
+        "Part B\u2014Tariff Modifications",
+        "Part C\u2014Uruguay Round Implementation and Dispute Settlement",
+        "Part D\u2014Related Provisions",
+        "Part A\u2014Foreign Trade Barriers and Unfair Trade Practices",
+        "Part B\u2014Textiles",
+        "Part A\u2014Market Access",
+        "Part B\u2014Exports",
+        "Part C\u2014Other Provisions",
+        "Part A\u2014Relief From Imports Benefiting From the Agreement",
+        "Part B\u2014Textile and Apparel Safeguard Measures",
+        "Part C\u2014Cases Under Title II of the Trade Act of 1974",
+        "Part I\u2014Actions Relating to Enforcement of Trade Remedy Laws",
+        "Part II\u2014Other Matters",
+        "Part A\u2014Relief From Injury Caused by Import Competition",
+        "Part B\u2014Temporary Entry of Business Persons",
+        "Part C\u2014United States-Mexico Cross-Border Long-Haul Trucking Services",
+        "Part A\u2014Dispute Settlement",
+        "Part B\u2014General Provisions",
+        "Part A\u2014Joint Reviews Regarding Extension of USMCA",
+        "Part B\u2014Termination of USMCA",
+        "Part A\u2014Interagency Labor Committee for Monitoring and Enforcement",
+        "Part B\u2014Mexico Labor Attaches",
+        "Part C\u2014Independent Mexico Labor Expert Board",
+        "Part D\u2014Forced Labor",
+        "Part E\u2014Enforcement Under Rapid Response Labor Mechanism",
+        "Part A\u2014Interagency Environment Committee for Monitoring and Enforcement",
+        "Part B\u2014Other Matters"
+      ],
+      "subparts": [
+        "subpart a\u2014definitions",
+        "subpart b\u2014national customs automation program",
+        "subpart a\u2014review of amount of duty and agreements other than quantitative restriction agreements",
+        "subpart b\u2014consultations and determinations regarding quantitative restriction agreements",
+        "subpart a\u2014trade readjustment allowances",
+        "subpart b\u2014training",
+        "subpart c\u2014relocation allowances",
+        "subpart d\u2014general provisions",
+        "subpart a\u2014petitions and determinations",
+        "subpart b\u2014program benefits",
+        "subpart c\u2014general provisions",
+        "subpart d\u2014nafta transitional adjustment assistance program",
+        "subpart 1\u2014representations alleging united states violations of obligations",
+        "subpart 2\u2014other proceedings regarding certain standards-related activities",
+        "subpart 1\u2014sanitary and phytosanitary measures",
+        "subpart 2\u2014standards-related measures",
+        "subpart 3\u2014part definitions",
+        "subpart 1\u2014relief from imports benefiting from agreement",
+        "subpart 2\u2014relief from imports from all countries",
+        "subpart 3\u2014general provisions",
+        "subpart 1\u2014standards and measures",
+        "subpart 2\u2014agricultural standards"
+      ],
+      "chapters": [
+        "CHAPTER 1\u2014COLLECTION DISTRICTS, PORTS, AND OFFICERS",
+        "CHAPTER 1A\u2014FOREIGN TRADE ZONES",
+        "CHAPTER 2\u2014THE TARIFF COMMISSION",
+        "CHAPTER 3\u2014THE TARIFF AND RELATED PROVISIONS",
+        "CHAPTER 4\u2014TARIFF ACT OF 1930",
+        "CHAPTER 5\u2014SMUGGLING",
+        "CHAPTER 6\u2014TRADE FAIR PROGRAM",
+        "CHAPTER 7\u2014TRADE EXPANSION PROGRAM",
+        "CHAPTER 8\u2014AUTOMOTIVE PRODUCTS",
+        "CHAPTER 9\u2014VISUAL AND AUDITORY MATERIALS OF EDUCATIONAL, SCIENTIFIC, AND CULTURAL CHARACTER",
+        "CHAPTER 10\u2014CUSTOMS SERVICE",
+        "CHAPTER 11\u2014IMPORTATION OF PRE-COLUMBIAN MONUMENTAL OR ARCHITECTURAL SCULPTURE OR MURALS",
+        "CHAPTER 12\u2014TRADE ACT OF 1974",
+        "CHAPTER 13\u2014TRADE AGREEMENTS ACT OF 1979",
+        "CHAPTER 14\u2014CONVENTION ON CULTURAL PROPERTY",
+        "CHAPTER 15\u2014CARIBBEAN BASIN ECONOMIC RECOVERY",
+        "CHAPTER 16\u2014WINE TRADE",
+        "CHAPTER 17\u2014NEGOTIATION AND IMPLEMENTATION OF TRADE AGREEMENTS",
+        "CHAPTER 18\u2014IMPLEMENTATION OF HARMONIZED TARIFF SCHEDULE",
+        "CHAPTER 19\u2014TELECOMMUNICATIONS TRADE",
+        "CHAPTER 20\u2014ANDEAN TRADE PREFERENCE",
+        "CHAPTER 21\u2014NORTH AMERICAN FREE TRADE",
+        "Part A\u2014Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19 of Agreement",
+        "CHAPTER 22\u2014URUGUAY ROUND TRADE AGREEMENTS",
+        "CHAPTER 23\u2014EXTENSION OF CERTAIN TRADE BENEFITS TO SUB-SAHARAN AFRICA",
+        "CHAPTER 24\u2014BIPARTISAN TRADE PROMOTION AUTHORITY",
+        "CHAPTER 25\u2014CLEAN DIAMOND TRADE",
+        "CHAPTER 26\u2014DOMINICAN REPUBLIC-CENTRAL AMERICA FREE TRADE",
+        "CHAPTER 27\u2014BIPARTISAN CONGRESSIONAL TRADE PRIORITIES AND ACCOUNTABILITY",
+        "CHAPTER 28\u2014TRADE FACILITATION AND TRADE ENFORCEMENT",
+        "CHAPTER 29\u2014UNITED STATES\u2013MEXICO\u2013CANADA AGREEMENT IMPLEMENTATION"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19.htm"
+  },
+  "links": {
+    "title_num": 19,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title19/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title19/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "part 1\u2014definitions",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part1/"
+          }
+        },
+        {
+          "name": "part 2\u2014report, entry, and unlading of vessels and vehicles",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part2/"
+          }
+        },
+        {
+          "name": "part 3\u2014ascertainment, collection, and recovery of duties",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part3/"
+          }
+        },
+        {
+          "name": "part 4\u2014transportation in bond and warehousing of merchandise",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part4/"
+          }
+        },
+        {
+          "name": "part 5\u2014enforcement provisions",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part5/"
+          }
+        },
+        {
+          "name": "part 6\u2014general provisions",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part6/"
+          }
+        },
+        {
+          "name": "Part I\u2014Miscellaneous",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014United States International Trade Commission",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Promotion of Foreign Trade",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIII/"
+          }
+        },
+        {
+          "name": "Part I\u2014Definitions and National Customs Automation Program",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Report, Entry, and Unlading of Vessels and Vehicles",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Ascertainment, Collection, and Recovery of Duties",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Transportation in Bond and Warehousing of Merchandise",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014Enforcement Provisions",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partV/"
+          }
+        },
+        {
+          "name": "Part VI\u2014Miscellaneous Provisions",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partVI/"
+          }
+        },
+        {
+          "name": "Part I\u2014Imposition of Countervailing Duties",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Imposition of Antidumping Duties",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Reviews; Other Actions Regarding Agreements",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014General Provisions",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIV/"
+          }
+        },
+        {
+          "name": "Part I\u2014General Authority",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014European Economic Community",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Requirements Concerning Negotiations",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014National Security",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014Administrative Provisions",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partV/"
+          }
+        },
+        {
+          "name": "Part VI\u2014General Provisions",
+          "id": "VI",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partVI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partVI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partVI/"
+          }
+        },
+        {
+          "name": "Part I\u2014Eligibility for Assistance",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Adjustment Assistance to Firms",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partII/"
+          }
+        },
+        {
+          "name": "Part III\u2014Adjustment Assistance to Workers",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIII/"
+          }
+        },
+        {
+          "name": "Part IV\u2014Tariff Adjustment",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partIV/"
+          }
+        },
+        {
+          "name": "Part V\u2014Advisory Board",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partV/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Rates of Duty and Other Trade Barriers",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Other Authority",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Hearings and Advice Concerning Negotiations",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Office of the United States Trade Representative",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part4/"
+          }
+        },
+        {
+          "name": "Part 5\u2014Congressional Procedures With Respect to Presidential Actions",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part5/"
+          }
+        },
+        {
+          "name": "Part 6\u2014Congressional Liaison and Reports",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part6/"
+          }
+        },
+        {
+          "name": "Part 7\u2014United States International Trade Commission",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part7/"
+          }
+        },
+        {
+          "name": "Part 8\u2014Identification of Market Barriers and Certain Unfair Trade Actions",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part8/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Positive Adjustment by Industries Injured by Imports",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Adjustment Assistance for Workers",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part2/"
+          }
+        },
+        {
+          "name": "Part 3\u2014Adjustment Assistance for Firms",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part3/"
+          }
+        },
+        {
+          "name": "Part 4\u2014Trade Adjustment Assistance for Communities",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part4/"
+          }
+        },
+        {
+          "name": "Part 5\u2014Miscellaneous Provisions",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part5/"
+          }
+        },
+        {
+          "name": "Part 6\u2014Adjustment Assistance for Farmers",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part6/"
+          }
+        },
+        {
+          "name": "Part 1\u2014Trade Relations With Certain Countries",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part1/"
+          }
+        },
+        {
+          "name": "Part 2\u2014Relief From Market Disruption to Industries and Diversion of Trade to the United States Market",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-part2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-part2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-part2/"
+          }
+        },
+        {
+          "name": "Part I\u2014Actions Relating to Enforcement of Trade Remedy Laws",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partI/"
+          }
+        },
+        {
+          "name": "Part II\u2014Other Matters",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-partII/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart 1\u2014representations alleging united states violations of obligations",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014other proceedings regarding certain standards-related activities",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014sanitary and phytosanitary measures",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014standards-related measures",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014part definitions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014relief from imports benefiting from agreement",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014relief from imports from all countries",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014general provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014standards and measures",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014agricultural standards",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-subpart2/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014COLLECTION DISTRICTS, PORTS, AND OFFICERS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 1A\u2014FOREIGN TRADE ZONES",
+          "id": "1A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter1A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter1A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter1A/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014THE TARIFF COMMISSION",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014THE TARIFF AND RELATED PROVISIONS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014TARIFF ACT OF 1930",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014SMUGGLING",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014TRADE FAIR PROGRAM",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014TRADE EXPANSION PROGRAM",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014AUTOMOTIVE PRODUCTS",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014VISUAL AND AUDITORY MATERIALS OF EDUCATIONAL, SCIENTIFIC, AND CULTURAL CHARACTER",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014CUSTOMS SERVICE",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014IMPORTATION OF PRE-COLUMBIAN MONUMENTAL OR ARCHITECTURAL SCULPTURE OR MURALS",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014TRADE ACT OF 1974",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014TRADE AGREEMENTS ACT OF 1979",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014CONVENTION ON CULTURAL PROPERTY",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014CARIBBEAN BASIN ECONOMIC RECOVERY",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014WINE TRADE",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014NEGOTIATION AND IMPLEMENTATION OF TRADE AGREEMENTS",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014IMPLEMENTATION OF HARMONIZED TARIFF SCHEDULE",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014TELECOMMUNICATIONS TRADE",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014ANDEAN TRADE PREFERENCE",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014NORTH AMERICAN FREE TRADE",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter21/"
+          }
+        },
+        {
+          "name": "Part A\u2014Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19 of Agreement",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014URUGUAY ROUND TRADE AGREEMENTS",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014EXTENSION OF CERTAIN TRADE BENEFITS TO SUB-SAHARAN AFRICA",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014BIPARTISAN TRADE PROMOTION AUTHORITY",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014CLEAN DIAMOND TRADE",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014DOMINICAN REPUBLIC-CENTRAL AMERICA FREE TRADE",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014BIPARTISAN CONGRESSIONAL TRADE PRIORITIES AND ACCOUNTABILITY",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014TRADE FACILITATION AND TRADE ENFORCEMENT",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014UNITED STATES\u2013MEXICO\u2013CANADA AGREEMENT IMPLEMENTATION",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19-chapter29/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

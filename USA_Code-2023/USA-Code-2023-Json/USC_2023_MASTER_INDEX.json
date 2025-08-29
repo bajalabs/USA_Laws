@@ -1,0 +1,2335 @@
+{
+  "metadata": {
+    "extraction_date": "2024",
+    "source": "https://www.govinfo.gov/app/collection/uscode/2023",
+    "total_titles": 53,
+    "excluded_titles": [
+      53
+    ],
+    "extraction_method": "Automated using Python + BeautifulSoup + requests"
+  },
+  "titles": [
+    {
+      "title_num": 1,
+      "title_name": "TITLE 1\u2014GENERAL PROVISIONS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 1 - 201",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 3
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title1/html/USCODE-2023-title1.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title1/pdf/USCODE-2023-title1.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title1/html/USCODE-2023-title1.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title1/"
+      },
+      "report_generated": true,
+      "data_file": "title_1_data.json"
+    },
+    {
+      "title_num": 2,
+      "title_name": "TITLE 2\u2014THE CONGRESS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 6501",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 33,
+        "subparts": 0,
+        "chapters": 54
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2/"
+      },
+      "report_generated": true,
+      "data_file": "title_2_data.json"
+    },
+    {
+      "title_num": 3,
+      "title_name": "TITLE 3\u2014THE PRESIDENT",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 401",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 5,
+        "subparts": 0,
+        "chapters": 5
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3/"
+      },
+      "report_generated": true,
+      "data_file": "title_3_data.json"
+    },
+    {
+      "title_num": 4,
+      "title_name": "TITLE 4\u2014FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 1 - 141",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 5
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/html/USCODE-2023-title4.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/pdf/USCODE-2023-title4.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/html/USCODE-2023-title4.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title4/"
+      },
+      "report_generated": true,
+      "data_file": "title_4_data.json"
+    },
+    {
+      "title_num": 5,
+      "title_name": "TITLE 5\u2014GOVERNMENT ORGANIZATION AND EMPLOYEES",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 13101",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 14,
+        "subparts": 0,
+        "chapters": 63
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5/"
+      },
+      "report_generated": true,
+      "data_file": "title_5_data.json"
+    },
+    {
+      "title_num": 6,
+      "title_name": "TITLE 6\u2014DOMESTIC SECURITY",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 1500",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 53,
+        "subparts": 0,
+        "chapters": 6
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6/"
+      },
+      "report_generated": true,
+      "data_file": "title_6_data.json"
+    },
+    {
+      "title_num": 7,
+      "title_name": "TITLE 7\u2014AGRICULTURE",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 9201",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 42,
+        "subparts": 11,
+        "chapters": 130
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7/"
+      },
+      "report_generated": true,
+      "data_file": "title_7_data.json"
+    },
+    {
+      "title_num": 8,
+      "title_name": "TITLE 8\u2014ALIENS AND NATIONALITY",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 1701",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 13,
+        "subparts": 0,
+        "chapters": 15
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8/"
+      },
+      "report_generated": true,
+      "data_file": "title_8_data.json"
+    },
+    {
+      "title_num": 9,
+      "title_name": "TITLE 9\u2014ARBITRATION",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 1 - 401",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 4
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title9/html/USCODE-2023-title9.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title9/pdf/USCODE-2023-title9.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title9/html/USCODE-2023-title9.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title9/"
+      },
+      "report_generated": true,
+      "data_file": "title_9_data.json"
+    },
+    {
+      "title_num": 10,
+      "title_name": "TITLE 10\u2014ARMED FORCES",
+      "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 20261",
+      "hierarchy": {
+        "subtitles": 6,
+        "parts": 32,
+        "subparts": 0,
+        "chapters": 340
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/pdf/USCODE-2023-title10.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title10/"
+      },
+      "report_generated": true,
+      "data_file": "title_10_data.json"
+    },
+    {
+      "title_num": 11,
+      "title_name": "TITLE 11\u2014BANKRUPTCY",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 101 - 1501",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 9
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title11/html/USCODE-2023-title11.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title11/pdf/USCODE-2023-title11.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title11/html/USCODE-2023-title11.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title11/"
+      },
+      "report_generated": true,
+      "data_file": "title_11_data.json"
+    },
+    {
+      "title_num": 12,
+      "title_name": "TITLE 12\u2014BANKS AND BANKING",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 5801",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 47,
+        "subparts": 7,
+        "chapters": 62
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title12/html/USCODE-2023-title12.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title12/pdf/USCODE-2023-title12.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title12/html/USCODE-2023-title12.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title12/"
+      },
+      "report_generated": true,
+      "data_file": "title_12_data.json"
+    },
+    {
+      "title_num": 13,
+      "title_name": "TITLE 13\u2014CENSUS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 1 - 401",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 6
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13/"
+      },
+      "report_generated": true,
+      "data_file": "title_13_data.json"
+    },
+    {
+      "title_num": 14,
+      "title_name": "TITLE 14\u2014COAST GUARD",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 101 - 5101",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 17
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14/"
+      },
+      "report_generated": true,
+      "data_file": "title_14_data.json"
+    },
+    {
+      "title_num": 15,
+      "title_name": "TITLE 15\u2014COMMERCE AND TRADE",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 9801",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 28,
+        "subparts": 0,
+        "chapters": 152
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15/"
+      },
+      "report_generated": true,
+      "data_file": "title_15_data.json"
+    },
+    {
+      "title_num": 16,
+      "title_name": "TITLE 16\u2014CONSERVATION",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 8201",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 46,
+        "subparts": 13,
+        "chapters": 150
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16/"
+      },
+      "report_generated": true,
+      "data_file": "title_16_data.json"
+    },
+    {
+      "title_num": 17,
+      "title_name": "TITLE 17\u2014COPYRIGHTS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 101 - 1501",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 15
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17/"
+      },
+      "report_generated": true,
+      "data_file": "title_17_data.json"
+    },
+    {
+      "title_num": 18,
+      "title_name": "TITLE 18\u2014CRIMES AND CRIMINAL PROCEDURE",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 5031",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 5,
+        "subparts": 0,
+        "chapters": 141
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18/"
+      },
+      "report_generated": true,
+      "data_file": "title_18_data.json"
+    },
+    {
+      "title_num": 19,
+      "title_name": "TITLE 19\u2014CUSTOMS DUTIES",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 4501",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 87,
+        "subparts": 22,
+        "chapters": 31
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19/"
+      },
+      "report_generated": true,
+      "data_file": "title_19_data.json"
+    },
+    {
+      "title_num": 20,
+      "title_name": "TITLE 20\u2014EDUCATION",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 10001",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 273,
+        "subparts": 111,
+        "chapters": 86
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20/"
+      },
+      "report_generated": true,
+      "data_file": "title_20_data.json"
+    },
+    {
+      "title_num": 21,
+      "title_name": "TITLE 21\u2014FOOD AND DRUGS",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 2401",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 26,
+        "subparts": 10,
+        "chapters": 30
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21/"
+      },
+      "report_generated": true,
+      "data_file": "title_21_data.json"
+    },
+    {
+      "title_num": 22,
+      "title_name": "TITLE 22\u2014FOREIGN RELATIONS AND INTERCOURSE",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 10501",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 125,
+        "subparts": 27,
+        "chapters": 125
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22/"
+      },
+      "report_generated": true,
+      "data_file": "title_22_data.json"
+    },
+    {
+      "title_num": 23,
+      "title_name": "TITLE 23\u2014HIGHWAYS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 101 - 601",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 6
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23/"
+      },
+      "report_generated": true,
+      "data_file": "title_23_data.json"
+    },
+    {
+      "title_num": 24,
+      "title_name": "TITLE 24\u2014HOSPITALS AND ASYLUMS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 1 - 401",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 11
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24/"
+      },
+      "report_generated": true,
+      "data_file": "title_24_data.json"
+    },
+    {
+      "title_num": 25,
+      "title_name": "TITLE 25\u2014INDIANS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 5801",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 18,
+        "subparts": 0,
+        "chapters": 57
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title25/html/USCODE-2023-title25.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title25/pdf/USCODE-2023-title25.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title25/html/USCODE-2023-title25.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title25/"
+      },
+      "report_generated": true,
+      "data_file": "title_25_data.json"
+    },
+    {
+      "title_num": 26,
+      "title_name": "TITLE 26\u2014INTERNAL REVENUE CODE",
+      "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 9831",
+      "hierarchy": {
+        "subtitles": 11,
+        "parts": 184,
+        "subparts": 103,
+        "chapters": 72
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26/"
+      },
+      "report_generated": true,
+      "data_file": "title_26_data.json"
+    },
+    {
+      "title_num": 27,
+      "title_name": "TITLE 27\u2014INTOXICATING LIQUORS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 1 - 221",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 10
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27/"
+      },
+      "report_generated": true,
+      "data_file": "title_27_data.json"
+    },
+    {
+      "title_num": 28,
+      "title_name": "TITLE 28\u2014JUDICIARY AND JUDICIAL PROCEDURE",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 3301",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 6,
+        "subparts": 0,
+        "chapters": 79
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title28/html/USCODE-2023-title28.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title28/pdf/USCODE-2023-title28.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title28/html/USCODE-2023-title28.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title28/"
+      },
+      "report_generated": true,
+      "data_file": "title_28_data.json"
+    },
+    {
+      "title_num": 29,
+      "title_name": "TITLE 29\u2014LABOR",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 3101",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 76,
+        "subparts": 18,
+        "chapters": 36
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29/"
+      },
+      "report_generated": true,
+      "data_file": "title_29_data.json"
+    },
+    {
+      "title_num": 30,
+      "title_name": "TITLE 30\u2014MINERAL LANDS AND MINING",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 2001",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 3,
+        "subparts": 0,
+        "chapters": 34
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30/"
+      },
+      "report_generated": true,
+      "data_file": "title_30_data.json"
+    },
+    {
+      "title_num": 31,
+      "title_name": "TITLE 31\u2014MONEY AND FINANCE",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 9701",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 2,
+        "subparts": 0,
+        "chapters": 31
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31/"
+      },
+      "report_generated": true,
+      "data_file": "title_31_data.json"
+    },
+    {
+      "title_num": 32,
+      "title_name": "TITLE 32\u2014NATIONAL GUARD",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 101 - 901",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 5
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32/"
+      },
+      "report_generated": true,
+      "data_file": "title_32_data.json"
+    },
+    {
+      "title_num": 33,
+      "title_name": "TITLE 33\u2014NAVIGATION AND NAVIGABLE WATERS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 4201",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 3,
+        "subparts": 0,
+        "chapters": 57
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title33/html/USCODE-2023-title33.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title33/pdf/USCODE-2023-title33.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title33/html/USCODE-2023-title33.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title33/"
+      },
+      "report_generated": true,
+      "data_file": "title_33_data.json"
+    },
+    {
+      "title_num": 34,
+      "title_name": "TITLE 34\u2014CRIME CONTROL AND LAW ENFORCEMENT",
+      "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 10101 - 60901",
+      "hierarchy": {
+        "subtitles": 6,
+        "parts": 54,
+        "subparts": 20,
+        "chapters": 34
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34/"
+      },
+      "report_generated": true,
+      "data_file": "title_34_data.json"
+    },
+    {
+      "title_num": 35,
+      "title_name": "TITLE 35\u2014PATENTS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 381",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 5,
+        "subparts": 0,
+        "chapters": 25
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title35/html/USCODE-2023-title35.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title35/pdf/USCODE-2023-title35.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title35/html/USCODE-2023-title35.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title35/"
+      },
+      "report_generated": true,
+      "data_file": "title_35_data.json"
+    },
+    {
+      "title_num": 36,
+      "title_name": "TITLE 36\u2014PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND\u00a0ORGANIZATIONS",
+      "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 300101",
+      "hierarchy": {
+        "subtitles": 3,
+        "parts": 4,
+        "subparts": 0,
+        "chapters": 132
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36/"
+      },
+      "report_generated": true,
+      "data_file": "title_36_data.json"
+    },
+    {
+      "title_num": 37,
+      "title_name": "TITLE 37\u2014PAY AND ALLOWANCES OF THE UNIFORMED SERVICES",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 101 - 1001",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 12
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title37/html/USCODE-2023-title37.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title37/pdf/USCODE-2023-title37.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title37/html/USCODE-2023-title37.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title37/"
+      },
+      "report_generated": true,
+      "data_file": "title_37_data.json"
+    },
+    {
+      "title_num": 38,
+      "title_name": "TITLE 38\u2014VETERANS' BENEFITS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 8501",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 6,
+        "subparts": 0,
+        "chapters": 47
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38/"
+      },
+      "report_generated": true,
+      "data_file": "title_38_data.json"
+    },
+    {
+      "title_num": 39,
+      "title_name": "TITLE 39\u2014POSTAL SERVICE",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 5601",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 5,
+        "subparts": 0,
+        "chapters": 22
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39/"
+      },
+      "report_generated": true,
+      "data_file": "title_39_data.json"
+    },
+    {
+      "title_num": 40,
+      "title_name": "TITLE 40\u2014PUBLIC BUILDINGS, PROPERTY, AND WORKS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 18301",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 4,
+        "subparts": 0,
+        "chapters": 44
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title40/html/USCODE-2023-title40.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title40/pdf/USCODE-2023-title40.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title40/html/USCODE-2023-title40.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title40/"
+      },
+      "report_generated": true,
+      "data_file": "title_40_data.json"
+    },
+    {
+      "title_num": 41,
+      "title_name": "TITLE 41\u2014PUBLIC CONTRACTS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 101 - 8701",
+      "hierarchy": {
+        "subtitles": 4,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 27
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title41/html/USCODE-2023-title41.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title41/pdf/USCODE-2023-title41.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title41/html/USCODE-2023-title41.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title41/"
+      },
+      "report_generated": true,
+      "data_file": "title_41_data.json"
+    },
+    {
+      "title_num": 42,
+      "title_name": "TITLE 42\u2014THE PUBLIC HEALTH AND WELFARE",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 19401",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 583,
+        "subparts": 163,
+        "chapters": 195
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/pdf/USCODE-2023-title42.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title42/"
+      },
+      "report_generated": true,
+      "data_file": "title_42_data.json"
+    },
+    {
+      "title_num": 43,
+      "title_name": "TITLE 43\u2014PUBLIC LANDS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 1 - 3201",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 59
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title43/html/USCODE-2023-title43.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title43/pdf/USCODE-2023-title43.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title43/html/USCODE-2023-title43.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title43/"
+      },
+      "report_generated": true,
+      "data_file": "title_43_data.json"
+    },
+    {
+      "title_num": 44,
+      "title_name": "TITLE 44\u2014PUBLIC PRINTING AND DOCUMENTS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 4101",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 4,
+        "subparts": 0,
+        "chapters": 23
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/html/USCODE-2023-title44.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/pdf/USCODE-2023-title44.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/html/USCODE-2023-title44.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title44/"
+      },
+      "report_generated": true,
+      "data_file": "title_44_data.json"
+    },
+    {
+      "title_num": 45,
+      "title_name": "TITLE 45\u2014RAILROADS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 1301",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 3,
+        "subparts": 0,
+        "chapters": 22
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title45/html/USCODE-2023-title45.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title45/pdf/USCODE-2023-title45.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title45/html/USCODE-2023-title45.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title45/"
+      },
+      "report_generated": true,
+      "data_file": "title_45_data.json"
+    },
+    {
+      "title_num": 46,
+      "title_name": "TITLE 46\u2014SHIPPING",
+      "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+      "section_range": "Sections 101 - 80501",
+      "hierarchy": {
+        "subtitles": 8,
+        "parts": 22,
+        "subparts": 0,
+        "chapters": 108
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46/"
+      },
+      "report_generated": true,
+      "data_file": "title_46_data.json"
+    },
+    {
+      "title_num": 47,
+      "title_name": "TITLE 47\u2014TELECOMMUNICATIONS",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 1 - 1701",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 17,
+        "subparts": 5,
+        "chapters": 16
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47/"
+      },
+      "report_generated": true,
+      "data_file": "title_47_data.json"
+    },
+    {
+      "title_num": 48,
+      "title_name": "TITLE 48\u2014TERRITORIES AND INSULAR POSSESSIONS",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 2101",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 4,
+        "subparts": 0,
+        "chapters": 21
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48/"
+      },
+      "report_generated": true,
+      "data_file": "title_48_data.json"
+    },
+    {
+      "title_num": 49,
+      "title_name": "TITLE 49\u2014TRANSPORTATION",
+      "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 101 - 80501",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 17,
+        "subparts": 4,
+        "chapters": 114
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title49/html/USCODE-2023-title49.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title49/pdf/USCODE-2023-title49.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title49/html/USCODE-2023-title49.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title49/"
+      },
+      "report_generated": true,
+      "data_file": "title_49_data.json"
+    },
+    {
+      "title_num": 50,
+      "title_name": "TITLE 50\u2014WAR AND NATIONAL DEFENSE",
+      "structure_type": "Type 2: Parts \u2192 Chapters",
+      "section_range": "Sections 1 - 4801",
+      "hierarchy": {
+        "subtitles": 0,
+        "parts": 36,
+        "subparts": 0,
+        "chapters": 62
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/pdf/USCODE-2023-title50.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title50/"
+      },
+      "report_generated": true,
+      "data_file": "title_50_data.json"
+    },
+    {
+      "title_num": 51,
+      "title_name": "TITLE 51\u2014NATIONAL AND COMMERCIAL SPACE PROGRAMS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 10101 - 71301",
+      "hierarchy": {
+        "subtitles": 7,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 35
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51/"
+      },
+      "report_generated": true,
+      "data_file": "title_51_data.json"
+    },
+    {
+      "title_num": 52,
+      "title_name": "TITLE 52\u2014VOTING AND ELECTIONS",
+      "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+      "section_range": "Sections 10101 - 30101",
+      "hierarchy": {
+        "subtitles": 3,
+        "parts": 6,
+        "subparts": 9,
+        "chapters": 10
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52/"
+      },
+      "report_generated": true,
+      "data_file": "title_52_data.json"
+    },
+    {
+      "title_num": 54,
+      "title_name": "TITLE 54\u2014NATIONAL PARK SERVICE AND RELATED PROGRAMS",
+      "structure_type": "Type 1: Chapters Only",
+      "section_range": "Sections 100101 - 320301",
+      "hierarchy": {
+        "subtitles": 3,
+        "parts": 0,
+        "subparts": 0,
+        "chapters": 56
+      },
+      "download_links": {
+        "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm",
+        "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54.pdf",
+        "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm",
+        "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54/"
+      },
+      "report_generated": true,
+      "data_file": "title_54_data.json"
+    }
+  ],
+  "statistics": {
+    "total_titles_processed": 53,
+    "structure_type_distribution": {
+      "Type 1: Chapters Only": 16,
+      "Type 2: Parts \u2192 Chapters": 20,
+      "Type 5: Parts \u2192 Subparts \u2192 Chapters": 11,
+      "Type 3: Subtitles \u2192 Parts \u2192 Chapters": 3,
+      "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters": 3
+    },
+    "total_hierarchical_elements": {
+      "subtitles": 51,
+      "parts": 1891,
+      "subparts": 523,
+      "chapters": 2911
+    },
+    "largest_titles_by_chapters": [
+      [
+        10,
+        "TITLE 10\u2014ARMED FORCES",
+        340
+      ],
+      [
+        42,
+        "TITLE 42\u2014THE PUBLIC HEALTH AND WELFARE",
+        195
+      ],
+      [
+        15,
+        "TITLE 15\u2014COMMERCE AND TRADE",
+        152
+      ],
+      [
+        16,
+        "TITLE 16\u2014CONSERVATION",
+        150
+      ],
+      [
+        18,
+        "TITLE 18\u2014CRIMES AND CRIMINAL PROCEDURE",
+        141
+      ],
+      [
+        36,
+        "TITLE 36\u2014PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND\u00a0ORGANIZATIONS",
+        132
+      ],
+      [
+        7,
+        "TITLE 7\u2014AGRICULTURE",
+        130
+      ],
+      [
+        22,
+        "TITLE 22\u2014FOREIGN RELATIONS AND INTERCOURSE",
+        125
+      ],
+      [
+        49,
+        "TITLE 49\u2014TRANSPORTATION",
+        114
+      ],
+      [
+        46,
+        "TITLE 46\u2014SHIPPING",
+        108
+      ]
+    ],
+    "most_complex_titles": [
+      {
+        "title_num": 10,
+        "title_name": "TITLE 10\u2014ARMED FORCES",
+        "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 20261",
+        "hierarchy": {
+          "subtitles": 6,
+          "parts": 32,
+          "subparts": 0,
+          "chapters": 340
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/pdf/USCODE-2023-title10.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title10/"
+        },
+        "report_generated": true,
+        "data_file": "title_10_data.json"
+      },
+      {
+        "title_num": 26,
+        "title_name": "TITLE 26\u2014INTERNAL REVENUE CODE",
+        "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 9831",
+        "hierarchy": {
+          "subtitles": 11,
+          "parts": 184,
+          "subparts": 103,
+          "chapters": 72
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26/"
+        },
+        "report_generated": true,
+        "data_file": "title_26_data.json"
+      },
+      {
+        "title_num": 34,
+        "title_name": "TITLE 34\u2014CRIME CONTROL AND LAW ENFORCEMENT",
+        "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 10101 - 60901",
+        "hierarchy": {
+          "subtitles": 6,
+          "parts": 54,
+          "subparts": 20,
+          "chapters": 34
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34/"
+        },
+        "report_generated": true,
+        "data_file": "title_34_data.json"
+      },
+      {
+        "title_num": 36,
+        "title_name": "TITLE 36\u2014PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND\u00a0ORGANIZATIONS",
+        "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 300101",
+        "hierarchy": {
+          "subtitles": 3,
+          "parts": 4,
+          "subparts": 0,
+          "chapters": 132
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36/"
+        },
+        "report_generated": true,
+        "data_file": "title_36_data.json"
+      },
+      {
+        "title_num": 46,
+        "title_name": "TITLE 46\u2014SHIPPING",
+        "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 80501",
+        "hierarchy": {
+          "subtitles": 8,
+          "parts": 22,
+          "subparts": 0,
+          "chapters": 108
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46/"
+        },
+        "report_generated": true,
+        "data_file": "title_46_data.json"
+      },
+      {
+        "title_num": 52,
+        "title_name": "TITLE 52\u2014VOTING AND ELECTIONS",
+        "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 10101 - 30101",
+        "hierarchy": {
+          "subtitles": 3,
+          "parts": 6,
+          "subparts": 9,
+          "chapters": 10
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52/"
+        },
+        "report_generated": true,
+        "data_file": "title_52_data.json"
+      }
+    ]
+  },
+  "structure_analysis": {
+    "type_1_chapters_only": [
+      {
+        "title_num": 1,
+        "title_name": "TITLE 1\u2014GENERAL PROVISIONS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 1 - 201",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 3
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title1/html/USCODE-2023-title1.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title1/pdf/USCODE-2023-title1.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title1/html/USCODE-2023-title1.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title1/"
+        },
+        "report_generated": true,
+        "data_file": "title_1_data.json"
+      },
+      {
+        "title_num": 4,
+        "title_name": "TITLE 4\u2014FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 1 - 141",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 5
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/html/USCODE-2023-title4.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/pdf/USCODE-2023-title4.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/html/USCODE-2023-title4.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title4/"
+        },
+        "report_generated": true,
+        "data_file": "title_4_data.json"
+      },
+      {
+        "title_num": 9,
+        "title_name": "TITLE 9\u2014ARBITRATION",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 1 - 401",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 4
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title9/html/USCODE-2023-title9.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title9/pdf/USCODE-2023-title9.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title9/html/USCODE-2023-title9.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title9/"
+        },
+        "report_generated": true,
+        "data_file": "title_9_data.json"
+      },
+      {
+        "title_num": 11,
+        "title_name": "TITLE 11\u2014BANKRUPTCY",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 101 - 1501",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 9
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title11/html/USCODE-2023-title11.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title11/pdf/USCODE-2023-title11.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title11/html/USCODE-2023-title11.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title11/"
+        },
+        "report_generated": true,
+        "data_file": "title_11_data.json"
+      },
+      {
+        "title_num": 13,
+        "title_name": "TITLE 13\u2014CENSUS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 1 - 401",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 6
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/pdf/USCODE-2023-title13.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title13/html/USCODE-2023-title13.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title13/"
+        },
+        "report_generated": true,
+        "data_file": "title_13_data.json"
+      },
+      {
+        "title_num": 14,
+        "title_name": "TITLE 14\u2014COAST GUARD",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 101 - 5101",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 17
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title14/"
+        },
+        "report_generated": true,
+        "data_file": "title_14_data.json"
+      },
+      {
+        "title_num": 17,
+        "title_name": "TITLE 17\u2014COPYRIGHTS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 101 - 1501",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 15
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17/"
+        },
+        "report_generated": true,
+        "data_file": "title_17_data.json"
+      },
+      {
+        "title_num": 23,
+        "title_name": "TITLE 23\u2014HIGHWAYS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 101 - 601",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 6
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23/"
+        },
+        "report_generated": true,
+        "data_file": "title_23_data.json"
+      },
+      {
+        "title_num": 24,
+        "title_name": "TITLE 24\u2014HOSPITALS AND ASYLUMS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 1 - 401",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 11
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24/"
+        },
+        "report_generated": true,
+        "data_file": "title_24_data.json"
+      },
+      {
+        "title_num": 27,
+        "title_name": "TITLE 27\u2014INTOXICATING LIQUORS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 1 - 221",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 10
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/pdf/USCODE-2023-title27.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title27/html/USCODE-2023-title27.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title27/"
+        },
+        "report_generated": true,
+        "data_file": "title_27_data.json"
+      },
+      {
+        "title_num": 32,
+        "title_name": "TITLE 32\u2014NATIONAL GUARD",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 101 - 901",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 5
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32/"
+        },
+        "report_generated": true,
+        "data_file": "title_32_data.json"
+      },
+      {
+        "title_num": 37,
+        "title_name": "TITLE 37\u2014PAY AND ALLOWANCES OF THE UNIFORMED SERVICES",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 101 - 1001",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 12
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title37/html/USCODE-2023-title37.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title37/pdf/USCODE-2023-title37.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title37/html/USCODE-2023-title37.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title37/"
+        },
+        "report_generated": true,
+        "data_file": "title_37_data.json"
+      },
+      {
+        "title_num": 41,
+        "title_name": "TITLE 41\u2014PUBLIC CONTRACTS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 101 - 8701",
+        "hierarchy": {
+          "subtitles": 4,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 27
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title41/html/USCODE-2023-title41.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title41/pdf/USCODE-2023-title41.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title41/html/USCODE-2023-title41.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title41/"
+        },
+        "report_generated": true,
+        "data_file": "title_41_data.json"
+      },
+      {
+        "title_num": 43,
+        "title_name": "TITLE 43\u2014PUBLIC LANDS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 1 - 3201",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 59
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title43/html/USCODE-2023-title43.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title43/pdf/USCODE-2023-title43.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title43/html/USCODE-2023-title43.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title43/"
+        },
+        "report_generated": true,
+        "data_file": "title_43_data.json"
+      },
+      {
+        "title_num": 51,
+        "title_name": "TITLE 51\u2014NATIONAL AND COMMERCIAL SPACE PROGRAMS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 10101 - 71301",
+        "hierarchy": {
+          "subtitles": 7,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 35
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title51/"
+        },
+        "report_generated": true,
+        "data_file": "title_51_data.json"
+      },
+      {
+        "title_num": 54,
+        "title_name": "TITLE 54\u2014NATIONAL PARK SERVICE AND RELATED PROGRAMS",
+        "structure_type": "Type 1: Chapters Only",
+        "section_range": "Sections 100101 - 320301",
+        "hierarchy": {
+          "subtitles": 3,
+          "parts": 0,
+          "subparts": 0,
+          "chapters": 56
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/pdf/USCODE-2023-title54.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title54/html/USCODE-2023-title54.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title54/"
+        },
+        "report_generated": true,
+        "data_file": "title_54_data.json"
+      }
+    ],
+    "type_2_parts_chapters": [
+      {
+        "title_num": 2,
+        "title_name": "TITLE 2\u2014THE CONGRESS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 6501",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 33,
+          "subparts": 0,
+          "chapters": 54
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2/"
+        },
+        "report_generated": true,
+        "data_file": "title_2_data.json"
+      },
+      {
+        "title_num": 3,
+        "title_name": "TITLE 3\u2014THE PRESIDENT",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 401",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 5,
+          "subparts": 0,
+          "chapters": 5
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/pdf/USCODE-2023-title3.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title3/html/USCODE-2023-title3.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title3/"
+        },
+        "report_generated": true,
+        "data_file": "title_3_data.json"
+      },
+      {
+        "title_num": 5,
+        "title_name": "TITLE 5\u2014GOVERNMENT ORGANIZATION AND EMPLOYEES",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 13101",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 14,
+          "subparts": 0,
+          "chapters": 63
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/pdf/USCODE-2023-title5.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title5/html/USCODE-2023-title5.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title5/"
+        },
+        "report_generated": true,
+        "data_file": "title_5_data.json"
+      },
+      {
+        "title_num": 6,
+        "title_name": "TITLE 6\u2014DOMESTIC SECURITY",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 1500",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 53,
+          "subparts": 0,
+          "chapters": 6
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/pdf/USCODE-2023-title6.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title6/html/USCODE-2023-title6.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title6/"
+        },
+        "report_generated": true,
+        "data_file": "title_6_data.json"
+      },
+      {
+        "title_num": 8,
+        "title_name": "TITLE 8\u2014ALIENS AND NATIONALITY",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 1701",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 13,
+          "subparts": 0,
+          "chapters": 15
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/pdf/USCODE-2023-title8.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title8/"
+        },
+        "report_generated": true,
+        "data_file": "title_8_data.json"
+      },
+      {
+        "title_num": 15,
+        "title_name": "TITLE 15\u2014COMMERCE AND TRADE",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 9801",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 28,
+          "subparts": 0,
+          "chapters": 152
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/pdf/USCODE-2023-title15.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title15/"
+        },
+        "report_generated": true,
+        "data_file": "title_15_data.json"
+      },
+      {
+        "title_num": 18,
+        "title_name": "TITLE 18\u2014CRIMES AND CRIMINAL PROCEDURE",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 5031",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 5,
+          "subparts": 0,
+          "chapters": 141
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18/"
+        },
+        "report_generated": true,
+        "data_file": "title_18_data.json"
+      },
+      {
+        "title_num": 25,
+        "title_name": "TITLE 25\u2014INDIANS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 5801",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 18,
+          "subparts": 0,
+          "chapters": 57
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title25/html/USCODE-2023-title25.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title25/pdf/USCODE-2023-title25.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title25/html/USCODE-2023-title25.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title25/"
+        },
+        "report_generated": true,
+        "data_file": "title_25_data.json"
+      },
+      {
+        "title_num": 28,
+        "title_name": "TITLE 28\u2014JUDICIARY AND JUDICIAL PROCEDURE",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 3301",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 6,
+          "subparts": 0,
+          "chapters": 79
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title28/html/USCODE-2023-title28.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title28/pdf/USCODE-2023-title28.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title28/html/USCODE-2023-title28.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title28/"
+        },
+        "report_generated": true,
+        "data_file": "title_28_data.json"
+      },
+      {
+        "title_num": 30,
+        "title_name": "TITLE 30\u2014MINERAL LANDS AND MINING",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 2001",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 3,
+          "subparts": 0,
+          "chapters": 34
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30/"
+        },
+        "report_generated": true,
+        "data_file": "title_30_data.json"
+      },
+      {
+        "title_num": 31,
+        "title_name": "TITLE 31\u2014MONEY AND FINANCE",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 9701",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 2,
+          "subparts": 0,
+          "chapters": 31
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/pdf/USCODE-2023-title31.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title31/html/USCODE-2023-title31.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title31/"
+        },
+        "report_generated": true,
+        "data_file": "title_31_data.json"
+      },
+      {
+        "title_num": 33,
+        "title_name": "TITLE 33\u2014NAVIGATION AND NAVIGABLE WATERS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 4201",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 3,
+          "subparts": 0,
+          "chapters": 57
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title33/html/USCODE-2023-title33.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title33/pdf/USCODE-2023-title33.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title33/html/USCODE-2023-title33.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title33/"
+        },
+        "report_generated": true,
+        "data_file": "title_33_data.json"
+      },
+      {
+        "title_num": 35,
+        "title_name": "TITLE 35\u2014PATENTS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 381",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 5,
+          "subparts": 0,
+          "chapters": 25
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title35/html/USCODE-2023-title35.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title35/pdf/USCODE-2023-title35.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title35/html/USCODE-2023-title35.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title35/"
+        },
+        "report_generated": true,
+        "data_file": "title_35_data.json"
+      },
+      {
+        "title_num": 38,
+        "title_name": "TITLE 38\u2014VETERANS' BENEFITS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 8501",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 6,
+          "subparts": 0,
+          "chapters": 47
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/pdf/USCODE-2023-title38.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title38/html/USCODE-2023-title38.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title38/"
+        },
+        "report_generated": true,
+        "data_file": "title_38_data.json"
+      },
+      {
+        "title_num": 39,
+        "title_name": "TITLE 39\u2014POSTAL SERVICE",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 5601",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 5,
+          "subparts": 0,
+          "chapters": 22
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/pdf/USCODE-2023-title39.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title39/html/USCODE-2023-title39.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title39/"
+        },
+        "report_generated": true,
+        "data_file": "title_39_data.json"
+      },
+      {
+        "title_num": 40,
+        "title_name": "TITLE 40\u2014PUBLIC BUILDINGS, PROPERTY, AND WORKS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 18301",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 4,
+          "subparts": 0,
+          "chapters": 44
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title40/html/USCODE-2023-title40.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title40/pdf/USCODE-2023-title40.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title40/html/USCODE-2023-title40.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title40/"
+        },
+        "report_generated": true,
+        "data_file": "title_40_data.json"
+      },
+      {
+        "title_num": 44,
+        "title_name": "TITLE 44\u2014PUBLIC PRINTING AND DOCUMENTS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 4101",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 4,
+          "subparts": 0,
+          "chapters": 23
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/html/USCODE-2023-title44.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/pdf/USCODE-2023-title44.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title44/html/USCODE-2023-title44.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title44/"
+        },
+        "report_generated": true,
+        "data_file": "title_44_data.json"
+      },
+      {
+        "title_num": 45,
+        "title_name": "TITLE 45\u2014RAILROADS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 1301",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 3,
+          "subparts": 0,
+          "chapters": 22
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title45/html/USCODE-2023-title45.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title45/pdf/USCODE-2023-title45.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title45/html/USCODE-2023-title45.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title45/"
+        },
+        "report_generated": true,
+        "data_file": "title_45_data.json"
+      },
+      {
+        "title_num": 48,
+        "title_name": "TITLE 48\u2014TERRITORIES AND INSULAR POSSESSIONS",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 2101",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 4,
+          "subparts": 0,
+          "chapters": 21
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/pdf/USCODE-2023-title48.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title48/html/USCODE-2023-title48.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title48/"
+        },
+        "report_generated": true,
+        "data_file": "title_48_data.json"
+      },
+      {
+        "title_num": 50,
+        "title_name": "TITLE 50\u2014WAR AND NATIONAL DEFENSE",
+        "structure_type": "Type 2: Parts \u2192 Chapters",
+        "section_range": "Sections 1 - 4801",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 36,
+          "subparts": 0,
+          "chapters": 62
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/pdf/USCODE-2023-title50.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title50/"
+        },
+        "report_generated": true,
+        "data_file": "title_50_data.json"
+      }
+    ],
+    "type_3_subtitles_parts_chapters": [
+      {
+        "title_num": 10,
+        "title_name": "TITLE 10\u2014ARMED FORCES",
+        "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 20261",
+        "hierarchy": {
+          "subtitles": 6,
+          "parts": 32,
+          "subparts": 0,
+          "chapters": 340
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/pdf/USCODE-2023-title10.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title10/"
+        },
+        "report_generated": true,
+        "data_file": "title_10_data.json"
+      },
+      {
+        "title_num": 36,
+        "title_name": "TITLE 36\u2014PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND\u00a0ORGANIZATIONS",
+        "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 300101",
+        "hierarchy": {
+          "subtitles": 3,
+          "parts": 4,
+          "subparts": 0,
+          "chapters": 132
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/pdf/USCODE-2023-title36.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title36/html/USCODE-2023-title36.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title36/"
+        },
+        "report_generated": true,
+        "data_file": "title_36_data.json"
+      },
+      {
+        "title_num": 46,
+        "title_name": "TITLE 46\u2014SHIPPING",
+        "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+        "section_range": "Sections 101 - 80501",
+        "hierarchy": {
+          "subtitles": 8,
+          "parts": 22,
+          "subparts": 0,
+          "chapters": 108
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/pdf/USCODE-2023-title46.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title46/html/USCODE-2023-title46.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title46/"
+        },
+        "report_generated": true,
+        "data_file": "title_46_data.json"
+      }
+    ],
+    "type_4_full_hierarchy": [
+      {
+        "title_num": 26,
+        "title_name": "TITLE 26\u2014INTERNAL REVENUE CODE",
+        "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 9831",
+        "hierarchy": {
+          "subtitles": 11,
+          "parts": 184,
+          "subparts": 103,
+          "chapters": 72
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title26/"
+        },
+        "report_generated": true,
+        "data_file": "title_26_data.json"
+      },
+      {
+        "title_num": 34,
+        "title_name": "TITLE 34\u2014CRIME CONTROL AND LAW ENFORCEMENT",
+        "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 10101 - 60901",
+        "hierarchy": {
+          "subtitles": 6,
+          "parts": 54,
+          "subparts": 20,
+          "chapters": 34
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34/"
+        },
+        "report_generated": true,
+        "data_file": "title_34_data.json"
+      },
+      {
+        "title_num": 52,
+        "title_name": "TITLE 52\u2014VOTING AND ELECTIONS",
+        "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 10101 - 30101",
+        "hierarchy": {
+          "subtitles": 3,
+          "parts": 6,
+          "subparts": 9,
+          "chapters": 10
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52/"
+        },
+        "report_generated": true,
+        "data_file": "title_52_data.json"
+      }
+    ],
+    "type_5_parts_subparts_chapters": [
+      {
+        "title_num": 7,
+        "title_name": "TITLE 7\u2014AGRICULTURE",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 9201",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 42,
+          "subparts": 11,
+          "chapters": 130
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/pdf/USCODE-2023-title7.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title7/html/USCODE-2023-title7.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title7/"
+        },
+        "report_generated": true,
+        "data_file": "title_7_data.json"
+      },
+      {
+        "title_num": 12,
+        "title_name": "TITLE 12\u2014BANKS AND BANKING",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 5801",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 47,
+          "subparts": 7,
+          "chapters": 62
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title12/html/USCODE-2023-title12.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title12/pdf/USCODE-2023-title12.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title12/html/USCODE-2023-title12.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title12/"
+        },
+        "report_generated": true,
+        "data_file": "title_12_data.json"
+      },
+      {
+        "title_num": 16,
+        "title_name": "TITLE 16\u2014CONSERVATION",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 8201",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 46,
+          "subparts": 13,
+          "chapters": 150
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/pdf/USCODE-2023-title16.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title16/html/USCODE-2023-title16.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title16/"
+        },
+        "report_generated": true,
+        "data_file": "title_16_data.json"
+      },
+      {
+        "title_num": 19,
+        "title_name": "TITLE 19\u2014CUSTOMS DUTIES",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 4501",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 87,
+          "subparts": 22,
+          "chapters": 31
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/pdf/USCODE-2023-title19.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title19/html/USCODE-2023-title19.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title19/"
+        },
+        "report_generated": true,
+        "data_file": "title_19_data.json"
+      },
+      {
+        "title_num": 20,
+        "title_name": "TITLE 20\u2014EDUCATION",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 10001",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 273,
+          "subparts": 111,
+          "chapters": 86
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/pdf/USCODE-2023-title20.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title20/html/USCODE-2023-title20.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title20/"
+        },
+        "report_generated": true,
+        "data_file": "title_20_data.json"
+      },
+      {
+        "title_num": 21,
+        "title_name": "TITLE 21\u2014FOOD AND DRUGS",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 2401",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 26,
+          "subparts": 10,
+          "chapters": 30
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/pdf/USCODE-2023-title21.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title21/html/USCODE-2023-title21.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title21/"
+        },
+        "report_generated": true,
+        "data_file": "title_21_data.json"
+      },
+      {
+        "title_num": 22,
+        "title_name": "TITLE 22\u2014FOREIGN RELATIONS AND INTERCOURSE",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 10501",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 125,
+          "subparts": 27,
+          "chapters": 125
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/pdf/USCODE-2023-title22.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title22/html/USCODE-2023-title22.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title22/"
+        },
+        "report_generated": true,
+        "data_file": "title_22_data.json"
+      },
+      {
+        "title_num": 29,
+        "title_name": "TITLE 29\u2014LABOR",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 3101",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 76,
+          "subparts": 18,
+          "chapters": 36
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/pdf/USCODE-2023-title29.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title29/html/USCODE-2023-title29.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title29/"
+        },
+        "report_generated": true,
+        "data_file": "title_29_data.json"
+      },
+      {
+        "title_num": 42,
+        "title_name": "TITLE 42\u2014THE PUBLIC HEALTH AND WELFARE",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 19401",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 583,
+          "subparts": 163,
+          "chapters": 195
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/pdf/USCODE-2023-title42.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title42/html/USCODE-2023-title42.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title42/"
+        },
+        "report_generated": true,
+        "data_file": "title_42_data.json"
+      },
+      {
+        "title_num": 47,
+        "title_name": "TITLE 47\u2014TELECOMMUNICATIONS",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 1 - 1701",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 17,
+          "subparts": 5,
+          "chapters": 16
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/pdf/USCODE-2023-title47.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title47/html/USCODE-2023-title47.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title47/"
+        },
+        "report_generated": true,
+        "data_file": "title_47_data.json"
+      },
+      {
+        "title_num": 49,
+        "title_name": "TITLE 49\u2014TRANSPORTATION",
+        "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+        "section_range": "Sections 101 - 80501",
+        "hierarchy": {
+          "subtitles": 0,
+          "parts": 17,
+          "subparts": 4,
+          "chapters": 114
+        },
+        "download_links": {
+          "title_level": "https://www.govinfo.gov/content/pkg/USCODE-2023-title49/html/USCODE-2023-title49.htm",
+          "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title49/pdf/USCODE-2023-title49.pdf",
+          "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title49/html/USCODE-2023-title49.htm",
+          "details": "https://www.govinfo.gov/app/details/USCODE-2023-title49/"
+        },
+        "report_generated": true,
+        "data_file": "title_49_data.json"
+      }
+    ]
+  }
+}

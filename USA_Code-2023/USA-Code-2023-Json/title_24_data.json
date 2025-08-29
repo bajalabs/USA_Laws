@@ -1,0 +1,151 @@
+{
+  "structure": {
+    "title_num": 24,
+    "title_name": "TITLE 24\u2014HOSPITALS AND ASYLUMS",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 1 - 401",
+    "elements": {
+      "subtitles": [],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014NAVY HOSPITALS, ARMY AND NAVY HOSPITAL, AND HOSPITAL RELIEF FOR SEAMEN AND OTHERS",
+        "CHAPTER 2\u2014SOLDIERS' AND AIRMEN'S HOME",
+        "CHAPTER 3\u2014NATIONAL HOME FOR DISABLED VOLUNTEER SOLDIERS",
+        "CHAPTER 4\u2014SAINT ELIZABETHS HOSPITAL",
+        "CHAPTER 5\u2014COLUMBIA INSTITUTION FOR THE DEAF",
+        "CHAPTER 6\u2014FREEDMEN'S HOSPITAL",
+        "CHAPTER 7\u2014NATIONAL CEMETERIES",
+        "CHAPTER 7A\u2014PRIVATE AND COMMERCIAL CEMETERIES",
+        "CHAPTER 8\u2014GORGAS HOSPITAL",
+        "CHAPTER 9\u2014HOSPITALIZATION OF MENTALLY ILL NATIONALS RETURNED FROM FOREIGN COUNTRIES",
+        "CHAPTER 10\u2014ARMED FORCES RETIREMENT HOME"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24.htm"
+  },
+  "links": {
+    "title_num": 24,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title24/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title24/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24.zip"
+    },
+    "element_links": {
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014NAVY HOSPITALS, ARMY AND NAVY HOSPITAL, AND HOSPITAL RELIEF FOR SEAMEN AND OTHERS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014SOLDIERS' AND AIRMEN'S HOME",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014NATIONAL HOME FOR DISABLED VOLUNTEER SOLDIERS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014SAINT ELIZABETHS HOSPITAL",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014COLUMBIA INSTITUTION FOR THE DEAF",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014FREEDMEN'S HOSPITAL",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014NATIONAL CEMETERIES",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 7A\u2014PRIVATE AND COMMERCIAL CEMETERIES",
+          "id": "7A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter7A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter7A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter7A/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014GORGAS HOSPITAL",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014HOSPITALIZATION OF MENTALLY ILL NATIONALS RETURNED FROM FOREIGN COUNTRIES",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014ARMED FORCES RETIREMENT HOME",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/pdf/USCODE-2023-title24-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title24-chapter10/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title24/html/USCODE-2023-title24.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

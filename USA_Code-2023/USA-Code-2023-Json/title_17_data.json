@@ -1,0 +1,191 @@
+{
+  "structure": {
+    "title_num": 17,
+    "title_name": "TITLE 17\u2014COPYRIGHTS",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 101 - 1501",
+    "elements": {
+      "subtitles": [],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014SUBJECT MATTER AND SCOPE OF COPYRIGHT",
+        "CHAPTER 2\u2014COPYRIGHT OWNERSHIP AND TRANSFER",
+        "CHAPTER 3\u2014DURATION OF COPYRIGHT",
+        "CHAPTER 4\u2014COPYRIGHT NOTICE, DEPOSIT, AND REGISTRATION",
+        "CHAPTER 5\u2014COPYRIGHT INFRINGEMENT AND REMEDIES",
+        "CHAPTER 6\u2014IMPORTATION AND EXPORTATION",
+        "CHAPTER 7\u2014COPYRIGHT OFFICE",
+        "CHAPTER 8\u2014PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES",
+        "CHAPTER 9\u2014PROTECTION OF SEMICONDUCTOR CHIP PRODUCTS",
+        "CHAPTER 10\u2014DIGITAL AUDIO RECORDING DEVICES AND MEDIA",
+        "CHAPTER 11\u2014SOUND RECORDINGS AND MUSIC VIDEOS",
+        "CHAPTER 12\u2014COPYRIGHT PROTECTION AND MANAGEMENT SYSTEMS",
+        "CHAPTER 13\u2014PROTECTION OF ORIGINAL DESIGNS",
+        "CHAPTER 14\u2014UNAUTHORIZED USE OF PRE-1972 SOUND RECORDINGS",
+        "CHAPTER 15\u2014COPYRIGHT SMALL CLAIMS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17.htm"
+  },
+  "links": {
+    "title_num": 17,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title17/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title17/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17.zip"
+    },
+    "element_links": {
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014SUBJECT MATTER AND SCOPE OF COPYRIGHT",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014COPYRIGHT OWNERSHIP AND TRANSFER",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014DURATION OF COPYRIGHT",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014COPYRIGHT NOTICE, DEPOSIT, AND REGISTRATION",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014COPYRIGHT INFRINGEMENT AND REMEDIES",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014IMPORTATION AND EXPORTATION",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014COPYRIGHT OFFICE",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014PROTECTION OF SEMICONDUCTOR CHIP PRODUCTS",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014DIGITAL AUDIO RECORDING DEVICES AND MEDIA",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014SOUND RECORDINGS AND MUSIC VIDEOS",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014COPYRIGHT PROTECTION AND MANAGEMENT SYSTEMS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014PROTECTION OF ORIGINAL DESIGNS",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014UNAUTHORIZED USE OF PRE-1972 SOUND RECORDINGS",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014COPYRIGHT SMALL CLAIMS",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/pdf/USCODE-2023-title17-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title17-chapter15/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title17/html/USCODE-2023-title17.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

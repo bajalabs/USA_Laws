@@ -1,0 +1,1504 @@
+{
+  "structure": {
+    "title_num": 18,
+    "title_name": "TITLE 18\u2014CRIMES AND CRIMINAL PROCEDURE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 1 - 5031",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "PART I\u2014CRIMES",
+        "PART II\u2014CRIMINAL PROCEDURE",
+        "PART III\u2014PRISONS AND PRISONERS",
+        "PART IV\u2014CORRECTION OF YOUTHFUL OFFENDERS",
+        "PART V\u2014IMMUNITY OF WITNESSES"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014GENERAL PROVISIONS",
+        "CHAPTER 2\u2014AIRCRAFT AND MOTOR VEHICLES",
+        "CHAPTER 3\u2014ANIMALS, BIRDS, FISH, AND PLANTS",
+        "CHAPTER 5\u2014ARSON",
+        "CHAPTER 7\u2014ASSAULT",
+        "CHAPTER 9\u2014BANKRUPTCY",
+        "CHAPTER 10\u2014BIOLOGICAL WEAPONS",
+        "CHAPTER 11\u2014BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+        "CHAPTER 11A\u2014CHILD SUPPORT",
+        "CHAPTER 11B\u2014CHEMICAL WEAPONS",
+        "CHAPTER 12\u2014CIVIL DISORDERS",
+        "CHAPTER 13\u2014CIVIL RIGHTS",
+        "CHAPTER 15\u2014CLAIMS AND SERVICES IN MATTERS AFFECTING GOVERNMENT",
+        "CHAPTER 17\u2014COINS AND CURRENCY",
+        "CHAPTER 17A\u2014COMMON CARRIER OPERATION UNDER THE INFLUENCE OF ALCOHOL OR DRUGS",
+        "CHAPTER 18\u2014CONGRESSIONAL, CABINET, AND SUPREME COURT ASSASSINATION, KIDNAPPING, AND ASSAULT",
+        "CHAPTER 19\u2014CONSPIRACY",
+        "CHAPTER 21\u2014CONTEMPTS",
+        "CHAPTER 23\u2014CONTRACTS",
+        "CHAPTER 25\u2014COUNTERFEITING AND FORGERY",
+        "CHAPTER 26\u2014CRIMINAL STREET GANGS",
+        "CHAPTER 27\u2014CUSTOMS",
+        "CHAPTER 29\u2014ELECTIONS AND POLITICAL ACTIVITIES",
+        "CHAPTER 31\u2014EMBEZZLEMENT AND THEFT",
+        "CHAPTER 33\u2014EMBLEMS, INSIGNIA, AND NAMES",
+        "CHAPTER 35\u2014ESCAPE AND RESCUE",
+        "CHAPTER 37\u2014ESPIONAGE AND CENSORSHIP",
+        "CHAPTER 39\u2014EXPLOSIVES AND OTHER DANGEROUS ARTICLES",
+        "CHAPTER 40\u2014IMPORTATION, MANUFACTURE, DISTRIBUTION AND STORAGE OF EXPLOSIVE MATERIALS",
+        "CHAPTER 41\u2014EXTORTION AND THREATS",
+        "CHAPTER 42\u2014EXTORTIONATE CREDIT TRANSACTIONS",
+        "CHAPTER 43\u2014FALSE PERSONATION",
+        "CHAPTER 44\u2014FIREARMS",
+        "CHAPTER 45\u2014FOREIGN RELATIONS",
+        "CHAPTER 46\u2014FORFEITURE",
+        "CHAPTER 47\u2014FRAUD AND FALSE STATEMENTS",
+        "CHAPTER 49\u2014FUGITIVES FROM JUSTICE",
+        "CHAPTER 50\u2014GAMBLING",
+        "CHAPTER 50A\u2014GENOCIDE",
+        "CHAPTER 51\u2014HOMICIDE",
+        "CHAPTER 53\u2014INDIANS",
+        "CHAPTER 55\u2014KIDNAPPING",
+        "CHAPTER 57\u2014LABOR",
+        "CHAPTER 59\u2014LIQUOR TRAFFIC",
+        "CHAPTER 61\u2014LOTTERIES",
+        "CHAPTER 63\u2014MAIL FRAUD AND OTHER FRAUD OFFENSES",
+        "CHAPTER 65\u2014MALICIOUS MISCHIEF",
+        "CHAPTER 67\u2014MILITARY AND NAVY",
+        "[CHAPTER 68\u2014REPEALED]",
+        "CHAPTER 69\u2014NATIONALITY AND CITIZENSHIP",
+        "CHAPTER 71\u2014OBSCENITY",
+        "CHAPTER 73\u2014OBSTRUCTION OF JUSTICE",
+        "CHAPTER 74\u2014PARTIAL-BIRTH ABORTIONS",
+        "CHAPTER 75\u2014PASSPORTS AND VISAS",
+        "CHAPTER 77\u2014PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS",
+        "CHAPTER 79\u2014PERJURY",
+        "CHAPTER 81\u2014PIRACY AND PRIVATEERING",
+        "CHAPTER 83\u2014POSTAL SERVICE",
+        "CHAPTER 84\u2014PRESIDENTIAL AND PRESIDENTIAL STAFF ASSASSINATION, KIDNAPPING, AND ASSAULT",
+        "CHAPTER 85\u2014PRISON-MADE GOODS",
+        "CHAPTER 87\u2014PRISONS",
+        "CHAPTER 88\u2014PRIVACY",
+        "[CHAPTER 89\u2014REPEALED]",
+        "CHAPTER 90\u2014PROTECTION OF TRADE SECRETS",
+        "CHAPTER 90A\u2014PROTECTION OF UNBORN CHILDREN",
+        "CHAPTER 91\u2014PUBLIC LANDS",
+        "CHAPTER 93\u2014PUBLIC OFFICERS AND EMPLOYEES",
+        "CHAPTER 95\u2014RACKETEERING",
+        "CHAPTER 96\u2014RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS",
+        "CHAPTER 97\u2014RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR",
+        "[CHAPTER 99\u2014REPEALED]",
+        "CHAPTER 101\u2014RECORDS AND REPORTS",
+        "CHAPTER 102\u2014RIOTS",
+        "CHAPTER 103\u2014ROBBERY AND BURGLARY",
+        "CHAPTER 105\u2014SABOTAGE",
+        "CHAPTER 107\u2014SEAMEN AND STOWAWAYS",
+        "CHAPTER 109\u2014SEARCHES AND SEIZURES",
+        "CHAPTER 109A\u2014SEXUAL ABUSE",
+        "CHAPTER 109B\u2014SEX OFFENDER AND CRIMES AGAINST CHILDREN REGISTRY",
+        "CHAPTER 110\u2014SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+        "CHAPTER 110A\u2014DOMESTIC VIOLENCE AND STALKING",
+        "CHAPTER 111\u2014SHIPPING",
+        "CHAPTER 111A\u2014DESTRUCTION OF, OR INTERFERENCE WITH, VESSELS OR MARITIME FACILITIES",
+        "CHAPTER 113\u2014STOLEN PROPERTY",
+        "CHAPTER 113A\u2014TELEMARKETING AND EMAIL MARKETING FRAUD",
+        "CHAPTER 113B\u2014TERRORISM",
+        "CHAPTER 113C\u2014TORTURE",
+        "CHAPTER 114\u2014TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO",
+        "CHAPTER 115\u2014TREASON, SEDITION, AND SUBVERSIVE ACTIVITIES",
+        "CHAPTER 117\u2014TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES",
+        "CHAPTER 118\u2014WAR CRIMES",
+        "CHAPTER 119\u2014WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS",
+        "CHAPTER 121\u2014STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS",
+        "CHAPTER 123\u2014PROHIBITION ON RELEASE AND USE OF CERTAIN PERSONAL INFORMATION FROM STATE MOTOR VEHICLE RECORDS",
+        "CHAPTER 201\u2014GENERAL PROVISIONS",
+        "CHAPTER 203\u2014ARREST AND COMMITMENT",
+        "CHAPTER 204\u2014REWARDS FOR INFORMATION CONCERNING TERRORIST ACTS AND ESPIONAGE",
+        "CHAPTER 205\u2014SEARCHES AND SEIZURES",
+        "CHAPTER 206\u2014PEN REGISTERS AND TRAP AND TRACE DEVICES",
+        "CHAPTER 207\u2014RELEASE AND DETENTION PENDING JUDICIAL PROCEEDINGS",
+        "CHAPTER 208\u2014SPEEDY TRIAL",
+        "CHAPTER 209\u2014EXTRADITION",
+        "CHAPTER 211\u2014JURISDICTION AND VENUE",
+        "CHAPTER 212\u2014MILITARY EXTRATERRITORIAL JURISDICTION",
+        "CHAPTER 212A\u2014EXTRATERRITORIAL JURISDICTION OVER CERTAIN OFFENSES",
+        "CHAPTER 213\u2014LIMITATIONS",
+        "CHAPTER 215\u2014GRAND JURY",
+        "CHAPTER 216\u2014SPECIAL GRAND JURY",
+        "CHAPTER 217\u2014INDICTMENT AND INFORMATION",
+        "CHAPTER 219\u2014TRIAL BY UNITED STATES MAGISTRATE JUDGES",
+        "CHAPTER 221\u2014ARRAIGNMENT, PLEAS AND TRIAL",
+        "CHAPTER 223\u2014WITNESSES AND EVIDENCE",
+        "CHAPTER 224\u2014PROTECTION OF WITNESSES",
+        "CHAPTER 225\u2014VERDICT",
+        "CHAPTER 227\u2014SENTENCES",
+        "CHAPTER 228\u2014DEATH SENTENCE",
+        "CHAPTER 228A\u2014POST-CONVICTION DNA TESTING",
+        "CHAPTER 229\u2014POSTSENTENCE ADMINISTRATION",
+        "[CHAPTER 231\u2014REPEALED]",
+        "CHAPTER 232\u2014MISCELLANEOUS SENTENCING PROVISIONS",
+        "CHAPTER 232A\u2014SPECIAL FORFEITURE OF COLLATERAL PROFITS OF CRIME",
+        "CHAPTER 233\u2014CONTEMPTS",
+        "CHAPTER 235\u2014APPEAL",
+        "CHAPTER 237\u2014CRIME VICTIMS' RIGHTS",
+        "CHAPTER 238\u2014SEXUAL ASSAULT SURVIVORS' RIGHTS",
+        "CHAPTER 301\u2014GENERAL PROVISIONS",
+        "CHAPTER 303\u2014BUREAU OF PRISONS",
+        "CHAPTER 305\u2014COMMITMENT AND TRANSFER",
+        "CHAPTER 306\u2014TRANSFER TO OR FROM FOREIGN COUNTRIES",
+        "CHAPTER 307\u2014EMPLOYMENT",
+        "[CHAPTER 309\u2014REPEALED]",
+        "[CHAPTER 311\u2014REPEALED]",
+        "CHAPTER 313\u2014OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+        "[CHAPTER 314\u2014REPEALED]",
+        "CHAPTER 315\u2014DISCHARGE AND RELEASE PAYMENTS",
+        "CHAPTER 317\u2014INSTITUTIONS FOR WOMEN",
+        "CHAPTER 319\u2014NATIONAL INSTITUTE OF CORRECTIONS",
+        "CHAPTER 401\u2014GENERAL PROVISIONS",
+        "[CHAPTER 402\u2014REPEALED]",
+        "CHAPTER 403\u2014JUVENILE DELINQUENCY",
+        "CHAPTER 601\u2014IMMUNITY OF WITNESSES"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18.htm"
+  },
+  "links": {
+    "title_num": 18,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title18/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title18/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18.zip"
+    },
+    "element_links": {
+      "parts": [
+        {
+          "name": "PART I\u2014CRIMES",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-partI/"
+          }
+        },
+        {
+          "name": "PART II\u2014CRIMINAL PROCEDURE",
+          "id": "II",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-partII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-partII/"
+          }
+        },
+        {
+          "name": "PART III\u2014PRISONS AND PRISONERS",
+          "id": "III",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-partIII.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partIII.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-partIII/"
+          }
+        },
+        {
+          "name": "PART IV\u2014CORRECTION OF YOUTHFUL OFFENDERS",
+          "id": "IV",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-partIV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partIV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-partIV/"
+          }
+        },
+        {
+          "name": "PART V\u2014IMMUNITY OF WITNESSES",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-partV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-partV/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014GENERAL PROVISIONS",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014AIRCRAFT AND MOTOR VEHICLES",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014ANIMALS, BIRDS, FISH, AND PLANTS",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014ARSON",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014ASSAULT",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014BANKRUPTCY",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014BIOLOGICAL WEAPONS",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 11A\u2014CHILD SUPPORT",
+          "id": "11A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter11A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter11A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter11A/"
+          }
+        },
+        {
+          "name": "CHAPTER 11B\u2014CHEMICAL WEAPONS",
+          "id": "11B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter11B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter11B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter11B/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014CIVIL DISORDERS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014CIVIL RIGHTS",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014CLAIMS AND SERVICES IN MATTERS AFFECTING GOVERNMENT",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014COINS AND CURRENCY",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 17A\u2014COMMON CARRIER OPERATION UNDER THE INFLUENCE OF ALCOHOL OR DRUGS",
+          "id": "17A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter17A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter17A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter17A/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014CONGRESSIONAL, CABINET, AND SUPREME COURT ASSASSINATION, KIDNAPPING, AND ASSAULT",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014CONSPIRACY",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014CONTEMPTS",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014CONTRACTS",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014COUNTERFEITING AND FORGERY",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014CRIMINAL STREET GANGS",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014CUSTOMS",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014ELECTIONS AND POLITICAL ACTIVITIES",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014EMBEZZLEMENT AND THEFT",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 33\u2014EMBLEMS, INSIGNIA, AND NAMES",
+          "id": "33",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter33.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter33.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter33/"
+          }
+        },
+        {
+          "name": "CHAPTER 35\u2014ESCAPE AND RESCUE",
+          "id": "35",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter35.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter35.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter35/"
+          }
+        },
+        {
+          "name": "CHAPTER 37\u2014ESPIONAGE AND CENSORSHIP",
+          "id": "37",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter37.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter37.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter37/"
+          }
+        },
+        {
+          "name": "CHAPTER 39\u2014EXPLOSIVES AND OTHER DANGEROUS ARTICLES",
+          "id": "39",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter39.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter39.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter39/"
+          }
+        },
+        {
+          "name": "CHAPTER 40\u2014IMPORTATION, MANUFACTURE, DISTRIBUTION AND STORAGE OF EXPLOSIVE MATERIALS",
+          "id": "40",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter40.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter40.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter40/"
+          }
+        },
+        {
+          "name": "CHAPTER 41\u2014EXTORTION AND THREATS",
+          "id": "41",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter41.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter41.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter41/"
+          }
+        },
+        {
+          "name": "CHAPTER 42\u2014EXTORTIONATE CREDIT TRANSACTIONS",
+          "id": "42",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter42.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter42.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter42/"
+          }
+        },
+        {
+          "name": "CHAPTER 43\u2014FALSE PERSONATION",
+          "id": "43",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter43.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter43.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter43/"
+          }
+        },
+        {
+          "name": "CHAPTER 44\u2014FIREARMS",
+          "id": "44",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter44.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter44.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter44/"
+          }
+        },
+        {
+          "name": "CHAPTER 45\u2014FOREIGN RELATIONS",
+          "id": "45",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter45.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter45.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter45/"
+          }
+        },
+        {
+          "name": "CHAPTER 46\u2014FORFEITURE",
+          "id": "46",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter46.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter46.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter46/"
+          }
+        },
+        {
+          "name": "CHAPTER 47\u2014FRAUD AND FALSE STATEMENTS",
+          "id": "47",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter47.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter47.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter47/"
+          }
+        },
+        {
+          "name": "CHAPTER 49\u2014FUGITIVES FROM JUSTICE",
+          "id": "49",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter49.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter49.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter49/"
+          }
+        },
+        {
+          "name": "CHAPTER 50\u2014GAMBLING",
+          "id": "50",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter50.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter50.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter50/"
+          }
+        },
+        {
+          "name": "CHAPTER 50A\u2014GENOCIDE",
+          "id": "50A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter50A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter50A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter50A/"
+          }
+        },
+        {
+          "name": "CHAPTER 51\u2014HOMICIDE",
+          "id": "51",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter51.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter51.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter51/"
+          }
+        },
+        {
+          "name": "CHAPTER 53\u2014INDIANS",
+          "id": "53",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter53.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter53.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter53/"
+          }
+        },
+        {
+          "name": "CHAPTER 55\u2014KIDNAPPING",
+          "id": "55",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter55.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter55.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter55/"
+          }
+        },
+        {
+          "name": "CHAPTER 57\u2014LABOR",
+          "id": "57",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter57.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter57.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter57/"
+          }
+        },
+        {
+          "name": "CHAPTER 59\u2014LIQUOR TRAFFIC",
+          "id": "59",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter59.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter59.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter59/"
+          }
+        },
+        {
+          "name": "CHAPTER 61\u2014LOTTERIES",
+          "id": "61",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter61.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter61.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter61/"
+          }
+        },
+        {
+          "name": "CHAPTER 63\u2014MAIL FRAUD AND OTHER FRAUD OFFENSES",
+          "id": "63",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter63.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter63.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter63/"
+          }
+        },
+        {
+          "name": "CHAPTER 65\u2014MALICIOUS MISCHIEF",
+          "id": "65",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter65.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter65.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter65/"
+          }
+        },
+        {
+          "name": "CHAPTER 67\u2014MILITARY AND NAVY",
+          "id": "67",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter67.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter67.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter67/"
+          }
+        },
+        {
+          "name": "[CHAPTER 68\u2014REPEALED]",
+          "id": "68",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter68.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter68.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter68/"
+          }
+        },
+        {
+          "name": "CHAPTER 69\u2014NATIONALITY AND CITIZENSHIP",
+          "id": "69",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter69.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter69.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter69/"
+          }
+        },
+        {
+          "name": "CHAPTER 71\u2014OBSCENITY",
+          "id": "71",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter71.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter71.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter71/"
+          }
+        },
+        {
+          "name": "CHAPTER 73\u2014OBSTRUCTION OF JUSTICE",
+          "id": "73",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter73.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter73.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter73/"
+          }
+        },
+        {
+          "name": "CHAPTER 74\u2014PARTIAL-BIRTH ABORTIONS",
+          "id": "74",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter74.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter74.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter74/"
+          }
+        },
+        {
+          "name": "CHAPTER 75\u2014PASSPORTS AND VISAS",
+          "id": "75",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter75.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter75.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter75/"
+          }
+        },
+        {
+          "name": "CHAPTER 77\u2014PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS",
+          "id": "77",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter77.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter77.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter77/"
+          }
+        },
+        {
+          "name": "CHAPTER 79\u2014PERJURY",
+          "id": "79",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter79.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter79.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter79/"
+          }
+        },
+        {
+          "name": "CHAPTER 81\u2014PIRACY AND PRIVATEERING",
+          "id": "81",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter81.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter81.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter81/"
+          }
+        },
+        {
+          "name": "CHAPTER 83\u2014POSTAL SERVICE",
+          "id": "83",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter83.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter83.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter83/"
+          }
+        },
+        {
+          "name": "CHAPTER 84\u2014PRESIDENTIAL AND PRESIDENTIAL STAFF ASSASSINATION, KIDNAPPING, AND ASSAULT",
+          "id": "84",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter84.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter84.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter84/"
+          }
+        },
+        {
+          "name": "CHAPTER 85\u2014PRISON-MADE GOODS",
+          "id": "85",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter85.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter85.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter85/"
+          }
+        },
+        {
+          "name": "CHAPTER 87\u2014PRISONS",
+          "id": "87",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter87.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter87.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter87/"
+          }
+        },
+        {
+          "name": "CHAPTER 88\u2014PRIVACY",
+          "id": "88",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter88.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter88.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter88/"
+          }
+        },
+        {
+          "name": "[CHAPTER 89\u2014REPEALED]",
+          "id": "89",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter89.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter89.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter89/"
+          }
+        },
+        {
+          "name": "CHAPTER 90\u2014PROTECTION OF TRADE SECRETS",
+          "id": "90",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter90.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter90.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter90/"
+          }
+        },
+        {
+          "name": "CHAPTER 90A\u2014PROTECTION OF UNBORN CHILDREN",
+          "id": "90A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter90A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter90A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter90A/"
+          }
+        },
+        {
+          "name": "CHAPTER 91\u2014PUBLIC LANDS",
+          "id": "91",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter91.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter91.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter91/"
+          }
+        },
+        {
+          "name": "CHAPTER 93\u2014PUBLIC OFFICERS AND EMPLOYEES",
+          "id": "93",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter93.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter93.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter93/"
+          }
+        },
+        {
+          "name": "CHAPTER 95\u2014RACKETEERING",
+          "id": "95",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter95.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter95.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter95/"
+          }
+        },
+        {
+          "name": "CHAPTER 96\u2014RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS",
+          "id": "96",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter96.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter96.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter96/"
+          }
+        },
+        {
+          "name": "CHAPTER 97\u2014RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR",
+          "id": "97",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter97.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter97.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter97/"
+          }
+        },
+        {
+          "name": "[CHAPTER 99\u2014REPEALED]",
+          "id": "99",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter99.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter99.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter99/"
+          }
+        },
+        {
+          "name": "CHAPTER 101\u2014RECORDS AND REPORTS",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 102\u2014RIOTS",
+          "id": "102",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter102.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter102.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter102/"
+          }
+        },
+        {
+          "name": "CHAPTER 103\u2014ROBBERY AND BURGLARY",
+          "id": "103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter103/"
+          }
+        },
+        {
+          "name": "CHAPTER 105\u2014SABOTAGE",
+          "id": "105",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter105.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter105.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter105/"
+          }
+        },
+        {
+          "name": "CHAPTER 107\u2014SEAMEN AND STOWAWAYS",
+          "id": "107",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter107.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter107.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter107/"
+          }
+        },
+        {
+          "name": "CHAPTER 109\u2014SEARCHES AND SEIZURES",
+          "id": "109",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter109.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter109.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter109/"
+          }
+        },
+        {
+          "name": "CHAPTER 109A\u2014SEXUAL ABUSE",
+          "id": "109A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter109A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter109A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter109A/"
+          }
+        },
+        {
+          "name": "CHAPTER 109B\u2014SEX OFFENDER AND CRIMES AGAINST CHILDREN REGISTRY",
+          "id": "109B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter109B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter109B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter109B/"
+          }
+        },
+        {
+          "name": "CHAPTER 110\u2014SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+          "id": "110",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter110.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter110.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter110/"
+          }
+        },
+        {
+          "name": "CHAPTER 110A\u2014DOMESTIC VIOLENCE AND STALKING",
+          "id": "110A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter110A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter110A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter110A/"
+          }
+        },
+        {
+          "name": "CHAPTER 111\u2014SHIPPING",
+          "id": "111",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter111.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter111.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter111/"
+          }
+        },
+        {
+          "name": "CHAPTER 111A\u2014DESTRUCTION OF, OR INTERFERENCE WITH, VESSELS OR MARITIME FACILITIES",
+          "id": "111A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter111A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter111A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter111A/"
+          }
+        },
+        {
+          "name": "CHAPTER 113\u2014STOLEN PROPERTY",
+          "id": "113",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter113.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter113.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter113/"
+          }
+        },
+        {
+          "name": "CHAPTER 113A\u2014TELEMARKETING AND EMAIL MARKETING FRAUD",
+          "id": "113A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter113A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter113A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter113A/"
+          }
+        },
+        {
+          "name": "CHAPTER 113B\u2014TERRORISM",
+          "id": "113B",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter113B.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter113B.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter113B/"
+          }
+        },
+        {
+          "name": "CHAPTER 113C\u2014TORTURE",
+          "id": "113C",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter113C.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter113C.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter113C/"
+          }
+        },
+        {
+          "name": "CHAPTER 114\u2014TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO",
+          "id": "114",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter114.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter114.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter114/"
+          }
+        },
+        {
+          "name": "CHAPTER 115\u2014TREASON, SEDITION, AND SUBVERSIVE ACTIVITIES",
+          "id": "115",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter115.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter115.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter115/"
+          }
+        },
+        {
+          "name": "CHAPTER 117\u2014TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES",
+          "id": "117",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter117.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter117.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter117/"
+          }
+        },
+        {
+          "name": "CHAPTER 118\u2014WAR CRIMES",
+          "id": "118",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter118.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter118.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter118/"
+          }
+        },
+        {
+          "name": "CHAPTER 119\u2014WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS",
+          "id": "119",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter119.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter119.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter119/"
+          }
+        },
+        {
+          "name": "CHAPTER 121\u2014STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS",
+          "id": "121",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter121.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter121.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter121/"
+          }
+        },
+        {
+          "name": "CHAPTER 123\u2014PROHIBITION ON RELEASE AND USE OF CERTAIN PERSONAL INFORMATION FROM STATE MOTOR VEHICLE RECORDS",
+          "id": "123",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter123.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter123.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter123/"
+          }
+        },
+        {
+          "name": "CHAPTER 201\u2014GENERAL PROVISIONS",
+          "id": "201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter201/"
+          }
+        },
+        {
+          "name": "CHAPTER 203\u2014ARREST AND COMMITMENT",
+          "id": "203",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter203.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter203.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter203/"
+          }
+        },
+        {
+          "name": "CHAPTER 204\u2014REWARDS FOR INFORMATION CONCERNING TERRORIST ACTS AND ESPIONAGE",
+          "id": "204",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter204.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter204.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter204/"
+          }
+        },
+        {
+          "name": "CHAPTER 205\u2014SEARCHES AND SEIZURES",
+          "id": "205",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter205.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter205.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter205/"
+          }
+        },
+        {
+          "name": "CHAPTER 206\u2014PEN REGISTERS AND TRAP AND TRACE DEVICES",
+          "id": "206",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter206.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter206.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter206/"
+          }
+        },
+        {
+          "name": "CHAPTER 207\u2014RELEASE AND DETENTION PENDING JUDICIAL PROCEEDINGS",
+          "id": "207",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter207.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter207.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter207/"
+          }
+        },
+        {
+          "name": "CHAPTER 208\u2014SPEEDY TRIAL",
+          "id": "208",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter208.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter208.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter208/"
+          }
+        },
+        {
+          "name": "CHAPTER 209\u2014EXTRADITION",
+          "id": "209",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter209.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter209.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter209/"
+          }
+        },
+        {
+          "name": "CHAPTER 211\u2014JURISDICTION AND VENUE",
+          "id": "211",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter211.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter211.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter211/"
+          }
+        },
+        {
+          "name": "CHAPTER 212\u2014MILITARY EXTRATERRITORIAL JURISDICTION",
+          "id": "212",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter212.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter212.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter212/"
+          }
+        },
+        {
+          "name": "CHAPTER 212A\u2014EXTRATERRITORIAL JURISDICTION OVER CERTAIN OFFENSES",
+          "id": "212A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter212A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter212A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter212A/"
+          }
+        },
+        {
+          "name": "CHAPTER 213\u2014LIMITATIONS",
+          "id": "213",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter213.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter213.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter213/"
+          }
+        },
+        {
+          "name": "CHAPTER 215\u2014GRAND JURY",
+          "id": "215",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter215.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter215.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter215/"
+          }
+        },
+        {
+          "name": "CHAPTER 216\u2014SPECIAL GRAND JURY",
+          "id": "216",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter216.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter216.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter216/"
+          }
+        },
+        {
+          "name": "CHAPTER 217\u2014INDICTMENT AND INFORMATION",
+          "id": "217",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter217.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter217.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter217/"
+          }
+        },
+        {
+          "name": "CHAPTER 219\u2014TRIAL BY UNITED STATES MAGISTRATE JUDGES",
+          "id": "219",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter219.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter219.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter219/"
+          }
+        },
+        {
+          "name": "CHAPTER 221\u2014ARRAIGNMENT, PLEAS AND TRIAL",
+          "id": "221",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter221.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter221.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter221/"
+          }
+        },
+        {
+          "name": "CHAPTER 223\u2014WITNESSES AND EVIDENCE",
+          "id": "223",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter223.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter223.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter223/"
+          }
+        },
+        {
+          "name": "CHAPTER 224\u2014PROTECTION OF WITNESSES",
+          "id": "224",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter224.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter224.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter224/"
+          }
+        },
+        {
+          "name": "CHAPTER 225\u2014VERDICT",
+          "id": "225",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter225.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter225.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter225/"
+          }
+        },
+        {
+          "name": "CHAPTER 227\u2014SENTENCES",
+          "id": "227",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter227.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter227.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter227/"
+          }
+        },
+        {
+          "name": "CHAPTER 228\u2014DEATH SENTENCE",
+          "id": "228",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter228.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter228.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter228/"
+          }
+        },
+        {
+          "name": "CHAPTER 228A\u2014POST-CONVICTION DNA TESTING",
+          "id": "228A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter228A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter228A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter228A/"
+          }
+        },
+        {
+          "name": "CHAPTER 229\u2014POSTSENTENCE ADMINISTRATION",
+          "id": "229",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter229.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter229.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter229/"
+          }
+        },
+        {
+          "name": "[CHAPTER 231\u2014REPEALED]",
+          "id": "231",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter231.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter231.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter231/"
+          }
+        },
+        {
+          "name": "CHAPTER 232\u2014MISCELLANEOUS SENTENCING PROVISIONS",
+          "id": "232",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter232.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter232.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter232/"
+          }
+        },
+        {
+          "name": "CHAPTER 232A\u2014SPECIAL FORFEITURE OF COLLATERAL PROFITS OF CRIME",
+          "id": "232A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter232A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter232A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter232A/"
+          }
+        },
+        {
+          "name": "CHAPTER 233\u2014CONTEMPTS",
+          "id": "233",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter233.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter233.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter233/"
+          }
+        },
+        {
+          "name": "CHAPTER 235\u2014APPEAL",
+          "id": "235",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter235.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter235.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter235/"
+          }
+        },
+        {
+          "name": "CHAPTER 237\u2014CRIME VICTIMS' RIGHTS",
+          "id": "237",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter237.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter237.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter237/"
+          }
+        },
+        {
+          "name": "CHAPTER 238\u2014SEXUAL ASSAULT SURVIVORS' RIGHTS",
+          "id": "238",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter238.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter238.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter238/"
+          }
+        },
+        {
+          "name": "CHAPTER 301\u2014GENERAL PROVISIONS",
+          "id": "301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter301/"
+          }
+        },
+        {
+          "name": "CHAPTER 303\u2014BUREAU OF PRISONS",
+          "id": "303",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter303.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter303.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter303/"
+          }
+        },
+        {
+          "name": "CHAPTER 305\u2014COMMITMENT AND TRANSFER",
+          "id": "305",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter305.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter305.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter305/"
+          }
+        },
+        {
+          "name": "CHAPTER 306\u2014TRANSFER TO OR FROM FOREIGN COUNTRIES",
+          "id": "306",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter306.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter306.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter306/"
+          }
+        },
+        {
+          "name": "CHAPTER 307\u2014EMPLOYMENT",
+          "id": "307",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter307.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter307.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter307/"
+          }
+        },
+        {
+          "name": "[CHAPTER 309\u2014REPEALED]",
+          "id": "309",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter309.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter309.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter309/"
+          }
+        },
+        {
+          "name": "[CHAPTER 311\u2014REPEALED]",
+          "id": "311",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter311.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter311.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter311/"
+          }
+        },
+        {
+          "name": "CHAPTER 313\u2014OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+          "id": "313",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter313.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter313.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter313/"
+          }
+        },
+        {
+          "name": "[CHAPTER 314\u2014REPEALED]",
+          "id": "314",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter314.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter314.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter314/"
+          }
+        },
+        {
+          "name": "CHAPTER 315\u2014DISCHARGE AND RELEASE PAYMENTS",
+          "id": "315",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter315.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter315.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter315/"
+          }
+        },
+        {
+          "name": "CHAPTER 317\u2014INSTITUTIONS FOR WOMEN",
+          "id": "317",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter317.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter317.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter317/"
+          }
+        },
+        {
+          "name": "CHAPTER 319\u2014NATIONAL INSTITUTE OF CORRECTIONS",
+          "id": "319",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter319.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter319.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter319/"
+          }
+        },
+        {
+          "name": "CHAPTER 401\u2014GENERAL PROVISIONS",
+          "id": "401",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter401.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter401.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter401/"
+          }
+        },
+        {
+          "name": "[CHAPTER 402\u2014REPEALED]",
+          "id": "402",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter402.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter402.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter402/"
+          }
+        },
+        {
+          "name": "CHAPTER 403\u2014JUVENILE DELINQUENCY",
+          "id": "403",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter403.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter403.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter403/"
+          }
+        },
+        {
+          "name": "CHAPTER 601\u2014IMMUNITY OF WITNESSES",
+          "id": "601",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/pdf/USCODE-2023-title18-chapter601.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-chapter601.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title18-chapter601/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

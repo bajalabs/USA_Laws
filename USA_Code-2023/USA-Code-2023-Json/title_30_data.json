@@ -1,0 +1,386 @@
+{
+  "structure": {
+    "title_num": 30,
+    "title_name": "TITLE 30\u2014MINERAL LANDS AND MINING",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "section_range": "Sections 1 - 2001",
+    "elements": {
+      "subtitles": [],
+      "parts": [
+        "Part A\u2014General Provisions",
+        "Part B\u2014Claims for Benefits Filed on or Before December 31, 1973",
+        "Part C\u2014Claims for Benefits After December 31, 1973"
+      ],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014UNITED STATES BUREAU OF MINES",
+        "CHAPTER 2\u2014MINERAL LANDS AND REGULATIONS IN GENERAL",
+        "CHAPTER 3\u2014LANDS CONTAINING COAL, OIL, GAS, SALTS, ASPHALTIC MATERIALS, SODIUM, SULPHUR, AND BUILDING STONE",
+        "CHAPTER 3A\u2014LEASES AND PROSPECTING PERMITS",
+        "CHAPTER 4\u2014LEASE OF GOLD, SILVER, OR QUICKSILVER DEPOSITS WHEN TITLE CONFIRMED BY COURT OF PRIVATE LAND CLAIMS",
+        "CHAPTER 5\u2014LEASE OF OIL AND GAS DEPOSITS IN OR UNDER RAILROADS AND OTHER RIGHTS-OF-WAY",
+        "CHAPTER 6\u2014SYNTHETIC LIQUID FUEL DEMONSTRATION PLANTS",
+        "CHAPTER 7\u2014LEASE OF MINERAL DEPOSITS WITHIN ACQUIRED LANDS",
+        "CHAPTER 8\u2014DEVELOPMENT OF LIGNITE COAL RESOURCES",
+        "CHAPTER 9\u2014RARE AND PRECIOUS METALS EXPERIMENT STATION",
+        "CHAPTER 10\u2014COAL MINE SAFETY",
+        "CHAPTER 11\u2014MINING CLAIMS ON LANDS SUBJECT TO MINERAL LEASING LAWS",
+        "CHAPTER 12\u2014MULTIPLE MINERAL DEVELOPMENT OF THE SAME TRACTS",
+        "CHAPTER 12A\u2014ENTRY AND LOCATION ON COAL LANDS ON DISCOVERY OF SOURCE MATERIAL",
+        "CHAPTER 13\u2014CONTROL OF COAL-MINE FIRES",
+        "CHAPTER 14\u2014ANTHRACITE MINE DRAINAGE AND FLOOD CONTROL",
+        "CHAPTER 15\u2014SURFACE RESOURCES",
+        "CHAPTER 16\u2014MINERAL DEVELOPMENT OF LANDS WITHDRAWN FOR POWER DEVELOPMENT",
+        "CHAPTER 17\u2014EXPLORATION PROGRAM FOR DISCOVERY OF MINERALS",
+        "CHAPTER 18\u2014COAL RESEARCH AND DEVELOPMENT",
+        "CHAPTER 19\u2014LEAD AND ZINC STABILIZATION PROGRAM",
+        "CHAPTER 20\u2014CONVEYANCES TO OCCUPANTS OF UNPATENTED MINING CLAIMS",
+        "CHAPTER 21\u2014METAL AND NONMETALLIC MINE SAFETY",
+        "CHAPTER 22\u2014MINE SAFETY AND HEALTH",
+        "CHAPTER 23\u2014GEOTHERMAL RESOURCES",
+        "CHAPTER 24\u2014GEOTHERMAL ENERGY RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+        "CHAPTER 25\u2014SURFACE MINING CONTROL AND RECLAMATION",
+        "CHAPTER 26\u2014DEEP SEABED HARD MINERAL RESOURCES",
+        "CHAPTER 27\u2014GEOTHERMAL ENERGY",
+        "CHAPTER 28\u2014MATERIALS AND MINERALS POLICY, RESEARCH, AND DEVELOPMENT",
+        "CHAPTER 29\u2014OIL AND GAS ROYALTY MANAGEMENT",
+        "CHAPTER 30\u2014NATIONAL CRITICAL MATERIALS COUNCIL",
+        "CHAPTER 31\u2014MARINE MINERAL RESOURCES RESEARCH",
+        "CHAPTER 32\u2014METHANE HYDRATE RESEARCH AND DEVELOPMENT"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30.htm"
+  },
+  "links": {
+    "title_num": 30,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title30/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title30/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30.zip"
+    },
+    "element_links": {
+      "parts": [],
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014UNITED STATES BUREAU OF MINES",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 2\u2014MINERAL LANDS AND REGULATIONS IN GENERAL",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter2/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014LANDS CONTAINING COAL, OIL, GAS, SALTS, ASPHALTIC MATERIALS, SODIUM, SULPHUR, AND BUILDING STONE",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 3A\u2014LEASES AND PROSPECTING PERMITS",
+          "id": "3A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter3A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter3A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter3A/"
+          }
+        },
+        {
+          "name": "CHAPTER 4\u2014LEASE OF GOLD, SILVER, OR QUICKSILVER DEPOSITS WHEN TITLE CONFIRMED BY COURT OF PRIVATE LAND CLAIMS",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter4/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014LEASE OF OIL AND GAS DEPOSITS IN OR UNDER RAILROADS AND OTHER RIGHTS-OF-WAY",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 6\u2014SYNTHETIC LIQUID FUEL DEMONSTRATION PLANTS",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter6/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014LEASE OF MINERAL DEPOSITS WITHIN ACQUIRED LANDS",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 8\u2014DEVELOPMENT OF LIGNITE COAL RESOURCES",
+          "id": "8",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter8.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter8.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter8/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014RARE AND PRECIOUS METALS EXPERIMENT STATION",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter9/"
+          }
+        },
+        {
+          "name": "CHAPTER 10\u2014COAL MINE SAFETY",
+          "id": "10",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter10.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter10.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter10/"
+          }
+        },
+        {
+          "name": "CHAPTER 11\u2014MINING CLAIMS ON LANDS SUBJECT TO MINERAL LEASING LAWS",
+          "id": "11",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter11.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter11.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter11/"
+          }
+        },
+        {
+          "name": "CHAPTER 12\u2014MULTIPLE MINERAL DEVELOPMENT OF THE SAME TRACTS",
+          "id": "12",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter12.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter12.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter12/"
+          }
+        },
+        {
+          "name": "CHAPTER 12A\u2014ENTRY AND LOCATION ON COAL LANDS ON DISCOVERY OF SOURCE MATERIAL",
+          "id": "12A",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter12A.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter12A.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter12A/"
+          }
+        },
+        {
+          "name": "CHAPTER 13\u2014CONTROL OF COAL-MINE FIRES",
+          "id": "13",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter13.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter13.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter13/"
+          }
+        },
+        {
+          "name": "CHAPTER 14\u2014ANTHRACITE MINE DRAINAGE AND FLOOD CONTROL",
+          "id": "14",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter14.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter14.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter14/"
+          }
+        },
+        {
+          "name": "CHAPTER 15\u2014SURFACE RESOURCES",
+          "id": "15",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter15.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter15.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter15/"
+          }
+        },
+        {
+          "name": "CHAPTER 16\u2014MINERAL DEVELOPMENT OF LANDS WITHDRAWN FOR POWER DEVELOPMENT",
+          "id": "16",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter16.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter16.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter16/"
+          }
+        },
+        {
+          "name": "CHAPTER 17\u2014EXPLORATION PROGRAM FOR DISCOVERY OF MINERALS",
+          "id": "17",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter17.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter17.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter17/"
+          }
+        },
+        {
+          "name": "CHAPTER 18\u2014COAL RESEARCH AND DEVELOPMENT",
+          "id": "18",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter18.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter18.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter18/"
+          }
+        },
+        {
+          "name": "CHAPTER 19\u2014LEAD AND ZINC STABILIZATION PROGRAM",
+          "id": "19",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter19.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter19.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter19/"
+          }
+        },
+        {
+          "name": "CHAPTER 20\u2014CONVEYANCES TO OCCUPANTS OF UNPATENTED MINING CLAIMS",
+          "id": "20",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter20.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter20.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter20/"
+          }
+        },
+        {
+          "name": "CHAPTER 21\u2014METAL AND NONMETALLIC MINE SAFETY",
+          "id": "21",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter21.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter21.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter21/"
+          }
+        },
+        {
+          "name": "CHAPTER 22\u2014MINE SAFETY AND HEALTH",
+          "id": "22",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter22.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter22.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter22/"
+          }
+        },
+        {
+          "name": "CHAPTER 23\u2014GEOTHERMAL RESOURCES",
+          "id": "23",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter23.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter23.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter23/"
+          }
+        },
+        {
+          "name": "CHAPTER 24\u2014GEOTHERMAL ENERGY RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+          "id": "24",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter24.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter24.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter24/"
+          }
+        },
+        {
+          "name": "CHAPTER 25\u2014SURFACE MINING CONTROL AND RECLAMATION",
+          "id": "25",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter25.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter25.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter25/"
+          }
+        },
+        {
+          "name": "CHAPTER 26\u2014DEEP SEABED HARD MINERAL RESOURCES",
+          "id": "26",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter26.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter26.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter26/"
+          }
+        },
+        {
+          "name": "CHAPTER 27\u2014GEOTHERMAL ENERGY",
+          "id": "27",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter27.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter27.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter27/"
+          }
+        },
+        {
+          "name": "CHAPTER 28\u2014MATERIALS AND MINERALS POLICY, RESEARCH, AND DEVELOPMENT",
+          "id": "28",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter28.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter28.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter28/"
+          }
+        },
+        {
+          "name": "CHAPTER 29\u2014OIL AND GAS ROYALTY MANAGEMENT",
+          "id": "29",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter29.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter29.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter29/"
+          }
+        },
+        {
+          "name": "CHAPTER 30\u2014NATIONAL CRITICAL MATERIALS COUNCIL",
+          "id": "30",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter30.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter30.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter30/"
+          }
+        },
+        {
+          "name": "CHAPTER 31\u2014MARINE MINERAL RESOURCES RESEARCH",
+          "id": "31",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter31.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter31.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter31/"
+          }
+        },
+        {
+          "name": "CHAPTER 32\u2014METHANE HYDRATE RESEARCH AND DEVELOPMENT",
+          "id": "32",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/pdf/USCODE-2023-title30-chapter32.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30-chapter32.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title30-chapter32/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title30/html/USCODE-2023-title30.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "structure": {
+    "title_num": 52,
+    "title_name": "TITLE 52\u2014VOTING AND ELECTIONS",
+    "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 10101 - 30101",
+    "elements": {
+      "subtitles": [
+        "Subtitle I\u2014Voting Rights",
+        "Subtitle II\u2014Voting Assistance and Election Administration",
+        "Subtitle III\u2014Federal Campaign Finance"
+      ],
+      "parts": [
+        "Part A\u2014Establishment and General Organization",
+        "Part B\u2014Testing, Certification, Decertification, and Recertification of Voting System Hardware and Software",
+        "Part C\u2014Studies and Other Activities To Promote Effective Administration of Federal Elections",
+        "Part D\u2014Election Assistance",
+        "Part A\u2014Requirements",
+        "Part B\u2014Voluntary Guidance"
+      ],
+      "subparts": [
+        "subpart 1\u2014election assistance commission",
+        "subpart 2\u2014election assistance commission standards board and board of advisors",
+        "subpart 3\u2014technical guidelines development committee",
+        "subpart 1\u2014requirements payments",
+        "subpart 2\u2014payments to states and units of local government to assure access for individuals with disabilities",
+        "subpart 3\u2014grants for research on voting technology improvements",
+        "subpart 4\u2014pilot program for testing of equipment and technology",
+        "subpart 5\u2014protection and advocacy systems",
+        "subpart 6\u2014national student and parent mock election"
+      ],
+      "chapters": [
+        "CHAPTER 101\u2014GENERALLY",
+        "CHAPTER 103\u2014ENFORCEMENT OF VOTING RIGHTS",
+        "CHAPTER 105\u2014SUPPLEMENTAL PROVISIONS",
+        "CHAPTER 107\u2014RIGHT TO VOTE AT AGE EIGHTEEN",
+        "CHAPTER 201\u2014VOTING ACCESSIBILITY FOR THE ELDERLY AND HANDICAPPED",
+        "CHAPTER 203\u2014REGISTRATION AND VOTING BY ABSENT UNIFORMED SERVICES VOTERS AND OVERSEAS VOTERS IN ELECTIONS FOR FEDERAL OFFICE",
+        "CHAPTER 205\u2014NATIONAL VOTER REGISTRATION",
+        "CHAPTER 207\u2014FEDERAL ELECTION RECORDS",
+        "CHAPTER 209\u2014ELECTION ADMINISTRATION IMPROVEMENT",
+        "CHAPTER 301\u2014FEDERAL ELECTION CAMPAIGNS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm"
+  },
+  "links": {
+    "title_num": 52,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title52/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title52/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52.zip"
+    },
+    "element_links": {
+      "subtitles": [
+        {
+          "name": "Subtitle I\u2014Voting Rights",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle II\u2014Voting Assistance and Election Administration",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle III\u2014Federal Campaign Finance",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subtitleI/"
+          }
+        }
+      ],
+      "parts": [],
+      "subparts": [
+        {
+          "name": "subpart 1\u2014election assistance commission",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014election assistance commission standards board and board of advisors",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014technical guidelines development committee",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014requirements payments",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014payments to states and units of local government to assure access for individuals with disabilities",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014grants for research on voting technology improvements",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014pilot program for testing of equipment and technology",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 5\u2014protection and advocacy systems",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart5/"
+          }
+        },
+        {
+          "name": "subpart 6\u2014national student and parent mock election",
+          "id": "6",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subpart6.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subpart6.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subpart6/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 101\u2014GENERALLY",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 103\u2014ENFORCEMENT OF VOTING RIGHTS",
+          "id": "103",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter103.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter103.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter103/"
+          }
+        },
+        {
+          "name": "CHAPTER 105\u2014SUPPLEMENTAL PROVISIONS",
+          "id": "105",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter105.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter105.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter105/"
+          }
+        },
+        {
+          "name": "CHAPTER 107\u2014RIGHT TO VOTE AT AGE EIGHTEEN",
+          "id": "107",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter107.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter107.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter107/"
+          }
+        },
+        {
+          "name": "CHAPTER 201\u2014VOTING ACCESSIBILITY FOR THE ELDERLY AND HANDICAPPED",
+          "id": "201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter201/"
+          }
+        },
+        {
+          "name": "CHAPTER 203\u2014REGISTRATION AND VOTING BY ABSENT UNIFORMED SERVICES VOTERS AND OVERSEAS VOTERS IN ELECTIONS FOR FEDERAL OFFICE",
+          "id": "203",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter203.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter203.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter203/"
+          }
+        },
+        {
+          "name": "CHAPTER 205\u2014NATIONAL VOTER REGISTRATION",
+          "id": "205",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter205.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter205.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter205/"
+          }
+        },
+        {
+          "name": "CHAPTER 207\u2014FEDERAL ELECTION RECORDS",
+          "id": "207",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter207.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter207.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter207/"
+          }
+        },
+        {
+          "name": "CHAPTER 209\u2014ELECTION ADMINISTRATION IMPROVEMENT",
+          "id": "209",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter209.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter209.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter209/"
+          }
+        },
+        {
+          "name": "CHAPTER 301\u2014FEDERAL ELECTION CAMPAIGNS",
+          "id": "301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-chapter301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-chapter301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-chapter301/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

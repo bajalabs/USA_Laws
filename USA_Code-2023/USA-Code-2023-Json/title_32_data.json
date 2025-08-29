@@ -1,0 +1,91 @@
+{
+  "structure": {
+    "title_num": 32,
+    "title_name": "TITLE 32\u2014NATIONAL GUARD",
+    "structure_type": "Type 1: Chapters Only",
+    "section_range": "Sections 101 - 901",
+    "elements": {
+      "subtitles": [],
+      "parts": [],
+      "subparts": [],
+      "chapters": [
+        "CHAPTER 1\u2014ORGANIZATION",
+        "CHAPTER 3\u2014PERSONNEL",
+        "CHAPTER 5\u2014TRAINING",
+        "CHAPTER 7\u2014SERVICE, SUPPLY, AND PROCUREMENT",
+        "CHAPTER 9\u2014HOMELAND DEFENSE ACTIVITIES"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32.htm"
+  },
+  "links": {
+    "title_num": 32,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title32/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title32/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32.zip"
+    },
+    "element_links": {
+      "chapters": [
+        {
+          "name": "CHAPTER 1\u2014ORGANIZATION",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32-chapter1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32-chapter1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32-chapter1/"
+          }
+        },
+        {
+          "name": "CHAPTER 3\u2014PERSONNEL",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32-chapter3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32-chapter3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32-chapter3/"
+          }
+        },
+        {
+          "name": "CHAPTER 5\u2014TRAINING",
+          "id": "5",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32-chapter5.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32-chapter5.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32-chapter5/"
+          }
+        },
+        {
+          "name": "CHAPTER 7\u2014SERVICE, SUPPLY, AND PROCUREMENT",
+          "id": "7",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32-chapter7.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32-chapter7.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32-chapter7/"
+          }
+        },
+        {
+          "name": "CHAPTER 9\u2014HOMELAND DEFENSE ACTIVITIES",
+          "id": "9",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/pdf/USCODE-2023-title32-chapter9.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32-chapter9.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title32-chapter9/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title32/html/USCODE-2023-title32.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}

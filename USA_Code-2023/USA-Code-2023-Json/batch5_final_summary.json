@@ -1,0 +1,106 @@
+[
+  {
+    "title_num": 41,
+    "title_name": "TITLE 41\u2014PUBLIC CONTRACTS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_41_TITLE_41-PUBLIC_CONTRACTS.md",
+    "json_file": "title_41_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 42,
+    "title_name": "TITLE 42\u2014THE PUBLIC HEALTH AND WELFARE",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_42_TITLE_42-THE_PUBLIC_HEALTH_AND_WELFARE.md",
+    "json_file": "title_42_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 43,
+    "title_name": "TITLE 43\u2014PUBLIC LANDS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_43_TITLE_43-PUBLIC_LANDS.md",
+    "json_file": "title_43_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 44,
+    "title_name": "TITLE 44\u2014PUBLIC PRINTING AND DOCUMENTS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_44_TITLE_44-PUBLIC_PRINTING_AND_DOCUMENTS.md",
+    "json_file": "title_44_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 45,
+    "title_name": "TITLE 45\u2014RAILROADS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_45_TITLE_45-RAILROADS.md",
+    "json_file": "title_45_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 46,
+    "title_name": "TITLE 46\u2014SHIPPING",
+    "structure_type": "Type 3: Subtitles \u2192 Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_46_TITLE_46-SHIPPING.md",
+    "json_file": "title_46_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 47,
+    "title_name": "TITLE 47\u2014TELECOMMUNICATIONS",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_47_TITLE_47-TELECOMMUNICATIONS.md",
+    "json_file": "title_47_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 48,
+    "title_name": "TITLE 48\u2014TERRITORIES AND INSULAR POSSESSIONS",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_48_TITLE_48-TERRITORIES_AND_INSULAR_POSSESSIONS.md",
+    "json_file": "title_48_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 49,
+    "title_name": "TITLE 49\u2014TRANSPORTATION",
+    "structure_type": "Type 5: Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_49_TITLE_49-TRANSPORTATION.md",
+    "json_file": "title_49_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 50,
+    "title_name": "TITLE 50\u2014WAR AND NATIONAL DEFENSE",
+    "structure_type": "Type 2: Parts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_50_TITLE_50-WAR_AND_NATIONAL_DEFENSE.md",
+    "json_file": "title_50_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 51,
+    "title_name": "TITLE 51\u2014NATIONAL AND COMMERCIAL SPACE PROGRAMS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_51_TITLE_51-NATIONAL_AND_COMMERCIAL_SPACE_PROGRAMS.md",
+    "json_file": "title_51_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 52,
+    "title_name": "TITLE 52\u2014VOTING AND ELECTIONS",
+    "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_52_TITLE_52-VOTING_AND_ELECTIONS.md",
+    "json_file": "title_52_data.json",
+    "status": "success"
+  },
+  {
+    "title_num": 54,
+    "title_name": "TITLE 54\u2014NATIONAL PARK SERVICE AND RELATED PROGRAMS",
+    "structure_type": "Type 1: Chapters Only",
+    "report_file": "USA_Laws/Reports/Individual_Titles/Title_54_TITLE_54-NATIONAL_PARK_SERVICE_AND_RELATED_PROGRAMS.md",
+    "json_file": "title_54_data.json",
+    "status": "success"
+  }
+]

@@ -1,0 +1,722 @@
+{
+  "structure": {
+    "title_num": 34,
+    "title_name": "TITLE 34\u2014CRIME CONTROL AND LAW ENFORCEMENT",
+    "structure_type": "Type 4: Subtitles \u2192 Parts \u2192 Subparts \u2192 Chapters",
+    "section_range": "Sections 10101 - 60901",
+    "elements": {
+      "subtitles": [
+        "Subtitle I\u2014Comprehensive Acts",
+        "Subtitle II\u2014Protection of Children and Other Persons",
+        "Subtitle III\u2014Prevention of Particular Crimes",
+        "Subtitle IV\u2014Criminal Records and Information",
+        "Subtitle V\u2014Law Enforcement and Criminal Justice Personnel",
+        "Subtitle VI\u2014Other Crime Control and Law Enforcement Matters"
+      ],
+      "parts": [
+        "Part A\u2014Edward Byrne Memorial Justice Assistance Grant Program",
+        "Part B\u2014Discretionary Grants",
+        "Part C\u2014Administrative Provisions",
+        "Part A\u2014Death Benefits",
+        "Part B\u2014Educational Assistance to Dependents of Civilian Federal Law Enforcement Officers Killed or Disabled in Line of Duty",
+        "Part A\u2014Juvenile Justice and Delinquency Prevention Office",
+        "Part B\u2014Charles Grassley Juvenile Justice and Delinquency Prevention Program",
+        "Part C\u2014Juvenile Delinquency Prevention Block Grant Program",
+        "Part D\u2014Research; Evaluation; Technical Assistance; Training",
+        "Part E\u2014Developing, Testing, and Demonstrating Promising New Initiatives and Programs",
+        "Part F\u2014General and Administrative Provisions",
+        "Part A\u2014Basic Center Grant Program",
+        "Part B\u2014Transitional Living Grant Program",
+        "Part C\u2014National Communications System",
+        "Part D\u2014Coordinating, Training, Research, and Other Activities",
+        "Part E\u2014Sexual Abuse Prevention Program",
+        "Part F\u2014General Provisions",
+        "Part A\u2014Violent Offender Incarceration and Truth-in-Sentencing Incentive Grants",
+        "Part B\u2014Miscellaneous Provisions",
+        "Part A\u2014Ounce of Prevention Council",
+        "Part B\u2014Model Intensive Grant Programs",
+        "Part C\u2014Family and Community Endeavor Schools Grant Program",
+        "Part D\u2014Police Recruitment",
+        "Part E\u2014National Community Economic Partnership",
+        "Part F\u2014Community-Based Justice Grants for Prosecutors",
+        "Part G\u2014Family Unity Demonstration Project",
+        "Part H\u2014Prevention, Diagnosis, and Treatment of Tuberculosis in Correctional Institutions",
+        "Part I\u2014Gang Resistance Education and Training",
+        "Part A\u2014Safe Streets for Women",
+        "Part B\u2014Safe Homes for Women",
+        "Part C\u2014Civil Rights for Women",
+        "Part D\u2014Equal Justice for Women in Courts",
+        "Part E\u2014Violence Against Women Act Improvements",
+        "Part F\u2014National Stalker and Domestic Violence Reduction",
+        "Part G\u2014Training and Services To End Abuse Later in Life",
+        "Part H\u2014Domestic Violence Task Force",
+        "Part I\u2014Privacy Protections for Victims of Domestic Violence, Dating Violence, Sexual Violence, and Stalking",
+        "Part J\u2014Services, Education, Protection and Justice for Young Victims of Violence",
+        "Part K\u2014Strengthening America's Families by Preventing Violence Against Women and Children",
+        "Part L\u2014Addressing the Housing Needs of Victims of Domestic Violence, Dating Violence, Sexual Assault, and Stalking",
+        "Part M\u2014National Resource Center",
+        "Part N\u2014Sexual Assault Services",
+        "Part O\u2014Trauma-Informed, Victim-Centered Training for Law Enforcement",
+        "Part P\u2014Restorative Practices",
+        "Part A\u2014Police Corps",
+        "Part B\u2014Law Enforcement Scholarship Program",
+        "Part A\u2014DNA Identification",
+        "Part B\u2014Police Pattern or Practice",
+        "Part A\u2014Sex Offender Registration and Notification",
+        "Part B\u2014Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compliance With Registration and Notification Requirements and Protection of Children From Violent Predators",
+        "Part C\u2014Access to Information and Resources Needed To Ensure That Children Are Not Attacked or Abused",
+        "Part A\u2014Drug Treatment",
+        "Part B\u2014Mentoring",
+        "Part C\u2014Administration of Justice Reforms"
+      ],
+      "subparts": [
+        "subpart 1\u2014grants to public agencies",
+        "subpart 2\u2014general requirements",
+        "subpart 3\u2014grants to private entities",
+        "subpart 1\u2014community economic partnership investment funds",
+        "subpart 2\u2014emerging community development corporations",
+        "subpart 3\u2014miscellaneous provisions",
+        "subpart 1\u2014grants to states",
+        "subpart 2\u2014family unity demonstration project for federal prisoners",
+        "subpart 1\u2014safety for women in public transit",
+        "subpart 2\u2014assistance to victims of sexual assault",
+        "subpart 1\u2014confidentiality for abused persons",
+        "subpart 2\u2014data and research",
+        "subpart 3\u2014rural domestic violence and child abuse enforcement",
+        "subpart 4\u2014transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking",
+        "subpart 1\u2014education and training for judges and court personnel in state courts",
+        "subpart 2\u2014education and training for judges and court personnel in federal courts",
+        "subpart 1\u2014grant programs",
+        "subpart 2\u2014housing rights",
+        "subpart 1\u2014improving federal offender reentry",
+        "subpart 2\u2014reentry research"
+      ],
+      "chapters": [
+        "CHAPTER 101\u2014JUSTICE SYSTEM IMPROVEMENT",
+        "CHAPTER 111\u2014JUVENILE JUSTICE AND DELINQUENCY PREVENTION",
+        "CHAPTER 121\u2014VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+        "CHAPTER 201\u2014VICTIM RIGHTS, COMPENSATION, AND ASSISTANCE",
+        "CHAPTER 203\u2014VICTIMS OF CHILD ABUSE",
+        "CHAPTER 205\u2014AMBER ALERT",
+        "CHAPTER 207\u2014COMBATING DOMESTIC TRAFFICKING IN PERSONS",
+        "CHAPTER 209\u2014CHILD PROTECTION AND SAFETY",
+        "CHAPTER 211\u2014COMBATING CHILD EXPLOITATION",
+        "CHAPTER 213\u2014RAPE SURVIVOR CHILD CUSTODY",
+        "CHAPTER 215\u2014ADVANCED NOTIFICATION OF TRAVELING SEX OFFENDERS",
+        "CHAPTER 217\u2014ELDER ABUSE PREVENTION AND PROSECUTION",
+        "CHAPTER 219\u2014ASHANTI ALERT COMMUNICATIONS NETWORK",
+        "CHAPTER 301\u2014COMPUTER CRIMES AND INTELLECTUAL PROPERTY CRIMES",
+        "CHAPTER 303\u2014PRISON RAPE ELIMINATION",
+        "CHAPTER 305\u2014HATE CRIMES",
+        "CHAPTER 401\u2014CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS",
+        "CHAPTER 403\u2014CRIMINAL JUSTICE IDENTIFICATION, INFORMATION, AND COMMUNICATION",
+        "CHAPTER 405\u2014REPORTING OF UNIDENTIFIED AND MISSING PERSONS",
+        "CHAPTER 407\u2014DNA IDENTIFICATION",
+        "CHAPTER 409\u2014NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM",
+        "CHAPTER 411\u2014ACCESS TO CRIMINAL HISTORY AND IDENTIFICATION RECORDS",
+        "CHAPTER 413\u2014CRIME REPORTS AND STATISTICS",
+        "CHAPTER 415\u2014RESOURCE CENTERS, TASK FORCES, DATABASES, AND PROGRAMS",
+        "CHAPTER 501\u2014EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE",
+        "CHAPTER 503\u2014LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY",
+        "CHAPTER 505\u2014NATIONAL BLUE ALERT",
+        "CHAPTER 507\u2014LAW ENFORCEMENT SUICIDE DATA COLLECTION",
+        "CHAPTER 509\u2014CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORT COUNSELING",
+        "CHAPTER 601\u2014PRISONS",
+        "CHAPTER 603\u2014IMPROVING THE QUALITY OF REPRESENTATION IN STATE CAPITAL CASES",
+        "CHAPTER 605\u2014RECIDIVISM PREVENTION",
+        "CHAPTER 607\u2014PROJECT SAFE NEIGHBORHOODS BLOCK GRANT PROGRAM",
+        "CHAPTER 609\u2014HOMICIDE VICTIMS' FAMILIES' RIGHTS"
+      ]
+    },
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm"
+  },
+  "links": {
+    "title_num": 34,
+    "title_links": {
+      "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34.pdf",
+      "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm",
+      "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34/",
+      "mods": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title34/mods.xml",
+      "premis": "https://www.govinfo.gov/metadata/pkg/USCODE-2023-title34/premis.xml",
+      "zip": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34.zip"
+    },
+    "element_links": {
+      "subtitles": [
+        {
+          "name": "Subtitle I\u2014Comprehensive Acts",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle II\u2014Protection of Children and Other Persons",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle III\u2014Prevention of Particular Crimes",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle IV\u2014Criminal Records and Information",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleI/"
+          }
+        },
+        {
+          "name": "Subtitle V\u2014Law Enforcement and Criminal Justice Personnel",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleV/"
+          }
+        },
+        {
+          "name": "Subtitle VI\u2014Other Crime Control and Law Enforcement Matters",
+          "id": "V",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleV.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleV.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleV/"
+          }
+        }
+      ],
+      "parts": [
+        {
+          "name": "Part I\u2014Gang Resistance Education and Training",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-partI/"
+          }
+        },
+        {
+          "name": "Part I\u2014Privacy Protections for Victims of Domestic Violence, Dating Violence, Sexual Violence, and Stalking",
+          "id": "I",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-partI.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-partI.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-partI/"
+          }
+        }
+      ],
+      "subparts": [
+        {
+          "name": "subpart 1\u2014grants to public agencies",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014general requirements",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014grants to private entities",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014community economic partnership investment funds",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014emerging community development corporations",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014miscellaneous provisions",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014grants to states",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014family unity demonstration project for federal prisoners",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014safety for women in public transit",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014assistance to victims of sexual assault",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014confidentiality for abused persons",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014data and research",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 3\u2014rural domestic violence and child abuse enforcement",
+          "id": "3",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart3.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart3.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart3/"
+          }
+        },
+        {
+          "name": "subpart 4\u2014transitional housing assistance grants for victims of domestic violence, dating violence, sexual assault, or stalking",
+          "id": "4",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart4.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart4.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart4/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014education and training for judges and court personnel in state courts",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014education and training for judges and court personnel in federal courts",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014grant programs",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014housing rights",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        },
+        {
+          "name": "subpart 1\u2014improving federal offender reentry",
+          "id": "1",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart1.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart1.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart1/"
+          }
+        },
+        {
+          "name": "subpart 2\u2014reentry research",
+          "id": "2",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subpart2.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subpart2.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subpart2/"
+          }
+        }
+      ],
+      "chapters": [
+        {
+          "name": "CHAPTER 101\u2014JUSTICE SYSTEM IMPROVEMENT",
+          "id": "101",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter101.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter101.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter101/"
+          }
+        },
+        {
+          "name": "CHAPTER 111\u2014JUVENILE JUSTICE AND DELINQUENCY PREVENTION",
+          "id": "111",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter111.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter111.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter111/"
+          }
+        },
+        {
+          "name": "CHAPTER 121\u2014VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+          "id": "121",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter121.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter121.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter121/"
+          }
+        },
+        {
+          "name": "CHAPTER 201\u2014VICTIM RIGHTS, COMPENSATION, AND ASSISTANCE",
+          "id": "201",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter201.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter201.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter201/"
+          }
+        },
+        {
+          "name": "CHAPTER 203\u2014VICTIMS OF CHILD ABUSE",
+          "id": "203",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter203.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter203.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter203/"
+          }
+        },
+        {
+          "name": "CHAPTER 205\u2014AMBER ALERT",
+          "id": "205",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter205.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter205.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter205/"
+          }
+        },
+        {
+          "name": "CHAPTER 207\u2014COMBATING DOMESTIC TRAFFICKING IN PERSONS",
+          "id": "207",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter207.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter207.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter207/"
+          }
+        },
+        {
+          "name": "CHAPTER 209\u2014CHILD PROTECTION AND SAFETY",
+          "id": "209",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter209.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter209.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter209/"
+          }
+        },
+        {
+          "name": "CHAPTER 211\u2014COMBATING CHILD EXPLOITATION",
+          "id": "211",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter211.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter211.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter211/"
+          }
+        },
+        {
+          "name": "CHAPTER 213\u2014RAPE SURVIVOR CHILD CUSTODY",
+          "id": "213",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter213.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter213.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter213/"
+          }
+        },
+        {
+          "name": "CHAPTER 215\u2014ADVANCED NOTIFICATION OF TRAVELING SEX OFFENDERS",
+          "id": "215",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter215.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter215.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter215/"
+          }
+        },
+        {
+          "name": "CHAPTER 217\u2014ELDER ABUSE PREVENTION AND PROSECUTION",
+          "id": "217",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter217.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter217.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter217/"
+          }
+        },
+        {
+          "name": "CHAPTER 219\u2014ASHANTI ALERT COMMUNICATIONS NETWORK",
+          "id": "219",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter219.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter219.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter219/"
+          }
+        },
+        {
+          "name": "CHAPTER 301\u2014COMPUTER CRIMES AND INTELLECTUAL PROPERTY CRIMES",
+          "id": "301",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter301.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter301.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter301/"
+          }
+        },
+        {
+          "name": "CHAPTER 303\u2014PRISON RAPE ELIMINATION",
+          "id": "303",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter303.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter303.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter303/"
+          }
+        },
+        {
+          "name": "CHAPTER 305\u2014HATE CRIMES",
+          "id": "305",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter305.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter305.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter305/"
+          }
+        },
+        {
+          "name": "CHAPTER 401\u2014CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS",
+          "id": "401",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter401.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter401.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter401/"
+          }
+        },
+        {
+          "name": "CHAPTER 403\u2014CRIMINAL JUSTICE IDENTIFICATION, INFORMATION, AND COMMUNICATION",
+          "id": "403",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter403.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter403.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter403/"
+          }
+        },
+        {
+          "name": "CHAPTER 405\u2014REPORTING OF UNIDENTIFIED AND MISSING PERSONS",
+          "id": "405",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter405.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter405.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter405/"
+          }
+        },
+        {
+          "name": "CHAPTER 407\u2014DNA IDENTIFICATION",
+          "id": "407",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter407.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter407.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter407/"
+          }
+        },
+        {
+          "name": "CHAPTER 409\u2014NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM",
+          "id": "409",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter409.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter409.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter409/"
+          }
+        },
+        {
+          "name": "CHAPTER 411\u2014ACCESS TO CRIMINAL HISTORY AND IDENTIFICATION RECORDS",
+          "id": "411",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter411.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter411.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter411/"
+          }
+        },
+        {
+          "name": "CHAPTER 413\u2014CRIME REPORTS AND STATISTICS",
+          "id": "413",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter413.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter413.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter413/"
+          }
+        },
+        {
+          "name": "CHAPTER 415\u2014RESOURCE CENTERS, TASK FORCES, DATABASES, AND PROGRAMS",
+          "id": "415",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter415.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter415.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter415/"
+          }
+        },
+        {
+          "name": "CHAPTER 501\u2014EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE",
+          "id": "501",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter501.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter501.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter501/"
+          }
+        },
+        {
+          "name": "CHAPTER 503\u2014LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY",
+          "id": "503",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter503.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter503.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter503/"
+          }
+        },
+        {
+          "name": "CHAPTER 505\u2014NATIONAL BLUE ALERT",
+          "id": "505",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter505.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter505.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter505/"
+          }
+        },
+        {
+          "name": "CHAPTER 507\u2014LAW ENFORCEMENT SUICIDE DATA COLLECTION",
+          "id": "507",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter507.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter507.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter507/"
+          }
+        },
+        {
+          "name": "CHAPTER 509\u2014CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORT COUNSELING",
+          "id": "509",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter509.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter509.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter509/"
+          }
+        },
+        {
+          "name": "CHAPTER 601\u2014PRISONS",
+          "id": "601",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter601.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter601.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter601/"
+          }
+        },
+        {
+          "name": "CHAPTER 603\u2014IMPROVING THE QUALITY OF REPRESENTATION IN STATE CAPITAL CASES",
+          "id": "603",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter603.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter603.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter603/"
+          }
+        },
+        {
+          "name": "CHAPTER 605\u2014RECIDIVISM PREVENTION",
+          "id": "605",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter605.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter605.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter605/"
+          }
+        },
+        {
+          "name": "CHAPTER 607\u2014PROJECT SAFE NEIGHBORHOODS BLOCK GRANT PROGRAM",
+          "id": "607",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter607.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter607.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter607/"
+          }
+        },
+        {
+          "name": "CHAPTER 609\u2014HOMICIDE VICTIMS' FAMILIES' RIGHTS",
+          "id": "609",
+          "links": {
+            "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-chapter609.pdf",
+            "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-chapter609.htm",
+            "details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-chapter609/"
+          }
+        }
+      ]
+    },
+    "special_documents": {
+      "frontmatter": [],
+      "table_of_contents": [
+        {
+          "text": "Complete Table of Contents",
+          "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34.htm"
+        }
+      ],
+      "appendices": []
+    }
+  }
+}
