@@ -1,0 +1,54 @@
+{
+  "subtitle_number": "II",
+  "subtitle_name": "Protection of Children and Other Persons",
+  "title_number": 34,
+  "title_name": "CRIME_CONTROL_AND_LAW_ENFORCEMENT",
+  "chapters_count": 10,
+  "chapters": [
+    {
+      "number": "201",
+      "name": "Victim Rights, Compensation, and Assistance"
+    },
+    {
+      "number": "203",
+      "name": "Victims of Child Abuse"
+    },
+    {
+      "number": "205",
+      "name": "AMBER Alert"
+    },
+    {
+      "number": "207",
+      "name": "Combating Domestic Trafficking in Persons"
+    },
+    {
+      "number": "209",
+      "name": "Child Protection and Safety"
+    },
+    {
+      "number": "211",
+      "name": "Combating Child Exploitation"
+    },
+    {
+      "number": "213",
+      "name": "Rape Survivor Child Custody"
+    },
+    {
+      "number": "215",
+      "name": "Advanced Notification of Traveling Sex Offenders"
+    },
+    {
+      "number": "217",
+      "name": "Elder Abuse Prevention and Prosecution"
+    },
+    {
+      "number": "219",
+      "name": "Ashanti Alert Communications Network"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleII/"
+  }
+}

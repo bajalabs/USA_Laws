@@ -1,0 +1,26 @@
+{
+  "subtitle_number": "III",
+  "subtitle_name": "Prevention of Particular Crimes",
+  "title_number": 34,
+  "title_name": "CRIME_CONTROL_AND_LAW_ENFORCEMENT",
+  "chapters_count": 3,
+  "chapters": [
+    {
+      "number": "301",
+      "name": "Computer Crimes and Intellectual Property Crimes"
+    },
+    {
+      "number": "303",
+      "name": "Prison Rape Elimination"
+    },
+    {
+      "number": "305",
+      "name": "Hate Crimes"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleIII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleIII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleIII/"
+  }
+}

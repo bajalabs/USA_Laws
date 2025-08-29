@@ -1,0 +1,46 @@
+{
+  "subtitle_number": "IV",
+  "subtitle_name": "Criminal Records and Information",
+  "title_number": 34,
+  "title_name": "CRIME_CONTROL_AND_LAW_ENFORCEMENT",
+  "chapters_count": 8,
+  "chapters": [
+    {
+      "number": "401",
+      "name": "Child Abuse Crime Information and Background Checks"
+    },
+    {
+      "number": "403",
+      "name": "Criminal Justice Identification, Information, and Communication"
+    },
+    {
+      "number": "405",
+      "name": "Reporting of Unidentified and Missing Persons"
+    },
+    {
+      "number": "407",
+      "name": "DNA Identification"
+    },
+    {
+      "number": "409",
+      "name": "National Instant Criminal Background Check System"
+    },
+    {
+      "number": "411",
+      "name": "Access to Criminal History and Identification Records"
+    },
+    {
+      "number": "413",
+      "name": "Crime Reports and Statistics"
+    },
+    {
+      "number": "415",
+      "name": "Resource Centers, Task Forces, Databases, and Programs"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleIV.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleIV.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleIV/"
+  }
+}

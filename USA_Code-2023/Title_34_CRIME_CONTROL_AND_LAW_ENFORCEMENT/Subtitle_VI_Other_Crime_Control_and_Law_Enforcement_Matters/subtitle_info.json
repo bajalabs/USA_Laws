@@ -1,0 +1,34 @@
+{
+  "subtitle_number": "VI",
+  "subtitle_name": "Other Crime Control and Law Enforcement Matters",
+  "title_number": 34,
+  "title_name": "CRIME_CONTROL_AND_LAW_ENFORCEMENT",
+  "chapters_count": 5,
+  "chapters": [
+    {
+      "number": "601",
+      "name": "Prisons"
+    },
+    {
+      "number": "603",
+      "name": "Improving the Quality of Representation in State Capital Cases"
+    },
+    {
+      "number": "605",
+      "name": "Recidivism Prevention"
+    },
+    {
+      "number": "607",
+      "name": "Project Safe Neighborhoods Block Grant Program"
+    },
+    {
+      "number": "609",
+      "name": "Homicide Victims' Families' Rights"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleVI.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleVI.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleVI/"
+  }
+}

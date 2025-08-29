@@ -1,0 +1,34 @@
+{
+  "subtitle_number": "V",
+  "subtitle_name": "Law Enforcement and Criminal Justice Personnel",
+  "title_number": 34,
+  "title_name": "CRIME_CONTROL_AND_LAW_ENFORCEMENT",
+  "chapters_count": 5,
+  "chapters": [
+    {
+      "number": "501",
+      "name": "Emergency Federal Law Enforcement Assistance"
+    },
+    {
+      "number": "503",
+      "name": "Law Enforcement Congressional Badge of Bravery"
+    },
+    {
+      "number": "505",
+      "name": "National Blue Alert"
+    },
+    {
+      "number": "507",
+      "name": "Law Enforcement Suicide Data Collection"
+    },
+    {
+      "number": "509",
+      "name": "Confidentiality Opportunities for Peer Support Counseling"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleV.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleV.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleV/"
+  }
+}

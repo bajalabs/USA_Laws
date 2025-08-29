@@ -1,0 +1,26 @@
+{
+  "subtitle_number": "I",
+  "subtitle_name": "Comprehensive Acts",
+  "title_number": 34,
+  "title_name": "CRIME_CONTROL_AND_LAW_ENFORCEMENT",
+  "chapters_count": 3,
+  "chapters": [
+    {
+      "number": "101",
+      "name": "Justice System Improvement"
+    },
+    {
+      "number": "111",
+      "name": "Juvenile Justice and Delinquency Prevention"
+    },
+    {
+      "number": "121",
+      "name": "Violent Crime Control and Law Enforcement"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/pdf/USCODE-2023-title34-subtitleI.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title34/html/USCODE-2023-title34-subtitleI.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title34-subtitleI/"
+  }
+}
