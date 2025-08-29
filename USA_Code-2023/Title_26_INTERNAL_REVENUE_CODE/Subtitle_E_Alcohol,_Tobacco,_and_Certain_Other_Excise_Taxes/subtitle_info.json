@@ -1,0 +1,34 @@
+{
+  "subtitle_number": "E",
+  "subtitle_name": "Subtitle E\u2014Alcohol, Tobacco, and Certain Other Excise Taxes",
+  "title_number": 26,
+  "title_name": "INTERNAL_REVENUE_CODE",
+  "chapters_count": 5,
+  "chapters": [
+    {
+      "number": "51",
+      "name": "DISTILLED SPIRITS, WINES, AND BEER"
+    },
+    {
+      "number": "52",
+      "name": "TOBACCO PRODUCTS AND CIGARETTE PAPERS AND TUBES"
+    },
+    {
+      "number": "53",
+      "name": "MACHINE GUNS, DESTRUCTIVE DEVICES, AND CERTAIN OTHER FIREARMS"
+    },
+    {
+      "number": "54",
+      "name": "GREENMAIL"
+    },
+    {
+      "number": "55",
+      "name": "STRUCTURED SETTLEMENT FACTORING TRANSACTIONS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleE.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleE.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleE/"
+  }
+}

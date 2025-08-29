@@ -1,0 +1,98 @@
+{
+  "subtitle_number": "D",
+  "subtitle_name": "Subtitle D\u2014Miscellaneous Excise Taxes",
+  "title_number": 26,
+  "title_name": "INTERNAL_REVENUE_CODE",
+  "chapters_count": 21,
+  "chapters": [
+    {
+      "number": "31",
+      "name": "RETAIL EXCISE TAXES"
+    },
+    {
+      "number": "32",
+      "name": "MANUFACTURERS EXCISE TAXES"
+    },
+    {
+      "number": "33",
+      "name": "FACILITIES AND SERVICES"
+    },
+    {
+      "number": "34",
+      "name": "TAXES ON CERTAIN INSURANCE POLICIES"
+    },
+    {
+      "number": "35",
+      "name": "TAXES ON WAGERING"
+    },
+    {
+      "number": "36",
+      "name": "CERTAIN OTHER EXCISE TAXES"
+    },
+    {
+      "number": "37",
+      "name": "REPURCHASE OF CORPORATE STOCK"
+    },
+    {
+      "number": "38",
+      "name": "REPEALED]\u00a01"
+    },
+    {
+      "number": "38",
+      "name": "ENVIRONMENTAL TAXES"
+    },
+    {
+      "number": "39",
+      "name": "REGISTRATION-REQUIRED OBLIGATIONS"
+    },
+    {
+      "number": "40",
+      "name": "GENERAL PROVISIONS RELATING TO OCCUPATIONAL TAXES"
+    },
+    {
+      "number": "41",
+      "name": "PUBLIC CHARITIES"
+    },
+    {
+      "number": "42",
+      "name": "PRIVATE FOUNDATIONS; AND CERTAIN OTHER TAX-EXEMPT ORGANIZATIONS"
+    },
+    {
+      "number": "43",
+      "name": "QUALIFIED PENSION, ETC., PLANS"
+    },
+    {
+      "number": "44",
+      "name": "QUALIFIED INVESTMENT ENTITIES"
+    },
+    {
+      "number": "45",
+      "name": "PROVISIONS RELATING TO EXPATRIATED ENTITIES"
+    },
+    {
+      "number": "46",
+      "name": "GOLDEN PARACHUTE PAYMENTS"
+    },
+    {
+      "number": "47",
+      "name": "CERTAIN GROUP HEALTH PLANS"
+    },
+    {
+      "number": "48",
+      "name": "MAINTENANCE OF MINIMUM ESSENTIAL COVERAGE"
+    },
+    {
+      "number": "49",
+      "name": "COSMETIC SERVICES"
+    },
+    {
+      "number": "50",
+      "name": "FOREIGN PROCUREMENT"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleD.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleD.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleD/"
+  }
+}

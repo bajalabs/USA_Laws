@@ -1,0 +1,94 @@
+{
+  "subtitle_number": "F",
+  "subtitle_name": "Subtitle F\u2014Procedure and Administration",
+  "title_number": 26,
+  "title_name": "INTERNAL_REVENUE_CODE",
+  "chapters_count": 20,
+  "chapters": [
+    {
+      "number": "61",
+      "name": "INFORMATION AND RETURNS"
+    },
+    {
+      "number": "62",
+      "name": "TIME AND PLACE FOR PAYING TAX"
+    },
+    {
+      "number": "63",
+      "name": "ASSESSMENT"
+    },
+    {
+      "number": "64",
+      "name": "COLLECTION"
+    },
+    {
+      "number": "65",
+      "name": "ABATEMENTS, CREDITS, AND REFUNDS"
+    },
+    {
+      "number": "66",
+      "name": "LIMITATIONS"
+    },
+    {
+      "number": "67",
+      "name": "INTEREST"
+    },
+    {
+      "number": "68",
+      "name": "ADDITIONS TO THE TAX, ADDITIONAL AMOUNTS, AND ASSESSABLE PENALTIES"
+    },
+    {
+      "number": "69",
+      "name": "GENERAL PROVISIONS RELATING TO STAMPS"
+    },
+    {
+      "number": "70",
+      "name": "JEOPARDY, RECEIVERSHIPS, ETC."
+    },
+    {
+      "number": "71",
+      "name": "TRANSFEREES AND FIDUCIARIES"
+    },
+    {
+      "number": "72",
+      "name": "LICENSING AND REGISTRATION"
+    },
+    {
+      "number": "73",
+      "name": "BONDS"
+    },
+    {
+      "number": "74",
+      "name": "CLOSING AGREEMENTS AND COMPROMISES"
+    },
+    {
+      "number": "75",
+      "name": "CRIMES, OTHER OFFENSES, AND FORFEITURES"
+    },
+    {
+      "number": "76",
+      "name": "JUDICIAL PROCEEDINGS"
+    },
+    {
+      "number": "77",
+      "name": "MISCELLANEOUS PROVISIONS"
+    },
+    {
+      "number": "78",
+      "name": "DISCOVERY OF LIABILITY AND ENFORCEMENT OF TITLE"
+    },
+    {
+      "number": "79",
+      "name": "DEFINITIONS"
+    },
+    {
+      "number": "80",
+      "name": "GENERAL RULES"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleF.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleF.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleF/"
+  }
+}

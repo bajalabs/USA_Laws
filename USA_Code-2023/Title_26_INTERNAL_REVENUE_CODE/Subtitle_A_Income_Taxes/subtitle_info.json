@@ -1,0 +1,38 @@
+{
+  "subtitle_number": "A",
+  "subtitle_name": "Subtitle A\u2014Income Taxes",
+  "title_number": 26,
+  "title_name": "INTERNAL_REVENUE_CODE",
+  "chapters_count": 6,
+  "chapters": [
+    {
+      "number": "1",
+      "name": "NORMAL TAXES AND SURTAXES"
+    },
+    {
+      "number": "2",
+      "name": "TAX ON SELF-EMPLOYMENT INCOME"
+    },
+    {
+      "number": "3",
+      "name": "WITHHOLDING OF TAX ON NONRESIDENT ALIENS AND FOREIGN CORPORATIONS"
+    },
+    {
+      "number": "4",
+      "name": "TAXES TO ENFORCE REPORTING ON CERTAIN FOREIGN ACCOUNTS"
+    },
+    {
+      "number": "5",
+      "name": "REPEALED]"
+    },
+    {
+      "number": "6",
+      "name": "CONSOLIDATED RETURNS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleA.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleA.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleA/"
+  }
+}

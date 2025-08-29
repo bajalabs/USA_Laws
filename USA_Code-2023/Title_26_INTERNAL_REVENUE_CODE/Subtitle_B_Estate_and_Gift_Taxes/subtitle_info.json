@@ -1,0 +1,34 @@
+{
+  "subtitle_number": "B",
+  "subtitle_name": "Subtitle B\u2014Estate and Gift Taxes",
+  "title_number": 26,
+  "title_name": "INTERNAL_REVENUE_CODE",
+  "chapters_count": 5,
+  "chapters": [
+    {
+      "number": "11",
+      "name": "ESTATE TAX"
+    },
+    {
+      "number": "12",
+      "name": "GIFT TAX"
+    },
+    {
+      "number": "13",
+      "name": "TAX ON GENERATION-SKIPPING TRANSFERS"
+    },
+    {
+      "number": "14",
+      "name": "SPECIAL VALUATION RULES"
+    },
+    {
+      "number": "15",
+      "name": "GIFTS AND BEQUESTS FROM EXPATRIATES"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleB.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleB.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleB/"
+  }
+}

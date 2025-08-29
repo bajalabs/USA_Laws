@@ -1,0 +1,22 @@
+{
+  "subtitle_number": "G",
+  "subtitle_name": "Subtitle G\u2014The Joint Committee on Taxation",
+  "title_number": 26,
+  "title_name": "INTERNAL_REVENUE_CODE",
+  "chapters_count": 2,
+  "chapters": [
+    {
+      "number": "91",
+      "name": "ORGANIZATION AND MEMBERSHIP OF THE JOINT COMMITTEE"
+    },
+    {
+      "number": "92",
+      "name": "POWERS AND DUTIES OF THE JOINT COMMITTEE"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/pdf/USCODE-2023-title26-subtitleG.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title26/html/USCODE-2023-title26-subtitleG.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title26-subtitleG/"
+  }
+}
