@@ -1,0 +1,34 @@
+{
+  "subtitle_number": "II",
+  "subtitle_name": "Voting Assistance and Election Administration",
+  "title_number": 52,
+  "title_name": "VOTING_AND_ELECTIONS",
+  "chapters_count": 5,
+  "chapters": [
+    {
+      "number": "201",
+      "name": "Voting Accessibility for the Elderly and Handicapped"
+    },
+    {
+      "number": "203",
+      "name": "Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office"
+    },
+    {
+      "number": "205",
+      "name": "National Voter Registration"
+    },
+    {
+      "number": "207",
+      "name": "Federal Election Records"
+    },
+    {
+      "number": "209",
+      "name": "Election Administration Improvement"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subtitleII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subtitleII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subtitleII/"
+  }
+}

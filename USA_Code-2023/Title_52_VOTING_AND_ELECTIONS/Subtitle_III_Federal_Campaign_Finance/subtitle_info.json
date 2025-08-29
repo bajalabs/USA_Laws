@@ -1,0 +1,18 @@
+{
+  "subtitle_number": "III",
+  "subtitle_name": "Federal Campaign Finance",
+  "title_number": 52,
+  "title_name": "VOTING_AND_ELECTIONS",
+  "chapters_count": 1,
+  "chapters": [
+    {
+      "number": "301",
+      "name": "Federal Election Campaigns"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/pdf/USCODE-2023-title52-subtitleIII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title52/html/USCODE-2023-title52-subtitleIII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title52-subtitleIII/"
+  }
+}
