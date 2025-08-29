@@ -1,0 +1,46 @@
+{
+  "subtitle_number": "III",
+  "subtitle_name": "Administrative Provisions",
+  "title_number": 51,
+  "title_name": "NATIONAL_AND_COMMERCIAL_SPACE_PROGRAMS",
+  "chapters_count": 8,
+  "chapters": [
+    {
+      "number": "301",
+      "name": "APPROPRIATIONS, BUDGETS, AND ACCOUNTING"
+    },
+    {
+      "number": "303",
+      "name": "CONTRACTING AND PROCUREMENT"
+    },
+    {
+      "number": "305",
+      "name": "MANAGEMENT AND REVIEW"
+    },
+    {
+      "number": "307",
+      "name": "INTERNATIONAL COOPERATION AND COMPETITION"
+    },
+    {
+      "number": "309",
+      "name": "AWARDS"
+    },
+    {
+      "number": "311",
+      "name": "SAFETY"
+    },
+    {
+      "number": "313",
+      "name": "HEALTHCARE"
+    },
+    {
+      "number": "315",
+      "name": "MISCELLANEOUS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleIII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleIII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleIII/"
+  }
+}

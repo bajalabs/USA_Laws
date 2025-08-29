@@ -1,0 +1,30 @@
+{
+  "subtitle_number": "VI",
+  "subtitle_name": "Earth Observations",
+  "title_number": 51,
+  "title_name": "NATIONAL_AND_COMMERCIAL_SPACE_PROGRAMS",
+  "chapters_count": 4,
+  "chapters": [
+    {
+      "number": "601",
+      "name": "LAND REMOTE SENSING POLICY"
+    },
+    {
+      "number": "603",
+      "name": "REMOTE SENSING"
+    },
+    {
+      "number": "605",
+      "name": "EARTH SCIENCE"
+    },
+    {
+      "number": "606",
+      "name": "SPACE WEATHER"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleVI.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleVI.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleVI/"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "subtitle_number": "I",
+  "subtitle_name": "General",
+  "title_number": 51,
+  "title_name": "NATIONAL_AND_COMMERCIAL_SPACE_PROGRAMS",
+  "chapters_count": 1,
+  "chapters": [
+    {
+      "number": "101",
+      "name": "DEFINITIONS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleI.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleI.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleI/"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "subtitle_number": "VII",
+  "subtitle_name": "Access to Space",
+  "title_number": 51,
+  "title_name": "NATIONAL_AND_COMMERCIAL_SPACE_PROGRAMS",
+  "chapters_count": 7,
+  "chapters": [
+    {
+      "number": "701",
+      "name": "USE OF SPACE LAUNCH SYSTEM OR ALTERNATIVES"
+    },
+    {
+      "number": "703",
+      "name": "REPEALED]"
+    },
+    {
+      "number": "705",
+      "name": "EXPLORATION INITIATIVES"
+    },
+    {
+      "number": "707",
+      "name": "HUMAN SPACE FLIGHT INDEPENDENT INVESTIGATION COMMISSION"
+    },
+    {
+      "number": "709",
+      "name": "INTERNATIONAL SPACE STATION"
+    },
+    {
+      "number": "711",
+      "name": "NEAR-EARTH OBJECTS"
+    },
+    {
+      "number": "713",
+      "name": "COOPERATION FOR SAFETY AMONG SPACEFARING NATIONS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/pdf/USCODE-2023-title51-subtitleVII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title51/html/USCODE-2023-title51-subtitleVII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title51-subtitleVII/"
+  }
+}
