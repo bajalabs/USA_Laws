@@ -1,0 +1,38 @@
+{
+  "subtitle_number": "I",
+  "subtitle_name": "ESTABLISHMENT, POWERS, DUTIES, AND ADMINISTRATION",
+  "title_number": 14,
+  "title_name": "COAST_GUARD",
+  "chapters_count": 6,
+  "chapters": [
+    {
+      "number": "1",
+      "name": "ESTABLISHMENT AND DUTIES"
+    },
+    {
+      "number": "3",
+      "name": "COMPOSITION AND ORGANIZATION"
+    },
+    {
+      "number": "5",
+      "name": "FUNCTIONS AND POWERS"
+    },
+    {
+      "number": "7",
+      "name": "COOPERATION"
+    },
+    {
+      "number": "9",
+      "name": "ADMINISTRATION"
+    },
+    {
+      "number": "11",
+      "name": "ACQUISITIONS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-subtitleI.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-subtitleI.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-subtitleI/"
+  }
+}

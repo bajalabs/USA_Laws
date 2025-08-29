@@ -1,0 +1,22 @@
+{
+  "subtitle_number": "IV",
+  "subtitle_name": "COAST GUARD AUTHORIZATIONS AND REPORTS TO CONGRESS",
+  "title_number": 14,
+  "title_name": "COAST_GUARD",
+  "chapters_count": 2,
+  "chapters": [
+    {
+      "number": "49",
+      "name": "AUTHORIZATIONS"
+    },
+    {
+      "number": "51",
+      "name": "REPORTS"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-subtitleIV.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-subtitleIV.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-subtitleIV/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "subtitle_number": "II",
+  "subtitle_name": "PERSONNEL",
+  "title_number": 14,
+  "title_name": "COAST_GUARD",
+  "chapters_count": 6,
+  "chapters": [
+    {
+      "number": "19",
+      "name": "COAST GUARD ACADEMY"
+    },
+    {
+      "number": "21",
+      "name": "PERSONNEL; OFFICERS"
+    },
+    {
+      "number": "23",
+      "name": "PERSONNEL; ENLISTED"
+    },
+    {
+      "number": "25",
+      "name": "PERSONNEL; GENERAL PROVISIONS"
+    },
+    {
+      "number": "27",
+      "name": "PAY, ALLOWANCES, AWARDS, AND OTHER RIGHTS AND BENEFITS"
+    },
+    {
+      "number": "29",
+      "name": "COAST GUARD FAMILY SUPPORT, CHILD CARE, AND HOUSING"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-subtitleII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-subtitleII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-subtitleII/"
+  }
+}

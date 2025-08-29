@@ -1,0 +1,26 @@
+{
+  "subtitle_number": "III",
+  "subtitle_name": "COAST GUARD RESERVE AND AUXILIARY",
+  "title_number": 14,
+  "title_name": "COAST_GUARD",
+  "chapters_count": 3,
+  "chapters": [
+    {
+      "number": "37",
+      "name": "COAST GUARD RESERVE"
+    },
+    {
+      "number": "39",
+      "name": "COAST GUARD AUXILIARY"
+    },
+    {
+      "number": "41",
+      "name": "GENERAL PROVISIONS FOR COAST GUARD RESERVE AND AUXILIARY"
+    }
+  ],
+  "links": {
+    "subtitle_pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/pdf/USCODE-2023-title14-subtitleIII.pdf",
+    "subtitle_html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title14/html/USCODE-2023-title14-subtitleIII.htm",
+    "subtitle_details": "https://www.govinfo.gov/app/details/USCODE-2023-title14-subtitleIII/"
+  }
+}
