@@ -1,0 +1,15 @@
+{
+  "title_num": 50,
+  "chapter_num": 3,
+  "chapter_name": "CHAPTER 3\u2014ALIEN ENEMIES",
+  "urls": {
+    "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/pdf/USCODE-2023-title50-chapter3.pdf",
+    "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chapter3.htm",
+    "details": "https://www.govinfo.gov/app/details/USCODE-2023-title50-chapter3/"
+  },
+  "files": {
+    "pdf": "title50-chapter3.pdf",
+    "html": "title50-chapter3.html",
+    "details": "title50-chapter3-details.html"
+  }
+}

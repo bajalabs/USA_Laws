@@ -1,0 +1,15 @@
+{
+  "title_num": 4,
+  "chapter_num": 4,
+  "chapter_name": "CHAPTER 4\u2014THE STATES",
+  "urls": {
+    "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/pdf/USCODE-2023-title4-chapter4.pdf",
+    "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/html/USCODE-2023-title4-chapter4.htm",
+    "details": "https://www.govinfo.gov/app/details/USCODE-2023-title4-chapter4/"
+  },
+  "files": {
+    "pdf": "title4-chapter4.pdf",
+    "html": "title4-chapter4.html",
+    "details": "title4-chapter4-details.html"
+  }
+}

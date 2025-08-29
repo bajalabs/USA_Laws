@@ -1,0 +1,15 @@
+{
+  "title_num": 23,
+  "chapter_num": 1,
+  "chapter_name": "CHAPTER 1\u2014FEDERAL-AID HIGHWAYS",
+  "urls": {
+    "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/pdf/USCODE-2023-title23-chapter1.pdf",
+    "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title23/html/USCODE-2023-title23-chapter1.htm",
+    "details": "https://www.govinfo.gov/app/details/USCODE-2023-title23-chapter1/"
+  },
+  "files": {
+    "pdf": "title23-chapter1.pdf",
+    "html": "title23-chapter1.html",
+    "details": "title23-chapter1-details.html"
+  }
+}

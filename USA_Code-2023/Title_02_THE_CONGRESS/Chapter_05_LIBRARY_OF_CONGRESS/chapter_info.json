@@ -1,0 +1,15 @@
+{
+  "title_num": 2,
+  "chapter_num": 5,
+  "chapter_name": "CHAPTER 5\u2014LIBRARY OF CONGRESS",
+  "urls": {
+    "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/pdf/USCODE-2023-title2-chapter5.pdf",
+    "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chapter5.htm",
+    "details": "https://www.govinfo.gov/app/details/USCODE-2023-title2-chapter5/"
+  },
+  "files": {
+    "pdf": "title2-chapter5.pdf",
+    "html": "title2-chapter5.html",
+    "details": "title2-chapter5-details.html"
+  }
+}

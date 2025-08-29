@@ -1,0 +1,15 @@
+{
+  "title_num": 4,
+  "chapter_num": 1,
+  "chapter_name": "CHAPTER 1\u2014THE FLAG",
+  "urls": {
+    "pdf": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/pdf/USCODE-2023-title4-chapter1.pdf",
+    "html": "https://www.govinfo.gov/content/pkg/USCODE-2023-title4/html/USCODE-2023-title4-chapter1.htm",
+    "details": "https://www.govinfo.gov/app/details/USCODE-2023-title4-chapter1/"
+  },
+  "files": {
+    "pdf": "title4-chapter1.pdf",
+    "html": "title4-chapter1.html",
+    "details": "title4-chapter1-details.html"
+  }
+}

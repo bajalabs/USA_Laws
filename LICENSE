@@ -1,0 +1,64 @@
+MIT License
+
+Copyright (c) 2024 United States Code Database Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Legal Disclaimer
+
+This project contains legal documents sourced from the official United States
+Government Publishing Office (GPO) through GovInfo.gov. These documents are
+public domain materials of the United States federal government.
+
+The original legal documents remain the property of the United States government
+and are subject to their terms of use. This project provides tools and 
+infrastructure for accessing, converting, and analyzing these public domain
+legal documents.
+
+Users should verify the accuracy and currency of legal information with official
+sources before making any legal decisions based on this data.
+
+## Data Attribution
+
+Legal documents in this repository are sourced from:
+- **Source**: U.S. Government Publishing Office (GPO)
+- **Website**: https://www.govinfo.gov/app/collection/uscode
+- **Format**: USLM (United States Legislative Markup) XML
+- **License**: Public Domain (U.S. Federal Government)
+- **Last Updated**: January 2024
+
+## Official Sources
+
+For official, authoritative versions of the United States Code, please refer to:
+- **Office of the Law Revision Counsel**: https://uscode.house.gov/
+- **GovInfo.gov**: https://www.govinfo.gov/app/collection/uscode
+- **Legal Information Institute**: https://www.law.cornell.edu/uscode
+
+## Third-Party Tools
+
+This project uses various open-source tools and libraries:
+- **curl**: Data download (MIT-style license)
+- **jq**: JSON processing (MIT license)
+- **xmllint**: XML parsing (MIT license)
+- **pandoc**: Document processing (GPL v2+)
+- **bash**: Scripting environment (GPL v3+)
+
+Please refer to individual tool licenses for their specific terms.
